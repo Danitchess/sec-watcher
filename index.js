@@ -137,6 +137,11 @@ Extrait :
 // ---- Email digest via Brevo ----
 async function sendEmail(results) {
   if (!BREVO_API_KEY || !EMAIL_TO || !EMAIL_FROM) return;
+  // EMAIL_TO peut contenir plusieurs adresses separees par des virgules.
+  const recipients = EMAIL_TO.split(",")
+    .map((e) => e.trim())
+    .filter(Boolean)
+    .map((email) => ({ email }));
   const rows = results
     .map(
       (r) =>
@@ -156,7 +161,7 @@ async function sendEmail(results) {
     headers: { "Content-Type": "application/json", "api-key": BREVO_API_KEY },
     body: JSON.stringify({
       sender: { name: "SEC Watcher", email: EMAIL_FROM },
-      to: [{ email: EMAIL_TO }],
+      to: recipients,
       subject: `SEC Watcher — ${results.length} alerte(s)`,
       htmlContent: html,
     }),
