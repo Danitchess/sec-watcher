@@ -22,6 +22,16 @@ const {
 const FORMS_WATCHED = ["8-K"];
 // Combien de depots on analyse au max par passage (budget LLM).
 const MAX_ANALYZE = Number(process.env.MAX_ANALYZE || 20);
+// Quels sentiments declenchent un email. Defaut : positif uniquement.
+// Mets "positif,negatif" pour les deux, ou "" (vide) pour tout recevoir.
+const NOTIFY_SENTIMENT = new Set(
+  (process.env.NOTIFY_SENTIMENT ?? "positif")
+    .split(",")
+    .map((s) => s.trim().toLowerCase())
+    .filter(Boolean)
+);
+// Score minimum pour declencher un email (0 = pas de seuil). Defaut : 75.
+const NOTIFY_MIN_SCORE = Number(process.env.NOTIFY_MIN_SCORE ?? 75);
 // Combien de resultats on garde dans l'historique du site.
 const HISTORY_SIZE = 200;
 
@@ -268,9 +278,18 @@ async function main() {
   history = [...results, ...history].slice(0, HISTORY_SIZE);
   await fs.writeFile("results.json", JSON.stringify(history, null, 2));
   await buildSite(history);
-  if (results.length) await sendEmail(results);
 
-  console.log(`Termine. ${results.length} analyse(s), ${fresh.length} nouveaux au total.`);
+  // Email : sentiment choisi (defaut positif) ET score suffisant (defaut 75).
+  const toEmail = results.filter((r) => {
+    const labelOk = NOTIFY_SENTIMENT.size === 0 || NOTIFY_SENTIMENT.has(r.sentiment.toLowerCase());
+    const scoreOk = Number(r.score) >= NOTIFY_MIN_SCORE;
+    return labelOk && scoreOk;
+  });
+  if (toEmail.length) await sendEmail(toEmail);
+
+  console.log(
+    `Termine. ${results.length} analyse(s), ${toEmail.length} email(s), ${fresh.length} nouveaux au total.`
+  );
 }
 
 main();
