@@ -1,0 +1,42 @@
+name: SEC Watcher
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # toutes les 30 min (UTC). Voir README.
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sec-watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Lancer le watcher
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          LLM_API_URL: ${{ secrets.LLM_API_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          MAX_ANALYZE: "20"
+        run: node index.js
+
+      - name: Sauvegarder etat + resultats + site
+        run: |
+          git config user.name "sec-watcher-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json results.json docs/index.html
+          git diff --staged --quiet || git commit -m "update [skip ci]"
+          git push
