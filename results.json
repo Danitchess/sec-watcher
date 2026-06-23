@@ -1,5 +1,50 @@
 [
   {
+    "company": "Carnival Corp Ltd.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Carnival Corp Ltd annonce des résultats trimestriels records avec une augmentation de 20% de son bénéfice net ajusté",
+    "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000086/a20262qearningsrelease8-k.htm",
+    "date": "2026-06-23 09:16"
+  },
+  {
+    "company": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Faraday Future annonce le lancement de son FF EAI Robot World et présente de nouveaux produits",
+    "url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026070874/ea0295527-8k_faraday.htm",
+    "date": "2026-06-23 09:05"
+  },
+  {
+    "company": "Clean Energy Fuels Corp.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Clean Energy Fuels Corp. nomme un nouveau directeur des operations",
+    "url": "https://www.sec.gov/Archives/edgar/data/1368265/000110465926076660/tm2618401d1_8k.htm",
+    "date": "2026-06-23 09:00"
+  },
+  {
+    "company": "TruBridge, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TruBridge, Inc. annonce une mise a jour sur son processus de fusion avec Inventurus Knowledge Solutions, Inc.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1169445/000119312526278592/d113709d8k.htm",
+    "date": "2026-06-23 09:00"
+  },
+  {
+    "company": "Odyssey Therapeutics, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K pour Odyssey Therapeutics, Inc. sans information financiere significative",
+    "url": "https://www.sec.gov/Archives/edgar/data/1882782/000119312526278581/odtx-20260623.htm",
+    "date": "2026-06-23 08:45"
+  },
+  {
     "company": "Eureka Acquisition Corp",
     "form": "8-K",
     "sentiment": "neutre",
