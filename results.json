@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "company": "Eureka Acquisition Corp",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Eureka Acquisition Corp dépose un rapport 8-K pour annoncer une modification de son accord de combinaison d'entreprises",
+    "url": "https://www.sec.gov/Archives/edgar/data/2000410/000121390026070821/ea0295465-8k425_eureka.htm",
+    "date": "2026-06-23 06:05"
+  },
+  {
+    "company": "Kardigan, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kardigan, Inc. dépose un rapport 8-K pour annoncer des modifications à ses statuts et règlements internes",
+    "url": "https://www.sec.gov/Archives/edgar/data/2123613/000119312526278429/d114621d8k.htm",
+    "date": "2026-06-23 06:05"
+  },
+  {
+    "company": "Robinhood Markets, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Robinhood Markets, Inc. annonce une offre privée de 2 milliards de dollars de notes senior convertibles",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000074/hood-20260622.htm",
+    "date": "2026-06-23 06:04"
+  },
+  {
+    "company": "Wheeler Real Estate Investment Trust, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Wheeler Real Estate Investment Trust engage CBRE pour une vente de portefeuille de 35 propriétés",
+    "url": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000187/whlr-20260619.htm",
+    "date": "2026-06-23 06:01"
+  },
+  {
+    "company": "Blend Labs, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Blend Labs, Inc. publie son rapport 8-K sur les resultats de son assemblee annuelle des actionnaires",
+    "url": "https://www.sec.gov/Archives/edgar/data/1855747/000185574726000045/blnd-20260617.htm",
+    "date": "2026-06-22 21:29"
+  },
+  {
+    "company": "DATA I/O CORP",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Data I/O Corporation annonce la clôture d'un investissement de 9 millions de dollars",
+    "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426006112/daio_8k.htm",
+    "date": "2026-06-22 20:44"
+  },
+  {
+    "company": "Tempest Therapeutics, Inc.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Les actionnaires de Tempest Therapeutics ont approuvé l'émission de nouvelles actions dans le cadre de deux propositions lors de l'assemblée générale extraordinaire.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1544227/000119312526278068/d158247d8k.htm",
+    "date": "2026-06-22 20:22"
+  },
+  {
+    "company": "Expedia Group, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Expedia Group, Inc. publie son rapport 8-K sur les votes des actionnaires lors de l'assemblée annuelle",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000042/expe-20260617.htm",
+    "date": "2026-06-22 18:01"
+  }
+]
