@@ -1,5 +1,59 @@
 [
   {
+    "company": "Wells Fargo Commercial Mortgage Trust 2026-5C10",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Un accord de souscription pour l'émission de certificats de pass-through hypothécaire commercial",
+    "url": "https://www.sec.gov/Archives/edgar/data/2136440/000153949726001844/exh1_1-ua.htm",
+    "date": "2026-06-23 14:09"
+  },
+  {
+    "company": "All In FutureTech Alliance, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction chez All In FutureTech Alliance, Inc. avec le depart du CEO et la nomination d'un nouveau CEO et d'un nouveau president du conseil d'administration",
+    "url": "https://www.sec.gov/Archives/edgar/data/1708341/000121390026070988/ea0295505-8k_allin.htm",
+    "date": "2026-06-23 13:38"
+  },
+  {
+    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-5",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier neutre sur les distributions de certificats de la serie 2003-5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1269371/000153949726001838/n5835_x3-8k.htm",
+    "date": "2026-06-23 13:28"
+  },
+  {
+    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-4",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier neutre sur les distributions et les intérêts pour les certificats de la série 2003-4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1264157/000153949726001837/n5834_x3-8k.htm",
+    "date": "2026-06-23 13:27"
+  },
+  {
+    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERT SER 2003 3",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier neutre sur les distributions de la societe",
+    "url": "https://www.sec.gov/Archives/edgar/data/1255604/000153949726001836/n5833_x3-8k.htm",
+    "date": "2026-06-23 13:27"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cottonwood Communities, Inc. annonce une mise a jour sur son offre de serie A de stock convertible",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000115/cci-20260617.htm",
+    "date": "2026-06-23 12:50"
+  },
+  {
     "company": "Federal Home Loan Bank of Chicago",
     "form": "8-K",
     "sentiment": "neutre",
