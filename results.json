@@ -1,5 +1,59 @@
 [
   {
+    "company": "ENANTA PHARMACEUTICALS INC",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Enanta Pharmaceuticals perd son appel contre Pfizer concernant la validite d'un brevet",
+    "url": "https://www.sec.gov/Archives/edgar/data/1177648/000119312526279803/d133783d8k.htm",
+    "date": "2026-06-23 17:28"
+  },
+  {
+    "company": "CNL Strategic Capital, LLC",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe CNL Strategic Capital, LLC annonce des resultats financiers positifs avec une augmentation de la valeur nette des actifs",
+    "url": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126013287/cnl-8k_062326.htm",
+    "date": "2026-06-23 17:23"
+  },
+  {
+    "company": "PROASSURANCE CORP",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "ProAssurance annonce la reception de toutes les approbations regulatorires necessaires pour la finalisation de la fusion avec The Doctors Company",
+    "url": "https://www.sec.gov/Archives/edgar/data/1127703/000112770326000024/pra-20260623.htm",
+    "date": "2026-06-23 17:21"
+  },
+  {
+    "company": "FiEE, Inc.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "FiEE, Inc. conclut un accord de vente avec A.G.P./Alliance Global Partners pour offrir et vendre des actions ordinaires",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626006781/fiee_8k.htm",
+    "date": "2026-06-23 17:20"
+  },
+  {
+    "company": "United Parks &amp; Resorts Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier neutre de United Parks & Resorts Inc.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526279790/prks-20260616.htm",
+    "date": "2026-06-23 17:20"
+  },
+  {
+    "company": "Pioneer Acquisition I Corp",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Pioneer Acquisition I Corp nomme un nouveau directeur independant",
+    "url": "https://www.sec.gov/Archives/edgar/data/2040381/000182912626006778/pioneeracq1_8k.htm",
+    "date": "2026-06-23 17:15"
+  },
+  {
     "company": "CBAK Energy Technology Ltd",
     "form": "8-K",
     "sentiment": "neutre",
