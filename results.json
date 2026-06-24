@@ -1,5 +1,64 @@
 [
   {
+    "company": "Ford Credit Auto Owner Trust 2026-B",
+    "cik": "2137917",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K pour Ford Credit Auto Owner Trust 2026-B",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2137917/000110465926077222/tm2617048d11_8k.htm",
+    "date": "2026-06-24 13:41"
+  },
+  {
+    "company": "FORD CREDIT AUTO RECEIVABLES TWO LLC",
+    "cik": "1129987",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K pour Ford Credit Auto Receivables Two LLC",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1129987/000110465926077222/tm2617048d11_8k.htm",
+    "date": "2026-06-24 13:41"
+  },
+  {
+    "company": "Exeter Automobile Receivables Trust 2026-3",
+    "cik": "2132838",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations adossees a des actifs par Exeter Automobile Receivables Trust 2026-3",
+    "chiffres": {
+      "dividende": "142 000 000 $, 236 220 000 $, 267 470 000 $, 140 340 000 $, 146 420 000 $, 194 310 000 $, 130 900 000 $, 34 410 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2132838/000092963826002315/eart2026-3_8k.htm",
+    "date": "2026-06-24 13:32"
+  },
+  {
+    "company": "EFCAR, LLC",
+    "cik": "1654238",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EFCAR, LLC a emis des obligations adossees a des actifs",
+    "chiffres": {
+      "dividende": "142,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1654238/000092963826002315/eart2026-3_8k.htm",
+    "date": "2026-06-24 13:32"
+  },
+  {
+    "company": "Exeter Automobile Receivables Trust 2026-3",
+    "cik": "2132838",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport courant de la societe Exeter Automobile Receivables Trust 2026-3",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2132838/000092963826002314/eart2026-3_8k.htm",
+    "date": "2026-06-24 13:30"
+  },
+  {
     "company": "BT Brands, Inc.",
     "cik": "1718224",
     "form": "8-K",
