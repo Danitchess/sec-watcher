@@ -1,5 +1,40 @@
 [
   {
+    "company": "BT Brands, Inc.",
+    "cik": "1718224",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de la reunion annuelle des actionnaires de BT Brands, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1718224/000147793226003966/btbd_8k.htm",
+    "date": "2026-06-24 11:29"
+  },
+  {
+    "company": "Chemours Co",
+    "cik": "1627223",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Chemours a conclu un accord de consentement avec l'EPA et le WVDEP",
+    "chiffres": {
+      "dividende": "$22.5 million, $90 million, moins de $1 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000017/cc-20260624.htm",
+    "date": "2026-06-24 10:48"
+  },
+  {
+    "company": "IRADIMED CORP",
+    "cik": "1325618",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Iradimed Corporation publie son rapport 8-K",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026045059/irmd-20260624.htm",
+    "date": "2026-06-24 10:22"
+  },
+  {
     "company": "FEMASYS INC",
     "cik": "1339005",
     "form": "8-K",
