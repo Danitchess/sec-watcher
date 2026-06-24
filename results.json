@@ -1,5 +1,73 @@
 [
   {
+    "company": "FEMASYS INC",
+    "cik": "1339005",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Femasys Inc. a regagne la conformite avec la regle de Nasdaq",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "1,00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036126026169/ef20076706_8k.htm",
+    "date": "2026-06-24 09:35"
+  },
+  {
+    "company": "ExchangeRight Income Fund",
+    "cik": "1771514",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "ExchangeRight Income Fund declare des dividendes et annonce des resultats positifs pour son offre de placement privee",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "$0.1449"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1771514/000119312526280389/none-20260531.htm",
+    "date": "2026-06-24 09:30"
+  },
+  {
+    "company": "CAVA GROUP, INC.",
+    "cik": "1639438",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "CAVA Group, Inc. a modifie son plan de severance pour les dirigeants",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": ""
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1639438/000162828026045042/cava-20260622.htm",
+    "date": "2026-06-24 09:24"
+  },
+  {
+    "company": "CASEYS GENERAL STORES INC",
+    "cik": "726958",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Casey's General Stores Inc.",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": ""
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/726958/000114036126026167/ef20076595_8k.htm",
+    "date": "2026-06-24 09:21"
+  },
+  {
     "company": "Massimo Group",
     "form": "8-K",
     "sentiment": "neutre",
