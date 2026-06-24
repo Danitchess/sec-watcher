@@ -16,6 +16,7 @@ const {
   BREVO_API_KEY,           // cle API Brevo (facultatif : pas d'email si absent)
   EMAIL_FROM,              // expediteur VERIFIE dans Brevo
   EMAIL_TO,                // ton adresse de reception
+  FINNHUB_API_KEY,         // cle Finnhub (facultatif : pas de cours/capi si absent)
 } = process.env;
 
 // Types surveilles. 8-K = evenements importants (meilleur signal +/-).
@@ -112,7 +113,7 @@ async function analyzeSentiment(company, form, text) {
 Reponds UNIQUEMENT en JSON, sans texte autour, sans backticks :
 {"sentiment":"positif|negatif|neutre","score":0-100,"resume":"une phrase courte en francais","chiffres":{"revenu":"","benefice":"","bpa":"","croissance":"","dividende":""}}
 Le score = a quel point le ton est positif (100) ou negatif (0).
-Pour "chiffres" : extrais UNIQUEMENT les valeurs reellement presentes dans le texte (avec variation % si donnee, ex. "143,8 Mds$ (+16%)"). Laisse "" pour tout chiffre absent. N'invente jamais.
+Pour "chiffres" : extrais UNIQUEMENT des montants reellement ecrits dans le texte du depot, avec leur unite monetaire ($, Mds$...) et la variation % si donnee (ex. "143,8 Mds$ (+16%)"). Ne mets JAMAIS le score ni un nombre qui n'est pas un montant cite tel quel. Si un chiffre n'apparait pas explicitement dans le texte, laisse "". N'invente jamais, ne deduis jamais.
 
 Extrait :
 """${excerpt}"""`;
@@ -152,7 +153,7 @@ async function sendEmail(results) {
       (r) =>
         `<tr><td>${EMOJI[r.sentiment] || "?"} ${r.company}</td><td>${r.form}</td>` +
         `<td><b>${r.sentiment}</b> (${r.score})</td><td>${r.resume}</td>` +
-        `<td>${fmtChiffres(r.chiffres)}</td>` +
+        `<td>${fmtChiffres(r.chiffres)}${r.marche ? `<br><b>Marche :</b><br>${fmtMarche(r.marche)}` : ""}</td>` +
         `<td><a href="${r.url}">voir</a></td></tr>`
     )
     .join("");
@@ -194,6 +195,54 @@ function fmtChiffres(ch) {
   return parts.length ? parts.join("<br>") : "—";
 }
 
+// ---- Donnees de marche (Finnhub, facultatif) ----
+// Recupere la table officielle SEC : CIK -> ticker (1 appel par passage).
+async function loadTickerMap() {
+  if (!FINNHUB_API_KEY) return new Map();
+  try {
+    const data = await (await secFetch("https://www.sec.gov/files/company_tickers.json")).json();
+    const map = new Map();
+    for (const k of Object.keys(data)) {
+      map.set(String(data[k].cik_str), data[k].ticker);
+    }
+    return map;
+  } catch (e) {
+    console.error("Table tickers:", e.message);
+    return new Map();
+  }
+}
+
+// Formate une capitalisation donnee en millions de dollars.
+function fmtCap(millions) {
+  const n = Number(millions);
+  if (!n || isNaN(n)) return "";
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(2)} T$`; // milliers de milliards
+  if (n >= 1_000) return `${(n / 1_000).toFixed(1)} Mds$`;
+  return `${n.toFixed(0)} M$`;
+}
+
+// Interroge Finnhub : cours actuel (+ variation) et capitalisation.
+async function getMarketData(ticker) {
+  const base = "https://finnhub.io/api/v1";
+  const q = await (await fetch(`${base}/quote?symbol=${ticker}&token=${FINNHUB_API_KEY}`)).json();
+  const p = await (await fetch(`${base}/stock/profile2?symbol=${ticker}&token=${FINNHUB_API_KEY}`)).json();
+  const cur = p.currency || "USD";
+  const cours = q.c
+    ? `${q.c.toFixed(2)} ${cur}` + (q.dp != null ? ` (${q.dp > 0 ? "+" : ""}${q.dp.toFixed(1)}%)` : "")
+    : "";
+  return { ticker, cours, capitalisation: fmtCap(p.marketCapitalization) };
+}
+
+// Met en forme le bloc marche (ignore les champs vides).
+function fmtMarche(m) {
+  if (!m) return "";
+  const parts = [];
+  if (m.cours) parts.push(`Cours : ${m.cours}`);
+  if (m.capitalisation) parts.push(`Capitalisation : ${m.capitalisation}`);
+  if (m.ticker) parts.push(`Ticker : ${m.ticker}`);
+  return parts.join("<br>");
+}
+
 // ---- Generation du site statique (docs/index.html pour GitHub Pages) ----
 async function buildSite(history) {
   const cards = history
@@ -203,6 +252,7 @@ async function buildSite(history) {
       <p class="score">${r.sentiment.toUpperCase()} — ${r.score}/100</p>
       <p>${r.resume}</p>
       ${fmtChiffres(r.chiffres) !== "—" ? `<p class="chiffres">${fmtChiffres(r.chiffres)}</p>` : ""}
+      ${r.marche ? `<p class="marche">${fmtMarche(r.marche)}</p>` : ""}
       <footer><time>${r.date}</time> · <a href="${r.url}" target="_blank">Voir le depot SEC</a></footer>
     </article>`
     )
@@ -220,6 +270,7 @@ header{display:flex;align-items:center;gap:8px}
 .form{background:#2a2e38;padding:2px 8px;border-radius:6px;font-size:.75rem;color:#9aa0aa}
 .score{font-weight:600;margin:6px 0;font-size:.9rem}
 .chiffres{background:#13161c;border-radius:8px;padding:8px 10px;font-size:.82rem;color:#b8c2cc;line-height:1.5;margin:8px 0}
+.marche{background:#10231a;border-radius:8px;padding:8px 10px;font-size:.82rem;color:#9fe3bf;line-height:1.5;margin:8px 0}
 footer{color:#8a8f98;font-size:.8rem;margin-top:8px}
 a{color:#6ab0f3}
 </style></head><body>
@@ -234,6 +285,7 @@ ${cards || "<p>Aucune alerte pour l'instant.</p>"}
 // ---- Programme principal ----
 async function main() {
   const filter = await loadFilter();
+  const tickerMap = await loadTickerMap();
   let state = { seen: [] };
   try {
     state = JSON.parse(await fs.readFile("state.json", "utf8"));
@@ -286,6 +338,7 @@ async function main() {
       const a = await analyzeSentiment(c.company, c.form, text);
       results.push({
         company: c.company,
+        cik: c.cik,
         form: c.form,
         sentiment: a.sentiment,
         score: a.score,
@@ -305,12 +358,7 @@ async function main() {
   state.seen = [...seenSet].slice(-1000);
   await fs.writeFile("state.json", JSON.stringify(state, null, 2));
 
-  // 5) Historique + site + email.
-  history = [...results, ...history].slice(0, HISTORY_SIZE);
-  await fs.writeFile("results.json", JSON.stringify(history, null, 2));
-  await buildSite(history);
-
-  // Email : on garde les depots assez marquants dans le bon sens.
+  // 5) Selection des depots a notifier (assez marquants dans le bon sens).
   // - positif : score >= NOTIFY_MIN_SCORE (ex. >= 75)
   // - negatif : score <= NOTIFY_MAX_SCORE (ex. <= 25)
   // - neutre/inconnu : seulement si explicitement demande dans NOTIFY_SENTIMENT.
@@ -320,8 +368,27 @@ async function main() {
     const score = Number(r.score);
     if (label === "positif") return score >= NOTIFY_MIN_SCORE;
     if (label === "negatif") return score <= NOTIFY_MAX_SCORE;
-    return true; // neutre/inconnu demande explicitement
+    return true;
   });
+
+  // 6) Donnees de marche : UNIQUEMENT sur les depots notables (max 10/passage)
+  //    pour rester sous la limite gratuite de Finnhub (~300 appels/jour).
+  if (FINNHUB_API_KEY && toEmail.length) {
+    for (const r of toEmail.slice(0, 10)) {
+      const ticker = tickerMap.get(String(r.cik));
+      if (!ticker) continue;
+      try {
+        r.marche = await getMarketData(ticker);
+      } catch (e) {
+        console.error(`Marche ${r.company}:`, e.message);
+      }
+    }
+  }
+
+  // 7) Historique + site + email (refletent maintenant les donnees de marche).
+  history = [...results, ...history].slice(0, HISTORY_SIZE);
+  await fs.writeFile("results.json", JSON.stringify(history, null, 2));
+  await buildSite(history);
   if (toEmail.length) await sendEmail(toEmail);
 
   console.log(
