@@ -1,5 +1,78 @@
 [
   {
+    "company": "US BANCORP \\DE\\",
+    "cik": "36104",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "U.S. Bancorp annonce des resultats solides de son test de resistance financiere",
+    "chiffres": {
+      "dividende": "$0.54 par action (+3.8%)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000035/exhibit991-ccar2026relea.htm",
+    "date": "2026-06-24 17:30"
+  },
+  {
+    "company": "Cantor Equity Partners I, Inc.",
+    "cik": "2027708",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Report d'une reunion extraordinaire des actionnaires de Cantor Equity Partners I, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2027708/000121390026071608/ea0295857-8k_cantor1.htm",
+    "date": "2026-06-24 17:29"
+  },
+  {
+    "company": "AMERICOLD REALTY TRUST",
+    "cik": "1455863",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de credit syndique modifie et mis a jour",
+    "chiffres": {
+      "dividende": "1,15 milliard $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1455863/000119312526281300/d118757d8k.htm",
+    "date": "2026-06-24 17:29"
+  },
+  {
+    "company": "CEA Industries Inc.",
+    "cik": "1482541",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de cooperation entre CEA Industries Inc. et YZILabs Management Ltd.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/ex10-1.htm",
+    "date": "2026-06-24 17:29"
+  },
+  {
+    "company": "SRX Global Inc.",
+    "cik": "1471727",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "SRX Global annonce une consolidation d'actions",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226029963/ex99-1.htm",
+    "date": "2026-06-24 17:23"
+  },
+  {
+    "company": "KKR Infrastructure Conglomerate LLC",
+    "cik": "1948056",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "KKR Infrastructure Conglomerate LLC annonce des ventes d'actions non enregistrees",
+    "chiffres": {
+      "revenu": "7,287 millions $",
+      "dividende": "243,934,430 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1948056/000194805626000047/kkr-20260618.htm",
+    "date": "2026-06-24 17:16"
+  },
+  {
     "company": "Consolidated Water Co. Ltd.",
     "cik": "928340",
     "form": "8-K",
