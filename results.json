@@ -1,5 +1,77 @@
 [
   {
+    "company": "PodcastOne, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de PodcastOne, Inc. sans indication de tendance positive ou negative",
+    "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026071314/ea0295773-8k_podcastone.htm",
+    "date": "2026-06-24 08:30"
+  },
+  {
+    "company": "LiveOne, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LiveOne, Inc. publie un rapport financier sans indication de performance",
+    "url": "https://www.sec.gov/Archives/edgar/data/1491419/000121390026071315/ea0295772-8k_liveone.htm",
+    "date": "2026-06-24 08:30"
+  },
+  {
+    "company": "Oportun Financial Corp",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Accord de cooperation entre Oportun Financial Corp et Bradley L. Radoff",
+    "url": "https://www.sec.gov/Archives/edgar/data/1538716/000153871626000052/oportun-radoffcooperationa.htm",
+    "date": "2026-06-24 08:30"
+  },
+  {
+    "company": "Bionano Genomics, Inc.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Bionano Genomics nomme un nouveau directeur scientifique",
+    "url": "https://www.sec.gov/Archives/edgar/data/1411690/000141169026000040/bngo-20260624.htm",
+    "date": "2026-06-24 08:30"
+  },
+  {
+    "company": "QUALCOMM INC/DE",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Qualcomm annonce l'acquisition de Modular Inc avec une emission d'actions",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926077071/tm2618522d1_8k.htm",
+    "date": "2026-06-24 08:10"
+  },
+  {
+    "company": "Emerald Holding, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emerald Holding, Inc. annonce une fusion avec Emma Buyer, LLC",
+    "url": "https://www.sec.gov/Archives/edgar/data/1579214/000119312526280282/d36125d8k.htm",
+    "date": "2026-06-24 08:08"
+  },
+  {
+    "company": "Lemonade, Inc.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Lemonade, Inc. conclut un accord de financement avec Hannover Re pour soutenir sa croissance",
+    "url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000041/lmnd-20260622.htm",
+    "date": "2026-06-24 08:01"
+  },
+  {
+    "company": "MapLight Therapeutics, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MapLight Therapeutics, Inc. publie son rapport annuel sans informations particulièrement positives ou négatives.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526280243/d119921d8k.htm",
+    "date": "2026-06-24 07:12"
+  },
+  {
     "company": "Triller Group Inc.",
     "form": "8-K",
     "sentiment": "neutre",
