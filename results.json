@@ -1,5 +1,104 @@
 [
   {
+    "company": "Massimo Group",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de pret entre Massimo Group et David Shan",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "4 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1952853/000149315226029886/ex10-1.htm",
+    "date": "2026-06-24 09:20"
+  },
+  {
+    "company": "NextBoat Inc.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "NextBoat annonce une integration reussie d'Apex Marine Companies",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "90 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226029885/ex99-1.htm",
+    "date": "2026-06-24 09:17"
+  },
+  {
+    "company": "Freshpet, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Freshpet, Inc. annonce le depart de son co-fondateur et president",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "38,904"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1611647/000092963826002308/a8k.htm",
+    "date": "2026-06-24 09:12"
+  },
+  {
+    "company": "MOLSON COORS BEVERAGE CO",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Molson Coors Beverage Company annonce le depart temporaire de son PDG pour l'EMEA et l'APAC",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": ""
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926077086/tm2618613d1_8k.htm",
+    "date": "2026-06-24 09:02"
+  },
+  {
+    "company": "ADC Therapeutics SA",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "ADC Therapeutics SA annonce une reduction de son effectif global",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "",
+      "reduction": "17%",
+      "economies": "10 M$",
+      "charges": "3 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1771910/000095010326009416/dp248849_8k.htm",
+    "date": "2026-06-24 09:00"
+  },
+  {
+    "company": "COMMERCIAL METALS Co",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Commercial Metals Company annonce un dividende trimestriel de 0,20$ par action",
+    "chiffres": {
+      "revenu": "",
+      "benefice": "",
+      "bpa": "",
+      "croissance": "",
+      "dividende": "0,20$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/22444/000002244426000035/cmc-20260624.htm",
+    "date": "2026-06-24 08:39"
+  },
+  {
     "company": "PodcastOne, Inc.",
     "form": "8-K",
     "sentiment": "neutre",
