@@ -1,5 +1,90 @@
 [
   {
+    "company": "Consolidated Water Co. Ltd.",
+    "cik": "928340",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La societe Consolidated Water Co. Ltd. a obtenu une nouvelle licence pour produire et distribuer de l'eau potable dans les iles Cayman",
+    "chiffres": {
+      "revenu": "$2.1 million, $1.9 million et $0.6 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926077347/cwco-20260618x8k.htm",
+    "date": "2026-06-24 17:05"
+  },
+  {
+    "company": "FiscalNote Holdings, Inc.",
+    "cik": "1823466",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "FiscalNote Holdings, Inc. annonce une mise a jour sur ses accords de forbearance",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1823466/000119312526281253/d117813d8k.htm",
+    "date": "2026-06-24 17:05"
+  },
+  {
+    "company": "CalciMedica, Inc.",
+    "cik": "1534133",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "CalciMedica, Inc. annonce une placement prive de 18,673,429 unites",
+    "chiffres": {
+      "dividende": "15,0 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1534133/000119312526281246/d142943d8k.htm",
+    "date": "2026-06-24 17:02"
+  },
+  {
+    "company": "Graphene &amp; Solar Technologies Ltd",
+    "cik": "1497649",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Document SEC sans contenu financier",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1497649/000190359626000255/ex10_1.htm",
+    "date": "2026-06-24 17:01"
+  },
+  {
+    "company": "COLONY BANKCORP INC",
+    "cik": "711669",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Fusion entre Colony Bankcorp et First Reliance Bancshares",
+    "chiffres": {
+      "dividende": "6,6 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/711669/000110465926077342/tm2618469d1_8k.htm",
+    "date": "2026-06-24 17:00"
+  },
+  {
+    "company": "Lucid Diagnostics Inc.",
+    "cik": "1799011",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Modification du certificat d'incorporation de Lucid Diagnostics Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1799011/000149315226029943/ex3-1.htm",
+    "date": "2026-06-24 17:00"
+  },
+  {
+    "company": "AB Commercial Real Estate Private Debt Fund, LLC",
+    "cik": "1876255",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds AB Commercial Real Estate Private Debt Fund, LLC a lance un appel de capital pour 66,9 millions de dollars",
+    "chiffres": {
+      "dividende": "66,968,013.13$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1876255/000119312526281229/d19561d8k.htm",
+    "date": "2026-06-24 16:57"
+  },
+  {
     "company": "BBCMS Mortgage Trust 2026-5C42",
     "cik": "2135998",
     "form": "8-K",
