@@ -140,6 +140,28 @@ Extrait :
   }
 }
 
+// Garde-fou : on ne garde un chiffre que si son montant apparait VRAIMENT dans
+// le texte du depot. Sinon (l'IA l'a invente ou mal case), on l'efface.
+function verifierChiffres(chiffres, text) {
+  if (!chiffres) return {};
+  // Normalise le texte : virgules -> points, espaces retires autour des nombres.
+  const normText = text.replace(/,/g, ".").replace(/\s+/g, " ");
+  const clean = {};
+  for (const [k, v] of Object.entries(chiffres)) {
+    if (!v || !String(v).trim()) continue;
+    // Extrait le 1er nombre du chiffre annonce (ex. "0,1449$ (+2%)" -> "0.1449").
+    const m = String(v).replace(/,/g, ".").match(/\d+(?:\.\d+)?/);
+    if (!m) continue;
+    const num = m[0];
+    // On accepte si ce nombre (ou sa version sans .00) est present dans le texte.
+    const variantes = [num, num.replace(/\.0+$/, "")];
+    if (variantes.some((n) => n.length >= 2 && normText.includes(n))) {
+      clean[k] = v;
+    }
+  }
+  return clean;
+}
+
 // ---- Email digest via Brevo ----
 async function sendEmail(results) {
   if (!BREVO_API_KEY || !EMAIL_TO || !EMAIL_FROM) return;
@@ -336,6 +358,7 @@ async function main() {
       const docUrl = await getPrimaryDoc(c.indexUrl);
       const text = htmlToText(await (await secFetch(docUrl)).text());
       const a = await analyzeSentiment(c.company, c.form, text);
+      const chiffres = verifierChiffres(a.chiffres, text);
       results.push({
         company: c.company,
         cik: c.cik,
@@ -343,7 +366,7 @@ async function main() {
         sentiment: a.sentiment,
         score: a.score,
         resume: a.resume,
-        chiffres: a.chiffres || {},
+        chiffres,
         url: docUrl,
         date: (c.updated || "").slice(0, 16).replace("T", " "),
       });
