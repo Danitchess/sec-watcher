@@ -31,8 +31,9 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           MAX_ANALYZE: "20"
-          NOTIFY_SENTIMENT: ""
-          NOTIFY_MIN_SCORE: "0"
+          NOTIFY_SENTIMENT: "positif,negatif"
+          NOTIFY_MIN_SCORE: "75"
+          NOTIFY_MAX_SCORE: "25"
         run: node index.js
 
       - name: Sauvegarder etat + resultats + site

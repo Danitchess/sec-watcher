@@ -30,8 +30,10 @@ const NOTIFY_SENTIMENT = new Set(
     .map((s) => s.trim().toLowerCase())
     .filter(Boolean)
 );
-// Score minimum pour declencher un email (0 = pas de seuil). Defaut : 75.
+// Score minimum pour declencher un email POSITIF (defaut 75 : assez positif).
 const NOTIFY_MIN_SCORE = Number(process.env.NOTIFY_MIN_SCORE ?? 75);
+// Score maximum pour declencher un email NEGATIF (defaut 25 : assez negatif).
+const NOTIFY_MAX_SCORE = Number(process.env.NOTIFY_MAX_SCORE ?? 25);
 // Combien de resultats on garde dans l'historique du site.
 const HISTORY_SIZE = 200;
 
@@ -108,8 +110,9 @@ async function analyzeSentiment(company, form, text) {
   const excerpt = text.slice(0, 12000);
   const prompt = `Tu analyses un depot SEC de type ${form} de la societe ${company}.
 Reponds UNIQUEMENT en JSON, sans texte autour, sans backticks :
-{"sentiment":"positif|negatif|neutre","score":0-100,"resume":"une phrase courte en francais"}
+{"sentiment":"positif|negatif|neutre","score":0-100,"resume":"une phrase courte en francais","chiffres":{"revenu":"","benefice":"","bpa":"","croissance":"","dividende":""}}
 Le score = a quel point le ton est positif (100) ou negatif (0).
+Pour "chiffres" : extrais UNIQUEMENT les valeurs reellement presentes dans le texte (avec variation % si donnee, ex. "143,8 Mds$ (+16%)"). Laisse "" pour tout chiffre absent. N'invente jamais.
 
 Extrait :
 """${excerpt}"""`;
@@ -121,16 +124,18 @@ Extrait :
       model: LLM_MODEL,
       messages: [{ role: "user", content: prompt }],
       temperature: 0,
-      max_tokens: 300,
+      max_tokens: 500,
     }),
   });
   if (!res.ok) throw new Error(`LLM ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
   const raw = (data.choices?.[0]?.message?.content || "").replace(/```json|```/g, "").trim();
   try {
-    return JSON.parse(raw);
+    const parsed = JSON.parse(raw);
+    if (!parsed.chiffres) parsed.chiffres = {};
+    return parsed;
   } catch {
-    return { sentiment: "inconnu", score: 50, resume: raw.slice(0, 200) };
+    return { sentiment: "inconnu", score: 50, resume: raw.slice(0, 200), chiffres: {} };
   }
 }
 
@@ -147,13 +152,15 @@ async function sendEmail(results) {
       (r) =>
         `<tr><td>${EMOJI[r.sentiment] || "?"} ${r.company}</td><td>${r.form}</td>` +
         `<td><b>${r.sentiment}</b> (${r.score})</td><td>${r.resume}</td>` +
+        `<td>${fmtChiffres(r.chiffres)}</td>` +
         `<td><a href="${r.url}">voir</a></td></tr>`
     )
     .join("");
   const html =
     `<h2>SEC Watcher — ${results.length} nouveau(x) depot(s)</h2>` +
+    `<p style="color:#888;font-size:12px">Chiffres extraits du depot, a verifier. Outil de reperage, pas un conseil financier.</p>` +
     `<table border="1" cellpadding="6" cellspacing="0">` +
-    `<tr><th>Societe</th><th>Type</th><th>Sentiment</th><th>Resume</th><th></th></tr>` +
+    `<tr><th>Societe</th><th>Type</th><th>Sentiment</th><th>Resume</th><th>Chiffres cles</th><th></th></tr>` +
     `${rows}</table>`;
 
   const res = await fetch("https://api.brevo.com/v3/smtp/email", {
@@ -171,6 +178,22 @@ async function sendEmail(results) {
 
 const EMOJI = { positif: "🟢", negatif: "🔴", neutre: "⚪", inconnu: "❔" };
 
+// Met en forme les chiffres cles extraits (ignore les champs vides).
+function fmtChiffres(ch) {
+  if (!ch) return "—";
+  const labels = {
+    revenu: "Revenu",
+    benefice: "Benefice",
+    bpa: "BPA",
+    croissance: "Croissance",
+    dividende: "Dividende",
+  };
+  const parts = Object.entries(labels)
+    .filter(([k]) => ch[k] && String(ch[k]).trim())
+    .map(([k, label]) => `${label} : ${ch[k]}`);
+  return parts.length ? parts.join("<br>") : "—";
+}
+
 // ---- Generation du site statique (docs/index.html pour GitHub Pages) ----
 async function buildSite(history) {
   const cards = history
@@ -179,6 +202,7 @@ async function buildSite(history) {
       <header><span class="dot"></span><b>${r.company}</b> <span class="form">${r.form}</span></header>
       <p class="score">${r.sentiment.toUpperCase()} — ${r.score}/100</p>
       <p>${r.resume}</p>
+      ${fmtChiffres(r.chiffres) !== "—" ? `<p class="chiffres">${fmtChiffres(r.chiffres)}</p>` : ""}
       <footer><time>${r.date}</time> · <a href="${r.url}" target="_blank">Voir le depot SEC</a></footer>
     </article>`
     )
@@ -195,6 +219,7 @@ article.positif{border-color:#2ecc71}article.negatif{border-color:#e74c3c}articl
 header{display:flex;align-items:center;gap:8px}
 .form{background:#2a2e38;padding:2px 8px;border-radius:6px;font-size:.75rem;color:#9aa0aa}
 .score{font-weight:600;margin:6px 0;font-size:.9rem}
+.chiffres{background:#13161c;border-radius:8px;padding:8px 10px;font-size:.82rem;color:#b8c2cc;line-height:1.5;margin:8px 0}
 footer{color:#8a8f98;font-size:.8rem;margin-top:8px}
 a{color:#6ab0f3}
 </style></head><body>
@@ -265,6 +290,7 @@ async function main() {
         sentiment: a.sentiment,
         score: a.score,
         resume: a.resume,
+        chiffres: a.chiffres || {},
         url: docUrl,
         date: (c.updated || "").slice(0, 16).replace("T", " "),
       });
@@ -284,11 +310,17 @@ async function main() {
   await fs.writeFile("results.json", JSON.stringify(history, null, 2));
   await buildSite(history);
 
-  // Email : sentiment choisi (defaut positif) ET score suffisant (defaut 75).
+  // Email : on garde les depots assez marquants dans le bon sens.
+  // - positif : score >= NOTIFY_MIN_SCORE (ex. >= 75)
+  // - negatif : score <= NOTIFY_MAX_SCORE (ex. <= 25)
+  // - neutre/inconnu : seulement si explicitement demande dans NOTIFY_SENTIMENT.
   const toEmail = results.filter((r) => {
-    const labelOk = NOTIFY_SENTIMENT.size === 0 || NOTIFY_SENTIMENT.has(r.sentiment.toLowerCase());
-    const scoreOk = Number(r.score) >= NOTIFY_MIN_SCORE;
-    return labelOk && scoreOk;
+    const label = (r.sentiment || "").toLowerCase();
+    if (NOTIFY_SENTIMENT.size && !NOTIFY_SENTIMENT.has(label)) return false;
+    const score = Number(r.score);
+    if (label === "positif") return score >= NOTIFY_MIN_SCORE;
+    if (label === "negatif") return score <= NOTIFY_MAX_SCORE;
+    return true; // neutre/inconnu demande explicitement
   });
   if (toEmail.length) await sendEmail(toEmail);
 
