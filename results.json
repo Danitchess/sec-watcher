@@ -1,5 +1,77 @@
 [
   {
+    "company": "Triller Group Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Triller Group Inc. annonce une modification de son acte constitutif suite à une réunion annuelle des actionnaires",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026071270/ea0295727-8k_triller.htm",
+    "date": "2026-06-24 06:01"
+  },
+  {
+    "company": "Comstock Inc.",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Comstock Inc. annonce un accord de vente de ses interets dans certaines societes",
+    "url": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926021491/ex_980112.htm",
+    "date": "2026-06-24 06:01"
+  },
+  {
+    "company": "GREEN DOT CORP",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Les actionnaires de Green Dot approuvent les propositions relatives à la fusion avec CommerceOne",
+    "url": "https://www.sec.gov/Archives/edgar/data/1386278/000114036126026125/ef20076604_8k.htm",
+    "date": "2026-06-23 20:45"
+  },
+  {
+    "company": "Grove Collaborative Holdings, Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le directeur financier de Grove Collaborative Holdings, Inc. a annoncé sa démission, mais l'entreprise a également tenu son assemblée générale annuelle avec des résultats positifs pour les propositions présentées.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1841761/000184176126000060/grov-20260618.htm",
+    "date": "2026-06-23 20:36"
+  },
+  {
+    "company": "EagleRock Land, LLC",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EagleRock Land, LLC publie un rapport financier sans indication de performance",
+    "url": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526280008/d295987d8k.htm",
+    "date": "2026-06-23 20:28"
+  },
+  {
+    "company": "Quartzsea Acquisition Corp",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Les actionnaires de Quartzsea Acquisition Corp approuvent les propositions presentees lors de l'assemblee generale extraordinaire",
+    "url": "https://www.sec.gov/Archives/edgar/data/2047455/000182912626006786/quartzsea_8k.htm",
+    "date": "2026-06-23 19:52"
+  },
+  {
+    "company": "Bubblr Inc.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le depot SEC de Bubblr Inc. contient une declaration neutre de la part de BCRG Group",
+    "url": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226029839/ex16-1.htm",
+    "date": "2026-06-23 18:42"
+  },
+  {
+    "company": "SELECTIS HEALTH, INC.",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K sans indication de ton",
+    "url": "https://www.sec.gov/Archives/edgar/data/727346/000149315226029837/ex10-1.htm",
+    "date": "2026-06-23 18:03"
+  },
+  {
     "company": "ENANTA PHARMACEUTICALS INC",
     "form": "8-K",
     "sentiment": "negatif",
