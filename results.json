@@ -1,5 +1,66 @@
 [
   {
+    "company": "First Trinity Financial CORP",
+    "cik": "1395585",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de controle de la societe",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1395585/000143774926021640/ftfc20260624_8k.htm",
+    "date": "2026-06-25 11:56"
+  },
+  {
+    "company": "Red Cat Holdings, Inc.",
+    "cik": "748268",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Red Cat Holdings, Inc. publie son rapport 8-K",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/748268/000162828026045393/rcat-20260618.htm",
+    "date": "2026-06-25 11:41"
+  },
+  {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Dallas",
+    "chiffres": {
+      "dividende": "15 000 000 $, 35 000 000 $, 100 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000116/fhlbd-20260622.htm",
+    "date": "2026-06-25 11:32"
+  },
+  {
+    "company": "REALLOYS INC.",
+    "cik": "1567900",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Realloys Inc. annonce une emission d'actions pour lever 100 millions de dollars",
+    "chiffres": {
+      "dividende": "100 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1567900/000118518526002649/aloy8k062526.htm",
+    "date": "2026-06-25 11:31"
+  },
+  {
+    "company": "Laser Photonics Corp",
+    "cik": "1807887",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Laser Photonics Corp annonce des changements dans son equipe de direction",
+    "chiffres": {
+      "dividende": "$50,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226030058/form8-k.htm",
+    "date": "2026-06-25 10:24"
+  },
+  {
     "company": "Cytosorbents Corp",
     "cik": "1175151",
     "form": "8-K",
