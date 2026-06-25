@@ -1,5 +1,90 @@
 [
   {
+    "company": "NEOGENOMICS INC",
+    "cik": "1077183",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NeoGenomics nomme Carolyn Starrett au conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1077183/000162828026045350/a2026-06x25csspressrelease.htm",
+    "date": "2026-06-25 07:10"
+  },
+  {
+    "company": "Kymera Therapeutics, Inc.",
+    "cik": "1815442",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Kymera Therapeutics annonce la fin de l'inscription pour son essai clinique de phase 2b",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526281817/d62555d8k.htm",
+    "date": "2026-06-25 07:10"
+  },
+  {
+    "company": "INSULET CORP",
+    "cik": "1145197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Insulet Corporation nomme un nouveau directeur",
+    "chiffres": {
+      "dividende": "$216,548"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000148/podd-20260624.htm",
+    "date": "2026-06-25 07:06"
+  },
+  {
+    "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
+    "cik": "1411579",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AMC Entertainment Holdings, Inc. annonce la rachat de ses obligations senior subordonnees",
+    "chiffres": {
+      "dividende": "125,471,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926077513/tm2618471d2_8k.htm",
+    "date": "2026-06-25 07:05"
+  },
+  {
+    "company": "DARDEN RESTAURANTS INC",
+    "cik": "940944",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Darden Restaurants augmente son dividende et autorise un nouveau programme de rachat d'actions",
+    "chiffres": {
+      "dividende": "1,5 milliard de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/940944/000094094426000016/dri-20260624.htm",
+    "date": "2026-06-25 07:04"
+  },
+  {
+    "company": "CONSTELLATION ENERGY GENERATION LLC",
+    "cik": "1168165",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Extension des offres d'echange de notes pour 2,3 milliards de dollars",
+    "chiffres": {
+      "dividende": "2,3 milliards de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1168165/000116816526000018/ceg-20260625.htm",
+    "date": "2026-06-25 07:01"
+  },
+  {
+    "company": "Nano Nuclear Energy Inc.",
+    "cik": "1923891",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un dirigeant et nomination d'un nouveau responsable",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1923891/000149315226030000/form8-k.htm",
+    "date": "2026-06-24 21:09"
+  },
+  {
     "company": "US BANCORP \\DE\\",
     "cik": "36104",
     "form": "8-K",
