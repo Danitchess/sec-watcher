@@ -1,5 +1,90 @@
 [
   {
+    "company": "INVO Fertility, Inc.",
+    "cik": "1417926",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "INVO Fertility acquiert une participation majoritaire dans une clinique de fertilité",
+    "chiffres": {
+      "dividende": "$175,001"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1417926/000149315226030147/form8-k.htm",
+    "date": "2026-06-25 16:52"
+  },
+  {
+    "company": "River Financial Corp",
+    "cik": "1641601",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Incident de securite informatique chez River Financial Corp",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526282946/ck0001641601-20260619.htm",
+    "date": "2026-06-25 16:52"
+  },
+  {
+    "company": "CNH Industrial Capital LLC",
+    "cik": "1552493",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "CNH Industrial Capital LLC annonce l'émission de notes à 4,950% d'un montant de 600 millions de dollars",
+    "chiffres": {
+      "dividende": "600 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1552493/000110465926077807/tm2618956d1_8k.htm",
+    "date": "2026-06-25 16:47"
+  },
+  {
+    "company": "RHYTHM PHARMACEUTICALS, INC.",
+    "cik": "1649904",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rhythm Pharmaceuticals, Inc. annonce les resultats de son Assemblee annuelle des actionnaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1649904/000162828026045569/rytm-20260624.htm",
+    "date": "2026-06-25 16:46"
+  },
+  {
+    "company": "Launch One Acquisition Corp.",
+    "cik": "2015502",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le depot SEC de Launch One Acquisition Corp. annonce le report de l'assemblee generale des actionnaires",
+    "chiffres": {
+      "dividende": "11.50$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2015502/000121390026072106/ea0295999-8k_launch.htm",
+    "date": "2026-06-25 16:45"
+  },
+  {
+    "company": "Marvell Technology, Inc.",
+    "cik": "1835632",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Marvell Technology, Inc. annonce un dividende trimestriel",
+    "chiffres": {
+      "dividende": "$0.06"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026045564/a20260625dividendpressrele.htm",
+    "date": "2026-06-25 16:43"
+  },
+  {
+    "company": "Orion S.A.",
+    "cik": "1609804",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1609804/000149315226030142/ex99-1.htm",
+    "date": "2026-06-25 16:40"
+  },
+  {
     "company": "Federal Home Loan Bank of San Francisco",
     "cik": "1316944",
     "form": "8-K",
