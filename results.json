@@ -1,5 +1,66 @@
 [
   {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of San Francisco",
+    "chiffres": {
+      "dividende": "100,000,000 $, 1,000,000,000 $, 10,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000113/fhlbsf-20260622.htm",
+    "date": "2026-06-25 14:24"
+  },
+  {
+    "company": "LIVE VENTURES Inc",
+    "cik": "1045742",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de la reunion annuelle des actionnaires de Live Ventures Incorporated",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1045742/000143774926021665/live20260616_8k.htm",
+    "date": "2026-06-25 14:17"
+  },
+  {
+    "company": "T Stamp Inc",
+    "cik": "1718939",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "T Stamp Inc. conclut un accord de vente de note avec Streeterville Capital, LLC",
+    "chiffres": {
+      "dividende": "5,510,000.00$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1718939/000171893926000039/a101notepurchaseagreementd.htm",
+    "date": "2026-06-25 13:47"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Boston",
+    "chiffres": {
+      "dividende": "100,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000120/fhlbbost-20260622.htm",
+    "date": "2026-06-25 13:41"
+  },
+  {
+    "company": "AEN Group Ltd.",
+    "cik": "2033750",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction chez AEN Group Ltd",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2033750/000164033426001119/aen_8k.htm",
+    "date": "2026-06-25 12:25"
+  },
+  {
     "company": "First Trinity Financial CORP",
     "cik": "1395585",
     "form": "8-K",
