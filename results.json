@@ -1,5 +1,77 @@
 [
   {
+    "company": "Apollo Infrastructure Co LLC",
+    "cik": "1971381",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Apollo Infrastructure Co LLC publie un rapport 8-K sur des ventes d'actions non enregistrées",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1971381/000119312526283091/ck0001971381-20260625.htm",
+    "date": "2026-06-25 17:31"
+  },
+  {
+    "company": "Real Asset Acquisition Corp.",
+    "cik": "2052161",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Real Asset Acquisition Corp. annonce une fusion avec IQM Quantum Computers Oyj",
+    "chiffres": {
+      "dividende": "11.50$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2052161/000121390026072153/ea0296006-8k425_real.htm",
+    "date": "2026-06-25 17:28"
+  },
+  {
+    "company": "Celularity Inc",
+    "cik": "1752828",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de nouveaux dirigeants",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226030199/form8-k.htm",
+    "date": "2026-06-25 17:27"
+  },
+  {
+    "company": "Robinhood Markets, Inc.",
+    "cik": "1783879",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Un depot SEC de type 8-K pour Robinhood Markets, Inc. concernant une transaction financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000077/a101projectcatalyst-formof.htm",
+    "date": "2026-06-25 17:25"
+  },
+  {
+    "company": "Vivos Therapeutics, Inc.",
+    "cik": "1716166",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vivos Therapeutics, Inc. et Streeterville Capital, LLC ont signe un accord de prolongation de la date limite pour un financement",
+    "chiffres": {
+      "dividende": "$2,600,000.00"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226030190/ex10-2.htm",
+    "date": "2026-06-25 17:22"
+  },
+  {
+    "company": "AZZ INC",
+    "cik": "8947",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "AZZ Inc. annonce un dividende trimestriel de 0,24$ par action",
+    "chiffres": {
+      "dividende": "0,24$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/8947/000000894726000120/azz-20260625.htm",
+    "date": "2026-06-25 17:14"
+  },
+  {
     "company": "INVO Fertility, Inc.",
     "cik": "1417926",
     "form": "8-K",
