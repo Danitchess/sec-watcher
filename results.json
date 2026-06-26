@@ -1,5 +1,38 @@
 [
   {
+    "company": "ZRCN Inc.",
+    "cik": "1901297",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1901297/000149315226030267/ex3-1.htm",
+    "date": "2026-06-26 15:04"
+  },
+  {
+    "company": "SRX Global Inc.",
+    "cik": "1471727",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226030259/ex99-1.htm",
+    "date": "2026-06-26 14:19"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000115/fhlbc-20260625.htm",
+    "date": "2026-06-26 13:17"
+  },
+  {
     "company": "Fidelity Private Credit Fund",
     "cik": "1920453",
     "form": "8-K",
