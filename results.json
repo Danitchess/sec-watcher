@@ -1,5 +1,75 @@
 [
   {
+    "company": "Catalyst Bancorp, Inc.",
+    "cik": "1849867",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Catalyst Bancorp, Inc. annonce l'approbation de la fusion avec Lakeside Bancshares, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1849867/000184986726000011/clst-20260626x8k.htm",
+    "date": "2026-06-26 10:54"
+  },
+  {
+    "company": "Graf Global Corp.",
+    "cik": "1897463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de la societe Graf Global Corp. sur une assemblee generale extraordinaire",
+    "chiffres": {
+      "dividende": "11.50 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926078079/tm2618324d8_8k.htm",
+    "date": "2026-06-26 10:47"
+  },
+  {
+    "company": "CION Investment Corp",
+    "cik": "1534254",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de CION Investment Corp",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926078073/tm2618984d1_8k.htm",
+    "date": "2026-06-26 10:32"
+  },
+  {
+    "company": "Corvex, Inc.",
+    "cik": "1734750",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Corvex, Inc. annonce l'ajournement de son Assemblee generale annuelle",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026072420/ea0296036-8k_corvex.htm",
+    "date": "2026-06-26 10:26"
+  },
+  {
+    "company": "LGL GROUP INC",
+    "cik": "61004",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LGL Group Inc. annonce la prolongation de son offre d'abonnement aux droits de souscription",
+    "chiffres": {
+      "dividende": "6,90 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926021772/ex_981682.htm",
+    "date": "2026-06-26 09:32"
+  },
+  {
+    "company": "Ondas Inc.",
+    "cik": "1646188",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ondas Inc. publie un rapport 8-K sur des ventes d'actions non enregistrées",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026072365/ea0295696-8k_ondas.htm",
+    "date": "2026-06-26 09:03"
+  },
+  {
     "company": "i-80 Gold Corp.",
     "cik": "1853962",
     "form": "8-K",
