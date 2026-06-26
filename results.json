@@ -1,5 +1,73 @@
 [
   {
+    "company": "i-80 Gold Corp.",
+    "cik": "1853962",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "i-80 Gold Corp annonce la termination d'un accord de vente d'or",
+    "chiffres": {
+      "dividende": "4,800,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1853962/000119312526283989/d102923d8k.htm",
+    "date": "2026-06-26 08:17"
+  },
+  {
+    "company": "Wheeler Real Estate Investment Trust, Inc.",
+    "cik": "1527541",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Echange d'actions entre Wheeler Real Estate Investment Trust, Inc. et un investisseur",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000196/whlr-20260622.htm",
+    "date": "2026-06-26 08:16"
+  },
+  {
+    "company": "Cineverse Corp.",
+    "cik": "1173204",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cineverse Corp. publie son rapport financier pour les trois et douze mois clos le 31 mars 2026",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1173204/000119312526283983/cnvs-20260626.htm",
+    "date": "2026-06-26 08:15"
+  },
+  {
+    "company": "Replimune Group, Inc.",
+    "cik": "1737953",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Replimune Group annonce l'acceptation de la demande d'enregistrement de son traitement contre le melanome avance",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1737953/000110465926078009/tm2619037d1_8k.htm",
+    "date": "2026-06-26 08:14"
+  },
+  {
+    "company": "EXPAND ENERGY Corp",
+    "cik": "895126",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un dirigeant et nomination d'un remplaçant",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/895126/000089512626000036/exe-20260623.htm",
+    "date": "2026-06-26 07:55"
+  },
+  {
+    "company": "Jade Biosciences, Inc.",
+    "cik": "1798749",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jade Biosciences nomme Mark Eisner au conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1798749/000119312526283906/d127137d8k.htm",
+    "date": "2026-06-26 07:15"
+  },
+  {
     "company": "ANAVEX LIFE SCIENCES CORP.",
     "cik": "1314052",
     "form": "8-K",
