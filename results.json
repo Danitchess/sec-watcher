@@ -1,5 +1,88 @@
 [
   {
+    "company": "ANAVEX LIFE SCIENCES CORP.",
+    "cik": "1314052",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la date de l'assemblée générale annuelle 2026",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226000889/e7745_8-k.htm",
+    "date": "2026-06-26 06:15"
+  },
+  {
+    "company": "Greenpro Capital Corp.",
+    "cik": "1597846",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Greenpro Capital Corp annonce un reverse stock split",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1597846/000149315226030218/form8-k.htm",
+    "date": "2026-06-26 06:15"
+  },
+  {
+    "company": "ENDRA Life Sciences Inc.",
+    "cik": "1681682",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "ENDRA Life Sciences Inc. annonce une fusion avec ASP Isotopes Inc.",
+    "chiffres": {
+      "dividende": "50 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026072268/ea0295239-8k425_endra.htm",
+    "date": "2026-06-26 06:10"
+  },
+  {
+    "company": "BeOne Medicines Ltd.",
+    "cik": "1651308",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "BeOne Medicines Ltd. annonce un paiement d'impot sur le revenu en Chine",
+    "chiffres": {
+      "dividende": "RMB 446 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000020/bgne-20260626.htm",
+    "date": "2026-06-26 06:02"
+  },
+  {
+    "company": "Forgent Power Solutions, Inc.",
+    "cik": "2080126",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Forgent Power Solutions, Inc. annonce une modification de son accord de credit",
+    "chiffres": {
+      "dividende": "600,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2080126/000119312526283773/na-20260623.htm",
+    "date": "2026-06-26 06:02"
+  },
+  {
+    "company": "GEN Restaurant Group, Inc.",
+    "cik": "1891856",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de l'assemblée générale des actionnaires de GEN Restaurant Group, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1891856/000119312526283745/genk-20260623.htm",
+    "date": "2026-06-26 06:01"
+  },
+  {
+    "company": "Bakkt, Inc.",
+    "cik": "1820302",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Bakkt, Inc. sans indication de chiffres clés",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1820302/000162828026045627/bakkt-20260625.htm",
+    "date": "2026-06-25 18:19"
+  },
+  {
     "company": "Apollo Infrastructure Co LLC",
     "cik": "1971381",
     "form": "8-K",
