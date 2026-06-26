@@ -1,5 +1,90 @@
 [
   {
+    "company": "Outlook Therapeutics, Inc.",
+    "cik": "1649989",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Outlook Therapeutics regagne la conformite avec les regles de listing de Nasdaq",
+    "chiffres": {
+      "dividende": "1,00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926078337/tm2619105d1_8k.htm",
+    "date": "2026-06-26 17:30"
+  },
+  {
+    "company": "LGL GROUP INC",
+    "cik": "61004",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LGL Group annonce la negociation de ses droits de souscription sur le marche OTC",
+    "chiffres": {
+      "dividende": "6,90 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926021864/ex_982395.htm",
+    "date": "2026-06-26 17:30"
+  },
+  {
+    "company": "Graf Global Corp.",
+    "cik": "1897463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Graf Global Corp. annonce des accords de non-rachat d'actions",
+    "chiffres": {
+      "dividende": "10.86 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926078336/tm2618324d10_8k.htm",
+    "date": "2026-06-26 17:29"
+  },
+  {
+    "company": "LIQUIDITY SERVICES INC",
+    "cik": "1235468",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Liquidity Services Inc. modifie son accord de credit",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1235468/000119312526285740/lqdt-20260622.htm",
+    "date": "2026-06-26 17:28"
+  },
+  {
+    "company": "GameStop Corp.",
+    "cik": "1326380",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "GameStop annonce une prévision de bénéfice pour l'année fiscale 2026",
+    "chiffres": {
+      "Adjusted EBITDA": "$600 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1326380/000132638026000035/form8-kxguidance.htm",
+    "date": "2026-06-26 17:27"
+  },
+  {
+    "company": "Vertical Data Inc.",
+    "cik": "2033264",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC neutre de Vertical Data Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226030348/ex16-1.htm",
+    "date": "2026-06-26 17:22"
+  },
+  {
+    "company": "Akari Therapeutics Plc",
+    "cik": "1541157",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Akari Therapeutics modifie son accord d'achat de titres",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1541157/000149315226030341/ex10-1.htm",
+    "date": "2026-06-26 17:15"
+  },
+  {
     "company": "AUTOMATIC DATA PROCESSING INC",
     "cik": "8670",
     "form": "8-K",
