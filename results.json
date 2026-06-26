@@ -1,5 +1,65 @@
 [
   {
+    "company": "Fidelity Private Credit Fund",
+    "cik": "1920453",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Fidelity Private Credit Fund declare des distributions pour ses actionnaires",
+    "chiffres": {
+      "dividende": "0,1750 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1920453/000119312526284779/ck0001920453-20260626.htm",
+    "date": "2026-06-26 13:11"
+  },
+  {
+    "company": "PCS Edventures!, Inc.",
+    "cik": "1122020",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PCS Edventures! annonce ses résultats pour l'année fiscale 2026",
+    "chiffres": {
+      "revenu": "$6.3 million (-14.4%)",
+      "benefice": "$321,455 (-74.6%)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1122020/000149315226030244/ex99.htm",
+    "date": "2026-06-26 12:20"
+  },
+  {
+    "company": "MILLS MUSIC TRUST",
+    "cik": "66496",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Mills Music Trust publie un rapport financier",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/66496/000119312526284694/d567648d8k.htm",
+    "date": "2026-06-26 12:19"
+  },
+  {
+    "company": "PROASSURANCE CORP",
+    "cik": "1127703",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "ProAssurance Corporation presente son acte constitutif",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1127703/000112770326000032/ex31certificateofincorpora.htm",
+    "date": "2026-06-26 12:08"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un directeur de la banque",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000122/fhlbbost-20260622.htm",
+    "date": "2026-06-26 11:40"
+  },
+  {
     "company": "Catalyst Bancorp, Inc.",
     "cik": "1849867",
     "form": "8-K",
