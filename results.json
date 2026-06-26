@@ -1,5 +1,77 @@
 [
   {
+    "company": "AUTOMATIC DATA PROCESSING INC",
+    "cik": "8670",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Automatic Data Processing, Inc. conclut des accords de credit de 5,7 milliards et 3,5 milliards de dollars",
+    "chiffres": {
+      "dividende": "5,7 milliards $ et 3,5 milliards $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000095014226001884/eh260799361_8k.htm",
+    "date": "2026-06-26 17:03"
+  },
+  {
+    "company": "Hyperliquid Strategies Inc",
+    "cik": "2078856",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hyperliquid Strategies Inc annonce des changements dans les accords d'emploi de ses dirigeants",
+    "chiffres": {
+      "dividende": "400,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526285672/purr-20260622.htm",
+    "date": "2026-06-26 17:03"
+  },
+  {
+    "company": "BLACKSTONE MORTGAGE TRUST, INC.",
+    "cik": "1061630",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de Blackstone Mortgage Trust, Inc. sur les votes des actionnaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1061630/000119312526285668/d89825d8k.htm",
+    "date": "2026-06-26 17:01"
+  },
+  {
+    "company": "NextBoat Inc.",
+    "cik": "2067767",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de pret entre NextBoat Inc. et RLLT Capital, LLC",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226030328/ex10-1.htm",
+    "date": "2026-06-26 17:00"
+  },
+  {
+    "company": "AMEREN CORP",
+    "cik": "1002910",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ameren Missouri demande une augmentation de ses revenus annuels pour le service électrique",
+    "chiffres": {
+      "revenu": "343 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926078317/tm2619084d1_8k.htm",
+    "date": "2026-06-26 17:00"
+  },
+  {
+    "company": "Contineum Therapeutics, Inc.",
+    "cik": "1855175",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de la reunion annuelle des actionnaires de Contineum Therapeutics, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1855175/000162828026045804/ctnm-20260626.htm",
+    "date": "2026-06-26 16:48"
+  },
+  {
     "company": "ZRCN Inc.",
     "cik": "1901297",
     "form": "8-K",
