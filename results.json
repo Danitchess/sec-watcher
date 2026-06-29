@@ -1,5 +1,103 @@
 [
   {
+    "company": "BestGofer Inc.",
+    "cik": "1722556",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de cabinet d'audit pour BestGofer Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1722556/000172255626000025/bgof-20260623_8k.htm",
+    "date": "2026-06-29 15:25"
+  },
+  {
+    "company": "WinVest Acquisition Corp.",
+    "cik": "1854463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "WinVest Acquisition Corp. depose un formulaire 8-K",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226031048/ex16-1.htm",
+    "date": "2026-06-29 15:16"
+  },
+  {
+    "company": "Inland Real Estate Income Trust, Inc.",
+    "cik": "1528985",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Inland Real Estate Income Trust, Inc. annonce une distribution de $0,135600 par action",
+    "chiffres": {
+      "dividende": "$0,135600"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1528985/000119312526288223/ireit-20260629.htm",
+    "date": "2026-06-29 15:14"
+  },
+  {
+    "company": "IPC Alternative Real Estate Income Trust, Inc.",
+    "cik": "1959961",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Distribution trimestrielle aux actionnaires",
+    "chiffres": {
+      "dividende": "0.1042 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526288188/ck0001959961-20260629.htm",
+    "date": "2026-06-29 15:03"
+  },
+  {
+    "company": "Wells Fargo Commercial Mortgage Trust 2026-5C10",
+    "cik": "2136440",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Avis juridique sur l'emission de certificats de Wells Fargo Commercial Mortgage Trust 2026-5C10",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2136440/000153949726001882/n5926_exh5.htm",
+    "date": "2026-06-29 14:40"
+  },
+  {
+    "company": "BROOKFIELD REAL ESTATE INCOME TRUST INC.",
+    "cik": "1713407",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Declaration de distributions pour les actionnaires de Brookfield Real Estate Income Trust Inc.",
+    "chiffres": {
+      "dividende": "$0.0580"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000069/bra-20260629.htm",
+    "date": "2026-06-29 14:40"
+  },
+  {
+    "company": "AMEREN CORP",
+    "cik": "1002910",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ameren Missouri a emis des obligations pour 500 millions de dollars",
+    "chiffres": {
+      "dividende": "500 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926078757/tm2619063d1_8k.htm",
+    "date": "2026-06-29 14:35"
+  },
+  {
+    "company": "Triller Group Inc.",
+    "cik": "1769624",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Triller Group Inc.",
+    "chiffres": {
+      "dividende": "23.00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026073012/ea0296238-8k_triller.htm",
+    "date": "2026-06-29 14:01"
+  },
+  {
     "company": "BBCMS Mortgage Trust 2025-5C34",
     "cik": "2061325",
     "form": "8-K",
