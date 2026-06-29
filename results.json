@@ -1,5 +1,55 @@
 [
   {
+    "company": "Inhibikase Therapeutics, Inc.",
+    "cik": "1750149",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Inhibikase Therapeutics, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526286747/d68912d8k.htm",
+    "date": "2026-06-29 06:05"
+  },
+  {
+    "company": "Decoy Therapeutics Inc.",
+    "cik": "1615219",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Decoy Therapeutics Inc. annonce une placement prive de ses securites",
+    "chiffres": {
+      "gross proceeds": "3,5 million",
+      "additional gross proceeds": "17,5 million",
+      "Per Share Purchase Price": "5,91 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1615219/000119312526286737/dcoy-20260626.htm",
+    "date": "2026-06-29 06:03"
+  },
+  {
+    "company": "Volato Group, Inc.",
+    "cik": "1853070",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente d'actions entre Volato Group, Inc. et des acheteurs",
+    "chiffres": {
+      "dividende": "0,165 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226030377/ex10-1.htm",
+    "date": "2026-06-29 06:03"
+  },
+  {
+    "company": "Picard Medical, Inc.",
+    "cik": "2030617",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau membre au conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926021897/pmi20260626_8k.htm",
+    "date": "2026-06-29 06:02"
+  },
+  {
     "company": "Outlook Therapeutics, Inc.",
     "cik": "1649989",
     "form": "8-K",
