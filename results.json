@@ -1,5 +1,81 @@
 [
   {
+    "company": "Contango Silver &amp; Gold Inc.",
+    "cik": "1502377",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Contango Silver & Gold Inc. annonce une modification d'un accord d'achat de participation",
+    "chiffres": {
+      "dividende": "$5,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526288774/ctgo-20260623.htm",
+    "date": "2026-06-29 17:29"
+  },
+  {
+    "company": "Quantum Leap Acquisition Corp",
+    "cik": "2102155",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Quantum Leap Acquisition Corp annonce la clôture de l'exercice de l'option de sur-allocation",
+    "chiffres": {
+      "dividende": "10.00 $ par Unit"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2102155/000121390026073229/ea0296391-8k_quantum.htm",
+    "date": "2026-06-29 17:28"
+  },
+  {
+    "company": "MARTIN MARIETTA MATERIALS INC",
+    "cik": "916076",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente de securites entre LNA Holding SRL et Martin Marietta Materials, Inc.",
+    "chiffres": {
+      "dividende": "10,953,543 actions de capital ordinaire du Purchaser"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/916076/000095015726000770/ex2-1.htm",
+    "date": "2026-06-29 17:27"
+  },
+  {
+    "company": "GLOBE LIFE INC.",
+    "cik": "320335",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Globe Life Inc. conclut un accord de credit de 1 milliard de dollars",
+    "chiffres": {
+      "dividende": "1,000,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000198/a101wellsfargo-globelife.htm",
+    "date": "2026-06-29 17:26"
+  },
+  {
+    "company": "DIGITAL REALTY TRUST, L.P.",
+    "cik": "1494877",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Digital Realty Trust annonce l'acquisition d'interets dans des joint-ventures de data centers",
+    "chiffres": {
+      "dividende": "1,231 million $ en cash et 2,346,087,437.83 $ en actions, 377.6 million $ en cash, 1,2 milliard $ en net proceeds, 7,8 milliards $ en valeur brute"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1494877/000119312526288761/d100507d8k.htm",
+    "date": "2026-06-29 17:25"
+  },
+  {
+    "company": "ULIXE CORP.",
+    "cik": "1842138",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ulixe Corp dépose un formulaire 8-K/A pour inclure une lettre de Mario Manzo",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1842138/000182912626006998/ulixecorp_8ka1.htm",
+    "date": "2026-06-29 17:21"
+  },
+  {
     "company": "Z Squared Inc.",
     "cik": "1759186",
     "form": "8-K",
@@ -2211,50 +2287,5 @@
     "resume": "Robinhood Markets, Inc. annonce une offre privée de 2 milliards de dollars de notes senior convertibles",
     "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000074/hood-20260622.htm",
     "date": "2026-06-23 06:04"
-  },
-  {
-    "company": "Wheeler Real Estate Investment Trust, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Wheeler Real Estate Investment Trust engage CBRE pour une vente de portefeuille de 35 propriétés",
-    "url": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000187/whlr-20260619.htm",
-    "date": "2026-06-23 06:01"
-  },
-  {
-    "company": "Blend Labs, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Blend Labs, Inc. publie son rapport 8-K sur les resultats de son assemblee annuelle des actionnaires",
-    "url": "https://www.sec.gov/Archives/edgar/data/1855747/000185574726000045/blnd-20260617.htm",
-    "date": "2026-06-22 21:29"
-  },
-  {
-    "company": "DATA I/O CORP",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Data I/O Corporation annonce la clôture d'un investissement de 9 millions de dollars",
-    "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426006112/daio_8k.htm",
-    "date": "2026-06-22 20:44"
-  },
-  {
-    "company": "Tempest Therapeutics, Inc.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Les actionnaires de Tempest Therapeutics ont approuvé l'émission de nouvelles actions dans le cadre de deux propositions lors de l'assemblée générale extraordinaire.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1544227/000119312526278068/d158247d8k.htm",
-    "date": "2026-06-22 20:22"
-  },
-  {
-    "company": "Expedia Group, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Expedia Group, Inc. publie son rapport 8-K sur les votes des actionnaires lors de l'assemblée annuelle",
-    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000042/expe-20260617.htm",
-    "date": "2026-06-22 18:01"
   }
 ]
