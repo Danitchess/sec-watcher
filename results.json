@@ -1,5 +1,87 @@
 [
   {
+    "company": "ASCENT INDUSTRIES CO.",
+    "cik": "95953",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ascent Industries Co adopte un plan de trading pour le rachat d'actions",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/95953/000009595326000103/acnt-20260629.htm",
+    "date": "2026-06-29 10:30"
+  },
+  {
+    "company": "Nuveen Global Cities REIT, Inc.",
+    "cik": "1711799",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de l'assemblée générale annuelle de Nuveen Global Cities REIT, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1711799/000119312526286995/d84402d8k.htm",
+    "date": "2026-06-29 09:25"
+  },
+  {
+    "company": "AIR T INC",
+    "cik": "353184",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Air T INC annonce une acquisition et une expansion de son portefeuille",
+    "chiffres": {
+      "revenu": "$327.1M",
+      "benefice": "$10.1M"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/353184/000035318426000058/a2026-03x31airtinvestorp.htm",
+    "date": "2026-06-29 09:24"
+  },
+  {
+    "company": "Solidion Technology Inc.",
+    "cik": "1881551",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Solidion Technology Inc. annonce la date de son assemblee annuelle des actionnaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026072902/ea0296260-8k_solidion.htm",
+    "date": "2026-06-29 09:23"
+  },
+  {
+    "company": "MiniMed Group, Inc.",
+    "cik": "2062583",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MiniMed Group, Inc. annonce des changements dans son conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2062583/000110465926078588/tm2619270d1_8k.htm",
+    "date": "2026-06-29 09:22"
+  },
+  {
+    "company": "Marathon Petroleum Corp",
+    "cik": "1510295",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Deces d'un membre du conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000055/mpc-20260626.htm",
+    "date": "2026-06-29 09:19"
+  },
+  {
+    "company": "SANDRIDGE ENERGY INC",
+    "cik": "1349436",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "SandRidge Energy acquiert des propriétés pétrolières et gazières pour 65 millions de dollars",
+    "chiffres": {
+      "dividende": "$65,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1349436/000121390026072879/ea0296206-8k_sandridge.htm",
+    "date": "2026-06-29 08:49"
+  },
+  {
     "company": "Inhibikase Therapeutics, Inc.",
     "cik": "1750149",
     "form": "8-K",
