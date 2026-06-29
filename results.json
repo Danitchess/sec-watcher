@@ -1,5 +1,77 @@
 [
   {
+    "company": "BBCMS Mortgage Trust 2025-5C34",
+    "cik": "2061325",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de servicer pour le prêt Soho House Chicago",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2061325/000188852426011566/bcr25c34_8k-06292026.htm",
+    "date": "2026-06-29 13:09"
+  },
+  {
+    "company": "NRC HEALTH",
+    "cik": "70487",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de NRC Health sans indication de chiffres clés",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/70487/000143774926021938/ex_981879.htm",
+    "date": "2026-06-29 13:04"
+  },
+  {
+    "company": "BBCMS Mortgage Trust 2025-5C33",
+    "cik": "2055003",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de servicer pour BBCMS Mortgage Trust 2025-5C33",
+    "chiffres": {
+      "dividende": "217 Billion, 211 Billion, 194.7 billion, 193.3 Billion"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2055003/000188852426011546/bcr25c33_8k-06292026.htm",
+    "date": "2026-06-29 13:01"
+  },
+  {
+    "company": "Stone Point Credit Corp",
+    "cik": "1825384",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Distribution de 0,430 $ par action",
+    "chiffres": {
+      "dividende": "0,430 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1825384/000110465926078715/tm2619117d1_8k.htm",
+    "date": "2026-06-29 13:01"
+  },
+  {
+    "company": "Kennedy Lewis Capital Co",
+    "cik": "1911321",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Kennedy Lewis Capital Co",
+    "chiffres": {
+      "dividende": "19,81 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000023/ck0001911321-20260625.htm",
+    "date": "2026-06-29 12:58"
+  },
+  {
+    "company": "APOGEE ENTERPRISES, INC.",
+    "cik": "6845",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de l'assemblée générale des actionnaires d'Apogee Enterprises, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/6845/000000684526000060/apog-20260624.htm",
+    "date": "2026-06-29 11:35"
+  },
+  {
     "company": "ASCENT INDUSTRIES CO.",
     "cik": "95953",
     "form": "8-K",
