@@ -1,5 +1,91 @@
 [
   {
+    "company": "Z Squared Inc.",
+    "cik": "1759186",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Z Squared Inc. annonce la completion de son utilisation de la SEPA et son inclusion dans les indices Russell 3000 et Russell 2000",
+    "chiffres": {
+      "dividende": "$20,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526002708/zsquared8k062926.htm",
+    "date": "2026-06-29 17:19"
+  },
+  {
+    "company": "Beneficient",
+    "cik": "1775734",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Beneficient",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1775734/000177573426000013/ben-20260629.htm",
+    "date": "2026-06-29 17:18"
+  },
+  {
+    "company": "Western Uranium &amp; Vanadium Corp.",
+    "cik": "1621906",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de Western Uranium & Vanadium Corp. sur son assemblee generale annuelle",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1621906/000121390026073201/ea0296259-8k_western.htm",
+    "date": "2026-06-29 17:15"
+  },
+  {
+    "company": "Oncotelic Therapeutics, Inc.",
+    "cik": "908259",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente de titres entre Oncotelic Therapeutics et Pacific Pier Capital",
+    "chiffres": {
+      "dividende": "157,000.80 $",
+      "Note": "178,410.00 $",
+      "Purchase Price": "157,000.80 $",
+      "legal fees": "7,000.00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/908259/000149315226031124/ex10-1.htm",
+    "date": "2026-06-29 17:15"
+  },
+  {
+    "company": "EWSB Bancorp, Inc. /MD/",
+    "cik": "2013792",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EWSB Bancorp, Inc. annonce une emission d'actions",
+    "chiffres": {
+      "dividende": "2,616,820$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2013792/000094337426000239/form8k.htm",
+    "date": "2026-06-29 17:08"
+  },
+  {
+    "company": "Lexeo Therapeutics, Inc.",
+    "cik": "1907108",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de la reunion annuelle des actionnaires de Lexeo Therapeutics, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526288703/lxeo-20260625.htm",
+    "date": "2026-06-29 17:06"
+  },
+  {
+    "company": "Domtar CORP",
+    "cik": "1381531",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1381531/000119312526288657/d95593d8k.htm",
+    "date": "2026-06-29 16:59"
+  },
+  {
     "company": "BestGofer Inc.",
     "cik": "1722556",
     "form": "8-K",
