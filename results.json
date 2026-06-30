@@ -1,5 +1,82 @@
 [
   {
+    "company": "Nova Minerals Corp",
+    "cik": "1852551",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nova Minerals corrige les informations sur sa capitalisation boursiere",
+    "chiffres": {
+      "dividende": "US$2,1 milliard (inexact), US$166 million, US$43,4 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226031184/ex99-1.htm",
+    "date": "2026-06-30 06:45"
+  },
+  {
+    "company": "Ingredion Inc",
+    "cik": "1046257",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ingredion Inc. annonce la vente de 51% de Rafhan Maize Products Co. Ltd.",
+    "chiffres": {
+      "revenu": "$250 million",
+      "dividende": "$165 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1046257/000104625726000210/ingr-20260630.htm",
+    "date": "2026-06-30 06:45"
+  },
+  {
+    "company": "FORUM MARKETS Inc",
+    "cik": "1690080",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Forum Markets Inc. modifie son programme de rachat d'actions",
+    "chiffres": {
+      "dividende": "250 million $ -> 100 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026073352/ea0296380-8k_forum.htm",
+    "date": "2026-06-30 06:30"
+  },
+  {
+    "company": "CREATIVE REALITIES, INC.",
+    "cik": "1356093",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Creative Realities, Inc. annonce une offre publique de 2,528,571 actions",
+    "chiffres": {
+      "dividende": "10,9 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926022083/crex20260626c_8k.htm",
+    "date": "2026-06-30 06:15"
+  },
+  {
+    "company": "MAGNACHIP SEMICONDUCTOR Corp",
+    "cik": "1325702",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction chez Magnachip Semiconductor Corporation",
+    "chiffres": {
+      "dividende": "560,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526289285/mx-20260630.htm",
+    "date": "2026-06-30 06:10"
+  },
+  {
+    "company": "AFLAC INC",
+    "cik": "4977",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Aflac annonce une violation de donnees en Japan",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026046124/afl-20260630.htm",
+    "date": "2026-06-30 06:03"
+  },
+  {
     "company": "Contango Silver &amp; Gold Inc.",
     "cik": "1502377",
     "form": "8-K",
@@ -2233,59 +2310,5 @@
     "resume": "Faraday Future annonce le lancement de son FF EAI Robot World et présente de nouveaux produits",
     "url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026070874/ea0295527-8k_faraday.htm",
     "date": "2026-06-23 09:05"
-  },
-  {
-    "company": "Clean Energy Fuels Corp.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Clean Energy Fuels Corp. nomme un nouveau directeur des operations",
-    "url": "https://www.sec.gov/Archives/edgar/data/1368265/000110465926076660/tm2618401d1_8k.htm",
-    "date": "2026-06-23 09:00"
-  },
-  {
-    "company": "TruBridge, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "TruBridge, Inc. annonce une mise a jour sur son processus de fusion avec Inventurus Knowledge Solutions, Inc.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1169445/000119312526278592/d113709d8k.htm",
-    "date": "2026-06-23 09:00"
-  },
-  {
-    "company": "Odyssey Therapeutics, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K pour Odyssey Therapeutics, Inc. sans information financiere significative",
-    "url": "https://www.sec.gov/Archives/edgar/data/1882782/000119312526278581/odtx-20260623.htm",
-    "date": "2026-06-23 08:45"
-  },
-  {
-    "company": "Eureka Acquisition Corp",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Eureka Acquisition Corp dépose un rapport 8-K pour annoncer une modification de son accord de combinaison d'entreprises",
-    "url": "https://www.sec.gov/Archives/edgar/data/2000410/000121390026070821/ea0295465-8k425_eureka.htm",
-    "date": "2026-06-23 06:05"
-  },
-  {
-    "company": "Kardigan, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Kardigan, Inc. dépose un rapport 8-K pour annoncer des modifications à ses statuts et règlements internes",
-    "url": "https://www.sec.gov/Archives/edgar/data/2123613/000119312526278429/d114621d8k.htm",
-    "date": "2026-06-23 06:05"
-  },
-  {
-    "company": "Robinhood Markets, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Robinhood Markets, Inc. annonce une offre privée de 2 milliards de dollars de notes senior convertibles",
-    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000074/hood-20260622.htm",
-    "date": "2026-06-23 06:04"
   }
 ]
