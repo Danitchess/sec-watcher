@@ -1,5 +1,110 @@
 [
   {
+    "company": "CAL-MAINE FOODS INC",
+    "cik": "16160",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cal-Maine Foods Inc. a conclu un accord avec le DOJ pour regler des allegations de violations antitrust",
+    "chiffres": {
+      "dividende": "1,5 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/16160/000156276226000076/calm-20260629_8K.htm",
+    "date": "2026-06-30 09:05"
+  },
+  {
+    "company": "BayFirst Financial Corp.",
+    "cik": "1649739",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "BayFirst Financial Corp. annonce ses resultats du deuxieme trimestre",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1649739/000164973926000037/bafn-20260630.htm",
+    "date": "2026-06-30 09:01"
+  },
+  {
+    "company": "Celularity Inc",
+    "cik": "1752828",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de pret entre Celularity Inc. et Philip & Daniele Barach Family Trust",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226031216/ex10-1.htm",
+    "date": "2026-06-30 09:00"
+  },
+  {
+    "company": "Hancock Park Corporate Income, Inc.",
+    "cik": "1661306",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Hancock Park Corporate Income, Inc. declare une distribution de 0,01$ par action",
+    "chiffres": {
+      "dividende": "0,01$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000047/ck0001661306-20260626.htm",
+    "date": "2026-06-30 09:00"
+  },
+  {
+    "company": "AUTOLIV INC",
+    "cik": "1034670",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un dirigeant et nomination d'un successeur",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526289515/alv-20260624.htm",
+    "date": "2026-06-30 09:00"
+  },
+  {
+    "company": "PPL Corp",
+    "cik": "922224",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "PPL Corp nomme un nouveau membre au conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000040/ppl-06302026exhibit991.htm",
+    "date": "2026-06-30 08:50"
+  },
+  {
+    "company": "SS Innovations International, Inc.",
+    "cik": "1676163",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe SS Innovations International, Inc. est nommee gagnante dans la categorie Outstanding Company aux 2026 Surgical Robotics Industry Awards",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026073399/ea0296359-8k_ssinnovat.htm",
+    "date": "2026-06-30 08:35"
+  },
+  {
+    "company": "Moleculin Biotech, Inc.",
+    "cik": "1659617",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926022087/ex_983037_source.htm",
+    "date": "2026-06-30 08:29"
+  },
+  {
+    "company": "Sharplink, Inc.",
+    "cik": "1981535",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Sharplink acquiert 10 000 ETH et rachète plus de 2,1 millions d'actions",
+    "chiffres": {
+      "dividende": "75 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1981535/000149315226031202/ex99-1.htm",
+    "date": "2026-06-30 08:15"
+  },
+  {
     "company": "Nova Minerals Corp",
     "cik": "1852551",
     "form": "8-K",
@@ -2229,86 +2334,5 @@
     "resume": "Rapport financier de la Federal Home Loan Bank of Chicago sans indication de tendance positive ou negative",
     "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000111/fhlbc-20260617.htm",
     "date": "2026-06-23 11:31"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines sans indication de tendance positive ou negative",
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000096/fhlbdm-20260617.htm",
-    "date": "2026-06-23 11:14"
-  },
-  {
-    "company": "Ford Credit Auto Owner Trust 2026-B",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K pour l'emission de titres adosses a des actifs par Ford Credit Auto Owner Trust 2026-B",
-    "url": "https://www.sec.gov/Archives/edgar/data/2137917/000110465926076704/tm2617048d10_8k.htm",
-    "date": "2026-06-23 11:04"
-  },
-  {
-    "company": "FORD CREDIT AUTO RECEIVABLES TWO LLC",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K pour Ford Credit Auto Receivables Two LLC sans indication de tendance positive ou negative",
-    "url": "https://www.sec.gov/Archives/edgar/data/1129987/000110465926076704/tm2617048d10_8k.htm",
-    "date": "2026-06-23 11:04"
-  },
-  {
-    "company": "Federal Home Loan Bank of Indianapolis",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Indianapolis publie un rapport 8-K sur la creation d'une obligation financiere directe",
-    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000131/fhlbi-20260617.htm",
-    "date": "2026-06-23 10:56"
-  },
-  {
-    "company": "Federal Home Loan Bank of Topeka",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Topeka sans indication de tendance positive ou negative",
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000125/fhlbt-20260617.htm",
-    "date": "2026-06-23 10:43"
-  },
-  {
-    "company": "Bank First Corp",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bank First Corp annonce l'élection de trois nouveaux administrateurs à son conseil d'administration",
-    "url": "https://www.sec.gov/Archives/edgar/data/1746109/000110465926076688/tm2618556d1_8k.htm",
-    "date": "2026-06-23 10:27"
-  },
-  {
-    "company": "LCI INDUSTRIES",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LCI Industries publie un rapport 8-K sur les accords d'emploi de deux de ses dirigeants",
-    "url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000038/lcii-20260619.htm",
-    "date": "2026-06-23 09:25"
-  },
-  {
-    "company": "Carnival Corp Ltd.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Carnival Corp Ltd annonce des résultats trimestriels records avec une augmentation de 20% de son bénéfice net ajusté",
-    "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000086/a20262qearningsrelease8-k.htm",
-    "date": "2026-06-23 09:16"
-  },
-  {
-    "company": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Faraday Future annonce le lancement de son FF EAI Robot World et présente de nouveaux produits",
-    "url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026070874/ea0295527-8k_faraday.htm",
-    "date": "2026-06-23 09:05"
   }
 ]
