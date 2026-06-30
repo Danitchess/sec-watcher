@@ -1,5 +1,94 @@
 [
   {
+    "company": "LAGO Evergreen Credit",
+    "cik": "2043759",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "LAGO Evergreen Credit declare une distribution de dividendes",
+    "chiffres": {
+      "dividende": "$0.87 par action, total de $4,899,879"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526290157/ck0002043759-20260629.htm",
+    "date": "2026-06-30 14:08"
+  },
+  {
+    "company": "Graphene &amp; Solar Technologies Ltd",
+    "cik": "1497649",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1497649/000190359626000268/ex99_1.htm",
+    "date": "2026-06-30 14:06"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations consolidees",
+    "chiffres": {
+      "dividende": "30,000,000 $, 10,000,000 $, 300,000,000 $, 150,000,000 $, 200,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000124/fhlbbost-20260624.htm",
+    "date": "2026-06-30 13:50"
+  },
+  {
+    "company": "CONDUENT Inc",
+    "cik": "1677703",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Conduent Inc annonce la vente de son activite de solutions de peage",
+    "chiffres": {
+      "dividende": "70 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000077/cndt-20260629.htm",
+    "date": "2026-06-30 13:40"
+  },
+  {
+    "company": "EQT Exeter Real Estate Income Trust, Inc.",
+    "cik": "1946997",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EQT Exeter Real Estate Income Trust, Inc. publie son rapport 8-K",
+    "chiffres": {
+      "dividende": "0,04326 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000194699726000006/ck0001946997-20260624.htm",
+    "date": "2026-06-30 13:35"
+  },
+  {
+    "company": "UBS Commercial Mortgage Trust 2018-C11",
+    "cik": "1740040",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de la societe UBS Commercial Mortgage Trust 2018-C11",
+    "chiffres": {
+      "dividende": "$4,789,323.71, $2,347.35, $3,091.46, $42,454.42"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1740040/000188852426012042/ubs18c11_8k-06242026.htm",
+    "date": "2026-06-30 13:31"
+  },
+  {
+    "company": "Crestline Lending Solutions, LLC",
+    "cik": "2035713",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Crestline Lending Solutions, LLC declare une distribution reguliere de 9,37 millions de dollars",
+    "chiffres": {
+      "dividende": "$9,370,000.00 ($0.50 par action)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026046182/cls-20260625.htm",
+    "date": "2026-06-30 12:29"
+  },
+  {
     "company": "Hancock Park Corporate Income, Inc.",
     "cik": "1661306",
     "form": "8-K",
@@ -2303,68 +2392,5 @@
     "resume": "CBAK Energy Technology Ltd annonce une fusion par changement de domicile",
     "url": "https://www.sec.gov/Archives/edgar/data/2086841/000121390026071131/ea0295552-8k12b_cbak.htm",
     "date": "2026-06-23 16:30"
-  },
-  {
-    "company": "ENERGY FUELS INC",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le depot SEC ne contient aucune information significative sur la societe Energy Fuels Inc.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1385849/000106299326003317/exhibit99-1.htm",
-    "date": "2026-06-23 16:29"
-  },
-  {
-    "company": "ASHFORD HOSPITALITY TRUST INC",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ashford Hospitality Trust Inc. annonce la vente d'un hôtel pour 26,85 millions de dollars",
-    "url": "https://www.sec.gov/Archives/edgar/data/1232582/000123258226000154/aht-20260618.htm",
-    "date": "2026-06-23 16:29"
-  },
-  {
-    "company": "Eagle Point Trinity Senior Secured Lending Co",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Eagle Point Trinity Senior Secured Lending Co publie un rapport 8-K sans information significative",
-    "url": "https://www.sec.gov/Archives/edgar/data/2027033/000110465926076831/tm2618576d1_8k.htm",
-    "date": "2026-06-23 16:29"
-  },
-  {
-    "company": "AdvanSix Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier neutre d'AdvanSix Inc.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000040/asix-20260622.htm",
-    "date": "2026-06-23 16:28"
-  },
-  {
-    "company": "CENTURY CASINOS INC /CO/",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier neutre de la societe CENTURY CASINOS INC /CO/",
-    "url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000035/cnty-20260622x8k.htm",
-    "date": "2026-06-23 16:28"
-  },
-  {
-    "company": "TALPHERA, INC.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Les actionnaires de Talphera, Inc. ont approuvé les propositions présentées lors de l'assemblée générale annuelle.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1427925/000143774926021446/acrx20260622_8k.htm",
-    "date": "2026-06-23 16:27"
-  },
-  {
-    "company": "Blackstone Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Blackstone Inc. publie un rapport 8-K avec des informations financières préliminaires",
-    "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526279498/d122067d8k.htm",
-    "date": "2026-06-23 16:23"
   }
 ]
