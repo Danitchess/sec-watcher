@@ -1,5 +1,105 @@
 [
   {
+    "company": "Antares Strategic Credit Fund",
+    "cik": "1993402",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Antares Strategic Credit Fund annonce une distribution reguliere et une offre de parts sociales",
+    "chiffres": {
+      "dividende": "$0.1847"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1993402/000119312526290600/ck0001993402-20260630.htm",
+    "date": "2026-06-30 16:25"
+  },
+  {
+    "company": "HORIZON BANCORP INC /IN/",
+    "cik": "706129",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Verdict civil contre la filiale de Horizon Bancorp",
+    "chiffres": {
+      "dividende": "3,0 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/706129/000070612926000054/hbnc-20260624.htm",
+    "date": "2026-06-30 16:25"
+  },
+  {
+    "company": "Verizon Master Trust",
+    "cik": "1844964",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par Verizon Master Trust",
+    "chiffres": {
+      "dividende": "994,210,000 $, 75,000,000 $, 81,740,000 $, 49,050,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1844964/000092963826002479/exhibit5-1.htm",
+    "date": "2026-06-30 16:24"
+  },
+  {
+    "company": "Verizon ABS II LLC",
+    "cik": "1836995",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par Verizon ABS II LLC",
+    "chiffres": {
+      "dividende": "994,210,000 $, 75,000,000 $, 81,740,000 $, 49,050,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1836995/000092963826002479/exhibit5-1.htm",
+    "date": "2026-06-30 16:24"
+  },
+  {
+    "company": "W. P. Carey Inc.",
+    "cik": "1025378",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "W. P. Carey Inc. annonce une emission d'obligations senior",
+    "chiffres": {
+      "dividende": "$350 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1025378/000110465926079341/tm2619376d1_8k.htm",
+    "date": "2026-06-30 16:23"
+  },
+  {
+    "company": "INTERNATIONAL BATTERY METALS LTD.",
+    "cik": "1786318",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement d'auditeur pour International Battery Metals Ltd.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526290596/ibatf-20260624.htm",
+    "date": "2026-06-30 16:23"
+  },
+  {
+    "company": "LABCORP HOLDINGS INC.",
+    "cik": "920148",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Labcorp annonce la date de publication de ses resultats financiers du deuxieme trimestre 2026",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000150/formpr2q26ex991earningsann.htm",
+    "date": "2026-06-30 16:20"
+  },
+  {
+    "company": "Disc Medicine, Inc.",
+    "cik": "1816736",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Disc Medicine, Inc. annonce une modification de son accord de pret",
+    "chiffres": {
+      "dividende": "30,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526290542/iron-20260625.htm",
+    "date": "2026-06-30 16:16"
+  },
+  {
     "company": "LAGO Evergreen Credit",
     "cik": "2043759",
     "form": "8-K",
@@ -2320,77 +2420,5 @@
     "resume": "Le depot SEC de Bubblr Inc. contient une declaration neutre de la part de BCRG Group",
     "url": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226029839/ex16-1.htm",
     "date": "2026-06-23 18:42"
-  },
-  {
-    "company": "SELECTIS HEALTH, INC.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K sans indication de ton",
-    "url": "https://www.sec.gov/Archives/edgar/data/727346/000149315226029837/ex10-1.htm",
-    "date": "2026-06-23 18:03"
-  },
-  {
-    "company": "ENANTA PHARMACEUTICALS INC",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Enanta Pharmaceuticals perd son appel contre Pfizer concernant la validite d'un brevet",
-    "url": "https://www.sec.gov/Archives/edgar/data/1177648/000119312526279803/d133783d8k.htm",
-    "date": "2026-06-23 17:28"
-  },
-  {
-    "company": "CNL Strategic Capital, LLC",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe CNL Strategic Capital, LLC annonce des resultats financiers positifs avec une augmentation de la valeur nette des actifs",
-    "url": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126013287/cnl-8k_062326.htm",
-    "date": "2026-06-23 17:23"
-  },
-  {
-    "company": "PROASSURANCE CORP",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "ProAssurance annonce la reception de toutes les approbations regulatorires necessaires pour la finalisation de la fusion avec The Doctors Company",
-    "url": "https://www.sec.gov/Archives/edgar/data/1127703/000112770326000024/pra-20260623.htm",
-    "date": "2026-06-23 17:21"
-  },
-  {
-    "company": "FiEE, Inc.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "FiEE, Inc. conclut un accord de vente avec A.G.P./Alliance Global Partners pour offrir et vendre des actions ordinaires",
-    "url": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626006781/fiee_8k.htm",
-    "date": "2026-06-23 17:20"
-  },
-  {
-    "company": "United Parks &amp; Resorts Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier neutre de United Parks & Resorts Inc.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526279790/prks-20260616.htm",
-    "date": "2026-06-23 17:20"
-  },
-  {
-    "company": "Pioneer Acquisition I Corp",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Pioneer Acquisition I Corp nomme un nouveau directeur independant",
-    "url": "https://www.sec.gov/Archives/edgar/data/2040381/000182912626006778/pioneeracq1_8k.htm",
-    "date": "2026-06-23 17:15"
-  },
-  {
-    "company": "CBAK Energy Technology Ltd",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "CBAK Energy Technology Ltd annonce une fusion par changement de domicile",
-    "url": "https://www.sec.gov/Archives/edgar/data/2086841/000121390026071131/ea0295552-8k12b_cbak.htm",
-    "date": "2026-06-23 16:30"
   }
 ]
