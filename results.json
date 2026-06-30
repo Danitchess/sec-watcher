@@ -1,5 +1,109 @@
 [
   {
+    "company": "Hancock Park Corporate Income, Inc.",
+    "cik": "1661306",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hancock Park Corporate Income, Inc. termine un contrat de credit revolving",
+    "chiffres": {
+      "dividende": "7,5 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000049/ck0001661306-20260629.htm",
+    "date": "2026-06-30 11:30"
+  },
+  {
+    "company": "Federal Home Loan Bank of Cincinnati",
+    "cik": "1326771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Cincinnati",
+    "chiffres": {
+      "dividende": "500,000,000$ et 1,000,000,000$ et 1,000,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000107/fhlbcin-20260626.htm",
+    "date": "2026-06-30 11:30"
+  },
+  {
+    "company": "Brand Engagement Network Inc.",
+    "cik": "1838163",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Brand Engagement Network achete Cataneo, une societe de logiciels pour les operations publicitaires",
+    "chiffres": {
+      "revenu": "8,636,708 €"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226031238/ex99-1.htm",
+    "date": "2026-06-30 11:18"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Chicago",
+    "chiffres": {
+      "dividende": "55,000,000 $ et 10,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000117/fhlbc-20260624.htm",
+    "date": "2026-06-30 11:17"
+  },
+  {
+    "company": "Invesco Real Estate Income Trust Inc.",
+    "cik": "1756761",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Invesco Real Estate Income Trust Inc. declare des distributions pour chaque classe d'actions",
+    "chiffres": {
+      "dividende": "$0.1380"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000097/inreit-20260630.htm",
+    "date": "2026-06-30 11:15"
+  },
+  {
+    "company": "Sterling Real Estate Trust",
+    "cik": "1412502",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de la reunion annuelle des actionnaires de Sterling Real Estate Trust",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1412502/000110465926079183/sret-20260625x8k.htm",
+    "date": "2026-06-30 11:06"
+  },
+  {
+    "company": "STRATS(SM) Trust For Goldman Sachs Capital I Securities, Series 2005-1",
+    "cik": "1328989",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Distribution de certificats sans changement notable",
+    "chiffres": {
+      "revenu": "$18,119.12",
+      "dividende": "$3.78664995"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1328989/000199937126013815/ex99-1.htm",
+    "date": "2026-06-30 09:55"
+  },
+  {
+    "company": "STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3",
+    "cik": "1339920",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Distribution de certificats STRATS TRUST FOR GOLDMAN SACHS CAPITAL I SECURITIES, SERIES 2005-3",
+    "chiffres": {
+      "revenu": "$83,508.86",
+      "dividende": "$4.26130836"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1339920/000199937126013812/ex99-1.htm",
+    "date": "2026-06-30 09:51"
+  },
+  {
     "company": "CAL-MAINE FOODS INC",
     "cik": "16160",
     "form": "8-K",
@@ -2262,77 +2366,5 @@
     "resume": "Blackstone Inc. publie un rapport 8-K avec des informations financières préliminaires",
     "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526279498/d122067d8k.htm",
     "date": "2026-06-23 16:23"
-  },
-  {
-    "company": "Millrose Properties, Inc.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Millrose Properties, Inc. annonce une distribution de dividendes trimestriels",
-    "url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526279485/ck0002017206-20260623.htm",
-    "date": "2026-06-23 16:20"
-  },
-  {
-    "company": "Wells Fargo Commercial Mortgage Trust 2026-5C10",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Un accord de souscription pour l'émission de certificats de pass-through hypothécaire commercial",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136440/000153949726001844/exh1_1-ua.htm",
-    "date": "2026-06-23 14:09"
-  },
-  {
-    "company": "All In FutureTech Alliance, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de direction chez All In FutureTech Alliance, Inc. avec le depart du CEO et la nomination d'un nouveau CEO et d'un nouveau president du conseil d'administration",
-    "url": "https://www.sec.gov/Archives/edgar/data/1708341/000121390026070988/ea0295505-8k_allin.htm",
-    "date": "2026-06-23 13:38"
-  },
-  {
-    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-5",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier neutre sur les distributions de certificats de la serie 2003-5",
-    "url": "https://www.sec.gov/Archives/edgar/data/1269371/000153949726001838/n5835_x3-8k.htm",
-    "date": "2026-06-23 13:28"
-  },
-  {
-    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-4",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier neutre sur les distributions et les intérêts pour les certificats de la série 2003-4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1264157/000153949726001837/n5834_x3-8k.htm",
-    "date": "2026-06-23 13:27"
-  },
-  {
-    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERT SER 2003 3",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier neutre sur les distributions de la societe",
-    "url": "https://www.sec.gov/Archives/edgar/data/1255604/000153949726001836/n5833_x3-8k.htm",
-    "date": "2026-06-23 13:27"
-  },
-  {
-    "company": "Cottonwood Communities, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cottonwood Communities, Inc. annonce une mise a jour sur son offre de serie A de stock convertible",
-    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000115/cci-20260617.htm",
-    "date": "2026-06-23 12:50"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Chicago sans indication de tendance positive ou negative",
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000111/fhlbc-20260617.htm",
-    "date": "2026-06-23 11:31"
   }
 ]
