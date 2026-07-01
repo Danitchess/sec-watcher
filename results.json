@@ -1,5 +1,42 @@
 [
   {
+    "company": "Stonepeak-Plus Infrastructure Fund LP",
+    "cik": "2045458",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Le fonds Stonepeak-Plus Infrastructure Fund LP a vendu des units pour un montant total d'environ 28,996,500 $",
+    "chiffres": {
+      "dividende": "90,501,313 $, 1,436,810,679 $, 1,236,824,752 $, 199,985,928 $, 28,996,500 $, 18,671,500 $, 510,000 $, 9,715,000 $, 100,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2045458/000204545826000024/sp-20260625.htm",
+    "date": "2026-07-01 14:19"
+  },
+  {
+    "company": "Triller Group Inc.",
+    "cik": "1769624",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Triller Group Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026074149/ea0296710-8ka1_triller.htm",
+    "date": "2026-07-01 14:04"
+  },
+  {
+    "company": "FIRST BANCORP /PR/",
+    "cik": "1057706",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Informations sur les changements de direction et les arrangements de rémunération",
+    "chiffres": {
+      "dividende": "$300, $475,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1057706/000114036126027163/ef20077224_8ka.htm",
+    "date": "2026-07-01 13:58"
+  },
+  {
     "company": "i-80 Gold Corp.",
     "cik": "1853962",
     "form": "8-K",
@@ -2392,40 +2429,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2132838/000092963826002315/eart2026-3_8k.htm",
     "date": "2026-06-24 13:32"
-  },
-  {
-    "company": "EFCAR, LLC",
-    "cik": "1654238",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "EFCAR, LLC a emis des obligations adossees a des actifs",
-    "chiffres": {
-      "dividende": "142,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1654238/000092963826002315/eart2026-3_8k.htm",
-    "date": "2026-06-24 13:32"
-  },
-  {
-    "company": "Exeter Automobile Receivables Trust 2026-3",
-    "cik": "2132838",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport courant de la societe Exeter Automobile Receivables Trust 2026-3",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2132838/000092963826002314/eart2026-3_8k.htm",
-    "date": "2026-06-24 13:30"
-  },
-  {
-    "company": "BT Brands, Inc.",
-    "cik": "1718224",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de la reunion annuelle des actionnaires de BT Brands, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1718224/000147793226003966/btbd_8k.htm",
-    "date": "2026-06-24 11:29"
   }
 ]
