@@ -1,5 +1,83 @@
 [
   {
+    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+    "cik": "1310488",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Bioforce Nanoscience acquiert des leases pétroliers et gazières au Nevada",
+    "chiffres": {
+      "dividende": "12.5%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000087/bfnh-07012026_8k.htm",
+    "date": "2026-07-01 09:15"
+  },
+  {
+    "company": "TECOGEN INC.",
+    "cik": "1537435",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Augmentation des salaires des dirigeants",
+    "chiffres": {
+      "dividende": "220,500$ (+5%), 206,000$ (+3%), 185,400$ (+3%), 152,260$ (+3%), 185,400$ (+3%)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1537435/000153743526000053/tgen-20260626.htm",
+    "date": "2026-07-01 09:15"
+  },
+  {
+    "company": "BED BATH &amp; BEYOND, INC.",
+    "cik": "1130713",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Bed Bath & Beyond acquiert TwoPonds, Inc.",
+    "chiffres": {
+      "dividende": "$35,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126027094/ef20077159_8k.htm",
+    "date": "2026-07-01 09:11"
+  },
+  {
+    "company": "Vistance Networks, Inc.",
+    "cik": "1517228",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Vistance Networks, Inc. a finalise la vente de son segment RUCKUS pour 1,846 milliard de dollars",
+    "chiffres": {
+      "dividende": "1,846 milliard de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526291679/visn-20260701.htm",
+    "date": "2026-07-01 09:09"
+  },
+  {
+    "company": "REX AMERICAN RESOURCES Corp",
+    "cik": "744187",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Modification des contrats d'emploi de dirigeants",
+    "chiffres": {
+      "dividende": "225,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/744187/000093041326002006/c116858_8k-ixbrl.htm",
+    "date": "2026-07-01 09:08"
+  },
+  {
+    "company": "North Haven Net REIT",
+    "cik": "1999784",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "North Haven Net REIT declare des distributions pour ses actionnaires",
+    "chiffres": {
+      "dividende": "$ 0.1021, $ 0.1140, $ 0.1168, $ 0.1288, $ 0.1563"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000049/ck0001999784-20260630.htm",
+    "date": "2026-07-01 08:58"
+  },
+  {
     "company": "Alcoa Corp",
     "cik": "1675149",
     "form": "8-K",
@@ -2386,83 +2464,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1611647/000092963826002308/a8k.htm",
     "date": "2026-06-24 09:12"
-  },
-  {
-    "company": "MOLSON COORS BEVERAGE CO",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Molson Coors Beverage Company annonce le depart temporaire de son PDG pour l'EMEA et l'APAC",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": ""
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926077086/tm2618613d1_8k.htm",
-    "date": "2026-06-24 09:02"
-  },
-  {
-    "company": "ADC Therapeutics SA",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "ADC Therapeutics SA annonce une reduction de son effectif global",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "",
-      "reduction": "17%",
-      "economies": "10 M$",
-      "charges": "3 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1771910/000095010326009416/dp248849_8k.htm",
-    "date": "2026-06-24 09:00"
-  },
-  {
-    "company": "COMMERCIAL METALS Co",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Commercial Metals Company annonce un dividende trimestriel de 0,20$ par action",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "0,20$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/22444/000002244426000035/cmc-20260624.htm",
-    "date": "2026-06-24 08:39"
-  },
-  {
-    "company": "PodcastOne, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de PodcastOne, Inc. sans indication de tendance positive ou negative",
-    "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026071314/ea0295773-8k_podcastone.htm",
-    "date": "2026-06-24 08:30"
-  },
-  {
-    "company": "LiveOne, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LiveOne, Inc. publie un rapport financier sans indication de performance",
-    "url": "https://www.sec.gov/Archives/edgar/data/1491419/000121390026071315/ea0295772-8k_liveone.htm",
-    "date": "2026-06-24 08:30"
-  },
-  {
-    "company": "Oportun Financial Corp",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Accord de cooperation entre Oportun Financial Corp et Bradley L. Radoff",
-    "url": "https://www.sec.gov/Archives/edgar/data/1538716/000153871626000052/oportun-radoffcooperationa.htm",
-    "date": "2026-06-24 08:30"
   }
 ]
