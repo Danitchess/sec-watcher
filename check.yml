@@ -2,7 +2,7 @@ name: SEC Watcher
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # toutes les 30 min (UTC). Voir README.
+    - cron: "*/5 * * * *"   # toutes les 30 min (UTC). Voir README.
   workflow_dispatch: {}
 
 permissions:
@@ -31,7 +31,7 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
-          MAX_ANALYZE: "20"
+          MAX_ANALYZE: "3"
           NOTIFY_SENTIMENT: "positif,negatif"
           NOTIFY_MIN_SCORE: "75"
           NOTIFY_MAX_SCORE: "25"

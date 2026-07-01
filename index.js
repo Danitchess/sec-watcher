@@ -22,7 +22,7 @@ const {
 // Types surveilles. 8-K = evenements importants (meilleur signal +/-).
 const FORMS_WATCHED = ["8-K"];
 // Combien de depots on analyse au max par passage (budget LLM).
-const MAX_ANALYZE = Number(process.env.MAX_ANALYZE || 20);
+const MAX_ANALYZE = Number(process.env.MAX_ANALYZE || 3);
 // Quels sentiments declenchent un email. Defaut : positif uniquement.
 // Mets "positif,negatif" pour les deux, ou "" (vide) pour tout recevoir.
 const NOTIFY_SENTIMENT = new Set(

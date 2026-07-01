@@ -30,7 +30,7 @@ jobs:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          MAX_ANALYZE: "20"
+          MAX_ANALYZE: "3"
           NOTIFY_SENTIMENT: "positif"
           NOTIFY_MIN_SCORE: "75"
         run: node index.js
