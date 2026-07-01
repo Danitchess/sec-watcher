@@ -1,5 +1,108 @@
 [
   {
+    "company": "i-80 Gold Corp.",
+    "cik": "1853962",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "i-80 Gold Corp. publie un rapport 8-K sans informations financières",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1853962/000119312526291921/d133490d8k.htm",
+    "date": "2026-07-01 12:01"
+  },
+  {
+    "company": "FLEXIBLE SOLUTIONS INTERNATIONAL INC",
+    "cik": "1069394",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente d'actions entre Flexible Solutions International Inc. et Bancroft Capital LLC",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1069394/000149315226031474/ex1-1.htm",
+    "date": "2026-07-01 11:53"
+  },
+  {
+    "company": "RREEF Property Trust, Inc.",
+    "cik": "1542447",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "RREEF Property Trust, Inc. declare des distributions pour juin 2026",
+    "chiffres": {
+      "dividende": "0,07495 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1542447/000154244726000079/rpt-20260701.htm",
+    "date": "2026-07-01 11:47"
+  },
+  {
+    "company": "NATIONAL BANKSHARES INC",
+    "cik": "796534",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "National Bankshares Inc. annonce un contrat de consultation avec son ancien PDG",
+    "chiffres": {
+      "dividende": "6,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/796534/000119312526291900/nksh-20260701.htm",
+    "date": "2026-07-01 11:40"
+  },
+  {
+    "company": "CURIS INC",
+    "cik": "1108205",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Curis Inc",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1108205/000110820526000076/cris-20260701.htm",
+    "date": "2026-07-01 11:22"
+  },
+  {
+    "company": "Greenpro Capital Corp.",
+    "cik": "1597846",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1597846/000149315226031459/ex10-1.htm",
+    "date": "2026-07-01 11:20"
+  },
+  {
+    "company": "Flutter Entertainment plc",
+    "cik": "1635327",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Flutter Entertainment plc",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526291860/d150736d8k.htm",
+    "date": "2026-07-01 11:13"
+  },
+  {
+    "company": "CHOICE HOTELS INTERNATIONAL INC /DE",
+    "cik": "1046311",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1046311/000162828026046377/chh-20260626.htm",
+    "date": "2026-07-01 10:37"
+  },
+  {
+    "company": "Optex Systems Holdings Inc",
+    "cik": "1397016",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K pour Optex Systems Holdings Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1397016/000149315226031452/form8-k.htm",
+    "date": "2026-07-01 09:30"
+  },
+  {
     "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
     "cik": "1310488",
     "form": "8-K",
@@ -2324,145 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1718224/000147793226003966/btbd_8k.htm",
     "date": "2026-06-24 11:29"
-  },
-  {
-    "company": "Chemours Co",
-    "cik": "1627223",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Chemours a conclu un accord de consentement avec l'EPA et le WVDEP",
-    "chiffres": {
-      "dividende": "$22.5 million, $90 million, moins de $1 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000017/cc-20260624.htm",
-    "date": "2026-06-24 10:48"
-  },
-  {
-    "company": "IRADIMED CORP",
-    "cik": "1325618",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Iradimed Corporation publie son rapport 8-K",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325618/000162828026045059/irmd-20260624.htm",
-    "date": "2026-06-24 10:22"
-  },
-  {
-    "company": "FEMASYS INC",
-    "cik": "1339005",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Femasys Inc. a regagne la conformite avec la regle de Nasdaq",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "1,00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036126026169/ef20076706_8k.htm",
-    "date": "2026-06-24 09:35"
-  },
-  {
-    "company": "ExchangeRight Income Fund",
-    "cik": "1771514",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "ExchangeRight Income Fund declare des dividendes et annonce des resultats positifs pour son offre de placement privee",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "$0.1449"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1771514/000119312526280389/none-20260531.htm",
-    "date": "2026-06-24 09:30"
-  },
-  {
-    "company": "CAVA GROUP, INC.",
-    "cik": "1639438",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "CAVA Group, Inc. a modifie son plan de severance pour les dirigeants",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": ""
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1639438/000162828026045042/cava-20260622.htm",
-    "date": "2026-06-24 09:24"
-  },
-  {
-    "company": "CASEYS GENERAL STORES INC",
-    "cik": "726958",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Casey's General Stores Inc.",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": ""
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/726958/000114036126026167/ef20076595_8k.htm",
-    "date": "2026-06-24 09:21"
-  },
-  {
-    "company": "Massimo Group",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de pret entre Massimo Group et David Shan",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "4 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1952853/000149315226029886/ex10-1.htm",
-    "date": "2026-06-24 09:20"
-  },
-  {
-    "company": "NextBoat Inc.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "NextBoat annonce une integration reussie d'Apex Marine Companies",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "90 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226029885/ex99-1.htm",
-    "date": "2026-06-24 09:17"
-  },
-  {
-    "company": "Freshpet, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Freshpet, Inc. annonce le depart de son co-fondateur et president",
-    "chiffres": {
-      "revenu": "",
-      "benefice": "",
-      "bpa": "",
-      "croissance": "",
-      "dividende": "38,904"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1611647/000092963826002308/a8k.htm",
-    "date": "2026-06-24 09:12"
   }
 ]
