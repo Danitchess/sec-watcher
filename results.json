@@ -1,5 +1,40 @@
 [
   {
+    "company": "Viatris Inc",
+    "cik": "1792044",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Viatris Inc. conclut un accord de pret a terme",
+    "chiffres": {
+      "prêt": "¥40,000,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126027216/ef20077152_8k.htm",
+    "date": "2026-07-01 16:20"
+  },
+  {
+    "company": "APPFOLIO INC",
+    "cik": "1433195",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AppFolio Inc. annonce des changements dans son conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1433195/000143319526000042/appf-20260112.htm",
+    "date": "2026-07-01 16:20"
+  },
+  {
+    "company": "CLEARONE INC",
+    "cik": "840715",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "ClearOne Inc. conclut un accord de pret avec First Finance Ltd.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/840715/000175392626001118/clro-20260701.htm",
+    "date": "2026-07-01 16:20"
+  },
+  {
     "company": "Stonepeak-Plus Infrastructure Fund LP",
     "cik": "2045458",
     "form": "8-K",
@@ -2394,40 +2429,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2135998/000153949726001850/exh4_1-5c42psa.htm",
     "date": "2026-06-24 14:26"
-  },
-  {
-    "company": "Ford Credit Auto Owner Trust 2026-B",
-    "cik": "2137917",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour Ford Credit Auto Owner Trust 2026-B",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2137917/000110465926077222/tm2617048d11_8k.htm",
-    "date": "2026-06-24 13:41"
-  },
-  {
-    "company": "FORD CREDIT AUTO RECEIVABLES TWO LLC",
-    "cik": "1129987",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour Ford Credit Auto Receivables Two LLC",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1129987/000110465926077222/tm2617048d11_8k.htm",
-    "date": "2026-06-24 13:41"
-  },
-  {
-    "company": "Exeter Automobile Receivables Trust 2026-3",
-    "cik": "2132838",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations adossees a des actifs par Exeter Automobile Receivables Trust 2026-3",
-    "chiffres": {
-      "dividende": "142 000 000 $, 236 220 000 $, 267 470 000 $, 140 340 000 $, 146 420 000 $, 194 310 000 $, 130 900 000 $, 34 410 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2132838/000092963826002315/eart2026-3_8k.htm",
-    "date": "2026-06-24 13:32"
   }
 ]
