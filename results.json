@@ -1,5 +1,84 @@
 [
   {
+    "company": "Alcoa Corp",
+    "cik": "1675149",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Alcoa Corp annonce l'acquisition des interets de South32 dans des mines et raffineries",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1675149/000095010326009899/dp249366_8k-pr.htm",
+    "date": "2026-07-01 06:15"
+  },
+  {
+    "company": "PATRIOT NATIONAL BANCORP INC",
+    "cik": "1098146",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Patriot Bank annonce la fin de son accord formel avec l'OCC",
+    "chiffres": {
+      "totalAssets": "1,3 milliard $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1098146/000143774926022212/ex_983495.htm",
+    "date": "2026-07-01 06:09"
+  },
+  {
+    "company": "INNSUITES HOSPITALITY TRUST",
+    "cik": "82473",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "InnSuites Hospitality Trust annonce des initiatives pour regagner la conformite avec les normes de listing de la NYSE American",
+    "chiffres": {
+      "revenu": "$2,9 million",
+      "benefice": "$(342,679)",
+      "bpa": "$307,326",
+      "dividende": "56 ans d'interruption de dividendes, dernier versement en fevrier 2026"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/82473/000149315226031405/ex99-1.htm",
+    "date": "2026-06-30 21:59"
+  },
+  {
+    "company": "Plum Acquisition Corp, IV",
+    "cik": "2030482",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Plum Acquisition Corp, IV",
+    "chiffres": {
+      "dividende": "11.50$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026073908/ea0296594-8k_plum4.htm",
+    "date": "2026-06-30 20:16"
+  },
+  {
+    "company": "PROVECTUS BIOPHARMACEUTICALS, INC.",
+    "cik": "315545",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Provectus Biopharmaceuticals, Inc. publie un rapport 8-K sur la conversion de frais de directeurs en actions",
+    "chiffres": {
+      "dividende": "542,500.00$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/315545/000149315226031379/form8-k.htm",
+    "date": "2026-06-30 19:37"
+  },
+  {
+    "company": "OLD REPUBLIC INTERNATIONAL CORP",
+    "cik": "74260",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Old Republic acquiert le groupe ECM",
+    "chiffres": {
+      "dividende": "25 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/74260/000007426026000079/newsreleasedatejune30202.htm",
+    "date": "2026-06-30 18:26"
+  },
+  {
     "company": "Estrella Immunopharma, Inc.",
     "cik": "1844417",
     "form": "8-K",
@@ -2385,59 +2464,5 @@
     "resume": "Accord de cooperation entre Oportun Financial Corp et Bradley L. Radoff",
     "url": "https://www.sec.gov/Archives/edgar/data/1538716/000153871626000052/oportun-radoffcooperationa.htm",
     "date": "2026-06-24 08:30"
-  },
-  {
-    "company": "Bionano Genomics, Inc.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Bionano Genomics nomme un nouveau directeur scientifique",
-    "url": "https://www.sec.gov/Archives/edgar/data/1411690/000141169026000040/bngo-20260624.htm",
-    "date": "2026-06-24 08:30"
-  },
-  {
-    "company": "QUALCOMM INC/DE",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Qualcomm annonce l'acquisition de Modular Inc avec une emission d'actions",
-    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926077071/tm2618522d1_8k.htm",
-    "date": "2026-06-24 08:10"
-  },
-  {
-    "company": "Emerald Holding, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emerald Holding, Inc. annonce une fusion avec Emma Buyer, LLC",
-    "url": "https://www.sec.gov/Archives/edgar/data/1579214/000119312526280282/d36125d8k.htm",
-    "date": "2026-06-24 08:08"
-  },
-  {
-    "company": "Lemonade, Inc.",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Lemonade, Inc. conclut un accord de financement avec Hannover Re pour soutenir sa croissance",
-    "url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000041/lmnd-20260622.htm",
-    "date": "2026-06-24 08:01"
-  },
-  {
-    "company": "MapLight Therapeutics, Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MapLight Therapeutics, Inc. publie son rapport annuel sans informations particulièrement positives ou négatives.",
-    "url": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526280243/d119921d8k.htm",
-    "date": "2026-06-24 07:12"
-  },
-  {
-    "company": "Triller Group Inc.",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Triller Group Inc. annonce une modification de son acte constitutif suite à une réunion annuelle des actionnaires",
-    "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026071270/ea0295727-8k_triller.htm",
-    "date": "2026-06-24 06:01"
   }
 ]
