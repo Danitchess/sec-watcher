@@ -1,5 +1,42 @@
 [
   {
+    "company": "RANGE IMPACT, INC.",
+    "cik": "1438943",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Document juridique de la societe RANGE IMPACT, INC.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1438943/000149315226031596/ex10-1.htm",
+    "date": "2026-07-01 17:29"
+  },
+  {
+    "company": "Stark Focus Group, Inc.",
+    "cik": "1794942",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Stark Focus Group, Inc. annonce une acquisition de 8,3 millions d'actions par MJG Polo LLC",
+    "chiffres": {
+      "dividende": "$355,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1794942/000164033426001144/stark_8k.htm",
+    "date": "2026-07-01 17:29"
+  },
+  {
+    "company": "Cadrenal Therapeutics, Inc.",
+    "cik": "1937993",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Cadrenal Therapeutics, Inc. a conclu un accord de vente de titres avec un investisseur institutionnel",
+    "chiffres": {
+      "dividende": "3,0 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1937993/000121390026074421/ea0296666-8k_cadrenal.htm",
+    "date": "2026-07-01 17:23"
+  },
+  {
     "company": "Viatris Inc",
     "cik": "1792044",
     "form": "8-K",
@@ -2394,40 +2431,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1799011/000149315226029943/ex3-1.htm",
     "date": "2026-06-24 17:00"
-  },
-  {
-    "company": "AB Commercial Real Estate Private Debt Fund, LLC",
-    "cik": "1876255",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le fonds AB Commercial Real Estate Private Debt Fund, LLC a lance un appel de capital pour 66,9 millions de dollars",
-    "chiffres": {
-      "dividende": "66,968,013.13$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1876255/000119312526281229/d19561d8k.htm",
-    "date": "2026-06-24 16:57"
-  },
-  {
-    "company": "BBCMS Mortgage Trust 2026-5C42",
-    "cik": "2135998",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "iese - - - - -ignon from the + - -ignon - ( - - -ignon - -ignon - -ignon - -ignonisque - -ignon - -ignon- a\n [our\n [our - - ( - -ignon- a\n [our -ignon- a\n [ourignon- aignon- aignon- [our -ignon- aigno",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2135998/000153949726001853/n5910_x14-8k.htm",
-    "date": "2026-06-24 14:36"
-  },
-  {
-    "company": "BBCMS Mortgage Trust 2026-5C42",
-    "cik": "2135998",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Document juridique de la societe BBCMS Mortgage Trust 2026-5C42",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2135998/000153949726001850/exh4_1-5c42psa.htm",
-    "date": "2026-06-24 14:26"
   }
 ]
