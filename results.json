@@ -1,5 +1,45 @@
 [
   {
+    "company": "AppTech Payments Corp.",
+    "cik": "1070050",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AppTech Payments Corp. a conclu un accord de pret de 500 000 $",
+    "chiffres": {
+      "dividende": "500 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1070050/000168316826005262/apptech_8k.htm",
+    "date": "2026-07-02 17:29"
+  },
+  {
+    "company": "Seer, Inc.",
+    "cik": "1726445",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Seer, Inc. annonce avoir recu une proposition d'acquisition non sollicitee",
+    "chiffres": {
+      "dividende": "2,45 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1726445/000119312526294994/ck0001726445-20260701.htm",
+    "date": "2026-07-02 17:28"
+  },
+  {
+    "company": "Picard Medical, Inc.",
+    "cik": "2030617",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Picard Medical, Inc. presente des resultats encourageants",
+    "chiffres": {
+      "revenu": "85% year-over-year revenue growth",
+      "croissance": "116%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926022589/ex_984256.htm",
+    "date": "2026-07-02 17:28"
+  },
+  {
     "company": "Hilton Grand Vacations Inc.",
     "cik": "1674168",
     "form": "8-K",
@@ -2389,40 +2429,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2035644/000119312526281968/d124915d8k.htm",
     "date": "2026-06-25 09:16"
-  },
-  {
-    "company": "Jaguar Health, Inc.",
-    "cik": "1585608",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Jaguar Health, Inc. publie un rapport 8-K sur un amendement a un accord de fabrication et d'approvisionnement",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526281969/d110630d8k.htm",
-    "date": "2026-06-25 09:15"
-  },
-  {
-    "company": "VISTEON CORP",
-    "cik": "1111335",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Visteon annonce un programme de rachat d'actions de 800 millions de dollars",
-    "chiffres": {
-      "revenu": "3,77 milliards de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000039/pr8-k62525.htm",
-    "date": "2026-06-25 08:36"
-  },
-  {
-    "company": "NEOGENOMICS INC",
-    "cik": "1077183",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "NeoGenomics nomme Carolyn Starrett au conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1077183/000162828026045350/a2026-06x25csspressrelease.htm",
-    "date": "2026-06-25 07:10"
   }
 ]
