@@ -1,5 +1,40 @@
 [
   {
+    "company": "Bank of Marin Bancorp",
+    "cik": "1403475",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Bank of Marin Bancorp",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000033/bmrc-20260702.htm",
+    "date": "2026-07-02 15:07"
+  },
+  {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport du president du Federal Home Loan Bank of New York",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006491/fhlbny_8k.htm",
+    "date": "2026-07-02 14:36"
+  },
+  {
+    "company": "NETWORK-1 TECHNOLOGIES, INC.",
+    "cik": "1065078",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "NETWORK-1 TECHNOLOGIES, INC. annonce un plan de trading 10b5-1",
+    "chiffres": {
+      "dividende": "500,000 actions"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1065078/000107261326000550/form8k.htm",
+    "date": "2026-07-02 14:30"
+  },
+  {
     "company": "EACO CORP",
     "cik": "784539",
     "form": "8-K",
@@ -2393,42 +2428,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926077513/tm2618471d2_8k.htm",
     "date": "2026-06-25 07:05"
-  },
-  {
-    "company": "DARDEN RESTAURANTS INC",
-    "cik": "940944",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Darden Restaurants augmente son dividende et autorise un nouveau programme de rachat d'actions",
-    "chiffres": {
-      "dividende": "1,5 milliard de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/940944/000094094426000016/dri-20260624.htm",
-    "date": "2026-06-25 07:04"
-  },
-  {
-    "company": "CONSTELLATION ENERGY GENERATION LLC",
-    "cik": "1168165",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Extension des offres d'echange de notes pour 2,3 milliards de dollars",
-    "chiffres": {
-      "dividende": "2,3 milliards de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1168165/000116816526000018/ceg-20260625.htm",
-    "date": "2026-06-25 07:01"
-  },
-  {
-    "company": "Nano Nuclear Energy Inc.",
-    "cik": "1923891",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un dirigeant et nomination d'un nouveau responsable",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1923891/000149315226030000/form8-k.htm",
-    "date": "2026-06-24 21:09"
   }
 ]
