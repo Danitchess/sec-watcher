@@ -1,5 +1,42 @@
 [
   {
+    "company": "Arcturus Therapeutics Holdings Inc.",
+    "cik": "1768224",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Arcturus Therapeutics Holdings Inc. annonce un partenariat avec Thermo Fisher Scientific Inc.",
+    "chiffres": {
+      "dividende": "40 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526000910/e665618_8k-arct.htm",
+    "date": "2026-07-02 07:05"
+  },
+  {
+    "company": "ALTA EQUIPMENT GROUP INC.",
+    "cik": "1759824",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Alta Equipment Group Inc. annonce un dividende pour ses actionnaires",
+    "chiffres": {
+      "dividende": "$0.625"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526293422/altg-20260702.htm",
+    "date": "2026-07-02 07:00"
+  },
+  {
+    "company": "LINDSAY CORP",
+    "cik": "836157",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lindsay Corporation publie son rapport financier pour le troisième trimestre",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526293405/lnn-20260702.htm",
+    "date": "2026-07-02 06:45"
+  },
+  {
     "company": "RANGE IMPACT, INC.",
     "cik": "1438943",
     "form": "8-K",
@@ -2396,40 +2433,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1534133/000119312526281246/d142943d8k.htm",
     "date": "2026-06-24 17:02"
-  },
-  {
-    "company": "Graphene &amp; Solar Technologies Ltd",
-    "cik": "1497649",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Document SEC sans contenu financier",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1497649/000190359626000255/ex10_1.htm",
-    "date": "2026-06-24 17:01"
-  },
-  {
-    "company": "COLONY BANKCORP INC",
-    "cik": "711669",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Fusion entre Colony Bankcorp et First Reliance Bancshares",
-    "chiffres": {
-      "dividende": "6,6 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/711669/000110465926077342/tm2618469d1_8k.htm",
-    "date": "2026-06-24 17:00"
-  },
-  {
-    "company": "Lucid Diagnostics Inc.",
-    "cik": "1799011",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Modification du certificat d'incorporation de Lucid Diagnostics Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1799011/000149315226029943/ex3-1.htm",
-    "date": "2026-06-24 17:00"
   }
 ]
