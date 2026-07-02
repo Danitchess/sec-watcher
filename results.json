@@ -1,5 +1,40 @@
 [
   {
+    "company": "Wells Fargo Commercial Mortgage Trust 2024-5C1",
+    "cik": "2028411",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de servicer pour deux prêts hypothécaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2028411/000188852426012434/wcm245c1_8k-07022026.htm",
+    "date": "2026-07-02 11:38"
+  },
+  {
+    "company": "BANK5 2024-5YR9",
+    "cik": "2032772",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de servicer ou de trustee pour certains prêts",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2032772/000188852426012432/bak24yr9_8k-07022026.htm",
+    "date": "2026-07-02 11:33"
+  },
+  {
+    "company": "BANK5 2024-5YR8",
+    "cik": "2012481",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour BANK5 2024-5YR8",
+    "chiffres": {
+      "dividende": "$12,2 milliards"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2012481/000188852426012430/bak24yr8_8k-07022026.htm",
+    "date": "2026-07-02 11:19"
+  },
+  {
     "company": "FORD MOTOR CO",
     "cik": "37996",
     "form": "8-K",
@@ -2397,41 +2432,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1455863/000119312526281300/d118757d8k.htm",
     "date": "2026-06-24 17:29"
-  },
-  {
-    "company": "CEA Industries Inc.",
-    "cik": "1482541",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de cooperation entre CEA Industries Inc. et YZILabs Management Ltd.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/ex10-1.htm",
-    "date": "2026-06-24 17:29"
-  },
-  {
-    "company": "SRX Global Inc.",
-    "cik": "1471727",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "SRX Global annonce une consolidation d'actions",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226029963/ex99-1.htm",
-    "date": "2026-06-24 17:23"
-  },
-  {
-    "company": "KKR Infrastructure Conglomerate LLC",
-    "cik": "1948056",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "KKR Infrastructure Conglomerate LLC annonce des ventes d'actions non enregistrees",
-    "chiffres": {
-      "revenu": "7,287 millions $",
-      "dividende": "243,934,430 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1948056/000194805626000047/kkr-20260618.htm",
-    "date": "2026-06-24 17:16"
   }
 ]
