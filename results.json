@@ -1,5 +1,40 @@
 [
   {
+    "company": "EACO CORP",
+    "cik": "784539",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EACO CORP publie son rapport financier du 3e trimestre 2026",
+    "chiffres": {
+      "dividende": "23,886$ et 29,886$ (en milliers)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/784539/000110465926080219/tm2619633d1_8k.htm",
+    "date": "2026-07-02 13:09"
+  },
+  {
+    "company": "BMO 2024-5C5 Mortgage Trust",
+    "cik": "2027304",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour le trust BMO 2024-5C5 Mortgage Trust",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2027304/000188852426012440/bmo245c5_20-1.htm",
+    "date": "2026-07-02 12:37"
+  },
+  {
+    "company": "BMO 2026-5C14 Mortgage Trust",
+    "cik": "2063015",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour le trust BMO 2026-5C14 Mortgage Trust",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2063015/000188852426012438/bmo26c14_20-1.htm",
+    "date": "2026-07-02 12:36"
+  },
+  {
     "company": "Wells Fargo Commercial Mortgage Trust 2024-5C1",
     "cik": "2028411",
     "form": "8-K",
@@ -2395,42 +2430,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1923891/000149315226030000/form8-k.htm",
     "date": "2026-06-24 21:09"
-  },
-  {
-    "company": "US BANCORP \\DE\\",
-    "cik": "36104",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "U.S. Bancorp annonce des resultats solides de son test de resistance financiere",
-    "chiffres": {
-      "dividende": "$0.54 par action (+3.8%)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000035/exhibit991-ccar2026relea.htm",
-    "date": "2026-06-24 17:30"
-  },
-  {
-    "company": "Cantor Equity Partners I, Inc.",
-    "cik": "2027708",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Report d'une reunion extraordinaire des actionnaires de Cantor Equity Partners I, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2027708/000121390026071608/ea0295857-8k_cantor1.htm",
-    "date": "2026-06-24 17:29"
-  },
-  {
-    "company": "AMERICOLD REALTY TRUST",
-    "cik": "1455863",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de credit syndique modifie et mis a jour",
-    "chiffres": {
-      "dividende": "1,15 milliard $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1455863/000119312526281300/d118757d8k.htm",
-    "date": "2026-06-24 17:29"
   }
 ]
