@@ -1,5 +1,42 @@
 [
   {
+    "company": "FORD MOTOR CO",
+    "cik": "37996",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Ford affiche des ventes solides pour ses SUV et camions",
+    "chiffres": {
+      "dividende": "900,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000151/exhibit99q22026salesrele.htm",
+    "date": "2026-07-02 09:16"
+  },
+  {
+    "company": "Virtuix Holdings Inc.",
+    "cik": "1606242",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Virtuix Holdings Inc. publie un rapport 8-K sur ses developpements commerciaux",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1606242/000121390026074624/ea0296787-8k_virtuix.htm",
+    "date": "2026-07-02 09:15"
+  },
+  {
+    "company": "Lucid Group, Inc.",
+    "cik": "1811210",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lucid Group, Inc. nomme un nouveau directeur financier",
+    "chiffres": {
+      "dividende": "750 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1811210/000162828026046718/lcid-20260701.htm",
+    "date": "2026-07-02 09:01"
+  },
+  {
     "company": "Arcturus Therapeutics Holdings Inc.",
     "cik": "1768224",
     "form": "8-K",
@@ -2396,42 +2433,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1948056/000194805626000047/kkr-20260618.htm",
     "date": "2026-06-24 17:16"
-  },
-  {
-    "company": "Consolidated Water Co. Ltd.",
-    "cik": "928340",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La societe Consolidated Water Co. Ltd. a obtenu une nouvelle licence pour produire et distribuer de l'eau potable dans les iles Cayman",
-    "chiffres": {
-      "revenu": "$2.1 million, $1.9 million et $0.6 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926077347/cwco-20260618x8k.htm",
-    "date": "2026-06-24 17:05"
-  },
-  {
-    "company": "FiscalNote Holdings, Inc.",
-    "cik": "1823466",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "FiscalNote Holdings, Inc. annonce une mise a jour sur ses accords de forbearance",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1823466/000119312526281253/d117813d8k.htm",
-    "date": "2026-06-24 17:05"
-  },
-  {
-    "company": "CalciMedica, Inc.",
-    "cik": "1534133",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "CalciMedica, Inc. annonce une placement prive de 18,673,429 unites",
-    "chiffres": {
-      "dividende": "15,0 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1534133/000119312526281246/d142943d8k.htm",
-    "date": "2026-06-24 17:02"
   }
 ]
