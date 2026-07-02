@@ -1,5 +1,38 @@
 [
   {
+    "company": "Hilton Grand Vacations Inc.",
+    "cik": "1674168",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hilton Grand Vacations Inc. annonce des changements dans son conseil d'administration",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126027453/ef20077173_8k.htm",
+    "date": "2026-07-02 16:39"
+  },
+  {
+    "company": "Grayscale Zcash Trust (ZEC)",
+    "cik": "1720265",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction financiere chez Grayscale Zcash Trust",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1720265/000172026526000003/zcsh-20260626.htm",
+    "date": "2026-07-02 16:38"
+  },
+  {
+    "company": "Grayscale XRP Trust ETF",
+    "cik": "2037427",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction financiere chez Grayscale XRP Trust ETF",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2037427/000203742726000004/ck0002037427-20260626.htm",
+    "date": "2026-07-02 16:38"
+  },
+  {
     "company": "Bank of Marin Bancorp",
     "cik": "1403475",
     "form": "8-K",
@@ -2391,42 +2424,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1077183/000162828026045350/a2026-06x25csspressrelease.htm",
     "date": "2026-06-25 07:10"
-  },
-  {
-    "company": "Kymera Therapeutics, Inc.",
-    "cik": "1815442",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Kymera Therapeutics annonce la fin de l'inscription pour son essai clinique de phase 2b",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526281817/d62555d8k.htm",
-    "date": "2026-06-25 07:10"
-  },
-  {
-    "company": "INSULET CORP",
-    "cik": "1145197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Insulet Corporation nomme un nouveau directeur",
-    "chiffres": {
-      "dividende": "$216,548"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000148/podd-20260624.htm",
-    "date": "2026-06-25 07:06"
-  },
-  {
-    "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
-    "cik": "1411579",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AMC Entertainment Holdings, Inc. annonce la rachat de ses obligations senior subordonnees",
-    "chiffres": {
-      "dividende": "125,471,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926077513/tm2618471d2_8k.htm",
-    "date": "2026-06-25 07:05"
   }
 ]
