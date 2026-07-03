@@ -111,8 +111,9 @@ async function analyzeSentiment(company, form, text) {
   const excerpt = text.slice(0, 12000);
   const prompt = `Tu analyses un depot SEC de type ${form} de la societe ${company}.
 Reponds UNIQUEMENT en JSON, sans texte autour, sans backticks :
-{"sentiment":"positif|negatif|neutre","score":0-100,"resume":"une phrase courte en francais","chiffres":{"revenu":"","benefice":"","bpa":"","croissance":"","dividende":""}}
+{"sentiment":"positif|negatif|neutre","score":0-100,"resume":"une phrase courte en francais","activite":"","chiffres":{"revenu":"","benefice":"","bpa":"","croissance":"","dividende":""}}
 Le score = a quel point le ton est positif (100) ou negatif (0).
+Pour "activite" : en une phrase courte en francais, ce que fait l'entreprise, UNIQUEMENT si le texte du depot le decrit. Si le texte ne dit pas ce que fait l'entreprise, laisse "". N'invente pas d'apres tes connaissances.
 Pour "chiffres" : extrais UNIQUEMENT des montants reellement ecrits dans le texte du depot, avec leur unite monetaire ($, Mds$...) et la variation % si donnee (ex. "143,8 Mds$ (+16%)"). Ne mets JAMAIS le score ni un nombre qui n'est pas un montant cite tel quel. Si un chiffre n'apparait pas explicitement dans le texte, laisse "". N'invente jamais, ne deduis jamais.
 
 Extrait :
@@ -134,9 +135,10 @@ Extrait :
   try {
     const parsed = JSON.parse(raw);
     if (!parsed.chiffres) parsed.chiffres = {};
+    if (!parsed.activite) parsed.activite = "";
     return parsed;
   } catch {
-    return { sentiment: "inconnu", score: 50, resume: raw.slice(0, 200), chiffres: {} };
+    return { sentiment: "inconnu", score: 50, resume: raw.slice(0, 200), activite: "", chiffres: {} };
   }
 }
 
@@ -174,7 +176,7 @@ async function sendEmail(results) {
     .map(
       (r) =>
         `<tr><td>${EMOJI[r.sentiment] || "?"} ${r.company}</td><td>${r.form}</td>` +
-        `<td><b>${r.sentiment}</b> (${r.score})</td><td>${r.resume}</td>` +
+        `<td><b>${r.sentiment}</b> (${r.score})</td><td>${r.resume}${r.activite ? `<br><i>${r.activite}</i>` : ""}</td>` +
         `<td>${fmtChiffres(r.chiffres)}${r.marche ? `<br><b>Marche :</b><br>${fmtMarche(r.marche)}` : ""}</td>` +
         `<td><a href="${r.url}">voir</a></td></tr>`
     )
@@ -252,13 +254,14 @@ async function getMarketData(ticker) {
   const cours = q.c
     ? `${q.c.toFixed(2)} ${cur}` + (q.dp != null ? ` (${q.dp > 0 ? "+" : ""}${q.dp.toFixed(1)}%)` : "")
     : "";
-  return { ticker, cours, capitalisation: fmtCap(p.marketCapitalization) };
+  return { ticker, cours, capitalisation: fmtCap(p.marketCapitalization), secteur: p.finnhubIndustry || "" };
 }
 
 // Met en forme le bloc marche (ignore les champs vides).
 function fmtMarche(m) {
   if (!m) return "";
   const parts = [];
+  if (m.secteur) parts.push(`Secteur : ${m.secteur}`);
   if (m.cours) parts.push(`Cours : ${m.cours}`);
   if (m.capitalisation) parts.push(`Capitalisation : ${m.capitalisation}`);
   if (m.ticker) parts.push(`Ticker : ${m.ticker}`);
@@ -273,6 +276,7 @@ async function buildSite(history) {
       <header><span class="dot"></span><b>${r.company}</b> <span class="form">${r.form}</span></header>
       <p class="score">${r.sentiment.toUpperCase()} — ${r.score}/100</p>
       <p>${r.resume}</p>
+      ${r.activite ? `<p class="activite">${r.activite}</p>` : ""}
       ${fmtChiffres(r.chiffres) !== "—" ? `<p class="chiffres">${fmtChiffres(r.chiffres)}</p>` : ""}
       ${r.marche ? `<p class="marche">${fmtMarche(r.marche)}</p>` : ""}
       <footer><time>${r.date}</time> · <a href="${r.url}" target="_blank">Voir le depot SEC</a></footer>
@@ -292,6 +296,7 @@ header{display:flex;align-items:center;gap:8px}
 .form{background:#2a2e38;padding:2px 8px;border-radius:6px;font-size:.75rem;color:#9aa0aa}
 .score{font-weight:600;margin:6px 0;font-size:.9rem}
 .chiffres{background:#13161c;border-radius:8px;padding:8px 10px;font-size:.82rem;color:#b8c2cc;line-height:1.5;margin:8px 0}
+.activite{font-style:italic;color:#c9cdd4;font-size:.88rem;margin:4px 0}
 .marche{background:#10231a;border-radius:8px;padding:8px 10px;font-size:.82rem;color:#9fe3bf;line-height:1.5;margin:8px 0}
 footer{color:#8a8f98;font-size:.8rem;margin-top:8px}
 a{color:#6ab0f3}
@@ -366,6 +371,7 @@ async function main() {
         sentiment: a.sentiment,
         score: a.score,
         resume: a.resume,
+        activite: a.activite || "",
         chiffres,
         url: docUrl,
         date: (c.updated || "").slice(0, 16).replace("T", " "),
