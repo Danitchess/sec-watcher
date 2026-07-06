@@ -1,5 +1,48 @@
 [
   {
+    "company": "Select Notes Trust LT 2004-1",
+    "cik": "1293234",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Distribution de certificats de la Select Notes Trust LT 2004-1",
+    "activite": "Gestion de certificats et distribution de revenus",
+    "chiffres": {
+      "revenu": "$ 100,500.00",
+      "dividende": "$ 151,959.05"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1293234/000153949726001905/n5801_x4-8k.htm",
+    "date": "2026-07-06 12:14"
+  },
+  {
+    "company": "Diameter Credit Co",
+    "cik": "1916099",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Diameter Credit Company declare un dividende",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.625"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1916099/000119312526295794/ck0001916099-20260630.htm",
+    "date": "2026-07-06 11:19"
+  },
+  {
+    "company": "Patriot Acquisition Corp./CI",
+    "cik": "2099095",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Patriot Acquisition Corp. annonce la possibilité de séparer les actions et les warrants de ses unités",
+    "activite": "",
+    "chiffres": {
+      "dividende": "11,50 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2099095/000121390026075294/ea0297075-8k_patriot.htm",
+    "date": "2026-07-06 11:01"
+  },
+  {
     "company": "Big Digital Energy, Inc.",
     "cik": "1218683",
     "form": "8-K",
@@ -2391,42 +2434,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000116/fhlbd-20260622.htm",
     "date": "2026-06-25 11:32"
-  },
-  {
-    "company": "REALLOYS INC.",
-    "cik": "1567900",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Realloys Inc. annonce une emission d'actions pour lever 100 millions de dollars",
-    "chiffres": {
-      "dividende": "100 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1567900/000118518526002649/aloy8k062526.htm",
-    "date": "2026-06-25 11:31"
-  },
-  {
-    "company": "Laser Photonics Corp",
-    "cik": "1807887",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Laser Photonics Corp annonce des changements dans son equipe de direction",
-    "chiffres": {
-      "dividende": "$50,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226030058/form8-k.htm",
-    "date": "2026-06-25 10:24"
-  },
-  {
-    "company": "Cytosorbents Corp",
-    "cik": "1175151",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cytosorbents Corp annonce des reunions avec la FDA",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1175151/000110465926077584/tm2618977d1_8k.htm",
-    "date": "2026-06-25 09:26"
   }
 ]
