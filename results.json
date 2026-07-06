@@ -1,5 +1,43 @@
 [
   {
+    "company": "MGT CAPITAL INVESTMENTS, INC.",
+    "cik": "1001601",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MGT Capital Investments, Inc. conclut un accord d'echange de note promissoire convertible",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,220,240 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1001601/000149315226032207/ex10-1.htm",
+    "date": "2026-07-06 17:30"
+  },
+  {
+    "company": "Silvaco Group, Inc.",
+    "cik": "1943289",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Silvaco Group, Inc. publie un rapport 8-K sur l'emission de 69,062 actions",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1943289/000121390026075613/ea0297054-8k_silvaco.htm",
+    "date": "2026-07-06 17:29"
+  },
+  {
+    "company": "Copper Property CTL Pass Through Trust",
+    "cik": "1837671",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Copper Property CTL Pass Through Trust",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1837671/000183767126000049/cpt-20260706.htm",
+    "date": "2026-07-06 17:26"
+  },
+  {
     "company": "Blue Owl Real Estate Net Lease Trust",
     "cik": "1944366",
     "form": "8-K",
@@ -2410,40 +2448,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026045564/a20260625dividendpressrele.htm",
     "date": "2026-06-25 16:43"
-  },
-  {
-    "company": "Orion S.A.",
-    "cik": "1609804",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1609804/000149315226030142/ex99-1.htm",
-    "date": "2026-06-25 16:40"
-  },
-  {
-    "company": "Federal Home Loan Bank of San Francisco",
-    "cik": "1316944",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of San Francisco",
-    "chiffres": {
-      "dividende": "100,000,000 $, 1,000,000,000 $, 10,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000113/fhlbsf-20260622.htm",
-    "date": "2026-06-25 14:24"
-  },
-  {
-    "company": "LIVE VENTURES Inc",
-    "cik": "1045742",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de la reunion annuelle des actionnaires de Live Ventures Incorporated",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1045742/000143774926021665/live20260616_8k.htm",
-    "date": "2026-06-25 14:17"
   }
 ]
