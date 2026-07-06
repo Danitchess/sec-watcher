@@ -1,5 +1,45 @@
 [
   {
+    "company": "Readvantage Corp.",
+    "cik": "2057381",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Readvantage Corp. annonce la nomination de deux nouveaux membres au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2057381/000205738126000015/readvantage8k.htm",
+    "date": "2026-07-06 13:59"
+  },
+  {
+    "company": "Audax Private Credit Fund, LLC",
+    "cik": "2033362",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Distribution de dividendes",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,42 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2033362/000119312526295981/ck0002033362-20260629.htm",
+    "date": "2026-07-06 13:48"
+  },
+  {
+    "company": "Bespoke Extracts, Inc.",
+    "cik": "1409197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Bespoke Extracts, Inc. a modifie les termes de ses obligations financières",
+    "activite": "",
+    "chiffres": {
+      "dividende": "410,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1409197/000121390026075364/ea0296684-8k_bespoke.htm",
+    "date": "2026-07-06 13:43"
+  },
+  {
     "company": "Select Notes Trust LT 2004-1",
     "cik": "1293234",
     "form": "8-K",
@@ -2399,40 +2439,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2033750/000164033426001119/aen_8k.htm",
     "date": "2026-06-25 12:25"
-  },
-  {
-    "company": "First Trinity Financial CORP",
-    "cik": "1395585",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de controle de la societe",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1395585/000143774926021640/ftfc20260624_8k.htm",
-    "date": "2026-06-25 11:56"
-  },
-  {
-    "company": "Red Cat Holdings, Inc.",
-    "cik": "748268",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Red Cat Holdings, Inc. publie son rapport 8-K",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/748268/000162828026045393/rcat-20260618.htm",
-    "date": "2026-06-25 11:41"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Dallas",
-    "chiffres": {
-      "dividende": "15 000 000 $, 35 000 000 $, 100 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000116/fhlbd-20260622.htm",
-    "date": "2026-06-25 11:32"
   }
 ]
