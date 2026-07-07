@@ -1,5 +1,41 @@
 [
   {
+    "company": "BANK 2022-BNK41",
+    "cik": "1920442",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour le Journal Squared Tower 2 Non-Serviced Loan Combination",
+    "activite": "Servicing et administration de prets hypothecaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1920442/000153949726001909/n3070_x12-8k.htm",
+    "date": "2026-07-07 13:56"
+  },
+  {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000104/fhlbdm-20260701.htm",
+    "date": "2026-07-07 13:45"
+  },
+  {
+    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+    "cik": "1310488",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Bioforce Nanoscience Holdings, Inc. a obtenu l'approbation de l'US Bureau of Land Management pour l'acquisition de 11 leases pétroliers et gaziers",
+    "activite": "exploration et production pétrolière et gazière",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000089/bfnh-07072026_8k.htm",
+    "date": "2026-07-07 13:04"
+  },
+  {
     "company": "TFS Financial CORP",
     "cik": "1381668",
     "form": "8-K",
@@ -2420,40 +2456,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1820302/000162828026045627/bakkt-20260625.htm",
     "date": "2026-06-25 18:19"
-  },
-  {
-    "company": "Apollo Infrastructure Co LLC",
-    "cik": "1971381",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Apollo Infrastructure Co LLC publie un rapport 8-K sur des ventes d'actions non enregistrées",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1971381/000119312526283091/ck0001971381-20260625.htm",
-    "date": "2026-06-25 17:31"
-  },
-  {
-    "company": "Real Asset Acquisition Corp.",
-    "cik": "2052161",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Real Asset Acquisition Corp. annonce une fusion avec IQM Quantum Computers Oyj",
-    "chiffres": {
-      "dividende": "11.50$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2052161/000121390026072153/ea0296006-8k425_real.htm",
-    "date": "2026-06-25 17:28"
-  },
-  {
-    "company": "Celularity Inc",
-    "cik": "1752828",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de nouveaux dirigeants",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226030199/form8-k.htm",
-    "date": "2026-06-25 17:27"
   }
 ]
