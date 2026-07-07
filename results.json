@@ -1,5 +1,45 @@
 [
   {
+    "company": "Getty Images Holdings, Inc.",
+    "cik": "1898496",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Getty Images annule son accord de fusion avec Shutterstock",
+    "activite": "edition de photos",
+    "chiffres": {
+      "dividende": "10.500% senior secured notes due 2030"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1898496/000121390026076004/ea0297316-8ka1_getty.htm",
+    "date": "2026-07-07 16:47"
+  },
+  {
+    "company": "Evolution Metals &amp; Technologies Corp.",
+    "cik": "1866226",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Evolution Metals & Technologies Corp. annonce un accord pour l'achat de neodymium-praseodymium",
+    "activite": "production de magnets permanents en terres rares",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026076002/ea0297271-8k_evolution.htm",
+    "date": "2026-07-07 16:45"
+  },
+  {
+    "company": "NEXTNRG, INC.",
+    "cik": "1817004",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de financement entre NEXTNRG INC et AVANZA CAPITAL HOLDINGS, LLC",
+    "activite": "",
+    "chiffres": {
+      "dividende": "60,000.00 $, 50.00 $, 2,500.00 $, 5,000.00 $, 195.00 $, 268,732.16 $, 1,000,000.00 $, 1,499,900.00 $, 940,000.00 $, 62,495.85 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1817004/000149315226032350/ex10-1.htm",
+    "date": "2026-07-07 16:45"
+  },
+  {
     "company": "BANK 2022-BNK41",
     "cik": "1920442",
     "form": "8-K",
@@ -2421,40 +2461,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000020/bgne-20260626.htm",
     "date": "2026-06-26 06:02"
-  },
-  {
-    "company": "Forgent Power Solutions, Inc.",
-    "cik": "2080126",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Forgent Power Solutions, Inc. annonce une modification de son accord de credit",
-    "chiffres": {
-      "dividende": "600,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2080126/000119312526283773/na-20260623.htm",
-    "date": "2026-06-26 06:02"
-  },
-  {
-    "company": "GEN Restaurant Group, Inc.",
-    "cik": "1891856",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires de GEN Restaurant Group, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1891856/000119312526283745/genk-20260623.htm",
-    "date": "2026-06-26 06:01"
-  },
-  {
-    "company": "Bakkt, Inc.",
-    "cik": "1820302",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Bakkt, Inc. sans indication de chiffres clés",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1820302/000162828026045627/bakkt-20260625.htm",
-    "date": "2026-06-25 18:19"
   }
 ]
