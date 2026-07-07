@@ -1,5 +1,43 @@
 [
   {
+    "company": "Tvardi Therapeutics, Inc.",
+    "cik": "1346830",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Tvardi Therapeutics publie des mises a jour cliniques positives sur son produit TTI-109",
+    "activite": "developpement de produits therapeutiques",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1346830/000110465926080930/tm2619879d1_8k.htm",
+    "date": "2026-07-07 07:02"
+  },
+  {
+    "company": "D-Wave Quantum Inc.",
+    "cik": "1907982",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "D-Wave est nomme leader dans le rapport IDC MarketScape sur les fournisseurs de calcul quantique",
+    "activite": "developpement et livraison de systemes, logiciels et services de calcul quantique",
+    "chiffres": {
+      "croissance": "314%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000097/d-waveisoneofonlytwocompan.htm",
+    "date": "2026-07-07 07:02"
+  },
+  {
+    "company": "Taylor Morrison Home Corp",
+    "cik": "1562476",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Taylor Morrison Home Corp annonce la fin de la periode d'attente pour son acquisition par Berkshire Hathaway",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1562476/000119312526296849/d168036d8k.htm",
+    "date": "2026-07-07 06:38"
+  },
+  {
     "company": "MGT CAPITAL INVESTMENTS, INC.",
     "cik": "1001601",
     "form": "8-K",
@@ -2411,42 +2449,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1552493/000110465926077807/tm2618956d1_8k.htm",
     "date": "2026-06-25 16:47"
-  },
-  {
-    "company": "RHYTHM PHARMACEUTICALS, INC.",
-    "cik": "1649904",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rhythm Pharmaceuticals, Inc. annonce les resultats de son Assemblee annuelle des actionnaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1649904/000162828026045569/rytm-20260624.htm",
-    "date": "2026-06-25 16:46"
-  },
-  {
-    "company": "Launch One Acquisition Corp.",
-    "cik": "2015502",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le depot SEC de Launch One Acquisition Corp. annonce le report de l'assemblee generale des actionnaires",
-    "chiffres": {
-      "dividende": "11.50$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2015502/000121390026072106/ea0295999-8k_launch.htm",
-    "date": "2026-06-25 16:45"
-  },
-  {
-    "company": "Marvell Technology, Inc.",
-    "cik": "1835632",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Marvell Technology, Inc. annonce un dividende trimestriel",
-    "chiffres": {
-      "dividende": "$0.06"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026045564/a20260625dividendpressrele.htm",
-    "date": "2026-06-25 16:43"
   }
 ]
