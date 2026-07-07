@@ -1,5 +1,45 @@
 [
   {
+    "company": "TFS Financial CORP",
+    "cik": "1381668",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TFS Financial Corporation annonce l'approbation de la waive de dividendes par les membres de la MHC",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,27 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1381668/000138166826000033/tfsl-20260707.htm",
+    "date": "2026-07-07 12:15"
+  },
+  {
+    "company": "Upland Software, Inc.",
+    "cik": "1505155",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Upland Software annonce le depart de son directeur financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000049/upld-20260630.htm",
+    "date": "2026-07-07 12:01"
+  },
+  {
+    "company": "Kingfish Holding Corp",
+    "cik": "1374881",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "L'entreprise annonce des difficultes financieres",
+    "activite": "",
+    "chiffres": {
+      "dividende": "365,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1374881/000147793226004213/king_8k.htm",
+    "date": "2026-07-07 12:01"
+  },
+  {
     "company": "Federal Home Loan Bank of Topeka",
     "cik": "1325878",
     "form": "8-K",
@@ -2415,42 +2455,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226030199/form8-k.htm",
     "date": "2026-06-25 17:27"
-  },
-  {
-    "company": "Robinhood Markets, Inc.",
-    "cik": "1783879",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Un depot SEC de type 8-K pour Robinhood Markets, Inc. concernant une transaction financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000077/a101projectcatalyst-formof.htm",
-    "date": "2026-06-25 17:25"
-  },
-  {
-    "company": "Vivos Therapeutics, Inc.",
-    "cik": "1716166",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vivos Therapeutics, Inc. et Streeterville Capital, LLC ont signe un accord de prolongation de la date limite pour un financement",
-    "chiffres": {
-      "dividende": "$2,600,000.00"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226030190/ex10-2.htm",
-    "date": "2026-06-25 17:22"
-  },
-  {
-    "company": "AZZ INC",
-    "cik": "8947",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "AZZ Inc. annonce un dividende trimestriel de 0,24$ par action",
-    "chiffres": {
-      "dividende": "0,24$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/8947/000000894726000120/azz-20260625.htm",
-    "date": "2026-06-25 17:14"
   }
 ]
