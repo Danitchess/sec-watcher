@@ -1,5 +1,45 @@
 [
   {
+    "company": "Federal Home Loan Bank of Topeka",
+    "cik": "1325878",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Topeka publie un rapport 8-K sur la creation d'obligations financieres",
+    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
+    "chiffres": {
+      "dividende": "500,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000133/fhlbt-20260701.htm",
+    "date": "2026-07-07 10:09"
+  },
+  {
+    "company": "NaturalShrimp Inc",
+    "cik": "1465470",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "NaturalShrimp Inc depose un formulaire 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1465470/000149315226032271/ex16-1.htm",
+    "date": "2026-07-07 10:06"
+  },
+  {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Dallas",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "30,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000122/fhlbd-20260701.htm",
+    "date": "2026-07-07 09:59"
+  },
+  {
     "company": "Tvardi Therapeutics, Inc.",
     "cik": "1346830",
     "form": "8-K",
@@ -2412,42 +2452,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/8947/000000894726000120/azz-20260625.htm",
     "date": "2026-06-25 17:14"
-  },
-  {
-    "company": "INVO Fertility, Inc.",
-    "cik": "1417926",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "INVO Fertility acquiert une participation majoritaire dans une clinique de fertilité",
-    "chiffres": {
-      "dividende": "$175,001"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1417926/000149315226030147/form8-k.htm",
-    "date": "2026-06-25 16:52"
-  },
-  {
-    "company": "River Financial Corp",
-    "cik": "1641601",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Incident de securite informatique chez River Financial Corp",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526282946/ck0001641601-20260619.htm",
-    "date": "2026-06-25 16:52"
-  },
-  {
-    "company": "CNH Industrial Capital LLC",
-    "cik": "1552493",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "CNH Industrial Capital LLC annonce l'émission de notes à 4,950% d'un montant de 600 millions de dollars",
-    "chiffres": {
-      "dividende": "600 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1552493/000110465926077807/tm2618956d1_8k.htm",
-    "date": "2026-06-25 16:47"
   }
 ]
