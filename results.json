@@ -1,5 +1,43 @@
 [
   {
+    "company": "TuHURA Biosciences, Inc./NV",
+    "cik": "1498382",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TuHURA Biosciences, Inc. a contracte un pret de 1,9 million de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "50 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526297668/hura-20260630.htm",
+    "date": "2026-07-07 17:30"
+  },
+  {
+    "company": "Vivos Therapeutics, Inc.",
+    "cik": "1716166",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vivos Therapeutics, Inc. conclut un accord de vente de titres",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226032387/ex10-1.htm",
+    "date": "2026-07-07 17:29"
+  },
+  {
+    "company": "Figure Technology Solutions, Inc.",
+    "cik": "2064124",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Figure Technology Solutions publie des donnees operationnelles preliminaires pour juin et le deuxieme trimestre 2026",
+    "activite": "Figure est une place de marche native du blockchain pour l'origination, le financement, la vente et le trading d'actifs tokenises",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2064124/000149315226032386/ex99-1.htm",
+    "date": "2026-07-07 17:28"
+  },
+  {
     "company": "Getty Images Holdings, Inc.",
     "cik": "1898496",
     "form": "8-K",
@@ -2424,42 +2462,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226000889/e7745_8-k.htm",
     "date": "2026-06-26 06:15"
-  },
-  {
-    "company": "Greenpro Capital Corp.",
-    "cik": "1597846",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Greenpro Capital Corp annonce un reverse stock split",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1597846/000149315226030218/form8-k.htm",
-    "date": "2026-06-26 06:15"
-  },
-  {
-    "company": "ENDRA Life Sciences Inc.",
-    "cik": "1681682",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "ENDRA Life Sciences Inc. annonce une fusion avec ASP Isotopes Inc.",
-    "chiffres": {
-      "dividende": "50 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026072268/ea0295239-8k425_endra.htm",
-    "date": "2026-06-26 06:10"
-  },
-  {
-    "company": "BeOne Medicines Ltd.",
-    "cik": "1651308",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "BeOne Medicines Ltd. annonce un paiement d'impot sur le revenu en Chine",
-    "chiffres": {
-      "dividende": "RMB 446 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1651308/000165130826000020/bgne-20260626.htm",
-    "date": "2026-06-26 06:02"
   }
 ]
