@@ -1,5 +1,43 @@
 [
   {
+    "company": "NIOCORP DEVELOPMENTS LTD",
+    "cik": "1512228",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NioCorp Developments Ltd adopte un programme d'incitation annuel pour ses employes",
+    "activite": "developpement de projets miniers",
+    "chiffres": {
+      "dividende": "602,784 $, 345,621 $, 378,197 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1512228/000153949726001924/n2574_x317-8k.htm",
+    "date": "2026-07-08 16:00"
+  },
+  {
+    "company": "NATURAL GAS SERVICES GROUP INC",
+    "cik": "1084991",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Natural Gas Services Group annonce son redomestication au Texas",
+    "activite": "fournisseur de materiel et services pour l'industrie du gaz naturel",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000061/ex9912026-07x08redomestica.htm",
+    "date": "2026-07-08 16:00"
+  },
+  {
+    "company": "Two Hands Corp",
+    "cik": "1494413",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Two Hands Corp annonce son delisting volontaire de la Bourse canadienne",
+    "activite": "exploitation d'actifs numeriques, fintech et propriete intellectuelle",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1494413/000149441326000030/ex991.htm",
+    "date": "2026-07-08 15:55"
+  },
+  {
     "company": "EQT Exeter Real Estate Income Trust, Inc.",
     "cik": "1946997",
     "form": "8-K",
@@ -2450,43 +2488,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000115/fhlbc-20260625.htm",
     "date": "2026-06-26 13:17"
-  },
-  {
-    "company": "Fidelity Private Credit Fund",
-    "cik": "1920453",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Fidelity Private Credit Fund declare des distributions pour ses actionnaires",
-    "chiffres": {
-      "dividende": "0,1750 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1920453/000119312526284779/ck0001920453-20260626.htm",
-    "date": "2026-06-26 13:11"
-  },
-  {
-    "company": "PCS Edventures!, Inc.",
-    "cik": "1122020",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "PCS Edventures! annonce ses résultats pour l'année fiscale 2026",
-    "chiffres": {
-      "revenu": "$6.3 million (-14.4%)",
-      "benefice": "$321,455 (-74.6%)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1122020/000149315226030244/ex99.htm",
-    "date": "2026-06-26 12:20"
-  },
-  {
-    "company": "MILLS MUSIC TRUST",
-    "cik": "66496",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Mills Music Trust publie un rapport financier",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/66496/000119312526284694/d567648d8k.htm",
-    "date": "2026-06-26 12:19"
   }
 ]
