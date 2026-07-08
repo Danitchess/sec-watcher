@@ -1,5 +1,43 @@
 [
   {
+    "company": "Aura Biosciences, Inc.",
+    "cik": "1501796",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aura Biosciences, Inc. annonce la nomination d'un nouveau directeur au conseil d'administration",
+    "activite": "",
+    "chiffres": {
+      "dividende": "40,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1501796/000119312526297992/aura-20260703.htm",
+    "date": "2026-07-08 07:17"
+  },
+  {
+    "company": "Keenova Therapeutics plc",
+    "cik": "1567892",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Keenova Therapeutics annonce des resultats positifs pour son essai clinique de phase 3",
+    "activite": "developpement de traitements pour des conditions medicales chroniques",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1567892/000110465926081562/tm2619951d1_8k.htm",
+    "date": "2026-07-08 07:17"
+  },
+  {
+    "company": "SONO TEK CORP",
+    "cik": "806172",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Sono-Tek Corporation publie un rapport financier pour le trimestre se terminant le 31 mai 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/806172/000117152026000166/eps12668.htm",
+    "date": "2026-07-08 07:10"
+  },
+  {
     "company": "TuHURA Biosciences, Inc./NV",
     "cik": "1498382",
     "form": "8-K",
@@ -2429,38 +2467,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1737953/000110465926078009/tm2619037d1_8k.htm",
     "date": "2026-06-26 08:14"
-  },
-  {
-    "company": "EXPAND ENERGY Corp",
-    "cik": "895126",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un dirigeant et nomination d'un remplaçant",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/895126/000089512626000036/exe-20260623.htm",
-    "date": "2026-06-26 07:55"
-  },
-  {
-    "company": "Jade Biosciences, Inc.",
-    "cik": "1798749",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Jade Biosciences nomme Mark Eisner au conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1798749/000119312526283906/d127137d8k.htm",
-    "date": "2026-06-26 07:15"
-  },
-  {
-    "company": "ANAVEX LIFE SCIENCES CORP.",
-    "cik": "1314052",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la date de l'assemblée générale annuelle 2026",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226000889/e7745_8-k.htm",
-    "date": "2026-06-26 06:15"
   }
 ]
