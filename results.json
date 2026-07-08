@@ -1,5 +1,43 @@
 [
   {
+    "company": "MEXICO FUND INC",
+    "cik": "65433",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de la societe MEXICO FUND INC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/65433/000165495426006539/mxf_8k.htm",
+    "date": "2026-07-08 08:56"
+  },
+  {
+    "company": "Onfolio Holdings, Inc",
+    "cik": "1825452",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Onfolio Holdings Inc. annonce une acquisition de Paramount Helium, LLC",
+    "activite": "Onfolio Holdings Inc. est une societe qui opere dans le domaine des acquisitions et des fusions d'entreprises, notamment dans le secteur de l'energie",
+    "chiffres": {
+      "dividende": "11,3 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426006537/onfo_8k.htm",
+    "date": "2026-07-08 08:50"
+  },
+  {
+    "company": "Fusemachines Inc.",
+    "cik": "2033383",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Fusemachines reprend la conformite avec les regles de Nasdaq",
+    "activite": "fournisseur de produits et services d'intelligence artificielle pour les entreprises",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226032415/ex99-1.htm",
+    "date": "2026-07-08 08:40"
+  },
+  {
     "company": "Aura Biosciences, Inc.",
     "cik": "1501796",
     "form": "8-K",
@@ -2434,38 +2472,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1853962/000119312526283989/d102923d8k.htm",
     "date": "2026-06-26 08:17"
-  },
-  {
-    "company": "Wheeler Real Estate Investment Trust, Inc.",
-    "cik": "1527541",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Echange d'actions entre Wheeler Real Estate Investment Trust, Inc. et un investisseur",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000196/whlr-20260622.htm",
-    "date": "2026-06-26 08:16"
-  },
-  {
-    "company": "Cineverse Corp.",
-    "cik": "1173204",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cineverse Corp. publie son rapport financier pour les trois et douze mois clos le 31 mars 2026",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1173204/000119312526283983/cnvs-20260626.htm",
-    "date": "2026-06-26 08:15"
-  },
-  {
-    "company": "Replimune Group, Inc.",
-    "cik": "1737953",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Replimune Group annonce l'acceptation de la demande d'enregistrement de son traitement contre le melanome avance",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1737953/000110465926078009/tm2619037d1_8k.htm",
-    "date": "2026-06-26 08:14"
   }
 ]
