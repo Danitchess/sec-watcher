@@ -1,5 +1,43 @@
 [
   {
+    "company": "CAPSTONE COMPANIES, INC.",
+    "cik": "814926",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Capstone Companies, Inc. et eBliss Global, Inc. ont signe une amendment a leur lettre d'intention",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/814926/000149315226032552/ex10-1_1.htm",
+    "date": "2026-07-08 17:30"
+  },
+  {
+    "company": "CATALYST PHARMACEUTICALS, INC.",
+    "cik": "1369568",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Catalyst Pharmaceuticals annonce des changements dans son conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1369568/000119312526298739/d109692d8k.htm",
+    "date": "2026-07-08 17:29"
+  },
+  {
+    "company": "Clean Energy Technologies, Inc.",
+    "cik": "1329606",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Clean Energy Technologies, Inc. conclut un accord de vente de titres avec Coventry Enterprises LLC",
+    "activite": "",
+    "chiffres": {
+      "dividende": "166,500.00$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1329606/000149315226032551/ex10-1.htm",
+    "date": "2026-07-08 17:29"
+  },
+  {
     "company": "NIOCORP DEVELOPMENTS LTD",
     "cik": "1512228",
     "form": "8-K",
@@ -2455,38 +2493,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1855175/000162828026045804/ctnm-20260626.htm",
     "date": "2026-06-26 16:48"
-  },
-  {
-    "company": "ZRCN Inc.",
-    "cik": "1901297",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1901297/000149315226030267/ex3-1.htm",
-    "date": "2026-06-26 15:04"
-  },
-  {
-    "company": "SRX Global Inc.",
-    "cik": "1471727",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226030259/ex99-1.htm",
-    "date": "2026-06-26 14:19"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un membre du conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000115/fhlbc-20260625.htm",
-    "date": "2026-06-26 13:17"
   }
 ]
