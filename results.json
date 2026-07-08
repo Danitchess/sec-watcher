@@ -1,5 +1,46 @@
 [
   {
+    "company": "CHS INC",
+    "cik": "823277",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "CHS Inc. annonce des resultats positifs pour le troisieme trimestre de l'annee fiscale 2026",
+    "activite": "CHS Inc. est une entreprise agroalimentaire globale et la plus grande cooperative agricole aux Etats-Unis, fournissant des intrants critiques pour les cultures, des services d'acces au marche et de gestion des risques",
+    "chiffres": {
+      "revenu": "11,6 milliards $",
+      "benefice": "267,4 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/823277/000082327726000025/a3qfy26earningrelease.htm",
+    "date": "2026-07-08 11:51"
+  },
+  {
+    "company": "Power REIT",
+    "cik": "1532619",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Nomination d'un nouveau trustee au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1532619/000149315226032424/form8-k.htm",
+    "date": "2026-07-08 11:35"
+  },
+  {
+    "company": "Brookfield Private Equity Fund LP",
+    "cik": "2074065",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Le fonds Brookfield Private Equity Fund LP a vendu des unitees pour un montant total d'environ 4,5 millions de dollars",
+    "activite": "gestion de fonds d'investissement",
+    "chiffres": {
+      "dividende": "331,998,416$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2074065/000110465926081699/tm2619984d1_8k.htm",
+    "date": "2026-07-08 11:32"
+  },
+  {
     "company": "OLD SECOND BANCORP INC",
     "cik": "357173",
     "form": "8-K",
@@ -2440,40 +2481,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1849867/000184986726000011/clst-20260626x8k.htm",
     "date": "2026-06-26 10:54"
-  },
-  {
-    "company": "Graf Global Corp.",
-    "cik": "1897463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de la societe Graf Global Corp. sur une assemblee generale extraordinaire",
-    "chiffres": {
-      "dividende": "11.50 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926078079/tm2618324d8_8k.htm",
-    "date": "2026-06-26 10:47"
-  },
-  {
-    "company": "CION Investment Corp",
-    "cik": "1534254",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de CION Investment Corp",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926078073/tm2618984d1_8k.htm",
-    "date": "2026-06-26 10:32"
-  },
-  {
-    "company": "Corvex, Inc.",
-    "cik": "1734750",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Corvex, Inc. annonce l'ajournement de son Assemblee generale annuelle",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026072420/ea0296036-8k_corvex.htm",
-    "date": "2026-06-26 10:26"
   }
 ]
