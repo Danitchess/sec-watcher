@@ -1,5 +1,45 @@
 [
   {
+    "company": "OLD SECOND BANCORP INC",
+    "cik": "357173",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/357173/000035717326000037/osbc-20260707x8k.htm",
+    "date": "2026-07-08 11:00"
+  },
+  {
+    "company": "Energy Transfer LP",
+    "cik": "1276187",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Energy Transfer LP annonce une emission d'obligations pour un montant de 1,75 milliard de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "6.550% et 6.700% pour les Series 2026A et 2026B Notes"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526298149/d86030d8k.htm",
+    "date": "2026-07-08 10:47"
+  },
+  {
+    "company": "AEP Texas Inc.",
+    "cik": "1721781",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "AEP Texas obtient un pret de 3,26 milliards de dollars pour financer des investissements dans les infrastructures",
+    "activite": "fourniture d'electricite de maniere sure et fiable aux foyers, entreprises et industries",
+    "chiffres": {
+      "dividende": "685 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1721781/000172178126000018/a07-2026aeptexasxdoeloanpr.htm",
+    "date": "2026-07-08 10:02"
+  },
+  {
     "company": "MEXICO FUND INC",
     "cik": "65433",
     "form": "8-K",
@@ -2435,42 +2475,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026072420/ea0296036-8k_corvex.htm",
     "date": "2026-06-26 10:26"
-  },
-  {
-    "company": "LGL GROUP INC",
-    "cik": "61004",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LGL Group Inc. annonce la prolongation de son offre d'abonnement aux droits de souscription",
-    "chiffres": {
-      "dividende": "6,90 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926021772/ex_981682.htm",
-    "date": "2026-06-26 09:32"
-  },
-  {
-    "company": "Ondas Inc.",
-    "cik": "1646188",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ondas Inc. publie un rapport 8-K sur des ventes d'actions non enregistrées",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026072365/ea0295696-8k_ondas.htm",
-    "date": "2026-06-26 09:03"
-  },
-  {
-    "company": "i-80 Gold Corp.",
-    "cik": "1853962",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "i-80 Gold Corp annonce la termination d'un accord de vente d'or",
-    "chiffres": {
-      "dividende": "4,800,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1853962/000119312526283989/d102923d8k.htm",
-    "date": "2026-06-26 08:17"
   }
 ]
