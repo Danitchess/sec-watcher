@@ -1,5 +1,45 @@
 [
   {
+    "company": "EQT Exeter Real Estate Income Trust, Inc.",
+    "cik": "1946997",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EQT Exeter Real Estate Income Trust, Inc. emet des actions dans le cadre de son plan de reinvestissement de distributions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "2,58 mille $, 0,11 million $, 0,13 million $, 2,00 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000194699726000008/ck0001946997-20260610.htm",
+    "date": "2026-07-08 14:09"
+  },
+  {
+    "company": "BMO 2025-5C12 Mortgage Trust",
+    "cik": "2061934",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour le trust BMO 2025-5C12 Mortgage Trust",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2061934/000188852426012452/bmo25c12_20-1.htm",
+    "date": "2026-07-08 14:09"
+  },
+  {
+    "company": "Benchmark 2025-V17 Mortgage Trust",
+    "cik": "2063065",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de serviteur special pour le BMARK 2025-V17 securitization",
+    "activite": "Torchlight Loan Services, LLC agit comme serviteur special pour le BMARK 2025-V17 securitization",
+    "chiffres": {
+      "dividende": "12,2 milliards de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2063065/000188852426012450/bmk25v17_8k-07082026.htm",
+    "date": "2026-07-08 13:41"
+  },
+  {
     "company": "CHS INC",
     "cik": "823277",
     "form": "8-K",
@@ -2448,38 +2488,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/66496/000119312526284694/d567648d8k.htm",
     "date": "2026-06-26 12:19"
-  },
-  {
-    "company": "PROASSURANCE CORP",
-    "cik": "1127703",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "ProAssurance Corporation presente son acte constitutif",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1127703/000112770326000032/ex31certificateofincorpora.htm",
-    "date": "2026-06-26 12:08"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un directeur de la banque",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000122/fhlbbost-20260622.htm",
-    "date": "2026-06-26 11:40"
-  },
-  {
-    "company": "Catalyst Bancorp, Inc.",
-    "cik": "1849867",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Catalyst Bancorp, Inc. annonce l'approbation de la fusion avec Lakeside Bancshares, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1849867/000184986726000011/clst-20260626x8k.htm",
-    "date": "2026-06-26 10:54"
   }
 ]
