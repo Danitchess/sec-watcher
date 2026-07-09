@@ -1,5 +1,43 @@
 [
   {
+    "company": "Overland Advantage",
+    "cik": "1965934",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Overland Advantage a modifie son accord de credit revolving",
+    "activite": "",
+    "chiffres": {
+      "dividende": "25 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1965934/000119312526299312/ck0001965934-20251030.htm",
+    "date": "2026-07-09 09:58"
+  },
+  {
+    "company": "MSC INCOME FUND, INC.",
+    "cik": "1535778",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MSC Income Fund, Inc. publie un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000074/msif-20260709.htm",
+    "date": "2026-07-09 09:39"
+  },
+  {
+    "company": "Main Street Capital CORP",
+    "cik": "1396440",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Main Street Capital Corporation depose un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000084/main-20260709.htm",
+    "date": "2026-07-09 09:38"
+  },
+  {
     "company": "FibroBiologics, Inc.",
     "cik": "1958777",
     "form": "8-K",
@@ -2468,40 +2506,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1235468/000119312526285740/lqdt-20260622.htm",
     "date": "2026-06-26 17:28"
-  },
-  {
-    "company": "GameStop Corp.",
-    "cik": "1326380",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "GameStop annonce une prévision de bénéfice pour l'année fiscale 2026",
-    "chiffres": {
-      "Adjusted EBITDA": "$600 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1326380/000132638026000035/form8-kxguidance.htm",
-    "date": "2026-06-26 17:27"
-  },
-  {
-    "company": "Vertical Data Inc.",
-    "cik": "2033264",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC neutre de Vertical Data Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226030348/ex16-1.htm",
-    "date": "2026-06-26 17:22"
-  },
-  {
-    "company": "Akari Therapeutics Plc",
-    "cik": "1541157",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Akari Therapeutics modifie son accord d'achat de titres",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1541157/000149315226030341/ex10-1.htm",
-    "date": "2026-06-26 17:15"
   }
 ]
