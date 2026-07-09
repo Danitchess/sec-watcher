@@ -1,5 +1,49 @@
 [
   {
+    "company": "Simply Good Foods Co",
+    "cik": "1702744",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "La societe Simply Good Foods Co. annonce des resultats financiers negatifs pour le troisieme trimestre 2026",
+    "activite": "Leader dans la categorie des snacks nutritionnels",
+    "chiffres": {
+      "revenu": "$357,0 million",
+      "benefice": "-$52,0 million",
+      "bpa": "-$0,58",
+      "croissance": "-6,3%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1702744/000170274426000021/a991_pressreleasexq3x2026.htm",
+    "date": "2026-07-09 07:02"
+  },
+  {
+    "company": "UNITED NATURAL FOODS INC",
+    "cik": "1020859",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Offre d'emploi pour le poste de Directeur financier",
+    "activite": "",
+    "chiffres": {
+      "revenu": "$800,000",
+      "dividende": "$150,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000020/exhibit101alfredoluchiniof.htm",
+    "date": "2026-07-09 07:01"
+  },
+  {
+    "company": "ENDRA Life Sciences Inc.",
+    "cik": "1681682",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "ENDRA Life Sciences Inc. a regagne la conformite avec les exigences de Nasdaq",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026076526/ea0297455-8k_endra.htm",
+    "date": "2026-07-09 06:08"
+  },
+  {
     "company": "CAPSTONE COMPANIES, INC.",
     "cik": "814926",
     "form": "8-K",
@@ -2458,40 +2502,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1061630/000119312526285668/d89825d8k.htm",
     "date": "2026-06-26 17:01"
-  },
-  {
-    "company": "NextBoat Inc.",
-    "cik": "2067767",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de pret entre NextBoat Inc. et RLLT Capital, LLC",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226030328/ex10-1.htm",
-    "date": "2026-06-26 17:00"
-  },
-  {
-    "company": "AMEREN CORP",
-    "cik": "1002910",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ameren Missouri demande une augmentation de ses revenus annuels pour le service électrique",
-    "chiffres": {
-      "revenu": "343 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926078317/tm2619084d1_8k.htm",
-    "date": "2026-06-26 17:00"
-  },
-  {
-    "company": "Contineum Therapeutics, Inc.",
-    "cik": "1855175",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de la reunion annuelle des actionnaires de Contineum Therapeutics, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1855175/000162828026045804/ctnm-20260626.htm",
-    "date": "2026-06-26 16:48"
   }
 ]
