@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of San Francisco",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "15 000 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000117/fhlbsf-20260707.htm",
+    "date": "2026-07-09 14:17"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Boston",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "15 000 000 $ et 50 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000130/fhlbbost-20260707.htm",
+    "date": "2026-07-09 13:54"
+  },
+  {
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "cik": "1331754",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Indianapolis emet des obligations consolidees",
+    "activite": "emission d'obligations consolidees",
+    "chiffres": {
+      "dividende": "10 000 000 $, 15 000 000 $, 25 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000139/fhlbi-20260706.htm",
+    "date": "2026-07-09 13:29"
+  },
+  {
     "company": "Federal Home Loan Bank of New York",
     "cik": "1329842",
     "form": "8-K",
@@ -2472,42 +2514,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1615219/000119312526286737/dcoy-20260626.htm",
     "date": "2026-06-29 06:03"
-  },
-  {
-    "company": "Volato Group, Inc.",
-    "cik": "1853070",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente d'actions entre Volato Group, Inc. et des acheteurs",
-    "chiffres": {
-      "dividende": "0,165 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226030377/ex10-1.htm",
-    "date": "2026-06-29 06:03"
-  },
-  {
-    "company": "Picard Medical, Inc.",
-    "cik": "2030617",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau membre au conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926021897/pmi20260626_8k.htm",
-    "date": "2026-06-29 06:02"
-  },
-  {
-    "company": "Outlook Therapeutics, Inc.",
-    "cik": "1649989",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Outlook Therapeutics regagne la conformite avec les regles de listing de Nasdaq",
-    "chiffres": {
-      "dividende": "1,00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926078337/tm2619105d1_8k.htm",
-    "date": "2026-06-26 17:30"
   }
 ]
