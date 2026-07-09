@@ -1,5 +1,45 @@
 [
   {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of New York",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006563/fhlbny_8k.htm",
+    "date": "2026-07-09 12:56"
+  },
+  {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "10 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000125/fhlba-20260707.htm",
+    "date": "2026-07-09 12:56"
+  },
+  {
+    "company": "KKR FS Income Trust Select",
+    "cik": "1975736",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "KKR FS Income Trust Select declare un dividende mensuel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.175"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1975736/000110465926082201/tm2620099d2_8k.htm",
+    "date": "2026-07-09 12:55"
+  },
+  {
     "company": "Overland Advantage",
     "cik": "1965934",
     "form": "8-K",
@@ -2469,42 +2509,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926078337/tm2619105d1_8k.htm",
     "date": "2026-06-26 17:30"
-  },
-  {
-    "company": "LGL GROUP INC",
-    "cik": "61004",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LGL Group annonce la negociation de ses droits de souscription sur le marche OTC",
-    "chiffres": {
-      "dividende": "6,90 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926021864/ex_982395.htm",
-    "date": "2026-06-26 17:30"
-  },
-  {
-    "company": "Graf Global Corp.",
-    "cik": "1897463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Graf Global Corp. annonce des accords de non-rachat d'actions",
-    "chiffres": {
-      "dividende": "10.86 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926078336/tm2618324d10_8k.htm",
-    "date": "2026-06-26 17:29"
-  },
-  {
-    "company": "LIQUIDITY SERVICES INC",
-    "cik": "1235468",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Liquidity Services Inc. modifie son accord de credit",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1235468/000119312526285740/lqdt-20260622.htm",
-    "date": "2026-06-26 17:28"
   }
 ]
