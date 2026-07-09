@@ -1,5 +1,45 @@
 [
   {
+    "company": "Roadzen Inc.",
+    "cik": "1868640",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente d'actions entre les vendeurs et Roadzen Technologies Limited",
+    "activite": "achat et vente d'actions",
+    "chiffres": {
+      "dividende": "£6,000,000, £3,600,000, £2,400,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1868640/000149315226032702/ex2-1.htm",
+    "date": "2026-07-09 16:40"
+  },
+  {
+    "company": "UMH PROPERTIES, INC.",
+    "cik": "752642",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "UMH Properties lance un programme de pret sans versement initial pour les veterans",
+    "activite": "UMH Properties est un trust de placement immobilier (REIT) specialise dans la propriete et l'exploitation de communautes de maisons prefabriciques",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/752642/000149315226032700/ex99-1.htm",
+    "date": "2026-07-09 16:35"
+  },
+  {
+    "company": "Cantor Fitzgerald Income Trust, Inc.",
+    "cik": "1666244",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cantor Fitzgerald Income Trust, Inc. declare un dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.73889 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1666244/000119312526299752/cfit-20260707.htm",
+    "date": "2026-07-09 16:33"
+  },
+  {
     "company": "Federal Home Loan Bank of San Francisco",
     "cik": "1316944",
     "form": "8-K",
@@ -2475,44 +2515,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000055/mpc-20260626.htm",
     "date": "2026-06-29 09:19"
-  },
-  {
-    "company": "SANDRIDGE ENERGY INC",
-    "cik": "1349436",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "SandRidge Energy acquiert des propriétés pétrolières et gazières pour 65 millions de dollars",
-    "chiffres": {
-      "dividende": "$65,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1349436/000121390026072879/ea0296206-8k_sandridge.htm",
-    "date": "2026-06-29 08:49"
-  },
-  {
-    "company": "Inhibikase Therapeutics, Inc.",
-    "cik": "1750149",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Inhibikase Therapeutics, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526286747/d68912d8k.htm",
-    "date": "2026-06-29 06:05"
-  },
-  {
-    "company": "Decoy Therapeutics Inc.",
-    "cik": "1615219",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Decoy Therapeutics Inc. annonce une placement prive de ses securites",
-    "chiffres": {
-      "gross proceeds": "3,5 million",
-      "additional gross proceeds": "17,5 million",
-      "Per Share Purchase Price": "5,91 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1615219/000119312526286737/dcoy-20260626.htm",
-    "date": "2026-06-29 06:03"
   }
 ]
