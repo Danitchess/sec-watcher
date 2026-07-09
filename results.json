@@ -1,5 +1,43 @@
 [
   {
+    "company": "Ainos, Inc.",
+    "cik": "1014763",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de la societe Ainos, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226032729/ex10-1.htm",
+    "date": "2026-07-09 17:29"
+  },
+  {
+    "company": "AUTOZONE INC",
+    "cik": "866787",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AutoZone Inc. annonce un accord de souscription pour 850 millions de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "850,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926082304/tm2619274d6_8k.htm",
+    "date": "2026-07-09 17:20"
+  },
+  {
+    "company": "Marvell Technology, Inc.",
+    "cik": "1835632",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Marvell Technology, Inc. depose un rapport courant aupres de la SEC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526299843/d82462d8k.htm",
+    "date": "2026-07-09 17:19"
+  },
+  {
     "company": "Roadzen Inc.",
     "cik": "1868640",
     "form": "8-K",
@@ -2482,38 +2520,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/353184/000035318426000058/a2026-03x31airtinvestorp.htm",
     "date": "2026-06-29 09:24"
-  },
-  {
-    "company": "Solidion Technology Inc.",
-    "cik": "1881551",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Solidion Technology Inc. annonce la date de son assemblee annuelle des actionnaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026072902/ea0296260-8k_solidion.htm",
-    "date": "2026-06-29 09:23"
-  },
-  {
-    "company": "MiniMed Group, Inc.",
-    "cik": "2062583",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MiniMed Group, Inc. annonce des changements dans son conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2062583/000110465926078588/tm2619270d1_8k.htm",
-    "date": "2026-06-29 09:22"
-  },
-  {
-    "company": "Marathon Petroleum Corp",
-    "cik": "1510295",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Deces d'un membre du conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000055/mpc-20260626.htm",
-    "date": "2026-06-29 09:19"
   }
 ]
