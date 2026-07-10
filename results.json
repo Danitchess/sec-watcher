@@ -1,5 +1,47 @@
 [
   {
+    "company": "AZIO AI HOLDINGS, INC.",
+    "cik": "1563568",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de nom de l'entreprise en Azio AI Holdings, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1563568/000143774926023245/adom20260708_8k.htm",
+    "date": "2026-07-10 08:15"
+  },
+  {
+    "company": "VYNE Therapeutics Inc.",
+    "cik": "1566044",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "VYNE Therapeutics Inc. declare un dividende special en liquide",
+    "activite": "",
+    "chiffres": {
+      "dividende": "16,5 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1566044/000110465926082433/tm2620182d1_8k.htm",
+    "date": "2026-07-10 08:06"
+  },
+  {
+    "company": "Ategrity Specialty Insurance Co Holdings",
+    "cik": "2040491",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Ategrity Specialty Insurance Company Holdings annonce des resultats financiers preliminaires pour le deuxieme trimestre 2026",
+    "activite": "L'entreprise est active dans le domaine de l'assurance specialisee",
+    "chiffres": {
+      "revenu": "205 millions $",
+      "benefice": "0,60 $ par action",
+      "croissance": "22%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2040491/000204049126000029/asic-20260706.htm",
+    "date": "2026-07-10 08:06"
+  },
+  {
     "company": "Ainos, Inc.",
     "cik": "1014763",
     "form": "8-K",
@@ -2484,41 +2526,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/6845/000000684526000060/apog-20260624.htm",
     "date": "2026-06-29 11:35"
-  },
-  {
-    "company": "ASCENT INDUSTRIES CO.",
-    "cik": "95953",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ascent Industries Co adopte un plan de trading pour le rachat d'actions",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/95953/000009595326000103/acnt-20260629.htm",
-    "date": "2026-06-29 10:30"
-  },
-  {
-    "company": "Nuveen Global Cities REIT, Inc.",
-    "cik": "1711799",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale annuelle de Nuveen Global Cities REIT, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1711799/000119312526286995/d84402d8k.htm",
-    "date": "2026-06-29 09:25"
-  },
-  {
-    "company": "AIR T INC",
-    "cik": "353184",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Air T INC annonce une acquisition et une expansion de son portefeuille",
-    "chiffres": {
-      "revenu": "$327.1M",
-      "benefice": "$10.1M"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/353184/000035318426000058/a2026-03x31airtinvestorp.htm",
-    "date": "2026-06-29 09:24"
   }
 ]
