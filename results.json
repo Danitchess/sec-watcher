@@ -1,5 +1,45 @@
 [
   {
+    "company": "WFRBS Commercial Mortgage Trust 2014-C25",
+    "cik": "1623838",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour WFRBS Commercial Mortgage Trust 2014-C25",
+    "activite": "RCA gere des prêts hypothecaires commerciaux pour des securitisations de biens immobiliers",
+    "chiffres": {
+      "dividende": "$21,8 milliards"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1623838/000188852426012464/wcm14c25_8k-07062026.htm",
+    "date": "2026-07-10 11:08"
+  },
+  {
+    "company": "LataMed AI Corp.",
+    "cik": "1477960",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LataMed AI Corp. augmente son capital autorise",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1477960/000147793226004240/cctc_8k.htm",
+    "date": "2026-07-10 10:51"
+  },
+  {
+    "company": "Cyber Enviro-Tech, Inc.",
+    "cik": "1935092",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Cyber Enviro-Tech, Inc. a remboursé quatre prêts importants",
+    "activite": "",
+    "chiffres": {
+      "dividende": "94,300$ , 82,800$ , 59,444$ , 187,500$ , 424,044$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1935092/000107997326000943/ceti_8k.htm",
+    "date": "2026-07-10 10:06"
+  },
+  {
     "company": "AZIO AI HOLDINGS, INC.",
     "cik": "1563568",
     "form": "8-K",
@@ -2489,42 +2529,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2055003/000188852426011546/bcr25c33_8k-06292026.htm",
     "date": "2026-06-29 13:01"
-  },
-  {
-    "company": "Stone Point Credit Corp",
-    "cik": "1825384",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Distribution de 0,430 $ par action",
-    "chiffres": {
-      "dividende": "0,430 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1825384/000110465926078715/tm2619117d1_8k.htm",
-    "date": "2026-06-29 13:01"
-  },
-  {
-    "company": "Kennedy Lewis Capital Co",
-    "cik": "1911321",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Kennedy Lewis Capital Co",
-    "chiffres": {
-      "dividende": "19,81 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000023/ck0001911321-20260625.htm",
-    "date": "2026-06-29 12:58"
-  },
-  {
-    "company": "APOGEE ENTERPRISES, INC.",
-    "cik": "6845",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires d'Apogee Enterprises, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/6845/000000684526000060/apog-20260624.htm",
-    "date": "2026-06-29 11:35"
   }
 ]
