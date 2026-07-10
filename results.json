@@ -1,5 +1,43 @@
 [
   {
+    "company": "GRANITE CONSTRUCTION INC",
+    "cik": "861459",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Granite Construction INC",
+    "activite": "",
+    "chiffres": {
+      "dividende": "273,3 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/861459/000086145926000025/gva-20260710.htm",
+    "date": "2026-07-10 16:16"
+  },
+  {
+    "company": "Beacon Financial Corp",
+    "cik": "1108134",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Beacon Financial Corp informe ses actionnaires sur les regles de retrait des directeurs",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1108134/000110465926082659/tm2619549d1_8k.htm",
+    "date": "2026-07-10 16:16"
+  },
+  {
+    "company": "Freedom Holding Corp.",
+    "cik": "924805",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/924805/000092480526000028/frhc-20260710.htm",
+    "date": "2026-07-10 16:16"
+  },
+  {
     "company": "TRIO-TECH INTERNATIONAL",
     "cik": "732026",
     "form": "8-K",
@@ -2492,42 +2530,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226031048/ex16-1.htm",
     "date": "2026-06-29 15:16"
-  },
-  {
-    "company": "Inland Real Estate Income Trust, Inc.",
-    "cik": "1528985",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Inland Real Estate Income Trust, Inc. annonce une distribution de $0,135600 par action",
-    "chiffres": {
-      "dividende": "$0,135600"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1528985/000119312526288223/ireit-20260629.htm",
-    "date": "2026-06-29 15:14"
-  },
-  {
-    "company": "IPC Alternative Real Estate Income Trust, Inc.",
-    "cik": "1959961",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution trimestrielle aux actionnaires",
-    "chiffres": {
-      "dividende": "0.1042 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526288188/ck0001959961-20260629.htm",
-    "date": "2026-06-29 15:03"
-  },
-  {
-    "company": "Wells Fargo Commercial Mortgage Trust 2026-5C10",
-    "cik": "2136440",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Avis juridique sur l'emission de certificats de Wells Fargo Commercial Mortgage Trust 2026-5C10",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2136440/000153949726001882/n5926_exh5.htm",
-    "date": "2026-06-29 14:40"
   }
 ]
