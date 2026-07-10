@@ -1,5 +1,43 @@
 [
   {
+    "company": "Cue Biopharma, Inc.",
+    "cik": "1645460",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Cue Biopharma annonce une placement prive de 50 millions de dollars",
+    "activite": "developpement de traitements medicamenteux",
+    "chiffres": {
+      "dividende": "50,0 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526301052/d123955d8k.htm",
+    "date": "2026-07-10 17:29"
+  },
+  {
+    "company": "Vivakor, Inc.",
+    "cik": "1450704",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vivakor, Inc. annonce une modification d'un accord de dette et d'actions preferentielles",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007518/vivakorinc_8k.htm",
+    "date": "2026-07-10 17:29"
+  },
+  {
+    "company": "Aterian, Inc.",
+    "cik": "1757715",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aterian, Inc. annonce l'ajournement d'une réunion extraordinaire des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926023359/ater20260710_8k.htm",
+    "date": "2026-07-10 17:28"
+  },
+  {
     "company": "GRANITE CONSTRUCTION INC",
     "cik": "861459",
     "form": "8-K",
@@ -2497,38 +2535,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526288703/lxeo-20260625.htm",
     "date": "2026-06-29 17:06"
-  },
-  {
-    "company": "Domtar CORP",
-    "cik": "1381531",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1381531/000119312526288657/d95593d8k.htm",
-    "date": "2026-06-29 16:59"
-  },
-  {
-    "company": "BestGofer Inc.",
-    "cik": "1722556",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de cabinet d'audit pour BestGofer Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1722556/000172255626000025/bgof-20260623_8k.htm",
-    "date": "2026-06-29 15:25"
-  },
-  {
-    "company": "WinVest Acquisition Corp.",
-    "cik": "1854463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "WinVest Acquisition Corp. depose un formulaire 8-K",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226031048/ex16-1.htm",
-    "date": "2026-06-29 15:16"
   }
 ]
