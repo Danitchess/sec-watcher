@@ -1,5 +1,43 @@
 [
   {
+    "company": "TRIO-TECH INTERNATIONAL",
+    "cik": "732026",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le depot SEC de type 8-K de TRIO-TECH INTERNATIONAL decrit les statuts de la societe",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/732026/000143774926023298/ex_987081.htm",
+    "date": "2026-07-10 14:54"
+  },
+  {
+    "company": "Meridian3 Industrials Acquisition Corp",
+    "cik": "2136530",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Meridian3 Industrials Acquisition Corp annonce la cloture de son offre publique initiale",
+    "activite": "",
+    "chiffres": {
+      "revenu": "201,250,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926082584/tm2615935d8_8k.htm",
+    "date": "2026-07-10 14:54"
+  },
+  {
+    "company": "WILSON BANK HOLDING CO",
+    "cik": "885275",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Wilson Bank Holding Company publie un rapport financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/885275/000119312526300789/ck0000885275-20260710.htm",
+    "date": "2026-07-10 14:51"
+  },
+  {
     "company": "Origin Bancorp, Inc.",
     "cik": "1516912",
     "form": "8-K",
@@ -2491,44 +2529,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2136440/000153949726001882/n5926_exh5.htm",
     "date": "2026-06-29 14:40"
-  },
-  {
-    "company": "BROOKFIELD REAL ESTATE INCOME TRUST INC.",
-    "cik": "1713407",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Declaration de distributions pour les actionnaires de Brookfield Real Estate Income Trust Inc.",
-    "chiffres": {
-      "dividende": "$0.0580"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000069/bra-20260629.htm",
-    "date": "2026-06-29 14:40"
-  },
-  {
-    "company": "AMEREN CORP",
-    "cik": "1002910",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ameren Missouri a emis des obligations pour 500 millions de dollars",
-    "chiffres": {
-      "dividende": "500 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926078757/tm2619063d1_8k.htm",
-    "date": "2026-06-29 14:35"
-  },
-  {
-    "company": "Triller Group Inc.",
-    "cik": "1769624",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Triller Group Inc.",
-    "chiffres": {
-      "dividende": "23.00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026073012/ea0296238-8k_triller.htm",
-    "date": "2026-06-29 14:01"
   }
 ]
