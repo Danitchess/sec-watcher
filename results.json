@@ -1,5 +1,41 @@
 [
   {
+    "company": "Origin Bancorp, Inc.",
+    "cik": "1516912",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Origin Bancorp, Inc. annonce la publication de ses resultats du deuxieme trimestre 2026",
+    "activite": "fournit des services financiers et assureurs",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1516912/000151691226000038/ex9912q26obkprannouncingco.htm",
+    "date": "2026-07-10 12:54"
+  },
+  {
+    "company": "United Health Products, Inc.",
+    "cik": "1096938",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "United Health Products annonce un accord avec NAMSA pour une etude clinique",
+    "activite": "developpement de produits medicaux, notamment le CelluSTAT Hemostatic Gauze",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1096938/000147793226004244/ueec_8k.htm",
+    "date": "2026-07-10 12:19"
+  },
+  {
+    "company": "FIVE STAR BANCORP",
+    "cik": "1275168",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de publication des resultats financiers du deuxieme trimestre 2026",
+    "activite": "exploitation d'une banque",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026047852/exhibit991-q22026earningsr.htm",
+    "date": "2026-07-10 12:09"
+  },
+  {
     "company": "WFRBS Commercial Mortgage Trust 2014-C25",
     "cik": "1623838",
     "form": "8-K",
@@ -2494,40 +2530,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026073012/ea0296238-8k_triller.htm",
     "date": "2026-06-29 14:01"
-  },
-  {
-    "company": "BBCMS Mortgage Trust 2025-5C34",
-    "cik": "2061325",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de servicer pour le prêt Soho House Chicago",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2061325/000188852426011566/bcr25c34_8k-06292026.htm",
-    "date": "2026-06-29 13:09"
-  },
-  {
-    "company": "NRC HEALTH",
-    "cik": "70487",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de NRC Health sans indication de chiffres clés",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/70487/000143774926021938/ex_981879.htm",
-    "date": "2026-06-29 13:04"
-  },
-  {
-    "company": "BBCMS Mortgage Trust 2025-5C33",
-    "cik": "2055003",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de servicer pour BBCMS Mortgage Trust 2025-5C33",
-    "chiffres": {
-      "dividende": "217 Billion, 211 Billion, 194.7 billion, 193.3 Billion"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2055003/000188852426011546/bcr25c33_8k-06292026.htm",
-    "date": "2026-06-29 13:01"
   }
 ]
