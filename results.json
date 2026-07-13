@@ -1,5 +1,50 @@
 [
   {
+    "company": "SOLITRON DEVICES INC",
+    "cik": "91668",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Solitron Devices Inc. annonce des résultats positifs pour le premier trimestre de l'année fiscale 2027",
+    "activite": "Solitron Devices, Inc., a Delaware corporation, designs, develops, manufactures, and markets solid state semiconductor components and related devices primarily for the military and aerospace markets",
+    "chiffres": {
+      "revenu": "$5.44 million",
+      "benefice": "$0.99 million",
+      "bpa": "$0.46",
+      "croissance": "101%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/91668/000143774926023424/ex_985975.htm",
+    "date": "2026-07-13 15:34"
+  },
+  {
+    "company": "BASIN ELECTRIC POWER COOPERATIVE",
+    "cik": "720515",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Basin Electric Power Cooperative a conclu un accord de reglement avec McKenzie Electric Cooperative",
+    "activite": "production et distribution d'electricite",
+    "chiffres": {
+      "dividende": "40 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/720515/000072051526000007/basin-20260709.htm",
+    "date": "2026-07-13 15:07"
+  },
+  {
+    "company": "Inception Growth Acquisition Ltd",
+    "cik": "1866838",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Inception Growth Acquisition Ltd depose 12 203,33$ dans un compte de confiance",
+    "activite": "",
+    "chiffres": {
+      "dividende": "12 203,33$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1866838/000121390026077511/ea0297839-8k_inception.htm",
+    "date": "2026-07-13 15:00"
+  },
+  {
     "company": "DATA I/O CORP",
     "cik": "351998",
     "form": "8-K",
@@ -2505,42 +2550,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926022083/crex20260626c_8k.htm",
     "date": "2026-06-30 06:15"
-  },
-  {
-    "company": "MAGNACHIP SEMICONDUCTOR Corp",
-    "cik": "1325702",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de direction chez Magnachip Semiconductor Corporation",
-    "chiffres": {
-      "dividende": "560,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526289285/mx-20260630.htm",
-    "date": "2026-06-30 06:10"
-  },
-  {
-    "company": "AFLAC INC",
-    "cik": "4977",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Aflac annonce une violation de donnees en Japan",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026046124/afl-20260630.htm",
-    "date": "2026-06-30 06:03"
-  },
-  {
-    "company": "Contango Silver &amp; Gold Inc.",
-    "cik": "1502377",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Contango Silver & Gold Inc. annonce une modification d'un accord d'achat de participation",
-    "chiffres": {
-      "dividende": "$5,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526288774/ctgo-20260623.htm",
-    "date": "2026-06-29 17:29"
   }
 ]
