@@ -1,5 +1,41 @@
 [
   {
+    "company": "American Strategic Investment Co.",
+    "cik": "1595527",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement dans la direction de l'entreprise",
+    "activite": "investissements dans l'immobilier",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926083143/tm2620257d1_8k.htm",
+    "date": "2026-07-13 16:58"
+  },
+  {
+    "company": "Arhaus, Inc.",
+    "cik": "1875444",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Arhaus, Inc. annonce des changements dans son conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000023/arhs-20260707.htm",
+    "date": "2026-07-13 16:48"
+  },
+  {
+    "company": "OIL STATES INTERNATIONAL, INC",
+    "cik": "1121484",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Modification de l'accord de depart du CEO",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1121484/000112148426000029/ois-20260709.htm",
+    "date": "2026-07-13 16:47"
+  },
+  {
     "company": "SOLITRON DEVICES INC",
     "cik": "91668",
     "form": "8-K",
@@ -2510,45 +2546,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226031184/ex99-1.htm",
     "date": "2026-06-30 06:45"
-  },
-  {
-    "company": "Ingredion Inc",
-    "cik": "1046257",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ingredion Inc. annonce la vente de 51% de Rafhan Maize Products Co. Ltd.",
-    "chiffres": {
-      "revenu": "$250 million",
-      "dividende": "$165 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1046257/000104625726000210/ingr-20260630.htm",
-    "date": "2026-06-30 06:45"
-  },
-  {
-    "company": "FORUM MARKETS Inc",
-    "cik": "1690080",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Forum Markets Inc. modifie son programme de rachat d'actions",
-    "chiffres": {
-      "dividende": "250 million $ -> 100 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026073352/ea0296380-8k_forum.htm",
-    "date": "2026-06-30 06:30"
-  },
-  {
-    "company": "CREATIVE REALITIES, INC.",
-    "cik": "1356093",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Creative Realities, Inc. annonce une offre publique de 2,528,571 actions",
-    "chiffres": {
-      "dividende": "10,9 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926022083/crex20260626c_8k.htm",
-    "date": "2026-06-30 06:15"
   }
 ]
