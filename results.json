@@ -1,5 +1,43 @@
 [
   {
+    "company": "Twin Vee PowerCats, Co.",
+    "cik": "1855509",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Twin Vee PowerCats Co. annonce un accord de fusion avec USFM Corporation",
+    "activite": "",
+    "chiffres": {
+      "dividende": "500,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226000931/e7774_8k.htm",
+    "date": "2026-07-13 09:26"
+  },
+  {
+    "company": "TACTILE SYSTEMS TECHNOLOGY INC",
+    "cik": "1027838",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Tactile Systems Technology Inc annonce un accord de distribution avec ElastiMed",
+    "activite": "developpement et commercialisation de dispositifs medicaux",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1027838/000110465926082947/tm2620304d1_8k.htm",
+    "date": "2026-07-13 09:23"
+  },
+  {
+    "company": "WILLIAMS COMPANIES, INC.",
+    "cik": "107263",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Williams Companies, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312526301533/d152507d8k.htm",
+    "date": "2026-07-13 09:20"
+  },
+  {
     "company": "PLUG POWER INC",
     "cik": "1093691",
     "form": "8-K",
@@ -2498,40 +2536,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1842138/000182912626006998/ulixecorp_8ka1.htm",
     "date": "2026-06-29 17:21"
-  },
-  {
-    "company": "Z Squared Inc.",
-    "cik": "1759186",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Z Squared Inc. annonce la completion de son utilisation de la SEPA et son inclusion dans les indices Russell 3000 et Russell 2000",
-    "chiffres": {
-      "dividende": "$20,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526002708/zsquared8k062926.htm",
-    "date": "2026-06-29 17:19"
-  },
-  {
-    "company": "Beneficient",
-    "cik": "1775734",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Beneficient",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1775734/000177573426000013/ben-20260629.htm",
-    "date": "2026-06-29 17:18"
-  },
-  {
-    "company": "Western Uranium &amp; Vanadium Corp.",
-    "cik": "1621906",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de Western Uranium & Vanadium Corp. sur son assemblee generale annuelle",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1621906/000121390026073201/ea0296259-8k_western.htm",
-    "date": "2026-06-29 17:15"
   }
 ]
