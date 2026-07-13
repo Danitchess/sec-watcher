@@ -1,5 +1,46 @@
 [
   {
+    "company": "INNO HOLDINGS INC.",
+    "cik": "1961847",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Inno Holdings Inc. publie un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1961847/000149315226032977/form8-k.htm",
+    "date": "2026-07-13 12:15"
+  },
+  {
+    "company": "HINES GLOBAL INCOME TRUST, INC.",
+    "cik": "1585101",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Hines Global Income Trust acquiert deux nouvelles propriétés",
+    "activite": "Acquisition de propriétés immobilières",
+    "chiffres": {
+      "contract purchase price de Wicker Park": "70,0 M$",
+      "contract purchase price de 405 Colorado": "151,0 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026047967/hgit-20260623.htm",
+    "date": "2026-07-13 12:11"
+  },
+  {
+    "company": "CHESAPEAKE UTILITIES CORP",
+    "cik": "19745",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Chesapeake Utilities annonce un nouveau projet de infrastructure gaz naturel",
+    "activite": "developpement, construction et operation d'infrastructures gaz naturel",
+    "chiffres": {
+      "dividende": "1,2 milliard $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/19745/000162828026047964/cpk-20260713.htm",
+    "date": "2026-07-13 11:45"
+  },
+  {
     "company": "Twin Vee PowerCats, Co.",
     "cik": "1855509",
     "form": "8-K",
@@ -2499,42 +2540,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/916076/000095015726000770/ex2-1.htm",
     "date": "2026-06-29 17:27"
-  },
-  {
-    "company": "GLOBE LIFE INC.",
-    "cik": "320335",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Globe Life Inc. conclut un accord de credit de 1 milliard de dollars",
-    "chiffres": {
-      "dividende": "1,000,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000198/a101wellsfargo-globelife.htm",
-    "date": "2026-06-29 17:26"
-  },
-  {
-    "company": "DIGITAL REALTY TRUST, L.P.",
-    "cik": "1494877",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Digital Realty Trust annonce l'acquisition d'interets dans des joint-ventures de data centers",
-    "chiffres": {
-      "dividende": "1,231 million $ en cash et 2,346,087,437.83 $ en actions, 377.6 million $ en cash, 1,2 milliard $ en net proceeds, 7,8 milliards $ en valeur brute"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1494877/000119312526288761/d100507d8k.htm",
-    "date": "2026-06-29 17:25"
-  },
-  {
-    "company": "ULIXE CORP.",
-    "cik": "1842138",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ulixe Corp dépose un formulaire 8-K/A pour inclure une lettre de Mario Manzo",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1842138/000182912626006998/ulixecorp_8ka1.htm",
-    "date": "2026-06-29 17:21"
   }
 ]
