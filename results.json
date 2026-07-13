@@ -1,5 +1,45 @@
 [
   {
+    "company": "Eagle Point Credit Co",
+    "cik": "1604174",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Eagle Point Credit Company publie un rapport financier",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,15-0,19 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1604174/000110465926083170/tm2620178d1_8k.htm",
+    "date": "2026-07-13 17:29"
+  },
+  {
+    "company": "SC II Acquisition Corp.",
+    "cik": "2076739",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "L'entreprise annonce l'abandon d'un projet d'acquisition",
+    "activite": "entreprise de technologie de paiement",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2076739/000121390026077669/ea0297805-8k_sc2acq.htm",
+    "date": "2026-07-13 17:29"
+  },
+  {
+    "company": "Eagle Point Income Co Inc.",
+    "cik": "1754836",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Eagle Point Income Co Inc. publie un rapport financier",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,35 $ - 0,39 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1754836/000110465926083169/tm2620177d1_8k.htm",
+    "date": "2026-07-13 17:29"
+  },
+  {
     "company": "American Strategic Investment Co.",
     "cik": "1595527",
     "form": "8-K",
@@ -2509,42 +2549,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026073399/ea0296359-8k_ssinnovat.htm",
     "date": "2026-06-30 08:35"
-  },
-  {
-    "company": "Moleculin Biotech, Inc.",
-    "cik": "1659617",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926022087/ex_983037_source.htm",
-    "date": "2026-06-30 08:29"
-  },
-  {
-    "company": "Sharplink, Inc.",
-    "cik": "1981535",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Sharplink acquiert 10 000 ETH et rachète plus de 2,1 millions d'actions",
-    "chiffres": {
-      "dividende": "75 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1981535/000149315226031202/ex99-1.htm",
-    "date": "2026-06-30 08:15"
-  },
-  {
-    "company": "Nova Minerals Corp",
-    "cik": "1852551",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nova Minerals corrige les informations sur sa capitalisation boursiere",
-    "chiffres": {
-      "dividende": "US$2,1 milliard (inexact), US$166 million, US$43,4 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226031184/ex99-1.htm",
-    "date": "2026-06-30 06:45"
   }
 ]
