@@ -1,5 +1,43 @@
 [
   {
+    "company": "PLUG POWER INC",
+    "cik": "1093691",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Plug Power Inc annonce des accords de vente de terrains",
+    "activite": "La societe vend des terrains et des actifs lies a des projets de data centers",
+    "chiffres": {
+      "dividende": "132,5 M$ a 142 M$, 50 M$, 6,5 M$, 10 M$, 26,5 M$, 162 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1093691/000110465926082854/tm2620282d1_8k.htm",
+    "date": "2026-07-13 07:15"
+  },
+  {
+    "company": "FIRST HAWAIIAN, INC.",
+    "cik": "36377",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "First Hawaiian, Inc. annonce des résultats financiers préliminaires pour le deuxième trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/36377/000110465926082853/tm2620283d1_8k.htm",
+    "date": "2026-07-13 07:15"
+  },
+  {
+    "company": "RESIDEO TECHNOLOGIES, INC.",
+    "cik": "1740332",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Resideo Technologies, Inc. publie un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1740332/000121390026077351/ea0297747-8k_resideo.htm",
+    "date": "2026-07-13 07:14"
+  },
+  {
     "company": "Cue Biopharma, Inc.",
     "cik": "1645460",
     "form": "8-K",
@@ -2495,45 +2533,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1621906/000121390026073201/ea0296259-8k_western.htm",
     "date": "2026-06-29 17:15"
-  },
-  {
-    "company": "Oncotelic Therapeutics, Inc.",
-    "cik": "908259",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente de titres entre Oncotelic Therapeutics et Pacific Pier Capital",
-    "chiffres": {
-      "dividende": "157,000.80 $",
-      "Note": "178,410.00 $",
-      "Purchase Price": "157,000.80 $",
-      "legal fees": "7,000.00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/908259/000149315226031124/ex10-1.htm",
-    "date": "2026-06-29 17:15"
-  },
-  {
-    "company": "EWSB Bancorp, Inc. /MD/",
-    "cik": "2013792",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "EWSB Bancorp, Inc. annonce une emission d'actions",
-    "chiffres": {
-      "dividende": "2,616,820$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2013792/000094337426000239/form8k.htm",
-    "date": "2026-06-29 17:08"
-  },
-  {
-    "company": "Lexeo Therapeutics, Inc.",
-    "cik": "1907108",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de la reunion annuelle des actionnaires de Lexeo Therapeutics, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526288703/lxeo-20260625.htm",
-    "date": "2026-06-29 17:06"
   }
 ]
