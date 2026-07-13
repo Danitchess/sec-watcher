@@ -1,5 +1,33 @@
 [
   {
+    "company": "DATA I/O CORP",
+    "cik": "351998",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Data I/O Corporation",
+    "activite": "",
+    "chiffres": {
+      "dividende": "6,825,400.00$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426006627/daio_8k.htm",
+    "date": "2026-07-13 13:20"
+  },
+  {
+    "company": "FORTRESS CREDIT REALTY INCOME TRUST",
+    "cik": "2026738",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Fortress Credit Realty Income Trust augmente son financement disponible",
+    "activite": "acquisition et/ou origination de certaines creances",
+    "chiffres": {
+      "financement": "750 millions $ (augmentation de 250 millions $ par rapport aux 500 millions $ precedents)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526301797/ck0002026738-20260708.htm",
+    "date": "2026-07-13 13:17"
+  },
+  {
     "company": "INNO HOLDINGS INC.",
     "cik": "1961847",
     "form": "8-K",
@@ -2514,31 +2542,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526288774/ctgo-20260623.htm",
     "date": "2026-06-29 17:29"
-  },
-  {
-    "company": "Quantum Leap Acquisition Corp",
-    "cik": "2102155",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Quantum Leap Acquisition Corp annonce la clôture de l'exercice de l'option de sur-allocation",
-    "chiffres": {
-      "dividende": "10.00 $ par Unit"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2102155/000121390026073229/ea0296391-8k_quantum.htm",
-    "date": "2026-06-29 17:28"
-  },
-  {
-    "company": "MARTIN MARIETTA MATERIALS INC",
-    "cik": "916076",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente de securites entre LNA Holding SRL et Martin Marietta Materials, Inc.",
-    "chiffres": {
-      "dividende": "10,953,543 actions de capital ordinaire du Purchaser"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/916076/000095015726000770/ex2-1.htm",
-    "date": "2026-06-29 17:27"
   }
 ]
