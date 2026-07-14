@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "cik": "1331754",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Indianapolis publie un rapport 8-K sur la creation d'une obligation financiere directe",
+    "activite": "emission d'obligations",
+    "chiffres": {
+      "dividende": "4.875% sur 15 000 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000143/fhlbi-20260708.htm",
+    "date": "2026-07-14 08:39"
+  },
+  {
+    "company": "Holley Inc.",
+    "cik": "1822928",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Holley Inc. annonce le remboursement de 15 millions de dollars de son prêt à taux fixe",
+    "activite": "",
+    "chiffres": {
+      "dividende": "15 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1822928/000182292826000063/hlly-20260714.htm",
+    "date": "2026-07-14 08:38"
+  },
+  {
+    "company": "SS Innovations International, Inc.",
+    "cik": "1676163",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Nomination d'une nouvelle directrice financiere",
+    "activite": "",
+    "chiffres": {
+      "dividende": "440,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026077784/ea0297601-8k_ssinnova.htm",
+    "date": "2026-07-14 08:35"
+  },
+  {
     "company": "INTERNATIONAL BUSINESS MACHINES CORP",
     "cik": "51143",
     "form": "8-K",
@@ -2517,40 +2559,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/16160/000156276226000076/calm-20260629_8K.htm",
     "date": "2026-06-30 09:05"
-  },
-  {
-    "company": "BayFirst Financial Corp.",
-    "cik": "1649739",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "BayFirst Financial Corp. annonce ses resultats du deuxieme trimestre",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1649739/000164973926000037/bafn-20260630.htm",
-    "date": "2026-06-30 09:01"
-  },
-  {
-    "company": "Celularity Inc",
-    "cik": "1752828",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de pret entre Celularity Inc. et Philip & Daniele Barach Family Trust",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226031216/ex10-1.htm",
-    "date": "2026-06-30 09:00"
-  },
-  {
-    "company": "Hancock Park Corporate Income, Inc.",
-    "cik": "1661306",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Hancock Park Corporate Income, Inc. declare une distribution de 0,01$ par action",
-    "chiffres": {
-      "dividende": "0,01$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000047/ck0001661306-20260626.htm",
-    "date": "2026-06-30 09:00"
   }
 ]
