@@ -1,5 +1,45 @@
 [
   {
+    "company": "BION ENVIRONMENTAL TECHNOLOGIES INC",
+    "cik": "875729",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Bion Environmental Technologies Inc. annonce un accord de reglement avec Hamstra Builders",
+    "activite": "construction d'un systeme de recuperation d'ammoniac",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/875729/000107997326000947/bion_8k.htm",
+    "date": "2026-07-14 13:03"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Chicago publie un rapport 8-K sur la creation d'obligations financieres",
+    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
+    "chiffres": {
+      "dividende": "10,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000123/fhlbc-20260708.htm",
+    "date": "2026-07-14 13:02"
+  },
+  {
+    "company": "Federal Home Loan Bank of Cincinnati",
+    "cik": "1326771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Cincinnati",
+    "activite": "La societe emet des obligations consolidees pour financer ses activites",
+    "chiffres": {
+      "dividende": "50,000,000 $, 10,000,000 $, 2,000,000 $, 13,000,000 $, 3,000,000 $, 16,000,000 $, 1,000,000 $, 2,000,000 $, 11,000,000 $, 12,000,000 $, 5,000,000 $, 5,000,000 $, 7,000,000 $, 22,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000113/fhlbcin-20260708.htm",
+    "date": "2026-07-14 12:54"
+  },
+  {
     "company": "Federal Home Loan Bank of Dallas",
     "cik": "1331757",
     "form": "8-K",
@@ -2526,44 +2566,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026046182/cls-20260625.htm",
     "date": "2026-06-30 12:29"
-  },
-  {
-    "company": "Hancock Park Corporate Income, Inc.",
-    "cik": "1661306",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Hancock Park Corporate Income, Inc. termine un contrat de credit revolving",
-    "chiffres": {
-      "dividende": "7,5 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000049/ck0001661306-20260629.htm",
-    "date": "2026-06-30 11:30"
-  },
-  {
-    "company": "Federal Home Loan Bank of Cincinnati",
-    "cik": "1326771",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Cincinnati",
-    "chiffres": {
-      "dividende": "500,000,000$ et 1,000,000,000$ et 1,000,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000107/fhlbcin-20260626.htm",
-    "date": "2026-06-30 11:30"
-  },
-  {
-    "company": "Brand Engagement Network Inc.",
-    "cik": "1838163",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Brand Engagement Network achete Cataneo, une societe de logiciels pour les operations publicitaires",
-    "chiffres": {
-      "revenu": "8,636,708 €"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226031238/ex99-1.htm",
-    "date": "2026-06-30 11:18"
   }
 ]
