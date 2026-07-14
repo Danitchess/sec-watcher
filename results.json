@@ -1,5 +1,51 @@
 [
   {
+    "company": "TREX CO INC",
+    "cik": "1069878",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Trex Company Inc corrige son chiffre d'Adjusted EBITDA",
+    "activite": "",
+    "chiffres": {
+      "dividende": "335-350 millions$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526302685/trex-20260714.htm",
+    "date": "2026-07-14 10:00"
+  },
+  {
+    "company": "JPMORGAN CHASE &amp; CO",
+    "cik": "19617",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "JPMorgan Chase & Co annonce des resultats financiers positifs pour le 2e trimestre 2026",
+    "activite": "banque et services financiers",
+    "chiffres": {
+      "revenu": "$58,0 Mds",
+      "benefice": "$21,2 Mds",
+      "bpa": "$7,70",
+      "croissance": "41%",
+      "dividende": "$4,0 Mds"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026048086/a2q26_earningsxpresentat.htm",
+    "date": "2026-07-14 09:52"
+  },
+  {
+    "company": "Catalyst Bancorp, Inc.",
+    "cik": "1849867",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Catalyst Bancorp, Inc. annonce l'acquisition de Lakeside Bancshares, Inc.",
+    "activite": "banque",
+    "chiffres": {
+      "dividende": "41,1 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1849867/000184986726000014/clst-20260714x8k.htm",
+    "date": "2026-07-14 09:41"
+  },
+  {
     "company": "Federal Home Loan Bank of Indianapolis",
     "cik": "1331754",
     "form": "8-K",
@@ -2518,46 +2564,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1412502/000110465926079183/sret-20260625x8k.htm",
     "date": "2026-06-30 11:06"
-  },
-  {
-    "company": "STRATS(SM) Trust For Goldman Sachs Capital I Securities, Series 2005-1",
-    "cik": "1328989",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution de certificats sans changement notable",
-    "chiffres": {
-      "revenu": "$18,119.12",
-      "dividende": "$3.78664995"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1328989/000199937126013815/ex99-1.htm",
-    "date": "2026-06-30 09:55"
-  },
-  {
-    "company": "STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3",
-    "cik": "1339920",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution de certificats STRATS TRUST FOR GOLDMAN SACHS CAPITAL I SECURITIES, SERIES 2005-3",
-    "chiffres": {
-      "revenu": "$83,508.86",
-      "dividende": "$4.26130836"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1339920/000199937126013812/ex99-1.htm",
-    "date": "2026-06-30 09:51"
-  },
-  {
-    "company": "CAL-MAINE FOODS INC",
-    "cik": "16160",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cal-Maine Foods Inc. a conclu un accord avec le DOJ pour regler des allegations de violations antitrust",
-    "chiffres": {
-      "dividende": "1,5 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/16160/000156276226000076/calm-20260629_8K.htm",
-    "date": "2026-06-30 09:05"
   }
 ]
