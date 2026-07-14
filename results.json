@@ -1,5 +1,41 @@
 [
   {
+    "company": "Laird Superfood, Inc.",
+    "cik": "1650696",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Laird Superfood, Inc. annonce le depart de son directeur financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023571/lsf20260714_8k.htm",
+    "date": "2026-07-14 17:30"
+  },
+  {
+    "company": "Viking Acquisition Corp. II",
+    "cik": "2139246",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Viking Acquisition Corp. II annonce la separation de ses unites en actions et warrants",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2139246/000118518526002966/vac28k071426.htm",
+    "date": "2026-07-14 17:30"
+  },
+  {
+    "company": "Vistra Corp.",
+    "cik": "1692819",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Vistra Corp. annonce des resultats positifs de l'auction de capacite PJM pour 2028/2029",
+    "activite": "Vistra est une entreprise integree de production et de distribution d'electricite",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126028454/ef20077988_8k.htm",
+    "date": "2026-07-14 17:29"
+  },
+  {
     "company": "Cheniere Energy, Inc.",
     "cik": "3570",
     "form": "8-K",
@@ -2529,42 +2565,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526290596/ibatf-20260624.htm",
     "date": "2026-06-30 16:23"
-  },
-  {
-    "company": "LABCORP HOLDINGS INC.",
-    "cik": "920148",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Labcorp annonce la date de publication de ses resultats financiers du deuxieme trimestre 2026",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000150/formpr2q26ex991earningsann.htm",
-    "date": "2026-06-30 16:20"
-  },
-  {
-    "company": "Disc Medicine, Inc.",
-    "cik": "1816736",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Disc Medicine, Inc. annonce une modification de son accord de pret",
-    "chiffres": {
-      "dividende": "30,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526290542/iron-20260625.htm",
-    "date": "2026-06-30 16:16"
-  },
-  {
-    "company": "LAGO Evergreen Credit",
-    "cik": "2043759",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "LAGO Evergreen Credit declare une distribution de dividendes",
-    "chiffres": {
-      "dividende": "$0.87 par action, total de $4,899,879"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526290157/ck0002043759-20260629.htm",
-    "date": "2026-06-30 14:08"
   }
 ]
