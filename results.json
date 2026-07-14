@@ -1,5 +1,41 @@
 [
   {
+    "company": "Cheniere Energy, Inc.",
+    "cik": "3570",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Cheniere Energy nomme un nouveau membre au conseil d'administration",
+    "activite": "producteur et exportateur de gaz naturel liqueifie",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000023/ceiex991-ceipressreleasevi.htm",
+    "date": "2026-07-14 16:34"
+  },
+  {
+    "company": "Elite Express Holding Inc.",
+    "cik": "2053641",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Elite Express Holding Inc. publie son rapport financier pour le trimestre se terminant le 31 mai 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2053641/000110465926083527/tm2620499d1_8k.htm",
+    "date": "2026-07-14 16:34"
+  },
+  {
+    "company": "Evofem Biosciences, Inc.",
+    "cik": "1618835",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Evofem Biosciences, Inc. emet une note promissory de 706 304 dollars",
+    "activite": "fabrication et distribution de produits tels que Phexx et Solosec",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1618835/000149315226033184/ex10-1.htm",
+    "date": "2026-07-14 16:31"
+  },
+  {
     "company": "Franklin BSP Real Estate Debt, Inc.",
     "cik": "2035428",
     "form": "8-K",
@@ -2530,42 +2566,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526290157/ck0002043759-20260629.htm",
     "date": "2026-06-30 14:08"
-  },
-  {
-    "company": "Graphene &amp; Solar Technologies Ltd",
-    "cik": "1497649",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1497649/000190359626000268/ex99_1.htm",
-    "date": "2026-06-30 14:06"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations consolidees",
-    "chiffres": {
-      "dividende": "30,000,000 $, 10,000,000 $, 300,000,000 $, 150,000,000 $, 200,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000124/fhlbbost-20260624.htm",
-    "date": "2026-06-30 13:50"
-  },
-  {
-    "company": "CONDUENT Inc",
-    "cik": "1677703",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Conduent Inc annonce la vente de son activite de solutions de peage",
-    "chiffres": {
-      "dividende": "70 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000077/cndt-20260629.htm",
-    "date": "2026-06-30 13:40"
   }
 ]
