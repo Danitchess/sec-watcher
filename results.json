@@ -1,5 +1,41 @@
 [
   {
+    "company": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "cik": "51143",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "IBM publie un rapport financier pour le trimestre clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714.htm",
+    "date": "2026-07-14 07:01"
+  },
+  {
+    "company": "NextCure, Inc.",
+    "cik": "1661059",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "NextCure, Inc. annonce une fusion avec Avere Therapeutics, Inc.",
+    "activite": "NextCure est une societe de biotechnologie qui fusionne avec Avere Therapeutics",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083326/tm2620428d1_8k.htm",
+    "date": "2026-07-14 07:00"
+  },
+  {
+    "company": "D-Wave Quantum Inc.",
+    "cik": "1907982",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "D-Wave transfere sa cotation boursiere a Nasdaq",
+    "activite": "developpement et fourniture de systemes, logiciels et services de calcul quantique",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/d-waveannouncestransferofs.htm",
+    "date": "2026-07-14 07:00"
+  },
+  {
     "company": "Eagle Point Credit Co",
     "cik": "1604174",
     "form": "8-K",
@@ -2516,38 +2552,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000047/ck0001661306-20260626.htm",
     "date": "2026-06-30 09:00"
-  },
-  {
-    "company": "AUTOLIV INC",
-    "cik": "1034670",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un dirigeant et nomination d'un successeur",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526289515/alv-20260624.htm",
-    "date": "2026-06-30 09:00"
-  },
-  {
-    "company": "PPL Corp",
-    "cik": "922224",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "PPL Corp nomme un nouveau membre au conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000040/ppl-06302026exhibit991.htm",
-    "date": "2026-06-30 08:50"
-  },
-  {
-    "company": "SS Innovations International, Inc.",
-    "cik": "1676163",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe SS Innovations International, Inc. est nommee gagnante dans la categorie Outstanding Company aux 2026 Surgical Robotics Industry Awards",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026073399/ea0296359-8k_ssinnovat.htm",
-    "date": "2026-06-30 08:35"
   }
 ]
