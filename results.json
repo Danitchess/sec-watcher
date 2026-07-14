@@ -1,5 +1,43 @@
 [
   {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Dallas",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "15 000 000 $, 10 000 000 $, 25 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000126/fhlbd-20260708.htm",
+    "date": "2026-07-14 10:50"
+  },
+  {
+    "company": "GPB Holdings II, LP",
+    "cik": "1640265",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "GPB Holdings II, LP annonce la fin de l'emploi de son directeur financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1640265/000110465926083406/tm2620479d1_8k.htm",
+    "date": "2026-07-14 10:50"
+  },
+  {
+    "company": "GPB Automotive Portfolio, LP",
+    "cik": "1578742",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "GPB Automotive Portfolio, LP annonce la fin de l'emploi de son directeur financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1578742/000110465926083405/tm2620478d1_8k.htm",
+    "date": "2026-07-14 10:49"
+  },
+  {
     "company": "TREX CO INC",
     "cik": "1069878",
     "form": "8-K",
@@ -2527,42 +2565,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226031238/ex99-1.htm",
     "date": "2026-06-30 11:18"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Chicago",
-    "chiffres": {
-      "dividende": "55,000,000 $ et 10,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000117/fhlbc-20260624.htm",
-    "date": "2026-06-30 11:17"
-  },
-  {
-    "company": "Invesco Real Estate Income Trust Inc.",
-    "cik": "1756761",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Invesco Real Estate Income Trust Inc. declare des distributions pour chaque classe d'actions",
-    "chiffres": {
-      "dividende": "$0.1380"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000097/inreit-20260630.htm",
-    "date": "2026-06-30 11:15"
-  },
-  {
-    "company": "Sterling Real Estate Trust",
-    "cik": "1412502",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de la reunion annuelle des actionnaires de Sterling Real Estate Trust",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1412502/000110465926079183/sret-20260625x8k.htm",
-    "date": "2026-06-30 11:06"
   }
 ]
