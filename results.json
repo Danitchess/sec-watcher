@@ -1,5 +1,47 @@
 [
   {
+    "company": "PNC FINANCIAL SERVICES GROUP, INC.",
+    "cik": "713676",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "PNC Financial Services Group affiche des resultats solides pour le deuxieme trimestre 2026",
+    "activite": "banque et services financiers",
+    "chiffres": {
+      "revenu": "6,875 M$",
+      "benefice": "2,055 M$",
+      "bpa": "4,81 $",
+      "croissance": "16%",
+      "dividende": "2,00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026048308/a2q26earningsslides_vf.htm",
+    "date": "2026-07-15 13:43"
+  },
+  {
+    "company": "LataMed AI Corp.",
+    "cik": "1477960",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LataMed AI Corp annonce une scission d'actions 5 pour 1",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1477960/000147793226004320/lmed_8k.htm",
+    "date": "2026-07-15 13:41"
+  },
+  {
+    "company": "Benchmark 2024-V6 Mortgage Trust",
+    "cik": "2012265",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de serviteur special pour un pret hypothecaire",
+    "activite": "Gestion de prets hypothecaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2012265/000188852426012543/bmk24v06_8k-07152026.htm",
+    "date": "2026-07-15 12:53"
+  },
+  {
     "company": "Benchmark 2023-V4 Mortgage Trust",
     "cik": "1992084",
     "form": "8-K",
@@ -2527,44 +2569,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/82473/000149315226031405/ex99-1.htm",
     "date": "2026-06-30 21:59"
-  },
-  {
-    "company": "Plum Acquisition Corp, IV",
-    "cik": "2030482",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Plum Acquisition Corp, IV",
-    "chiffres": {
-      "dividende": "11.50$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026073908/ea0296594-8k_plum4.htm",
-    "date": "2026-06-30 20:16"
-  },
-  {
-    "company": "PROVECTUS BIOPHARMACEUTICALS, INC.",
-    "cik": "315545",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Provectus Biopharmaceuticals, Inc. publie un rapport 8-K sur la conversion de frais de directeurs en actions",
-    "chiffres": {
-      "dividende": "542,500.00$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/315545/000149315226031379/form8-k.htm",
-    "date": "2026-06-30 19:37"
-  },
-  {
-    "company": "OLD REPUBLIC INTERNATIONAL CORP",
-    "cik": "74260",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Old Republic acquiert le groupe ECM",
-    "chiffres": {
-      "dividende": "25 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/74260/000007426026000079/newsreleasedatejune30202.htm",
-    "date": "2026-06-30 18:26"
   }
 ]
