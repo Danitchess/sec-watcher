@@ -1,5 +1,43 @@
 [
   {
+    "company": "NRG ENERGY, INC.",
+    "cik": "1013871",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NRG Energy, Inc. annonce les resultats de l'enchere de capacite de PJM Interconnection",
+    "activite": "production d'electricite",
+    "chiffres": {
+      "dividende": "6,839 MW a un prix moyen de 325 $ par MW-jour"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926083743/tm2620335d1_8k.htm",
+    "date": "2026-07-15 08:48"
+  },
+  {
+    "company": "Gevo, Inc.",
+    "cik": "1392380",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Gevo, Inc. publie un rapport courant sur Form 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1392380/000110465926083740/tm2620388d2_8k.htm",
+    "date": "2026-07-15 08:35"
+  },
+  {
+    "company": "CINTAS CORP",
+    "cik": "723254",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cintas Corp publie son rapport financier trimestriel",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000025/ctas-20260715.htm",
+    "date": "2026-07-15 08:31"
+  },
+  {
     "company": "HYCROFT MINING HOLDING CORP",
     "cik": "1718405",
     "form": "8-K",
@@ -2527,44 +2565,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1824502/000182450226000046/achr-20260626.htm",
     "date": "2026-06-30 17:10"
-  },
-  {
-    "company": "Antares Strategic Credit Fund",
-    "cik": "1993402",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Antares Strategic Credit Fund annonce une distribution reguliere et une offre de parts sociales",
-    "chiffres": {
-      "dividende": "$0.1847"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1993402/000119312526290600/ck0001993402-20260630.htm",
-    "date": "2026-06-30 16:25"
-  },
-  {
-    "company": "HORIZON BANCORP INC /IN/",
-    "cik": "706129",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Verdict civil contre la filiale de Horizon Bancorp",
-    "chiffres": {
-      "dividende": "3,0 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/706129/000070612926000054/hbnc-20260624.htm",
-    "date": "2026-06-30 16:25"
-  },
-  {
-    "company": "Verizon Master Trust",
-    "cik": "1844964",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations par Verizon Master Trust",
-    "chiffres": {
-      "dividende": "994,210,000 $, 75,000,000 $, 81,740,000 $, 49,050,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1844964/000092963826002479/exhibit5-1.htm",
-    "date": "2026-06-30 16:24"
   }
 ]
