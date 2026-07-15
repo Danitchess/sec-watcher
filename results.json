@@ -1,5 +1,45 @@
 [
   {
+    "company": "Skyward Specialty Insurance Group, Inc.",
+    "cik": "1519449",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Skyward Specialty Insurance Group, Inc. augmente son programme de rachat d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "US$50 million a US$100 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1519449/000151944926000044/skwd-20260715.htm",
+    "date": "2026-07-15 17:26"
+  },
+  {
+    "company": "Lamb Weston Holdings, Inc.",
+    "cik": "1679273",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lamb Weston Holdings, Inc. presente son plan d'actions 2026",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,538,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000022/ex101amendedlambwestonin.htm",
+    "date": "2026-07-15 17:24"
+  },
+  {
+    "company": "Matson, Inc.",
+    "cik": "3453",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Matson, Inc. publie un rapport financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/3453/000110465926083946/matx-20260715x8k.htm",
+    "date": "2026-07-15 17:20"
+  },
+  {
     "company": "SANFILIPPO JOHN B &amp; SON INC",
     "cik": "880117",
     "form": "8-K",
@@ -2531,44 +2571,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1397016/000149315226031452/form8-k.htm",
     "date": "2026-07-01 09:30"
-  },
-  {
-    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
-    "cik": "1310488",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Bioforce Nanoscience acquiert des leases pétroliers et gazières au Nevada",
-    "chiffres": {
-      "dividende": "12.5%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000087/bfnh-07012026_8k.htm",
-    "date": "2026-07-01 09:15"
-  },
-  {
-    "company": "TECOGEN INC.",
-    "cik": "1537435",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Augmentation des salaires des dirigeants",
-    "chiffres": {
-      "dividende": "220,500$ (+5%), 206,000$ (+3%), 185,400$ (+3%), 152,260$ (+3%), 185,400$ (+3%)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1537435/000153743526000053/tgen-20260626.htm",
-    "date": "2026-07-01 09:15"
-  },
-  {
-    "company": "BED BATH &amp; BEYOND, INC.",
-    "cik": "1130713",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bed Bath & Beyond acquiert TwoPonds, Inc.",
-    "chiffres": {
-      "dividende": "$35,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126027094/ef20077159_8k.htm",
-    "date": "2026-07-01 09:11"
   }
 ]
