@@ -1,5 +1,41 @@
 [
   {
+    "company": "Benchmark 2023-V4 Mortgage Trust",
+    "cik": "1992084",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Document juridique relatif a la designation d'un servicer special",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1992084/000188852426012533/bmk23v04_20-1.htm",
+    "date": "2026-07-15 12:03"
+  },
+  {
+    "company": "BMO 2024-5C3 Mortgage Trust",
+    "cik": "2006440",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Document juridique relatif a la designation d'un serviteur special",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2006440/000188852426012532/bmo245c3_20-1.htm",
+    "date": "2026-07-15 12:02"
+  },
+  {
+    "company": "AMERICAN EXPRESS CO",
+    "cik": "4962",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Express publie des statistiques de delinquency et de write-off pour ses cartes de credit",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000302/axp-20260715.htm",
+    "date": "2026-07-15 12:00"
+  },
+  {
     "company": "Rithm Perpetual Life Residential Trust",
     "cik": "2081628",
     "form": "8-K",
@@ -2530,43 +2566,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/74260/000007426026000079/newsreleasedatejune30202.htm",
     "date": "2026-06-30 18:26"
-  },
-  {
-    "company": "Estrella Immunopharma, Inc.",
-    "cik": "1844417",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires d'Estrella Immunopharma, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1844417/000121390026073847/ea029661701-8k_estrella.htm",
-    "date": "2026-06-30 17:29"
-  },
-  {
-    "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
-    "cik": "720762",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Modification de l'accord de fusion entre Non-Invasive Monitoring Systems et Gravitics",
-    "chiffres": {
-      "dividende": "809,705.75 $",
-      "indebtedness": "300,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226031343/ex10-1.htm",
-    "date": "2026-06-30 17:29"
-  },
-  {
-    "company": "Gores Holdings XI, Inc.",
-    "cik": "2086438",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Gores Holdings XI, Inc. annonce la cloture de son offre publique initiale",
-    "chiffres": {
-      "revenu": "$358,800,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2086438/000119312526290853/d117784d8k.htm",
-    "date": "2026-06-30 17:26"
   }
 ]
