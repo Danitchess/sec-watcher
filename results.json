@@ -1,5 +1,43 @@
 [
   {
+    "company": "Rithm Perpetual Life Residential Trust",
+    "cik": "2081628",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rithm Perpetual Life Residential Trust publie sa valeur nette d'inventaire par action",
+    "activite": "",
+    "chiffres": {
+      "dividende": "NAV par action : 20,1637 $ (Class J), 20,2802 $ (Class E), Total NAV : 144 294 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026048282/rhome-20260715.htm",
+    "date": "2026-07-15 10:39"
+  },
+  {
+    "company": "LIPELLA PHARMACEUTICALS INC.",
+    "cik": "1347242",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Lipella Pharmaceuticals Inc. est en procedure de faillite",
+    "activite": "developpement de produits pharmaceutiques",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1347242/000175392626001173/g085807_8k.htm",
+    "date": "2026-07-15 10:38"
+  },
+  {
+    "company": "PROGRESSIVE CORP/OH/",
+    "cik": "80661",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe PROGRESSIVE CORP/OH/",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000262/pgr-20260715.htm",
+    "date": "2026-07-15 09:50"
+  },
+  {
     "company": "NRG ENERGY, INC.",
     "cik": "1013871",
     "form": "8-K",
@@ -2530,40 +2568,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2086438/000119312526290853/d117784d8k.htm",
     "date": "2026-06-30 17:26"
-  },
-  {
-    "company": "Rain Enhancement Technologies Holdco, Inc.",
-    "cik": "2028293",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rain Enhancement Technologies Holdco, Inc. conclut un accord de vente avec Needham & Company, LLC",
-    "chiffres": {
-      "dividende": "3.0% de la valeur brute des actions vendues"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2028293/000121390026073834/ea0296474-8k_rain.htm",
-    "date": "2026-06-30 17:24"
-  },
-  {
-    "company": "Cycurion, Inc.",
-    "cik": "1868419",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cycurion, Inc. achete les actifs de Kustom Entertainment, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226031333/ex10-1.htm",
-    "date": "2026-06-30 17:24"
-  },
-  {
-    "company": "Archer Aviation Inc.",
-    "cik": "1824502",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires d'Archer Aviation Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1824502/000182450226000046/achr-20260626.htm",
-    "date": "2026-06-30 17:10"
   }
 ]
