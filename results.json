@@ -1,5 +1,43 @@
 [
   {
+    "company": "HYCROFT MINING HOLDING CORP",
+    "cik": "1718405",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hycroft Mining Holding Corp conclut un accord d'emploi avec Michael J. Deal",
+    "activite": "exploitation miniere",
+    "chiffres": {
+      "dividende": "US$425,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1718405/000149315226033283/ex10-1.htm",
+    "date": "2026-07-15 07:05"
+  },
+  {
+    "company": "Axsome Therapeutics, Inc.",
+    "cik": "1579428",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "L'entreprise annonce l'acceptation de sa demande de nouveau medicament",
+    "activite": "developpement de traitements pour la narcolepsie",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526304039/axsm-20260715.htm",
+    "date": "2026-07-15 07:05"
+  },
+  {
+    "company": "Green Thumb Industries Inc.",
+    "cik": "1795139",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Green Thumb Industries Inc. modifie ses statuts pour augmenter le quorum requis pour les réunions d'actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1795139/000119312526304034/gtbif-20260709.htm",
+    "date": "2026-07-15 07:00"
+  },
+  {
     "company": "Laird Superfood, Inc.",
     "cik": "1650696",
     "form": "8-K",
@@ -2528,42 +2566,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1844964/000092963826002479/exhibit5-1.htm",
     "date": "2026-06-30 16:24"
-  },
-  {
-    "company": "Verizon ABS II LLC",
-    "cik": "1836995",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations par Verizon ABS II LLC",
-    "chiffres": {
-      "dividende": "994,210,000 $, 75,000,000 $, 81,740,000 $, 49,050,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1836995/000092963826002479/exhibit5-1.htm",
-    "date": "2026-06-30 16:24"
-  },
-  {
-    "company": "W. P. Carey Inc.",
-    "cik": "1025378",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "W. P. Carey Inc. annonce une emission d'obligations senior",
-    "chiffres": {
-      "dividende": "$350 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1025378/000110465926079341/tm2619376d1_8k.htm",
-    "date": "2026-06-30 16:23"
-  },
-  {
-    "company": "INTERNATIONAL BATTERY METALS LTD.",
-    "cik": "1786318",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement d'auditeur pour International Battery Metals Ltd.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1786318/000119312526290596/ibatf-20260624.htm",
-    "date": "2026-06-30 16:23"
   }
 ]
