@@ -1,5 +1,31 @@
 [
   {
+    "company": "SBA COMMUNICATIONS CORP",
+    "cik": "1034054",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "SBA Communications Corporation annonce une emission d'obligations pour un montant de 3,5 milliards de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,350,000,000 $, 1,350,000,000 $, 800,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1034054/000119312526304972/d169827d8k.htm",
+    "date": "2026-07-15 17:29"
+  },
+  {
+    "company": "GameSquare Holdings, Inc.",
+    "cik": "1714562",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Une entreprise accorde des unites d'actions restreintes a un employe",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226033404/ex10-1.htm",
+    "date": "2026-07-15 17:29"
+  },
+  {
     "company": "Skyward Specialty Insurance Group, Inc.",
     "cik": "1519449",
     "form": "8-K",
@@ -2549,27 +2575,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526291860/d150736d8k.htm",
     "date": "2026-07-01 11:13"
-  },
-  {
-    "company": "CHOICE HOTELS INTERNATIONAL INC /DE",
-    "cik": "1046311",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1046311/000162828026046377/chh-20260626.htm",
-    "date": "2026-07-01 10:37"
-  },
-  {
-    "company": "Optex Systems Holdings Inc",
-    "cik": "1397016",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour Optex Systems Holdings Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1397016/000149315226031452/form8-k.htm",
-    "date": "2026-07-01 09:30"
   }
 ]
