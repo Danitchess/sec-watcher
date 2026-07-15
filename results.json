@@ -1,5 +1,45 @@
 [
   {
+    "company": "SANFILIPPO JOHN B &amp; SON INC",
+    "cik": "880117",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe declare des dividendes speciaux et annuels",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,05 $ et 0,95 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526304782/jbss-20260715.htm",
+    "date": "2026-07-15 16:14"
+  },
+  {
+    "company": "Aspira Women&#39;s Health Inc.",
+    "cik": "926617",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aspira Women's Health Inc. conclut un accord de pret",
+    "activite": "Aspira Women's Health Inc. est une societe de sante pour les femmes",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/926617/000092661726000052/awhl-20260706x8k.htm",
+    "date": "2026-07-15 16:12"
+  },
+  {
+    "company": "Jefferies Financial Group Inc.",
+    "cik": "96223",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Jefferies Financial Group Inc. a realise une emission d'obligations senior de 850 millions d'euros",
+    "activite": "emission d'obligations",
+    "chiffres": {
+      "dividende": "843,8 millions d'euros"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/96223/000114036126028538/ef20077911_8k.htm",
+    "date": "2026-07-15 16:12"
+  },
+  {
     "company": "STRUCTURED PRODUCTS CORP CRED ENHANCE CORTS TR FOR AON CAP A",
     "cik": "1283337",
     "form": "8-K",
@@ -2530,44 +2570,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126027094/ef20077159_8k.htm",
     "date": "2026-07-01 09:11"
-  },
-  {
-    "company": "Vistance Networks, Inc.",
-    "cik": "1517228",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Vistance Networks, Inc. a finalise la vente de son segment RUCKUS pour 1,846 milliard de dollars",
-    "chiffres": {
-      "dividende": "1,846 milliard de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526291679/visn-20260701.htm",
-    "date": "2026-07-01 09:09"
-  },
-  {
-    "company": "REX AMERICAN RESOURCES Corp",
-    "cik": "744187",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Modification des contrats d'emploi de dirigeants",
-    "chiffres": {
-      "dividende": "225,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/744187/000093041326002006/c116858_8k-ixbrl.htm",
-    "date": "2026-07-01 09:08"
-  },
-  {
-    "company": "North Haven Net REIT",
-    "cik": "1999784",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "North Haven Net REIT declare des distributions pour ses actionnaires",
-    "chiffres": {
-      "dividende": "$ 0.1021, $ 0.1140, $ 0.1168, $ 0.1288, $ 0.1563"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000049/ck0001999784-20260630.htm",
-    "date": "2026-07-01 08:58"
   }
 ]
