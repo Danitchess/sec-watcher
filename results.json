@@ -1,5 +1,45 @@
 [
   {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of San Francisco publie un rapport 8-K sur la creation d'obligations financieres",
+    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
+    "chiffres": {
+      "dividende": "10 000 000 $ et 500 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000121/fhlbsf-20260713.htm",
+    "date": "2026-07-16 15:19"
+  },
+  {
+    "company": "DONEGAL GROUP INC",
+    "cik": "800457",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Donegal Group Inc. annonce un dividende trimestriel",
+    "activite": "offre des lignes d'assurance contre les dommages aux biens et aux personnes dans 21 etats",
+    "chiffres": {
+      "dividende": "0,1925 $ par action de la classe A et 0,175 $ par action de la classe B"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/800457/000117184326004728/exh_991.htm",
+    "date": "2026-07-16 15:00"
+  },
+  {
+    "company": "CarMax Auto Owner Trust 2026-3",
+    "cik": "2142044",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "CarMax Auto Owner Trust 2026-3 annonce une emission d'obligations adossees a des actifs",
+    "activite": "Emission d'obligations adossees a des actifs",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2142044/000119312526305930/d21267d8k.htm",
+    "date": "2026-07-16 14:37"
+  },
+  {
     "company": "John Deere Owner Trust 2026-B",
     "cik": "2141933",
     "form": "8-K",
@@ -2563,42 +2603,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000151/exhibit99q22026salesrele.htm",
     "date": "2026-07-02 09:16"
-  },
-  {
-    "company": "Virtuix Holdings Inc.",
-    "cik": "1606242",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Virtuix Holdings Inc. publie un rapport 8-K sur ses developpements commerciaux",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1606242/000121390026074624/ea0296787-8k_virtuix.htm",
-    "date": "2026-07-02 09:15"
-  },
-  {
-    "company": "Lucid Group, Inc.",
-    "cik": "1811210",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lucid Group, Inc. nomme un nouveau directeur financier",
-    "chiffres": {
-      "dividende": "750 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1811210/000162828026046718/lcid-20260701.htm",
-    "date": "2026-07-02 09:01"
-  },
-  {
-    "company": "Arcturus Therapeutics Holdings Inc.",
-    "cik": "1768224",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Arcturus Therapeutics Holdings Inc. annonce un partenariat avec Thermo Fisher Scientific Inc.",
-    "chiffres": {
-      "dividende": "40 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526000910/e665618_8k-arct.htm",
-    "date": "2026-07-02 07:05"
   }
 ]
