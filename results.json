@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Pittsburgh",
+    "cik": "1330399",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Pittsburgh",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette, appeles obligations consolidees, sur les marches financiers",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000119312526305501/ck0001330399-20260713.htm",
+    "date": "2026-07-16 09:23"
+  },
+  {
+    "company": "COMMERCE BANCSHARES INC /MO/",
+    "cik": "22356",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Commerce Bancshares affiche des resultats positifs au 2e trimestre 2026",
+    "activite": "banque et services financiers",
+    "chiffres": {
+      "revenu": "$499 millions",
+      "benefice": "$160 millions",
+      "bpa": "$1,10",
+      "croissance": "11,9%",
+      "dividende": "$2,6 milliards"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000176/a2026q2earningshighlight.htm",
+    "date": "2026-07-16 09:22"
+  },
+  {
+    "company": "Main Street Capital CORP",
+    "cik": "1396440",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Main Street Capital Corporation publie un rapport financier préliminaire",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000086/main-20260716.htm",
+    "date": "2026-07-16 09:15"
+  },
+  {
     "company": "Gain Therapeutics, Inc.",
     "cik": "1819411",
     "form": "8-K",
@@ -2549,40 +2591,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2045458/000204545826000024/sp-20260625.htm",
     "date": "2026-07-01 14:19"
-  },
-  {
-    "company": "Triller Group Inc.",
-    "cik": "1769624",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Triller Group Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1769624/000121390026074149/ea0296710-8ka1_triller.htm",
-    "date": "2026-07-01 14:04"
-  },
-  {
-    "company": "FIRST BANCORP /PR/",
-    "cik": "1057706",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Informations sur les changements de direction et les arrangements de rémunération",
-    "chiffres": {
-      "dividende": "$300, $475,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1057706/000114036126027163/ef20077224_8ka.htm",
-    "date": "2026-07-01 13:58"
-  },
-  {
-    "company": "i-80 Gold Corp.",
-    "cik": "1853962",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "i-80 Gold Corp. publie un rapport 8-K sans informations financières",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1853962/000119312526291921/d133490d8k.htm",
-    "date": "2026-07-01 12:01"
   }
 ]
