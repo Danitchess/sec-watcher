@@ -1,5 +1,48 @@
 [
   {
+    "company": "NextPlat Corp",
+    "cik": "1058307",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "NextPlat acquiert une pharmacie en Floride pour 1,5 million de dollars",
+    "activite": "fourniture de produits et services de soins de sante",
+    "chiffres": {
+      "revenu": "5,6 millions de dollars",
+      "croissance": "20%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926023651/ex_988178.htm",
+    "date": "2026-07-15 18:20"
+  },
+  {
+    "company": "Global AI, Inc.",
+    "cik": "1473490",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Global AI, Inc. conclut un accord de souscription avec KSY Capital Investments, Inc.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "USD $500,000.00"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1473490/000149315226033407/ex10-1.htm",
+    "date": "2026-07-15 17:40"
+  },
+  {
+    "company": "Stereotaxis, Inc.",
+    "cik": "1289340",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "L'acquisition de Robocath pourrait ne pas être bénéfique pour Stereotaxis",
+    "activite": "Stereotaxis est une entreprise qui fabrique et commercialise des systèmes robotiques et des dispositifs médicaux d'intervention",
+    "chiffres": {
+      "dividende": "1,1 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1289340/000149315226033405/ex99-1.htm",
+    "date": "2026-07-15 17:37"
+  },
+  {
     "company": "SBA COMMUNICATIONS CORP",
     "cik": "1034054",
     "form": "8-K",
@@ -2542,38 +2585,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/796534/000119312526291900/nksh-20260701.htm",
     "date": "2026-07-01 11:40"
-  },
-  {
-    "company": "CURIS INC",
-    "cik": "1108205",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Curis Inc",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1108205/000110820526000076/cris-20260701.htm",
-    "date": "2026-07-01 11:22"
-  },
-  {
-    "company": "Greenpro Capital Corp.",
-    "cik": "1597846",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1597846/000149315226031459/ex10-1.htm",
-    "date": "2026-07-01 11:20"
-  },
-  {
-    "company": "Flutter Entertainment plc",
-    "cik": "1635327",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Flutter Entertainment plc",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526291860/d150736d8k.htm",
-    "date": "2026-07-01 11:13"
   }
 ]
