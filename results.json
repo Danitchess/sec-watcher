@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Boston",
+    "activite": "emission de consolidations obligations",
+    "chiffres": {
+      "dividende": "250,000,000 $, 10,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000137/fhlbbost-20260713.htm",
+    "date": "2026-07-16 12:45"
+  },
+  {
+    "company": "TriLinc Global Impact Fund LLC",
+    "cik": "1550453",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "TriLinc Global Impact Fund LLC annonce une mise a jour de son portefeuille",
+    "activite": "investissements dans des entreprises pour des expansions et des developpements socioeconomiques",
+    "chiffres": {
+      "dividende": "283 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1550453/000143774926023686/trlc20260715_8k.htm",
+    "date": "2026-07-16 12:27"
+  },
+  {
+    "company": "ENB Financial Corp",
+    "cik": "1437479",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "ENB Financial Corp annonce un dividende trimestriel en espèces",
+    "activite": "ENB Financial Corp est une societe de services financiers qui detient la banque Ephrata National Bank",
+    "chiffres": {
+      "dividende": "0,18 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000687/ex99.htm",
+    "date": "2026-07-16 12:05"
+  },
+  {
     "company": "Federal Home Loan Bank of Indianapolis",
     "cik": "1331754",
     "form": "8-K",
@@ -2555,44 +2597,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1438943/000149315226031596/ex10-1.htm",
     "date": "2026-07-01 17:29"
-  },
-  {
-    "company": "Stark Focus Group, Inc.",
-    "cik": "1794942",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Stark Focus Group, Inc. annonce une acquisition de 8,3 millions d'actions par MJG Polo LLC",
-    "chiffres": {
-      "dividende": "$355,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1794942/000164033426001144/stark_8k.htm",
-    "date": "2026-07-01 17:29"
-  },
-  {
-    "company": "Cadrenal Therapeutics, Inc.",
-    "cik": "1937993",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Cadrenal Therapeutics, Inc. a conclu un accord de vente de titres avec un investisseur institutionnel",
-    "chiffres": {
-      "dividende": "3,0 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1937993/000121390026074421/ea0296666-8k_cadrenal.htm",
-    "date": "2026-07-01 17:23"
-  },
-  {
-    "company": "Viatris Inc",
-    "cik": "1792044",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Viatris Inc. conclut un accord de pret a terme",
-    "chiffres": {
-      "prêt": "¥40,000,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126027216/ef20077152_8k.htm",
-    "date": "2026-07-01 16:20"
   }
 ]
