@@ -1,5 +1,43 @@
 [
   {
+    "company": "UPWORK, INC",
+    "cik": "1627475",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Upwork annonce le depart temporaire de son directeur financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1627475/000162747526000042/upwork-20260714.htm",
+    "date": "2026-07-16 16:22"
+  },
+  {
+    "company": "COCA COLA CO",
+    "cik": "21344",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "La societe COCA COLA CO annonce une violation de donnees chez sa filiale fairlife",
+    "activite": "La societe est active dans le domaine des boissons et produits laitiers",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026048466/ko-20260716.htm",
+    "date": "2026-07-16 16:20"
+  },
+  {
+    "company": "Avalanche Treasury Corp",
+    "cik": "2092446",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Avalanche Treasury Corp signe un accord de pret de monnaie numerique",
+    "activite": "prets de monnaie numerique",
+    "chiffres": {
+      "dividende": "10 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926084256/tm2620435d2_8k.htm",
+    "date": "2026-07-16 16:20"
+  },
+  {
     "company": "Federal Home Loan Bank of San Francisco",
     "cik": "1316944",
     "form": "8-K",
@@ -2566,42 +2604,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2028411/000188852426012434/wcm245c1_8k-07022026.htm",
     "date": "2026-07-02 11:38"
-  },
-  {
-    "company": "BANK5 2024-5YR9",
-    "cik": "2032772",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de servicer ou de trustee pour certains prêts",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2032772/000188852426012432/bak24yr9_8k-07022026.htm",
-    "date": "2026-07-02 11:33"
-  },
-  {
-    "company": "BANK5 2024-5YR8",
-    "cik": "2012481",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour BANK5 2024-5YR8",
-    "chiffres": {
-      "dividende": "$12,2 milliards"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2012481/000188852426012430/bak24yr8_8k-07022026.htm",
-    "date": "2026-07-02 11:19"
-  },
-  {
-    "company": "FORD MOTOR CO",
-    "cik": "37996",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Ford affiche des ventes solides pour ses SUV et camions",
-    "chiffres": {
-      "dividende": "900,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000151/exhibit99q22026salesrele.htm",
-    "date": "2026-07-02 09:16"
   }
 ]
