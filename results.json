@@ -1,5 +1,41 @@
 [
   {
+    "company": "Gain Therapeutics, Inc.",
+    "cik": "1819411",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Gain Therapeutics annonce ses previsions de fonds pour financer ses operations",
+    "activite": "developpement de traitements medicamenteux",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1819411/000110465926084086/tm2620618d1_8k.htm",
+    "date": "2026-07-16 07:53"
+  },
+  {
+    "company": "ALLSTATE CORP",
+    "cik": "899051",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe ALLSTATE CORP",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000111/all-20260716.htm",
+    "date": "2026-07-16 07:45"
+  },
+  {
+    "company": "GIBRALTAR INDUSTRIES, INC.",
+    "cik": "912562",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Gibraltar Industries annonce la vente de son activite racking et foundations",
+    "activite": "fabrication et fourniture de produits et services pour les marches residentiels, agtech et infrastructure",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/912562/000091256226000141/exhibit991-saleofrenewables.htm",
+    "date": "2026-07-16 07:44"
+  },
+  {
     "company": "NextPlat Corp",
     "cik": "1058307",
     "form": "8-K",
@@ -2548,42 +2584,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1853962/000119312526291921/d133490d8k.htm",
     "date": "2026-07-01 12:01"
-  },
-  {
-    "company": "FLEXIBLE SOLUTIONS INTERNATIONAL INC",
-    "cik": "1069394",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente d'actions entre Flexible Solutions International Inc. et Bancroft Capital LLC",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1069394/000149315226031474/ex1-1.htm",
-    "date": "2026-07-01 11:53"
-  },
-  {
-    "company": "RREEF Property Trust, Inc.",
-    "cik": "1542447",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "RREEF Property Trust, Inc. declare des distributions pour juin 2026",
-    "chiffres": {
-      "dividende": "0,07495 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1542447/000154244726000079/rpt-20260701.htm",
-    "date": "2026-07-01 11:47"
-  },
-  {
-    "company": "NATIONAL BANKSHARES INC",
-    "cik": "796534",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "National Bankshares Inc. annonce un contrat de consultation avec son ancien PDG",
-    "chiffres": {
-      "dividende": "6,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/796534/000119312526291900/nksh-20260701.htm",
-    "date": "2026-07-01 11:40"
   }
 ]
