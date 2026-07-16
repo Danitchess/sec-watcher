@@ -1,5 +1,43 @@
 [
   {
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "cik": "1331754",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Indianapolis emet des obligations consolidees",
+    "activite": "emission d'obligations consolidees",
+    "chiffres": {
+      "dividende": "15 000 000 $, 250 000 000 $, 150 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000145/fhlbi-20260713.htm",
+    "date": "2026-07-16 10:59"
+  },
+  {
+    "company": "SRX Global Inc.",
+    "cik": "1471727",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "SRX Global est de nouveau en conformite avec les normes de listing de la NYSE American",
+    "activite": "plateforme d'investissement utilisee des technologies d'intelligence artificielle pour generer des rendements",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226033473/ex99-1.htm",
+    "date": "2026-07-16 10:42"
+  },
+  {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000127/fhlba-20260713.htm",
+    "date": "2026-07-16 10:35"
+  },
+  {
     "company": "Federal Home Loan Bank of Pittsburgh",
     "cik": "1330399",
     "form": "8-K",
@@ -2556,40 +2594,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126027216/ef20077152_8k.htm",
     "date": "2026-07-01 16:20"
-  },
-  {
-    "company": "APPFOLIO INC",
-    "cik": "1433195",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AppFolio Inc. annonce des changements dans son conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1433195/000143319526000042/appf-20260112.htm",
-    "date": "2026-07-01 16:20"
-  },
-  {
-    "company": "CLEARONE INC",
-    "cik": "840715",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "ClearOne Inc. conclut un accord de pret avec First Finance Ltd.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/840715/000175392626001118/clro-20260701.htm",
-    "date": "2026-07-01 16:20"
-  },
-  {
-    "company": "Stonepeak-Plus Infrastructure Fund LP",
-    "cik": "2045458",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Le fonds Stonepeak-Plus Infrastructure Fund LP a vendu des units pour un montant total d'environ 28,996,500 $",
-    "chiffres": {
-      "dividende": "90,501,313 $, 1,436,810,679 $, 1,236,824,752 $, 199,985,928 $, 28,996,500 $, 18,671,500 $, 510,000 $, 9,715,000 $, 100,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2045458/000204545826000024/sp-20260625.htm",
-    "date": "2026-07-01 14:19"
   }
 ]
