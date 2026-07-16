@@ -1,5 +1,43 @@
 [
   {
+    "company": "Calidi Biotherapeutics, Inc.",
+    "cik": "1855485",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Calidi Biotherapeutics conclut un bail avec BP3-SD4 5580 Morehouse Drive LLC",
+    "activite": "Calidi Biotherapeutics loue des locaux pour son activite",
+    "chiffres": {
+      "dividende": "$113,574.78"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1855485/000149315226033594/ex10-1.htm",
+    "date": "2026-07-16 17:30"
+  },
+  {
+    "company": "BioRestorative Therapies, Inc.",
+    "cik": "1505497",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1505497/000149315226033593/ex10-1.htm",
+    "date": "2026-07-16 17:30"
+  },
+  {
+    "company": "Vivakor, Inc.",
+    "cik": "1450704",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vivakor, Inc. effectue un reverse stock split de 1 pour 20",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007621/vivakorinc_8k.htm",
+    "date": "2026-07-16 17:29"
+  },
+  {
     "company": "UPWORK, INC",
     "cik": "1627475",
     "form": "8-K",
@@ -2571,38 +2609,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/784539/000110465926080219/tm2619633d1_8k.htm",
     "date": "2026-07-02 13:09"
-  },
-  {
-    "company": "BMO 2024-5C5 Mortgage Trust",
-    "cik": "2027304",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour le trust BMO 2024-5C5 Mortgage Trust",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2027304/000188852426012440/bmo245c5_20-1.htm",
-    "date": "2026-07-02 12:37"
-  },
-  {
-    "company": "BMO 2026-5C14 Mortgage Trust",
-    "cik": "2063015",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour le trust BMO 2026-5C14 Mortgage Trust",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2063015/000188852426012438/bmo26c14_20-1.htm",
-    "date": "2026-07-02 12:36"
-  },
-  {
-    "company": "Wells Fargo Commercial Mortgage Trust 2024-5C1",
-    "cik": "2028411",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de servicer pour deux prêts hypothécaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2028411/000188852426012434/wcm245c1_8k-07022026.htm",
-    "date": "2026-07-02 11:38"
   }
 ]
