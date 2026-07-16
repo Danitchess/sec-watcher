@@ -1,5 +1,43 @@
 [
   {
+    "company": "John Deere Owner Trust 2026-B",
+    "cik": "2141933",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "John Deere Owner Trust 2026-B publie un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2141933/000110465926084191/tmb-20260714x8k.htm",
+    "date": "2026-07-16 13:57"
+  },
+  {
+    "company": "John Deere Receivables LLC",
+    "cik": "1762590",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "John Deere Receivables LLC depose un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1762590/000110465926084191/tmb-20260714x8k.htm",
+    "date": "2026-07-16 13:57"
+  },
+  {
+    "company": "BIO-PATH HOLDINGS, INC.",
+    "cik": "1133818",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Bio-Path Holdings, Inc. annonce des ventes de ses actions et des partenariats strategiques",
+    "activite": "developpement de traitements contre le cancer et exploitation d'une plateforme de trading de crypto-monnaies",
+    "chiffres": {
+      "dividende": "13,983 $ et 14,676 $ en net proceeds, 571,341 $ en capacite de levier, 292,264.21 $ et 63,286.55 $ pour les essais cliniques, 670,260 $ pour l'acquisition de HMLA, 11,069 $ pour l'acquisition d'un logiciel"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1133818/000166357726000218/bpth_8k071626.htm",
+    "date": "2026-07-16 13:56"
+  },
+  {
     "company": "Federal Home Loan Bank of Boston",
     "cik": "1331463",
     "form": "8-K",
@@ -2562,40 +2600,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526000910/e665618_8k-arct.htm",
     "date": "2026-07-02 07:05"
-  },
-  {
-    "company": "ALTA EQUIPMENT GROUP INC.",
-    "cik": "1759824",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Alta Equipment Group Inc. annonce un dividende pour ses actionnaires",
-    "chiffres": {
-      "dividende": "$0.625"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526293422/altg-20260702.htm",
-    "date": "2026-07-02 07:00"
-  },
-  {
-    "company": "LINDSAY CORP",
-    "cik": "836157",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lindsay Corporation publie son rapport financier pour le troisième trimestre",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526293405/lnn-20260702.htm",
-    "date": "2026-07-02 06:45"
-  },
-  {
-    "company": "RANGE IMPACT, INC.",
-    "cik": "1438943",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Document juridique de la societe RANGE IMPACT, INC.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1438943/000149315226031596/ex10-1.htm",
-    "date": "2026-07-01 17:29"
   }
 ]
