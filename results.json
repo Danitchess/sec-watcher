@@ -1,5 +1,41 @@
 [
   {
+    "company": "OPEN TEXT CORP",
+    "cik": "1002638",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "OpenText nomme Jill Larsen au conseil d'administration",
+    "activite": "leader dans la gestion de donnees pour l'intelligence artificielle d'entreprise",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1002638/000100263826000058/axpressreleasejuly2026dire.htm",
+    "date": "2026-07-17 08:35"
+  },
+  {
+    "company": "MEDIFAST INC",
+    "cik": "910329",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Medifast annonce le rebranding de sa filiale OPTAVIA en Trilivy",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026048574/med-20260717.htm",
+    "date": "2026-07-17 08:33"
+  },
+  {
+    "company": "Sadot Group Inc.",
+    "cik": "1701756",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Sadot Group Inc. annonce l'acquisition d'actifs intellectuels et une financement par notes convertibles",
+    "activite": "développement de logiciels de trading et de gestion des risques",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000952/e7788_8k.htm",
+    "date": "2026-07-17 08:30"
+  },
+  {
     "company": "Solstice Advanced Materials Inc.",
     "cik": "2064953",
     "form": "8-K",
@@ -2577,38 +2613,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126027453/ef20077173_8k.htm",
     "date": "2026-07-02 16:39"
-  },
-  {
-    "company": "Grayscale Zcash Trust (ZEC)",
-    "cik": "1720265",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de direction financiere chez Grayscale Zcash Trust",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1720265/000172026526000003/zcsh-20260626.htm",
-    "date": "2026-07-02 16:38"
-  },
-  {
-    "company": "Grayscale XRP Trust ETF",
-    "cik": "2037427",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de direction financiere chez Grayscale XRP Trust ETF",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2037427/000203742726000004/ck0002037427-20260626.htm",
-    "date": "2026-07-02 16:38"
-  },
-  {
-    "company": "Bank of Marin Bancorp",
-    "cik": "1403475",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Bank of Marin Bancorp",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000033/bmrc-20260702.htm",
-    "date": "2026-07-02 15:07"
   }
 ]
