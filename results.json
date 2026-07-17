@@ -1,5 +1,41 @@
 [
   {
+    "company": "Citigroup Commercial Mortgage Trust 2026-MFAM1",
+    "cik": "2143199",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Certification du depositaire pour une emission de titres adosses a des actifs",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2143199/000153949726001974/exh36_1-cert.htm",
+    "date": "2026-07-17 17:12"
+  },
+  {
+    "company": "CHARLES &amp; COLVARD LTD",
+    "cik": "1015155",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Charles & Colvard, Ltd. est en procedure de faillite",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1015155/000110465926084692/tm2620775d1_8k.htm",
+    "date": "2026-07-17 17:09"
+  },
+  {
+    "company": "Jet.AI Inc.",
+    "cik": "1861622",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jet.AI Inc. accorde une attribution d'actions restreintes",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1861622/000149315226033784/ex10-1.htm",
+    "date": "2026-07-17 17:07"
+  },
+  {
     "company": "Invesco Real Estate Income Trust Inc.",
     "cik": "1756761",
     "form": "8-K",
@@ -2573,46 +2609,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1943289/000121390026075613/ea0297054-8k_silvaco.htm",
     "date": "2026-07-06 17:29"
-  },
-  {
-    "company": "Copper Property CTL Pass Through Trust",
-    "cik": "1837671",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Copper Property CTL Pass Through Trust",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1837671/000183767126000049/cpt-20260706.htm",
-    "date": "2026-07-06 17:26"
-  },
-  {
-    "company": "Blue Owl Real Estate Net Lease Trust",
-    "cik": "1944366",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Blue Owl Real Estate Net Lease Trust declare des distributions pour ses actionnaires",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,0625 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1944366/000194436626000049/osnl-20260623.htm",
-    "date": "2026-07-06 16:19"
-  },
-  {
-    "company": "Profusa, Inc.",
-    "cik": "1859807",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Profusa, Inc. annonce un reverse stock split de 1 pour 25",
-    "activite": "",
-    "chiffres": {
-      "benefice": "-35,823 $",
-      "bpa": "-107,01 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026075502/ea0297130-8k_profusa.htm",
-    "date": "2026-07-06 16:16"
   }
 ]
