@@ -1,5 +1,29 @@
 [
   {
+    "company": "Londax Corp.",
+    "cik": "1985554",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Londax Corp annonce un changement de controle",
+    "activite": "Londax Corp est une societe dont les activites ne sont pas decrites dans le texte",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826005596/londax_8k.htm",
+    "date": "2026-07-17 11:27"
+  },
+  {
+    "company": "ENNIS, INC.",
+    "cik": "33002",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "L'entreprise Ennis, Inc. annonce les resultats de sa reunion annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/33002/000119312526307066/ebf-20260717.htm",
+    "date": "2026-07-17 10:37"
+  },
+  {
     "company": "Thunder Power Holdings, Inc.",
     "cik": "1912582",
     "form": "8-K",
@@ -2593,30 +2617,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1861622/000149315226032089/ex99-1.htm",
     "date": "2026-07-06 08:35"
-  },
-  {
-    "company": "Midera Food Processing, Inc.",
-    "cik": "2088281",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Midera Food Processing, Inc. annonce son spin-off de The Middleby Corporation",
-    "activite": "traitement de produits alimentaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2088281/000119312526295649/d25601d8k.htm",
-    "date": "2026-07-06 08:32"
-  },
-  {
-    "company": "AppTech Payments Corp.",
-    "cik": "1070050",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AppTech Payments Corp. a conclu un accord de pret de 500 000 $",
-    "chiffres": {
-      "dividende": "500 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1070050/000168316826005262/apptech_8k.htm",
-    "date": "2026-07-02 17:29"
   }
 ]
