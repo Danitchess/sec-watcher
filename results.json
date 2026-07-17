@@ -1,5 +1,41 @@
 [
   {
+    "company": "DAKTRONICS INC /SD/",
+    "cik": "915779",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Daktronics, Inc. annonce son programme de compensation pour 2027",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/915779/000162828026048619/dakt-20260714.htm",
+    "date": "2026-07-17 14:21"
+  },
+  {
+    "company": "Rhinebeck Bancorp, Inc.",
+    "cik": "1751783",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rhinebeck Bancorp, Inc. annonce les resultats de son offre d'abonnement",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1751783/000175178326000029/rbkb-20260717x8k.htm",
+    "date": "2026-07-17 14:13"
+  },
+  {
+    "company": "Tofla Megaline Inc.",
+    "cik": "1885849",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1885849/000173112226000955/e7789_8k.htm",
+    "date": "2026-07-17 14:06"
+  },
+  {
     "company": "WAFD INC",
     "cik": "936528",
     "form": "8-K",
@@ -2580,48 +2616,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2033362/000119312526295981/ck0002033362-20260629.htm",
     "date": "2026-07-06 13:48"
-  },
-  {
-    "company": "Bespoke Extracts, Inc.",
-    "cik": "1409197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bespoke Extracts, Inc. a modifie les termes de ses obligations financières",
-    "activite": "",
-    "chiffres": {
-      "dividende": "410,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1409197/000121390026075364/ea0296684-8k_bespoke.htm",
-    "date": "2026-07-06 13:43"
-  },
-  {
-    "company": "Select Notes Trust LT 2004-1",
-    "cik": "1293234",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution de certificats de la Select Notes Trust LT 2004-1",
-    "activite": "Gestion de certificats et distribution de revenus",
-    "chiffres": {
-      "revenu": "$ 100,500.00",
-      "dividende": "$ 151,959.05"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1293234/000153949726001905/n5801_x4-8k.htm",
-    "date": "2026-07-06 12:14"
-  },
-  {
-    "company": "Diameter Credit Co",
-    "cik": "1916099",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Diameter Credit Company declare un dividende",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.625"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1916099/000119312526295794/ck0001916099-20260630.htm",
-    "date": "2026-07-06 11:19"
   }
 ]
