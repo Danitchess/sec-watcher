@@ -1,5 +1,43 @@
 [
   {
+    "company": "Invesco Real Estate Income Trust Inc.",
+    "cik": "1756761",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Invesco Real Estate Income Trust Inc. publie son rapport financier pour le 30 juin 2026",
+    "activite": "Investissements immobiliers et prêts hypothécaires",
+    "chiffres": {
+      "dividende": "33,3 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000104/inreit-20260630.htm",
+    "date": "2026-07-17 15:58"
+  },
+  {
+    "company": "Fuse Science, Inc.",
+    "cik": "842722",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Fuse Science, Inc. est sous administration judiciaire",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/842722/000168316826005603/fuse_8k.htm",
+    "date": "2026-07-17 15:57"
+  },
+  {
+    "company": "Archimedes Tech SPAC Partners III Co.",
+    "cik": "2083910",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur",
+    "activite": "Societe de portefeuille d'investissement",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2083910/000121390026079130/ea0295111-8k_archimedes3.htm",
+    "date": "2026-07-17 15:32"
+  },
+  {
     "company": "DAKTRONICS INC /SD/",
     "cik": "915779",
     "form": "8-K",
@@ -2576,45 +2614,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026075502/ea0297130-8k_profusa.htm",
     "date": "2026-07-06 16:16"
-  },
-  {
-    "company": "Invitation Homes Inc.",
-    "cik": "1687229",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Invitation Homes Inc. annonce une emission d'obligations senior",
-    "activite": "emission d'obligations",
-    "chiffres": {
-      "dividende": "500 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1687229/000119312526296211/d117428d8k.htm",
-    "date": "2026-07-06 16:16"
-  },
-  {
-    "company": "Readvantage Corp.",
-    "cik": "2057381",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Readvantage Corp. annonce la nomination de deux nouveaux membres au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2057381/000205738126000015/readvantage8k.htm",
-    "date": "2026-07-06 13:59"
-  },
-  {
-    "company": "Audax Private Credit Fund, LLC",
-    "cik": "2033362",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Distribution de dividendes",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,42 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2033362/000119312526295981/ck0002033362-20260629.htm",
-    "date": "2026-07-06 13:48"
   }
 ]
