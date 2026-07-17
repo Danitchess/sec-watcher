@@ -1,5 +1,47 @@
 [
   {
+    "company": "PEDEVCO CORP",
+    "cik": "1141197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un dirigeant et accord de separation",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$80,885"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426006724/ped_8k.htm",
+    "date": "2026-07-17 17:30"
+  },
+  {
+    "company": "SOBR Safe, Inc.",
+    "cik": "1425627",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "SOBR Safe, Inc. a conclu un accord de warrant avec des actionnaires",
+    "activite": "",
+    "chiffres": {
+      "revenu": "3,1 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226004383/sobr_8k.htm",
+    "date": "2026-07-17 17:29"
+  },
+  {
+    "company": "Exodus Movement, Inc.",
+    "cik": "1821534",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Exodus Movement, Inc. annonce un plan de restructuration avec des licenciements",
+    "activite": "Exodus Movement, Inc. est une entreprise de services financiers, notamment dans le domaine des paiements",
+    "chiffres": {
+      "dividende": "2,5 M$ à 3,5 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/d63529d8k.htm",
+    "date": "2026-07-17 17:26"
+  },
+  {
     "company": "Citigroup Commercial Mortgage Trust 2026-MFAM1",
     "cik": "2143199",
     "form": "8-K",
@@ -2571,43 +2613,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000097/d-waveisoneofonlytwocompan.htm",
     "date": "2026-07-07 07:02"
-  },
-  {
-    "company": "Taylor Morrison Home Corp",
-    "cik": "1562476",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Taylor Morrison Home Corp annonce la fin de la periode d'attente pour son acquisition par Berkshire Hathaway",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1562476/000119312526296849/d168036d8k.htm",
-    "date": "2026-07-07 06:38"
-  },
-  {
-    "company": "MGT CAPITAL INVESTMENTS, INC.",
-    "cik": "1001601",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MGT Capital Investments, Inc. conclut un accord d'echange de note promissoire convertible",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,220,240 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1001601/000149315226032207/ex10-1.htm",
-    "date": "2026-07-06 17:30"
-  },
-  {
-    "company": "Silvaco Group, Inc.",
-    "cik": "1943289",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Silvaco Group, Inc. publie un rapport 8-K sur l'emission de 69,062 actions",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1943289/000121390026075613/ea0297054-8k_silvaco.htm",
-    "date": "2026-07-06 17:29"
   }
 ]
