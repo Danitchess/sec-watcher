@@ -1,5 +1,48 @@
 [
   {
+    "company": "Thunder Power Holdings, Inc.",
+    "cik": "1912582",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Thunder Power Holdings, Inc. a effectue une reincorporation de l'Etat du Delaware a l'Etat du Nevada",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1912582/000121390026078968/ea0295709-8k_thunder.htm",
+    "date": "2026-07-17 10:18"
+  },
+  {
+    "company": "STEELE BANCORP INC",
+    "cik": "779227",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Steele Bancorp, Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "Steele Bancorp, Inc. est une societe de services financiers qui propose des services bancaires aux particuliers, aux familles, aux organisations a but non lucratif et aux entreprises",
+    "chiffres": {
+      "revenu": "$12.66 million",
+      "benefice": "$5.26 million",
+      "bpa": "$1.54",
+      "croissance": "188.8%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/779227/000143774926023746/ex_980420.htm",
+    "date": "2026-07-17 10:08"
+  },
+  {
+    "company": "LAGO Evergreen Credit",
+    "cik": "2043759",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LAGO Evergreen Credit annonce une vente d'actions non enregistrees",
+    "activite": "",
+    "chiffres": {
+      "dividende": "16,909,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526307004/ck0002043759-20260716.htm",
+    "date": "2026-07-17 09:51"
+  },
+  {
     "company": "OPEN TEXT CORP",
     "cik": "1002638",
     "form": "8-K",
@@ -2575,43 +2618,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1070050/000168316826005262/apptech_8k.htm",
     "date": "2026-07-02 17:29"
-  },
-  {
-    "company": "Seer, Inc.",
-    "cik": "1726445",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Seer, Inc. annonce avoir recu une proposition d'acquisition non sollicitee",
-    "chiffres": {
-      "dividende": "2,45 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1726445/000119312526294994/ck0001726445-20260701.htm",
-    "date": "2026-07-02 17:28"
-  },
-  {
-    "company": "Picard Medical, Inc.",
-    "cik": "2030617",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Picard Medical, Inc. presente des resultats encourageants",
-    "chiffres": {
-      "revenu": "85% year-over-year revenue growth",
-      "croissance": "116%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926022589/ex_984256.htm",
-    "date": "2026-07-02 17:28"
-  },
-  {
-    "company": "Hilton Grand Vacations Inc.",
-    "cik": "1674168",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Hilton Grand Vacations Inc. annonce des changements dans son conseil d'administration",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126027453/ef20077173_8k.htm",
-    "date": "2026-07-02 16:39"
   }
 ]
