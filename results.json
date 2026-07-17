@@ -1,5 +1,43 @@
 [
   {
+    "company": "Solstice Advanced Materials Inc.",
+    "cik": "2064953",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Solstice Advanced Materials verse un dividende de 0,075$ par action",
+    "activite": "developpe des materiaux specialises pour diverses industries",
+    "chiffres": {
+      "dividende": "0,075$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2064953/000206495326000081/exhibit991-dividendrelease.htm",
+    "date": "2026-07-17 07:14"
+  },
+  {
+    "company": "Kalaris Therapeutics, Inc.",
+    "cik": "1754068",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Kalaris Therapeutics annonce des donnees positives supplementaires de son essai clinique de phase 1a",
+    "activite": "developpement de traitements pour la degenerescence maculaire liee a l'age",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1754068/000119312526306737/d125006d8k.htm",
+    "date": "2026-07-17 07:05"
+  },
+  {
+    "company": "LISATA THERAPEUTICS, INC.",
+    "cik": "320017",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lisata Therapeutics, Inc. modifie une convention de fusion",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/320017/000114036126028763/ef20078177_exhibit2-1.htm",
+    "date": "2026-07-17 07:01"
+  },
+  {
     "company": "Calidi Biotherapeutics, Inc.",
     "cik": "1855485",
     "form": "8-K",
@@ -2572,42 +2610,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000033/bmrc-20260702.htm",
     "date": "2026-07-02 15:07"
-  },
-  {
-    "company": "Federal Home Loan Bank of New York",
-    "cik": "1329842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport du president du Federal Home Loan Bank of New York",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006491/fhlbny_8k.htm",
-    "date": "2026-07-02 14:36"
-  },
-  {
-    "company": "NETWORK-1 TECHNOLOGIES, INC.",
-    "cik": "1065078",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "NETWORK-1 TECHNOLOGIES, INC. annonce un plan de trading 10b5-1",
-    "chiffres": {
-      "dividende": "500,000 actions"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1065078/000107261326000550/form8k.htm",
-    "date": "2026-07-02 14:30"
-  },
-  {
-    "company": "EACO CORP",
-    "cik": "784539",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "EACO CORP publie son rapport financier du 3e trimestre 2026",
-    "chiffres": {
-      "dividende": "23,886$ et 29,886$ (en milliers)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/784539/000110465926080219/tm2619633d1_8k.htm",
-    "date": "2026-07-02 13:09"
   }
 ]
