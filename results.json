@@ -1,5 +1,49 @@
 [
   {
+    "company": "WAFD INC",
+    "cik": "936528",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "WAFD INC annonce des resultats trimestriels solides avec une augmentation de 15% des benefices par action",
+    "activite": "banque",
+    "chiffres": {
+      "revenu": "$181 million",
+      "benefice": "$66 million",
+      "bpa": "$0.84",
+      "croissance": "15%",
+      "dividende": "$0.27"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/936528/000093652826000055/exhibit991_june2026earning.htm",
+    "date": "2026-07-17 13:03"
+  },
+  {
+    "company": "Optimus Healthcare Services, Inc.",
+    "cik": "1892025",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "L'entreprise Optimus Healthcare Services, Inc. met fin a ses activites",
+    "activite": "fourniture de services de soins de sante",
+    "chiffres": {
+      "dividende": "4,4 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1892025/000121390026079061/ea0295805-8k_optimus.htm",
+    "date": "2026-07-17 12:57"
+  },
+  {
+    "company": "BMO 2024-5C8 Mortgage Trust",
+    "cik": "2044614",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Document juridique relatif a la designation d'un serviteur special",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2044614/000188852426012555/bmo245c8_20-1.htm",
+    "date": "2026-07-17 12:48"
+  },
+  {
     "company": "Londax Corp.",
     "cik": "1985554",
     "form": "8-K",
@@ -2579,43 +2623,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1916099/000119312526295794/ck0001916099-20260630.htm",
     "date": "2026-07-06 11:19"
-  },
-  {
-    "company": "Patriot Acquisition Corp./CI",
-    "cik": "2099095",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Patriot Acquisition Corp. annonce la possibilité de séparer les actions et les warrants de ses unités",
-    "activite": "",
-    "chiffres": {
-      "dividende": "11,50 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2099095/000121390026075294/ea0297075-8k_patriot.htm",
-    "date": "2026-07-06 11:01"
-  },
-  {
-    "company": "Big Digital Energy, Inc.",
-    "cik": "1218683",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Big Digital Energy, Inc. a emis des actions pour financer son developpement",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1218683/000121390026075248/ea0296900-8k_bigdigital.htm",
-    "date": "2026-07-06 08:41"
-  },
-  {
-    "company": "Jet.AI Inc.",
-    "cik": "1861622",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Les actionnaires de Jet.AI approuvent la transaction proposee avec flyExclusive",
-    "activite": "fournisseur d'infrastructures GPU et de services cloud d'intelligence artificielle",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1861622/000149315226032089/ex99-1.htm",
-    "date": "2026-07-06 08:35"
   }
 ]
