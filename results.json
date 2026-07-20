@@ -1,5 +1,46 @@
 [
   {
+    "company": "SLM Student Loan Trust 2006-7",
+    "cik": "1370218",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "SLM Student Loan Trust 2006-7 annonce des intentions d'achat et de vente de notes",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1370218/000114036126028922/ef20078277_8k.htm",
+    "date": "2026-07-20 12:23"
+  },
+  {
+    "company": "Kingfish Holding Corp",
+    "cik": "1374881",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction chez Kingfish Holding Corp",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1374881/000147793226004386/king_8k.htm",
+    "date": "2026-07-20 11:57"
+  },
+  {
+    "company": "MUNCY COLUMBIA FINANCIAL Corp",
+    "cik": "731122",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Muncy Columbia Financial Corp annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "banque et services financiers",
+    "chiffres": {
+      "revenu": "46,300",
+      "benefice": "14,311,000",
+      "bpa": "1.35",
+      "dividende": "0.155"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/731122/000117494726000694/ex99-1.htm",
+    "date": "2026-07-20 11:36"
+  },
+  {
     "company": "BASIN ELECTRIC POWER COOPERATIVE",
     "cik": "720515",
     "form": "8-K",
@@ -2571,43 +2612,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026076002/ea0297271-8k_evolution.htm",
     "date": "2026-07-07 16:45"
-  },
-  {
-    "company": "NEXTNRG, INC.",
-    "cik": "1817004",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de financement entre NEXTNRG INC et AVANZA CAPITAL HOLDINGS, LLC",
-    "activite": "",
-    "chiffres": {
-      "dividende": "60,000.00 $, 50.00 $, 2,500.00 $, 5,000.00 $, 195.00 $, 268,732.16 $, 1,000,000.00 $, 1,499,900.00 $, 940,000.00 $, 62,495.85 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1817004/000149315226032350/ex10-1.htm",
-    "date": "2026-07-07 16:45"
-  },
-  {
-    "company": "BANK 2022-BNK41",
-    "cik": "1920442",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour le Journal Squared Tower 2 Non-Serviced Loan Combination",
-    "activite": "Servicing et administration de prets hypothecaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1920442/000153949726001909/n3070_x12-8k.htm",
-    "date": "2026-07-07 13:56"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000104/fhlbdm-20260701.htm",
-    "date": "2026-07-07 13:45"
   }
 ]
