@@ -1,5 +1,47 @@
 [
   {
+    "company": "Research Alliance Corp IV",
+    "cik": "2137777",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Research Alliance Corp IV annonce la cloture de son offre publique initiale",
+    "activite": "",
+    "chiffres": {
+      "dividende": "75,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2137777/000119312526309108/d16272d8k.htm",
+    "date": "2026-07-20 17:30"
+  },
+  {
+    "company": "NEOGENOMICS INC",
+    "cik": "1077183",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NeoGenomics annonce un reglement amiable avec le DOJ",
+    "activite": "fournisseur de solutions de diagnostic oncologique",
+    "chiffres": {
+      "dividende": "9,813,260$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1077183/000107718326000045/a2026-07x20pressrelease.htm",
+    "date": "2026-07-20 17:27"
+  },
+  {
+    "company": "Personalis, Inc.",
+    "cik": "1527753",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Personalis, Inc. annonce une fusion avec Tempus AI, Inc.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "16,25 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526309101/d64399d8k.htm",
+    "date": "2026-07-20 17:26"
+  },
+  {
     "company": "AST SpaceMobile, Inc.",
     "cik": "1780312",
     "form": "8-K",
@@ -2572,43 +2614,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426006537/onfo_8k.htm",
     "date": "2026-07-08 08:50"
-  },
-  {
-    "company": "Fusemachines Inc.",
-    "cik": "2033383",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Fusemachines reprend la conformite avec les regles de Nasdaq",
-    "activite": "fournisseur de produits et services d'intelligence artificielle pour les entreprises",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226032415/ex99-1.htm",
-    "date": "2026-07-08 08:40"
-  },
-  {
-    "company": "Aura Biosciences, Inc.",
-    "cik": "1501796",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aura Biosciences, Inc. annonce la nomination d'un nouveau directeur au conseil d'administration",
-    "activite": "",
-    "chiffres": {
-      "dividende": "40,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1501796/000119312526297992/aura-20260703.htm",
-    "date": "2026-07-08 07:17"
-  },
-  {
-    "company": "Keenova Therapeutics plc",
-    "cik": "1567892",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Keenova Therapeutics annonce des resultats positifs pour son essai clinique de phase 3",
-    "activite": "developpement de traitements pour des conditions medicales chroniques",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1567892/000110465926081562/tm2619951d1_8k.htm",
-    "date": "2026-07-08 07:17"
   }
 ]
