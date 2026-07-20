@@ -1,5 +1,45 @@
 [
   {
+    "company": "Armata Pharmaceuticals, Inc.",
+    "cik": "921114",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Armata Pharmaceuticals annonce des progrès cliniques et réglementaires pour son produit AP-SA02",
+    "activite": "développement de produits pharmaceutiques",
+    "chiffres": {
+      "dividende": "2,5 millions $, 28,7 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926084861/tm2620782d2_8k.htm",
+    "date": "2026-07-20 07:13"
+  },
+  {
+    "company": "Armata Pharmaceuticals, Inc.",
+    "cik": "921114",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur financier",
+    "activite": "",
+    "chiffres": {
+      "dividende": "371,315 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926084860/tm2620782d1_8k.htm",
+    "date": "2026-07-20 07:12"
+  },
+  {
+    "company": "IREN Ltd",
+    "cik": "1878848",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "IREN Ltd publie un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_8k.htm",
+    "date": "2026-07-20 07:12"
+  },
+  {
     "company": "PEDEVCO CORP",
     "cik": "1141197",
     "form": "8-K",
@@ -2573,45 +2613,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1465470/000149315226032271/ex16-1.htm",
     "date": "2026-07-07 10:06"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Dallas",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "30,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000122/fhlbd-20260701.htm",
-    "date": "2026-07-07 09:59"
-  },
-  {
-    "company": "Tvardi Therapeutics, Inc.",
-    "cik": "1346830",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Tvardi Therapeutics publie des mises a jour cliniques positives sur son produit TTI-109",
-    "activite": "developpement de produits therapeutiques",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1346830/000110465926080930/tm2619879d1_8k.htm",
-    "date": "2026-07-07 07:02"
-  },
-  {
-    "company": "D-Wave Quantum Inc.",
-    "cik": "1907982",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "D-Wave est nomme leader dans le rapport IDC MarketScape sur les fournisseurs de calcul quantique",
-    "activite": "developpement et livraison de systemes, logiciels et services de calcul quantique",
-    "chiffres": {
-      "croissance": "314%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000097/d-waveisoneofonlytwocompan.htm",
-    "date": "2026-07-07 07:02"
   }
 ]
