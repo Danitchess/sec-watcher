@@ -1,5 +1,41 @@
 [
   {
+    "company": "AST SpaceMobile, Inc.",
+    "cik": "1780312",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AST SpaceMobile conclut une transaction financiere",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226033912/ex10-1.htm",
+    "date": "2026-07-20 16:15"
+  },
+  {
+    "company": "Transcode Therapeutics, Inc.",
+    "cik": "1829635",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "TransCode Therapeutics, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1829635/000110465926085073/tm2620898d1_8k.htm",
+    "date": "2026-07-20 16:15"
+  },
+  {
+    "company": "Solventum Corp",
+    "cik": "1964738",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau vice-president",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000038/solv-20260716.htm",
+    "date": "2026-07-20 16:15"
+  },
+  {
     "company": "Laser Photonics Corp",
     "cik": "1807887",
     "form": "8-K",
@@ -2574,43 +2610,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1567892/000110465926081562/tm2619951d1_8k.htm",
     "date": "2026-07-08 07:17"
-  },
-  {
-    "company": "SONO TEK CORP",
-    "cik": "806172",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Sono-Tek Corporation publie un rapport financier pour le trimestre se terminant le 31 mai 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/806172/000117152026000166/eps12668.htm",
-    "date": "2026-07-08 07:10"
-  },
-  {
-    "company": "TuHURA Biosciences, Inc./NV",
-    "cik": "1498382",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "TuHURA Biosciences, Inc. a contracte un pret de 1,9 million de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "50 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1498382/000119312526297668/hura-20260630.htm",
-    "date": "2026-07-07 17:30"
-  },
-  {
-    "company": "Vivos Therapeutics, Inc.",
-    "cik": "1716166",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vivos Therapeutics, Inc. conclut un accord de vente de titres",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226032387/ex10-1.htm",
-    "date": "2026-07-07 17:29"
   }
 ]
