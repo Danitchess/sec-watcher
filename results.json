@@ -1,5 +1,43 @@
 [
   {
+    "company": "Personalis, Inc.",
+    "cik": "1527753",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Personalis, Inc. annonce une fusion avec Tempus AI, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526308488/d68794d8k.htm",
+    "date": "2026-07-20 09:18"
+  },
+  {
+    "company": "HANCOCK WHITNEY CORP",
+    "cik": "750577",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Hancock Whitney Corporation obtient l'approbation réglementaire pour son acquisition d'OFB Bancshares",
+    "activite": "banque et services financiers",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/750577/000119312526308486/d63138d8k.htm",
+    "date": "2026-07-20 09:17"
+  },
+  {
+    "company": "Tempus AI, Inc.",
+    "cik": "1717115",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Tempus AI annonce une fusion avec Personalis",
+    "activite": "developpement de tests et de donnees de sante",
+    "chiffres": {
+      "dividende": "46.00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm",
+    "date": "2026-07-20 09:03"
+  },
+  {
     "company": "Armata Pharmaceuticals, Inc.",
     "cik": "921114",
     "form": "8-K",
@@ -2573,45 +2611,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000049/upld-20260630.htm",
     "date": "2026-07-07 12:01"
-  },
-  {
-    "company": "Kingfish Holding Corp",
-    "cik": "1374881",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "L'entreprise annonce des difficultes financieres",
-    "activite": "",
-    "chiffres": {
-      "dividende": "365,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1374881/000147793226004213/king_8k.htm",
-    "date": "2026-07-07 12:01"
-  },
-  {
-    "company": "Federal Home Loan Bank of Topeka",
-    "cik": "1325878",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Topeka publie un rapport 8-K sur la creation d'obligations financieres",
-    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
-    "chiffres": {
-      "dividende": "500,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000133/fhlbt-20260701.htm",
-    "date": "2026-07-07 10:09"
-  },
-  {
-    "company": "NaturalShrimp Inc",
-    "cik": "1465470",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "NaturalShrimp Inc depose un formulaire 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1465470/000149315226032271/ex16-1.htm",
-    "date": "2026-07-07 10:06"
   }
 ]
