@@ -1,5 +1,41 @@
 [
   {
+    "company": "BASIN ELECTRIC POWER COOPERATIVE",
+    "cik": "720515",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Basin Electric Power Cooperative adopte un plan d'incitation a court terme pour ses dirigeants",
+    "activite": "fourniture d'electricite",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/720515/000072051526000010/basin-20260715.htm",
+    "date": "2026-07-20 10:25"
+  },
+  {
+    "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+    "cik": "1093672",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Peoples Bancorp of North Carolina Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495426006729/pebk_8k.htm",
+    "date": "2026-07-20 09:30"
+  },
+  {
+    "company": "SES AI Corp",
+    "cik": "1819142",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "SES AI Corp. n'est pas en conformite avec les normes de listing de la NYSE",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000038/ses-20260717x8k.htm",
+    "date": "2026-07-20 09:26"
+  },
+  {
     "company": "Personalis, Inc.",
     "cik": "1527753",
     "form": "8-K",
@@ -2573,43 +2609,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000104/fhlbdm-20260701.htm",
     "date": "2026-07-07 13:45"
-  },
-  {
-    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
-    "cik": "1310488",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Bioforce Nanoscience Holdings, Inc. a obtenu l'approbation de l'US Bureau of Land Management pour l'acquisition de 11 leases pétroliers et gaziers",
-    "activite": "exploration et production pétrolière et gazière",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000089/bfnh-07072026_8k.htm",
-    "date": "2026-07-07 13:04"
-  },
-  {
-    "company": "TFS Financial CORP",
-    "cik": "1381668",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "TFS Financial Corporation annonce l'approbation de la waive de dividendes par les membres de la MHC",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,27 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1381668/000138166826000033/tfsl-20260707.htm",
-    "date": "2026-07-07 12:15"
-  },
-  {
-    "company": "Upland Software, Inc.",
-    "cik": "1505155",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Upland Software annonce le depart de son directeur financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000049/upld-20260630.htm",
-    "date": "2026-07-07 12:01"
   }
 ]
