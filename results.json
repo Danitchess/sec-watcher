@@ -1,5 +1,43 @@
 [
   {
+    "company": "Laser Photonics Corp",
+    "cik": "1807887",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "L'entreprise propose une offre d'inducement pour exercer des warrants de serie A-5 et A-6",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226033889/ex10-1.htm",
+    "date": "2026-07-20 14:33"
+  },
+  {
+    "company": "SATIVUS TECH CORP.",
+    "cik": "1661600",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement d'auditeur independant",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1661600/000168316826005652/sativus_8k.htm",
+    "date": "2026-07-20 14:16"
+  },
+  {
+    "company": "FIVE STAR BANCORP",
+    "cik": "1275168",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Five Star Bancorp declare un dividende trimestriel en espèces",
+    "activite": "exploite une filiale bancaire en Californie",
+    "chiffres": {
+      "dividende": "$0.25 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026048805/exhibit991-q22026dividenda.htm",
+    "date": "2026-07-20 14:06"
+  },
+  {
     "company": "SLM Student Loan Trust 2006-7",
     "cik": "1370218",
     "form": "8-K",
@@ -2574,43 +2612,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226032387/ex10-1.htm",
     "date": "2026-07-07 17:29"
-  },
-  {
-    "company": "Figure Technology Solutions, Inc.",
-    "cik": "2064124",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Figure Technology Solutions publie des donnees operationnelles preliminaires pour juin et le deuxieme trimestre 2026",
-    "activite": "Figure est une place de marche native du blockchain pour l'origination, le financement, la vente et le trading d'actifs tokenises",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2064124/000149315226032386/ex99-1.htm",
-    "date": "2026-07-07 17:28"
-  },
-  {
-    "company": "Getty Images Holdings, Inc.",
-    "cik": "1898496",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Getty Images annule son accord de fusion avec Shutterstock",
-    "activite": "edition de photos",
-    "chiffres": {
-      "dividende": "10.500% senior secured notes due 2030"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1898496/000121390026076004/ea0297316-8ka1_getty.htm",
-    "date": "2026-07-07 16:47"
-  },
-  {
-    "company": "Evolution Metals &amp; Technologies Corp.",
-    "cik": "1866226",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Evolution Metals & Technologies Corp. annonce un accord pour l'achat de neodymium-praseodymium",
-    "activite": "production de magnets permanents en terres rares",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026076002/ea0297271-8k_evolution.htm",
-    "date": "2026-07-07 16:45"
   }
 ]
