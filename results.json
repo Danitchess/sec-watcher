@@ -1,5 +1,41 @@
 [
   {
+    "company": "Utz Brands, Inc.",
+    "cik": "1739566",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Utz Brands, Inc. annonce un accord de fusion avec Intersnack Group GmbH & Co. KG",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526309592/d157266d8k.htm",
+    "date": "2026-07-21 08:16"
+  },
+  {
+    "company": "VYNE Therapeutics Inc.",
+    "cik": "1566044",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "VYNE Therapeutics Inc. annonce un regroupement d'actions et fournit une mise a jour sur le dividende special",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1566044/000110465926085235/tm2620874d1_8k.htm",
+    "date": "2026-07-21 08:14"
+  },
+  {
+    "company": "Jerash Holdings (US), Inc.",
+    "cik": "1696558",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement dans la direction de Jerash Holdings",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1696558/000121390026079813/ea0298594-8k_jerash.htm",
+    "date": "2026-07-21 08:05"
+  },
+  {
     "company": "3M CO",
     "cik": "66740",
     "form": "8-K",
@@ -2576,45 +2612,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1532619/000149315226032424/form8-k.htm",
     "date": "2026-07-08 11:35"
-  },
-  {
-    "company": "Brookfield Private Equity Fund LP",
-    "cik": "2074065",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Le fonds Brookfield Private Equity Fund LP a vendu des unitees pour un montant total d'environ 4,5 millions de dollars",
-    "activite": "gestion de fonds d'investissement",
-    "chiffres": {
-      "dividende": "331,998,416$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2074065/000110465926081699/tm2619984d1_8k.htm",
-    "date": "2026-07-08 11:32"
-  },
-  {
-    "company": "OLD SECOND BANCORP INC",
-    "cik": "357173",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un membre du conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/357173/000035717326000037/osbc-20260707x8k.htm",
-    "date": "2026-07-08 11:00"
-  },
-  {
-    "company": "Energy Transfer LP",
-    "cik": "1276187",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Energy Transfer LP annonce une emission d'obligations pour un montant de 1,75 milliard de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "6.550% et 6.700% pour les Series 2026A et 2026B Notes"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526298149/d86030d8k.htm",
-    "date": "2026-07-08 10:47"
   }
 ]
