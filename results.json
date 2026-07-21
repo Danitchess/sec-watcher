@@ -1,5 +1,48 @@
 [
   {
+    "company": "Powerfleet, Inc.",
+    "cik": "1774170",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Powerfleet annonce des changements dans son conseil d'administration",
+    "activite": "leader dans le logiciel AIoT SaaS pour l'industrie des actifs mobiles",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1774170/000149315226034096/ex99-1.htm",
+    "date": "2026-07-21 16:39"
+  },
+  {
+    "company": "FS Bancorp, Inc.",
+    "cik": "1530249",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "FS Bancorp, Inc. annonce un benefice net de 7,9 millions de dollars pour le deuxieme trimestre 2026",
+    "activite": "La societe propose des produits et services financiers diversifies a ses clients commerciaux et consommateurs, y compris des produits de depot, des prets hypothecaires, des prets a la consommation et des services de gestion de trésorerie",
+    "chiffres": {
+      "revenu": "32,648 $",
+      "benefice": "7,9 millions $",
+      "bpa": "1,04 $",
+      "dividende": "0,29 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1530249/000143774926023959/ex_963242.htm",
+    "date": "2026-07-21 16:39"
+  },
+  {
+    "company": "Ares Core Infrastructure Fund",
+    "cik": "2031750",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ares Core Infrastructure Fund annonce la vente de parts pour 1,120,6 million de dollars",
+    "activite": "investissement dans des infrastructures",
+    "chiffres": {
+      "dividende": "0,20830 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000058/aci-20260721.htm",
+    "date": "2026-07-21 16:38"
+  },
+  {
     "company": "SAN JUAN BASIN ROYALTY TRUST",
     "cik": "319655",
     "form": "8-K",
@@ -2587,43 +2630,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000074/msif-20260709.htm",
     "date": "2026-07-09 09:39"
-  },
-  {
-    "company": "Main Street Capital CORP",
-    "cik": "1396440",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Main Street Capital Corporation depose un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000084/main-20260709.htm",
-    "date": "2026-07-09 09:38"
-  },
-  {
-    "company": "FibroBiologics, Inc.",
-    "cik": "1958777",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "FibroBiologics, Inc. annonce des changements dans son conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1958777/000119312526299290/fblg-20260702.htm",
-    "date": "2026-07-09 09:31"
-  },
-  {
-    "company": "Nixxy, Inc.",
-    "cik": "1462223",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de dirigeant et conformite aux regles de Nasdaq",
-    "activite": "",
-    "chiffres": {
-      "dividende": "180 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1462223/000168316826005377/nixxy_8k.htm",
-    "date": "2026-07-09 09:25"
   }
 ]
