@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "750 000 000 $, 10 000 000 $, 4,75%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000130/fhlba-20260715.htm",
+    "date": "2026-07-21 12:37"
+  },
+  {
+    "company": "PermRock Royalty Trust",
+    "cik": "1724009",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PermRock Royalty Trust annonce une distribution de dividendes",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$274,696.04 ($0.022579 par Trust Unit)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526309857/2026-07_permrock_8-k.htm",
+    "date": "2026-07-21 12:19"
+  },
+  {
+    "company": "Starco Brands, Inc.",
+    "cik": "1539850",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Starco Brands, Inc. conclut un accord de pret de 11 millions de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "11,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1539850/000149315226034038/ex10-1.htm",
+    "date": "2026-07-21 12:19"
+  },
+  {
     "company": "MUELLER INDUSTRIES INC",
     "cik": "89439",
     "form": "8-K",
@@ -2589,45 +2631,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1369568/000119312526298739/d109692d8k.htm",
     "date": "2026-07-08 17:29"
-  },
-  {
-    "company": "Clean Energy Technologies, Inc.",
-    "cik": "1329606",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Clean Energy Technologies, Inc. conclut un accord de vente de titres avec Coventry Enterprises LLC",
-    "activite": "",
-    "chiffres": {
-      "dividende": "166,500.00$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1329606/000149315226032551/ex10-1.htm",
-    "date": "2026-07-08 17:29"
-  },
-  {
-    "company": "NIOCORP DEVELOPMENTS LTD",
-    "cik": "1512228",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "NioCorp Developments Ltd adopte un programme d'incitation annuel pour ses employes",
-    "activite": "developpement de projets miniers",
-    "chiffres": {
-      "dividende": "602,784 $, 345,621 $, 378,197 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1512228/000153949726001924/n2574_x317-8k.htm",
-    "date": "2026-07-08 16:00"
-  },
-  {
-    "company": "NATURAL GAS SERVICES GROUP INC",
-    "cik": "1084991",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Natural Gas Services Group annonce son redomestication au Texas",
-    "activite": "fournisseur de materiel et services pour l'industrie du gaz naturel",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000061/ex9912026-07x08redomestica.htm",
-    "date": "2026-07-08 16:00"
   }
 ]
