@@ -1,5 +1,43 @@
 [
   {
+    "company": "ASCENT INDUSTRIES CO.",
+    "cik": "95953",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ascent Industries Co. annonce une modification de son credit facility",
+    "activite": "Ascent Industries Co. a acquis Midwest Graphic Sales, Inc. et Sigma Coatings, Inc.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/95953/000009595326000105/acnt-20260717.htm",
+    "date": "2026-07-21 13:40"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations financieres",
+    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
+    "chiffres": {
+      "dividende": "200,000,000 $, 250,000,000 $, 300,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000139/fhlbbost-20260715.htm",
+    "date": "2026-07-21 13:36"
+  },
+  {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of San Francisco",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000123/fhlbsf-20260716.htm",
+    "date": "2026-07-21 13:08"
+  },
+  {
     "company": "Federal Home Loan Bank of Atlanta",
     "cik": "1331465",
     "form": "8-K",
@@ -2595,41 +2633,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000020/exhibit101alfredoluchiniof.htm",
     "date": "2026-07-09 07:01"
-  },
-  {
-    "company": "ENDRA Life Sciences Inc.",
-    "cik": "1681682",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "ENDRA Life Sciences Inc. a regagne la conformite avec les exigences de Nasdaq",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026076526/ea0297455-8k_endra.htm",
-    "date": "2026-07-09 06:08"
-  },
-  {
-    "company": "CAPSTONE COMPANIES, INC.",
-    "cik": "814926",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Capstone Companies, Inc. et eBliss Global, Inc. ont signe une amendment a leur lettre d'intention",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/814926/000149315226032552/ex10-1_1.htm",
-    "date": "2026-07-08 17:30"
-  },
-  {
-    "company": "CATALYST PHARMACEUTICALS, INC.",
-    "cik": "1369568",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Catalyst Pharmaceuticals annonce des changements dans son conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1369568/000119312526298739/d109692d8k.htm",
-    "date": "2026-07-08 17:29"
   }
 ]
