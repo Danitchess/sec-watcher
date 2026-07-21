@@ -1,5 +1,57 @@
 [
   {
+    "company": "MUELLER INDUSTRIES INC",
+    "cik": "89439",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Mueller Industries annonce des resultats positifs pour le deuxieme trimestre 2026",
+    "activite": "Mueller Industries est une societe industrielle dont les filiales fabriquent des biens essentiels pour des marches importants tels que la distribution d'air, d'eau, de gaz et d'huile, le confort climatique, la preservation des aliments, la transmission electrique, les soins medicaux, l'aerospatiale et l'automobile",
+    "chiffres": {
+      "revenu": "$1,43 milliard",
+      "benefice": "$249,7 millions",
+      "bpa": "$1,13",
+      "croissance": "15,7%",
+      "dividende": "$0,175"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
+    "date": "2026-07-21 12:09"
+  },
+  {
+    "company": "Forestar Group Inc.",
+    "cik": "1406587",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Forestar Group Inc. annonce des resultats financiers solides pour le troisieme trimestre de l'annee fiscale 2026",
+    "activite": "developpement de terrains residentiels",
+    "chiffres": {
+      "revenu": "$407,0 millions (+4%)",
+      "benefice": "$35,9 millions (+9%)",
+      "bpa": "$0,70",
+      "croissance": "$2,3 milliards de chiffre d'affaires futur"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1406587/000162828026048958/a6302026exhibit991.htm",
+    "date": "2026-07-21 12:00"
+  },
+  {
+    "company": "HORTON D R INC /DE/",
+    "cik": "882184",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "D.R. Horton publie ses résultats financiers pour le troisième trimestre de l'année fiscale 2026",
+    "activite": "construction et vente de maisons",
+    "chiffres": {
+      "revenu": "9,2 milliards $",
+      "benefice": "904,9 millions $",
+      "bpa": "3,20 $",
+      "dividende": "0,45 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000092/a6302026exhibit991.htm",
+    "date": "2026-07-21 11:54"
+  },
+  {
     "company": "Stepstone Private Credit Fund LLC",
     "cik": "1950803",
     "form": "8-K",
@@ -2577,43 +2629,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000061/ex9912026-07x08redomestica.htm",
     "date": "2026-07-08 16:00"
-  },
-  {
-    "company": "Two Hands Corp",
-    "cik": "1494413",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Two Hands Corp annonce son delisting volontaire de la Bourse canadienne",
-    "activite": "exploitation d'actifs numeriques, fintech et propriete intellectuelle",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1494413/000149441326000030/ex991.htm",
-    "date": "2026-07-08 15:55"
-  },
-  {
-    "company": "EQT Exeter Real Estate Income Trust, Inc.",
-    "cik": "1946997",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "EQT Exeter Real Estate Income Trust, Inc. emet des actions dans le cadre de son plan de reinvestissement de distributions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "2,58 mille $, 0,11 million $, 0,13 million $, 2,00 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000194699726000008/ck0001946997-20260610.htm",
-    "date": "2026-07-08 14:09"
-  },
-  {
-    "company": "BMO 2025-5C12 Mortgage Trust",
-    "cik": "2061934",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour le trust BMO 2025-5C12 Mortgage Trust",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2061934/000188852426012452/bmo25c12_20-1.htm",
-    "date": "2026-07-08 14:09"
   }
 ]
