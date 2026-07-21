@@ -1,5 +1,45 @@
 [
   {
+    "company": "Vivakor, Inc.",
+    "cik": "1450704",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vivakor, Inc. annonce des transactions financières et des opérations de vente d'actions",
+    "activite": "Vivakor, Inc. est impliquée dans des transactions financières et des opérations de vente d'actions, y compris des accords de prêt et des émissions d'actions",
+    "chiffres": {
+      "dividende": "12,0 millions $, 15 000 000 $, 3 000 000 $, 6 000 000 $, 100 000 000 $, 647 059 $, 550 000 $, 28 545 $, 33 000, 5 117 647,06 $, 4 350 000 $, 27 680 $, 32 000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007719/vivakorinc_8k.htm",
+    "date": "2026-07-21 17:28"
+  },
+  {
+    "company": "GRAY MEDIA, INC",
+    "cik": "43196",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Gray Media, Inc. a rachete des obligations senior securisees",
+    "activite": "edition de contenu mediatique",
+    "chiffres": {
+      "dividende": "100 millions $ et 20 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/43196/000143774926023973/gtn20260720_8k.htm",
+    "date": "2026-07-21 17:27"
+  },
+  {
+    "company": "T-REX Acquisition Corp.",
+    "cik": "1437750",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "T-REX Acquisition Corp. annonce un accord de services de banque d'investissement",
+    "activite": "fourniture de services de banque d'investissement et de conseil en fusions et acquisitions",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1437750/000147793226004431/trex_8k.htm",
+    "date": "2026-07-21 17:27"
+  },
+  {
     "company": "Powerfleet, Inc.",
     "cik": "1774170",
     "form": "8-K",
@@ -2590,45 +2630,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000125/fhlba-20260707.htm",
     "date": "2026-07-09 12:56"
-  },
-  {
-    "company": "KKR FS Income Trust Select",
-    "cik": "1975736",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "KKR FS Income Trust Select declare un dividende mensuel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.175"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1975736/000110465926082201/tm2620099d2_8k.htm",
-    "date": "2026-07-09 12:55"
-  },
-  {
-    "company": "Overland Advantage",
-    "cik": "1965934",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Overland Advantage a modifie son accord de credit revolving",
-    "activite": "",
-    "chiffres": {
-      "dividende": "25 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1965934/000119312526299312/ck0001965934-20251030.htm",
-    "date": "2026-07-09 09:58"
-  },
-  {
-    "company": "MSC INCOME FUND, INC.",
-    "cik": "1535778",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MSC Income Fund, Inc. publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000074/msif-20260709.htm",
-    "date": "2026-07-09 09:39"
   }
 ]
