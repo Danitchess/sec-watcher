@@ -1,5 +1,47 @@
 [
   {
+    "company": "3M CO",
+    "cik": "66740",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "3M Company publie son rapport financier du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000242/mmm-20260721.htm",
+    "date": "2026-07-21 06:34"
+  },
+  {
+    "company": "EQUIFAX INC",
+    "cik": "33185",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Equifax Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000024/efx-20260721.htm",
+    "date": "2026-07-21 06:32"
+  },
+  {
+    "company": "HASBRO, INC.",
+    "cik": "46080",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Hasbro annonce des résultats financiers records pour le deuxième trimestre 2026",
+    "activite": "Hasbro est une entreprise de jeux, de propriété intellectuelle et de jouets",
+    "chiffres": {
+      "revenu": "500 million $",
+      "benefice": "253 million $",
+      "bpa": "1,12 $",
+      "croissance": "16%",
+      "dividende": "0,70 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/46080/000004608026000044/exhibit991q22026.htm",
+    "date": "2026-07-21 06:31"
+  },
+  {
     "company": "Research Alliance Corp IV",
     "cik": "2137777",
     "form": "8-K",
@@ -2574,45 +2616,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526298149/d86030d8k.htm",
     "date": "2026-07-08 10:47"
-  },
-  {
-    "company": "AEP Texas Inc.",
-    "cik": "1721781",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "AEP Texas obtient un pret de 3,26 milliards de dollars pour financer des investissements dans les infrastructures",
-    "activite": "fourniture d'electricite de maniere sure et fiable aux foyers, entreprises et industries",
-    "chiffres": {
-      "dividende": "685 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1721781/000172178126000018/a07-2026aeptexasxdoeloanpr.htm",
-    "date": "2026-07-08 10:02"
-  },
-  {
-    "company": "MEXICO FUND INC",
-    "cik": "65433",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de la societe MEXICO FUND INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/65433/000165495426006539/mxf_8k.htm",
-    "date": "2026-07-08 08:56"
-  },
-  {
-    "company": "Onfolio Holdings, Inc",
-    "cik": "1825452",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Onfolio Holdings Inc. annonce une acquisition de Paramount Helium, LLC",
-    "activite": "Onfolio Holdings Inc. est une societe qui opere dans le domaine des acquisitions et des fusions d'entreprises, notamment dans le secteur de l'energie",
-    "chiffres": {
-      "dividende": "11,3 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1825452/000165495426006537/onfo_8k.htm",
-    "date": "2026-07-08 08:50"
   }
 ]
