@@ -1,5 +1,41 @@
 [
   {
+    "company": "SAN JUAN BASIN ROYALTY TRUST",
+    "cik": "319655",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "San Juan Basin Royalty Trust n'a pas declare de distribution mensuelle en liquide pour juillet",
+    "activite": "exploitation de gaz naturel",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/319655/000119312526310097/july_2026_8-k.htm",
+    "date": "2026-07-21 14:51"
+  },
+  {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000112/fhlbdm-20260715.htm",
+    "date": "2026-07-21 14:30"
+  },
+  {
+    "company": "Picard Medical, Inc.",
+    "cik": "2030617",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de l'assemblée générale des actionnaires de Picard Medical, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926023932/pmi20260720_8k.htm",
+    "date": "2026-07-21 14:01"
+  },
+  {
     "company": "ASCENT INDUSTRIES CO.",
     "cik": "95953",
     "form": "8-K",
@@ -2589,49 +2625,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1462223/000168316826005377/nixxy_8k.htm",
     "date": "2026-07-09 09:25"
-  },
-  {
-    "company": "Beyond Air, Inc.",
-    "cik": "1641631",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Beyond Air, Inc. effectue un reverse stock split",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1641631/000149315226032621/ex3-1.htm",
-    "date": "2026-07-09 09:20"
-  },
-  {
-    "company": "Simply Good Foods Co",
-    "cik": "1702744",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "La societe Simply Good Foods Co. annonce des resultats financiers negatifs pour le troisieme trimestre 2026",
-    "activite": "Leader dans la categorie des snacks nutritionnels",
-    "chiffres": {
-      "revenu": "$357,0 million",
-      "benefice": "-$52,0 million",
-      "bpa": "-$0,58",
-      "croissance": "-6,3%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1702744/000170274426000021/a991_pressreleasexq3x2026.htm",
-    "date": "2026-07-09 07:02"
-  },
-  {
-    "company": "UNITED NATURAL FOODS INC",
-    "cik": "1020859",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Offre d'emploi pour le poste de Directeur financier",
-    "activite": "",
-    "chiffres": {
-      "revenu": "$800,000",
-      "dividende": "$150,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085926000020/exhibit101alfredoluchiniof.htm",
-    "date": "2026-07-09 07:01"
   }
 ]
