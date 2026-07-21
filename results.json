@@ -1,5 +1,49 @@
 [
   {
+    "company": "Stepstone Private Credit Fund LLC",
+    "cik": "1950803",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Stepstone Private Credit Fund LLC annonce des ventes d'actions non enregistrees et des distributions aux actionnaires",
+    "activite": "vente d'actions non enregistrees et gestion de portefeuille d'investissement",
+    "chiffres": {
+      "revenu": "211,6 millions $",
+      "bpa": "0,51 $",
+      "dividende": "0,54 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526309763/d100336d8k.htm",
+    "date": "2026-07-21 10:30"
+  },
+  {
+    "company": "iPower Inc.",
+    "cik": "1830072",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "iPower Inc. publie un rapport 8-K sur la creation de nouvelles filiales",
+    "activite": "creation de filiales pour separer les activites e-commerce et intelligence artificielle",
+    "chiffres": {
+      "dividende": "30,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826005670/ipower_8k.htm",
+    "date": "2026-07-21 10:30"
+  },
+  {
+    "company": "Federal Home Loan Bank of Topeka",
+    "cik": "1325878",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Topeka",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "500,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000141/fhlbt-20260715.htm",
+    "date": "2026-07-21 10:27"
+  },
+  {
     "company": "Utz Brands, Inc.",
     "cik": "1739566",
     "form": "8-K",
@@ -2571,46 +2615,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2061934/000188852426012452/bmo25c12_20-1.htm",
     "date": "2026-07-08 14:09"
-  },
-  {
-    "company": "Benchmark 2025-V17 Mortgage Trust",
-    "cik": "2063065",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de serviteur special pour le BMARK 2025-V17 securitization",
-    "activite": "Torchlight Loan Services, LLC agit comme serviteur special pour le BMARK 2025-V17 securitization",
-    "chiffres": {
-      "dividende": "12,2 milliards de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2063065/000188852426012450/bmk25v17_8k-07082026.htm",
-    "date": "2026-07-08 13:41"
-  },
-  {
-    "company": "CHS INC",
-    "cik": "823277",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "CHS Inc. annonce des resultats positifs pour le troisieme trimestre de l'annee fiscale 2026",
-    "activite": "CHS Inc. est une entreprise agroalimentaire globale et la plus grande cooperative agricole aux Etats-Unis, fournissant des intrants critiques pour les cultures, des services d'acces au marche et de gestion des risques",
-    "chiffres": {
-      "revenu": "11,6 milliards $",
-      "benefice": "267,4 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/823277/000082327726000025/a3qfy26earningrelease.htm",
-    "date": "2026-07-08 11:51"
-  },
-  {
-    "company": "Power REIT",
-    "cik": "1532619",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Nomination d'un nouveau trustee au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1532619/000149315226032424/form8-k.htm",
-    "date": "2026-07-08 11:35"
   }
 ]
