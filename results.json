@@ -1,5 +1,43 @@
 [
   {
+    "company": "CID Holdco, Inc.",
+    "cik": "2033770",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "CID HoldCo, Inc. annonce un accord de vente de titres pour un montant de 6 millions de dollars",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2033770/000121390026080208/ea0298826-8k_cidhold.htm",
+    "date": "2026-07-22 08:47"
+  },
+  {
+    "company": "John Marshall Bancorp, Inc.",
+    "cik": "1710482",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "John Marshall Bancorp, Inc. declare un dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.10"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926085645/jmsb-20260721x8k.htm",
+    "date": "2026-07-22 08:45"
+  },
+  {
+    "company": "Kensington Capital Acquisition Corp. VI",
+    "cik": "2102713",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Kensington Capital Acquisition Corp. VI annonce une fusion avec Nth Cycle",
+    "activite": "Kensington Capital Acquisition Corp. VI est une societe d'acquisition",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2102713/000119312526311388/d140185d8k.htm",
+    "date": "2026-07-22 08:44"
+  },
+  {
     "company": "TELEDYNE TECHNOLOGIES INC",
     "cik": "1094285",
     "form": "8-K",
@@ -2589,47 +2627,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/752642/000149315226032700/ex99-1.htm",
     "date": "2026-07-09 16:35"
-  },
-  {
-    "company": "Cantor Fitzgerald Income Trust, Inc.",
-    "cik": "1666244",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cantor Fitzgerald Income Trust, Inc. declare un dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.73889 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1666244/000119312526299752/cfit-20260707.htm",
-    "date": "2026-07-09 16:33"
-  },
-  {
-    "company": "Federal Home Loan Bank of San Francisco",
-    "cik": "1316944",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of San Francisco",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "15 000 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000117/fhlbsf-20260707.htm",
-    "date": "2026-07-09 14:17"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Boston",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "15 000 000 $ et 50 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000130/fhlbbost-20260707.htm",
-    "date": "2026-07-09 13:54"
   }
 ]
