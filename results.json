@@ -1,5 +1,41 @@
 [
   {
+    "company": "CATHAY GENERAL BANCORP",
+    "cik": "861842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cathay General Bancorp annonce ses resultats financiers pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926024142/caty20260722_8k.htm",
+    "date": "2026-07-22 16:35"
+  },
+  {
+    "company": "GLOBE LIFE INC.",
+    "cik": "320335",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Globe Life Inc. publie son rapport financier du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000203/gl-20260722.htm",
+    "date": "2026-07-22 16:34"
+  },
+  {
+    "company": "BridgeBio Pharma, Inc.",
+    "cik": "1743881",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "BridgeBio annonce l'acceptation par la FDA de sa demande d'autorisation de mise sur le marché pour encaleret",
+    "activite": "developpement de medicaments pour des conditions genetiques",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1743881/000114036126029291/ef20078442_ex99-1.htm",
+    "date": "2026-07-22 16:34"
+  },
+  {
     "company": "ExchangeRight Income Fund",
     "cik": "1771514",
     "form": "8-K",
@@ -2596,41 +2632,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926082584/tm2615935d8_8k.htm",
     "date": "2026-07-10 14:54"
-  },
-  {
-    "company": "WILSON BANK HOLDING CO",
-    "cik": "885275",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Wilson Bank Holding Company publie un rapport financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/885275/000119312526300789/ck0000885275-20260710.htm",
-    "date": "2026-07-10 14:51"
-  },
-  {
-    "company": "Origin Bancorp, Inc.",
-    "cik": "1516912",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Origin Bancorp, Inc. annonce la publication de ses resultats du deuxieme trimestre 2026",
-    "activite": "fournit des services financiers et assureurs",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1516912/000151691226000038/ex9912q26obkprannouncingco.htm",
-    "date": "2026-07-10 12:54"
-  },
-  {
-    "company": "United Health Products, Inc.",
-    "cik": "1096938",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "United Health Products annonce un accord avec NAMSA pour une etude clinique",
-    "activite": "developpement de produits medicaux, notamment le CelluSTAT Hemostatic Gauze",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1096938/000147793226004244/ueec_8k.htm",
-    "date": "2026-07-10 12:19"
   }
 ]
