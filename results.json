@@ -1,5 +1,48 @@
 [
   {
+    "company": "ExchangeRight Income Fund",
+    "cik": "1771514",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Declaration de la valeur nette d'actif de l'entreprise",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,1449 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1771514/000119312526312143/none-20260630.htm",
+    "date": "2026-07-22 15:00"
+  },
+  {
+    "company": "GREENE COUNTY BANCORP INC",
+    "cik": "1070524",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Augmentation du dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,11 $ par action (+10,0% par an)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1070524/000114036126029241/ef20078418_8k.htm",
+    "date": "2026-07-22 14:38"
+  },
+  {
+    "company": "UWHARRIE CAPITAL CORP",
+    "cik": "898171",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Uwharrie Capital Corp annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {
+      "benefice": "7,1 million",
+      "bpa": "0,96"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/898171/000119312526311970/uwhr-20260722.htm",
+    "date": "2026-07-22 13:48"
+  },
+  {
     "company": "Bank First Corp",
     "cik": "1746109",
     "form": "8-K",
@@ -2589,43 +2632,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1096938/000147793226004244/ueec_8k.htm",
     "date": "2026-07-10 12:19"
-  },
-  {
-    "company": "FIVE STAR BANCORP",
-    "cik": "1275168",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de publication des resultats financiers du deuxieme trimestre 2026",
-    "activite": "exploitation d'une banque",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026047852/exhibit991-q22026earningsr.htm",
-    "date": "2026-07-10 12:09"
-  },
-  {
-    "company": "WFRBS Commercial Mortgage Trust 2014-C25",
-    "cik": "1623838",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour WFRBS Commercial Mortgage Trust 2014-C25",
-    "activite": "RCA gere des prêts hypothecaires commerciaux pour des securitisations de biens immobiliers",
-    "chiffres": {
-      "dividende": "$21,8 milliards"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1623838/000188852426012464/wcm14c25_8k-07062026.htm",
-    "date": "2026-07-10 11:08"
-  },
-  {
-    "company": "LataMed AI Corp.",
-    "cik": "1477960",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LataMed AI Corp. augmente son capital autorise",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1477960/000147793226004240/cctc_8k.htm",
-    "date": "2026-07-10 10:51"
   }
 ]
