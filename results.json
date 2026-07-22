@@ -1,5 +1,45 @@
 [
   {
+    "company": "Stone Point Credit Income Fund",
+    "cik": "2031283",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Stone Point Credit Income Fund annonce une emission de 167749,797 actions",
+    "activite": "emission et vente d'actions",
+    "chiffres": {
+      "dividende": "4,130,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2031283/000110465926085672/tm2621027d1_8k.htm",
+    "date": "2026-07-22 10:41"
+  },
+  {
+    "company": "BLUSKY AI INC.",
+    "cik": "1416090",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de direction entre BluSky AI Inc. et Mort Aaronson",
+    "activite": "",
+    "chiffres": {
+      "dividende": "75 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1416090/000149315226034200/ex10-1.htm",
+    "date": "2026-07-22 10:37"
+  },
+  {
+    "company": "Standard Nuclear, Inc.",
+    "cik": "2086716",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Standard Nuclear annonce des jalons importants dans la construction et l'approbation réglementaire de ses installations de production de combustible nucléaire",
+    "activite": "production de combustible nucléaire TRISO",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026049125/standardnuclearpr_licens.htm",
+    "date": "2026-07-22 09:40"
+  },
+  {
     "company": "CID Holdco, Inc.",
     "cik": "2033770",
     "form": "8-K",
@@ -2589,43 +2629,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926082304/tm2619274d6_8k.htm",
     "date": "2026-07-09 17:20"
-  },
-  {
-    "company": "Marvell Technology, Inc.",
-    "cik": "1835632",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Marvell Technology, Inc. depose un rapport courant aupres de la SEC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526299843/d82462d8k.htm",
-    "date": "2026-07-09 17:19"
-  },
-  {
-    "company": "Roadzen Inc.",
-    "cik": "1868640",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente d'actions entre les vendeurs et Roadzen Technologies Limited",
-    "activite": "achat et vente d'actions",
-    "chiffres": {
-      "dividende": "£6,000,000, £3,600,000, £2,400,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1868640/000149315226032702/ex2-1.htm",
-    "date": "2026-07-09 16:40"
-  },
-  {
-    "company": "UMH PROPERTIES, INC.",
-    "cik": "752642",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "UMH Properties lance un programme de pret sans versement initial pour les veterans",
-    "activite": "UMH Properties est un trust de placement immobilier (REIT) specialise dans la propriete et l'exploitation de communautes de maisons prefabriciques",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/752642/000149315226032700/ex99-1.htm",
-    "date": "2026-07-09 16:35"
   }
 ]
