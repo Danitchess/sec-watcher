@@ -1,5 +1,47 @@
 [
   {
+    "company": "Scilex Holding Co",
+    "cik": "1820190",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Scilex Holding Company conclut un accord de rachat d'actions avec Vivasor Holding Company",
+    "activite": "",
+    "chiffres": {
+      "dividende": "11,999,762.28$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526312591/sclx-20260718.htm",
+    "date": "2026-07-22 17:30"
+  },
+  {
+    "company": "Z Squared Inc.",
+    "cik": "1759186",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Z Squared Inc. annonce la fin de deux accords de vente d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "300,000,000$ et 50,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003094/zsqr8k072126.htm",
+    "date": "2026-07-22 17:30"
+  },
+  {
+    "company": "Jones Ventures INTL Acquisition1 Corp",
+    "cik": "2129056",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Jones Ventures INTL Acquisition1 Corp annonce la cloture de son offre publique initiale",
+    "activite": "entreprise de capital-investissement",
+    "chiffres": {
+      "revenu": "200,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2129056/000121390026080481/ea0298656-8k_jones1.htm",
+    "date": "2026-07-22 17:30"
+  },
+  {
     "company": "CATHAY GENERAL BANCORP",
     "cik": "861842",
     "form": "8-K",
@@ -2594,43 +2636,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1108134/000110465926082659/tm2619549d1_8k.htm",
     "date": "2026-07-10 16:16"
-  },
-  {
-    "company": "Freedom Holding Corp.",
-    "cik": "924805",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un membre du conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/924805/000092480526000028/frhc-20260710.htm",
-    "date": "2026-07-10 16:16"
-  },
-  {
-    "company": "TRIO-TECH INTERNATIONAL",
-    "cik": "732026",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le depot SEC de type 8-K de TRIO-TECH INTERNATIONAL decrit les statuts de la societe",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/732026/000143774926023298/ex_987081.htm",
-    "date": "2026-07-10 14:54"
-  },
-  {
-    "company": "Meridian3 Industrials Acquisition Corp",
-    "cik": "2136530",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Meridian3 Industrials Acquisition Corp annonce la cloture de son offre publique initiale",
-    "activite": "",
-    "chiffres": {
-      "revenu": "201,250,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926082584/tm2615935d8_8k.htm",
-    "date": "2026-07-10 14:54"
   }
 ]
