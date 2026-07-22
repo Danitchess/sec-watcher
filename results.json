@@ -1,5 +1,45 @@
 [
   {
+    "company": "Bank First Corp",
+    "cik": "1746109",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Bank First Corp",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1746109/000110465926085712/tm2621108d1_8ka.htm",
+    "date": "2026-07-22 12:54"
+  },
+  {
+    "company": "John Deere Owner Trust 2026-B",
+    "cik": "2141933",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "John Deere Owner Trust 2026-B emet des obligations adossees a des actifs",
+    "activite": "",
+    "chiffres": {
+      "dividende": "226,500,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2141933/000110465926085709/tmb-20260722x8k.htm",
+    "date": "2026-07-22 12:44"
+  },
+  {
+    "company": "John Deere Receivables LLC",
+    "cik": "1762590",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "John Deere Receivables LLC publie un rapport 8-K",
+    "activite": "emission d'obligations adossees a des actifs",
+    "chiffres": {
+      "dividende": "226,500,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1762590/000110465926085709/tmb-20260722x8k.htm",
+    "date": "2026-07-22 12:44"
+  },
+  {
     "company": "JUNIATA VALLEY FINANCIAL CORP",
     "cik": "714712",
     "form": "8-K",
@@ -2587,45 +2627,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1477960/000147793226004240/cctc_8k.htm",
     "date": "2026-07-10 10:51"
-  },
-  {
-    "company": "Cyber Enviro-Tech, Inc.",
-    "cik": "1935092",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Cyber Enviro-Tech, Inc. a remboursé quatre prêts importants",
-    "activite": "",
-    "chiffres": {
-      "dividende": "94,300$ , 82,800$ , 59,444$ , 187,500$ , 424,044$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1935092/000107997326000943/ceti_8k.htm",
-    "date": "2026-07-10 10:06"
-  },
-  {
-    "company": "AZIO AI HOLDINGS, INC.",
-    "cik": "1563568",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de nom de l'entreprise en Azio AI Holdings, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1563568/000143774926023245/adom20260708_8k.htm",
-    "date": "2026-07-10 08:15"
-  },
-  {
-    "company": "VYNE Therapeutics Inc.",
-    "cik": "1566044",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "VYNE Therapeutics Inc. declare un dividende special en liquide",
-    "activite": "",
-    "chiffres": {
-      "dividende": "16,5 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1566044/000110465926082433/tm2620182d1_8k.htm",
-    "date": "2026-07-10 08:06"
   }
 ]
