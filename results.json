@@ -1,5 +1,45 @@
 [
   {
+    "company": "JUNIATA VALLEY FINANCIAL CORP",
+    "cik": "714712",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Juniata Valley Financial Corp. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/714712/000110465926085689/juvf-20260722x8k.htm",
+    "date": "2026-07-22 11:57"
+  },
+  {
+    "company": "WFRBS Commercial Mortgage Trust 2014-C20",
+    "cik": "1603578",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K pour WFRBS Commercial Mortgage Trust 2014-C20",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$2,851,173.01"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1603578/000188852426012891/wcm14c20_8k-07172026.htm",
+    "date": "2026-07-22 11:42"
+  },
+  {
+    "company": "C2 Blockchain, Inc.",
+    "cik": "1882781",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "C2 Blockchain, Inc. annonce une vente d'actions",
+    "activite": "vente d'actions",
+    "chiffres": {
+      "revenu": "$30,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1882781/000188278126000043/form8k72226o.htm",
+    "date": "2026-07-22 11:23"
+  },
+  {
     "company": "Stone Point Credit Income Fund",
     "cik": "2031283",
     "form": "8-K",
@@ -2587,47 +2627,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1566044/000110465926082433/tm2620182d1_8k.htm",
     "date": "2026-07-10 08:06"
-  },
-  {
-    "company": "Ategrity Specialty Insurance Co Holdings",
-    "cik": "2040491",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Ategrity Specialty Insurance Company Holdings annonce des resultats financiers preliminaires pour le deuxieme trimestre 2026",
-    "activite": "L'entreprise est active dans le domaine de l'assurance specialisee",
-    "chiffres": {
-      "revenu": "205 millions $",
-      "benefice": "0,60 $ par action",
-      "croissance": "22%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2040491/000204049126000029/asic-20260706.htm",
-    "date": "2026-07-10 08:06"
-  },
-  {
-    "company": "Ainos, Inc.",
-    "cik": "1014763",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de la societe Ainos, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226032729/ex10-1.htm",
-    "date": "2026-07-09 17:29"
-  },
-  {
-    "company": "AUTOZONE INC",
-    "cik": "866787",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AutoZone Inc. annonce un accord de souscription pour 850 millions de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "850,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926082304/tm2619274d6_8k.htm",
-    "date": "2026-07-09 17:20"
   }
 ]
