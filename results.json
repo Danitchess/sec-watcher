@@ -1,5 +1,43 @@
 [
   {
+    "company": "Nissan Auto Lease Trust 2026-B",
+    "cik": "2141529",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Nissan Auto Lease Trust 2026-B",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2141529/000119312526313767/d149149d8k.htm",
+    "date": "2026-07-23 13:02"
+  },
+  {
+    "company": "NISSAN AUTO LEASING LLC II",
+    "cik": "1244832",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Nissan Auto Leasing LLC II",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1244832/000119312526313767/d149149d8k.htm",
+    "date": "2026-07-23 13:02"
+  },
+  {
+    "company": "Nex Neo Tech Inc.",
+    "cik": "2091438",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nex Neo Tech Inc. est partie a un accord d'assignment de pret",
+    "activite": "Nex Neo Tech Inc. emprunte de l'argent",
+    "chiffres": {
+      "dividende": "300 000 $ et 122 319,94 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2091438/000209143826000014/ex10_1.htm",
+    "date": "2026-07-23 13:02"
+  },
+  {
     "company": "Federal Home Loan Bank of Atlanta",
     "cik": "1331465",
     "form": "8-K",
@@ -2602,45 +2640,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026047967/hgit-20260623.htm",
     "date": "2026-07-13 12:11"
-  },
-  {
-    "company": "CHESAPEAKE UTILITIES CORP",
-    "cik": "19745",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Chesapeake Utilities annonce un nouveau projet de infrastructure gaz naturel",
-    "activite": "developpement, construction et operation d'infrastructures gaz naturel",
-    "chiffres": {
-      "dividende": "1,2 milliard $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/19745/000162828026047964/cpk-20260713.htm",
-    "date": "2026-07-13 11:45"
-  },
-  {
-    "company": "Twin Vee PowerCats, Co.",
-    "cik": "1855509",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Twin Vee PowerCats Co. annonce un accord de fusion avec USFM Corporation",
-    "activite": "",
-    "chiffres": {
-      "dividende": "500,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1855509/000173112226000931/e7774_8k.htm",
-    "date": "2026-07-13 09:26"
-  },
-  {
-    "company": "TACTILE SYSTEMS TECHNOLOGY INC",
-    "cik": "1027838",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Tactile Systems Technology Inc annonce un accord de distribution avec ElastiMed",
-    "activite": "developpement et commercialisation de dispositifs medicaux",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1027838/000110465926082947/tm2620304d1_8k.htm",
-    "date": "2026-07-13 09:23"
   }
 ]
