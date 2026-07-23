@@ -1,5 +1,51 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Federal Home Loan Bank of Atlanta annonce ses resultats operationnels pour le deuxieme trimestre 2026",
+    "activite": "FHLBank Atlanta offre des services de financement, de developpement communautaire et d'autres services bancaires pour aider les institutions financieres membres a offrir des credits hypothecaires abordables et des credits de developpement economique",
+    "chiffres": {
+      "revenu": "$203 million",
+      "benefice": "$127 million",
+      "bpa": "5.41 percent",
+      "croissance": "$18.7 billion",
+      "dividende": "6.20 percent"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000132/ex991q22026operatinghighli.htm",
+    "date": "2026-07-23 11:49"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Chicago",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "750,000,000$, 500,000,000$, 600,000,000$, 20,000,000$, 500,000,000$, 15,000,000$, 15,000,000$, 10,000,000$, 10,000,000$, 40,000,000$, 15,000,000$, 15,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000131/fhlbc-20260720.htm",
+    "date": "2026-07-23 11:44"
+  },
+  {
+    "company": "Nuveen Global Cities REIT, Inc.",
+    "cik": "1711799",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nuveen Global Cities REIT, Inc. declare des distributions pour chaque classe d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,06316609 $ par action pour la classe T, 0,06316609 $ par action pour la classe S, 0,06316609 $ par action pour la classe D, 0,06316609 $ par action pour la classe I, 0,06316609 $ par action pour la classe N"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000044/nuveen-20260723.htm",
+    "date": "2026-07-23 11:37"
+  },
+  {
     "company": "POOL CORP",
     "cik": "945841",
     "form": "8-K",
@@ -2596,43 +2642,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1027838/000110465926082947/tm2620304d1_8k.htm",
     "date": "2026-07-13 09:23"
-  },
-  {
-    "company": "WILLIAMS COMPANIES, INC.",
-    "cik": "107263",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Williams Companies, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312526301533/d152507d8k.htm",
-    "date": "2026-07-13 09:20"
-  },
-  {
-    "company": "PLUG POWER INC",
-    "cik": "1093691",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Plug Power Inc annonce des accords de vente de terrains",
-    "activite": "La societe vend des terrains et des actifs lies a des projets de data centers",
-    "chiffres": {
-      "dividende": "132,5 M$ a 142 M$, 50 M$, 6,5 M$, 10 M$, 26,5 M$, 162 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1093691/000110465926082854/tm2620282d1_8k.htm",
-    "date": "2026-07-13 07:15"
-  },
-  {
-    "company": "FIRST HAWAIIAN, INC.",
-    "cik": "36377",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "First Hawaiian, Inc. annonce des résultats financiers préliminaires pour le deuxième trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/36377/000110465926082853/tm2620283d1_8k.htm",
-    "date": "2026-07-13 07:15"
   }
 ]
