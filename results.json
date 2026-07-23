@@ -1,5 +1,41 @@
 [
   {
+    "company": "SUBURBAN PROPANE PARTNERS LP",
+    "cik": "1005210",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Declaration de distribution du troisieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1005210/000100521026000006/sph-20260723.htm",
+    "date": "2026-07-23 07:32"
+  },
+  {
+    "company": "Albertsons Companies, Inc.",
+    "cik": "1646972",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Albertsons Companies, Inc. publie son rapport financier pour les 16 semaines se terminant le 20 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000041/aci-20260723.htm",
+    "date": "2026-07-23 07:31"
+  },
+  {
+    "company": "Incannex Healthcare Inc.",
+    "cik": "1873875",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Incannex Healthcare Inc. depose un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026080622/ea0298674-8k_incannex.htm",
+    "date": "2026-07-23 07:30"
+  },
+  {
     "company": "Scilex Holding Co",
     "cik": "1820190",
     "form": "8-K",
@@ -2598,43 +2634,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007518/vivakorinc_8k.htm",
     "date": "2026-07-10 17:29"
-  },
-  {
-    "company": "Aterian, Inc.",
-    "cik": "1757715",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aterian, Inc. annonce l'ajournement d'une réunion extraordinaire des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1757715/000143774926023359/ater20260710_8k.htm",
-    "date": "2026-07-10 17:28"
-  },
-  {
-    "company": "GRANITE CONSTRUCTION INC",
-    "cik": "861459",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Granite Construction INC",
-    "activite": "",
-    "chiffres": {
-      "dividende": "273,3 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/861459/000086145926000025/gva-20260710.htm",
-    "date": "2026-07-10 16:16"
-  },
-  {
-    "company": "Beacon Financial Corp",
-    "cik": "1108134",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Beacon Financial Corp informe ses actionnaires sur les regles de retrait des directeurs",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1108134/000110465926082659/tm2619549d1_8k.htm",
-    "date": "2026-07-10 16:16"
   }
 ]
