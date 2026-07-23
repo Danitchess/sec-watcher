@@ -1,5 +1,43 @@
 [
   {
+    "company": "POOL CORP",
+    "cik": "945841",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "POOL CORP publie son rapport financier du 2e trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/945841/000119312526313430/pool-20260723.htm",
+    "date": "2026-07-23 09:29"
+  },
+  {
+    "company": "PETMED EXPRESS INC",
+    "cik": "1040130",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Addendum au contrat commercial",
+    "activite": "",
+    "chiffres": {
+      "dividende": "100 000,00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1040130/000104013026000029/a420scongress-addendumof.htm",
+    "date": "2026-07-23 09:26"
+  },
+  {
+    "company": "EQUITY LIFESTYLE PROPERTIES INC",
+    "cik": "895417",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier d'EQUITY LIFESTYLE PROPERTIES INC",
+    "activite": "proprietaire de biens immobiliers de type lifestyle",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/895417/000162828026049302/els-20260722.htm",
+    "date": "2026-07-23 09:16"
+  },
+  {
     "company": "SUBURBAN PROPANE PARTNERS LP",
     "cik": "1005210",
     "form": "8-K",
@@ -2596,43 +2634,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/36377/000110465926082853/tm2620283d1_8k.htm",
     "date": "2026-07-13 07:15"
-  },
-  {
-    "company": "RESIDEO TECHNOLOGIES, INC.",
-    "cik": "1740332",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Resideo Technologies, Inc. publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1740332/000121390026077351/ea0297747-8k_resideo.htm",
-    "date": "2026-07-13 07:14"
-  },
-  {
-    "company": "Cue Biopharma, Inc.",
-    "cik": "1645460",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Cue Biopharma annonce une placement prive de 50 millions de dollars",
-    "activite": "developpement de traitements medicamenteux",
-    "chiffres": {
-      "dividende": "50,0 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526301052/d123955d8k.htm",
-    "date": "2026-07-10 17:29"
-  },
-  {
-    "company": "Vivakor, Inc.",
-    "cik": "1450704",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vivakor, Inc. annonce une modification d'un accord de dette et d'actions preferentielles",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007518/vivakorinc_8k.htm",
-    "date": "2026-07-10 17:29"
   }
 ]
