@@ -1,5 +1,46 @@
 [
   {
+    "company": "Intellicheck, Inc.",
+    "cik": "1040896",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Intellicheck, Inc. a modifie ses statuts",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1040896/000104089626000026/idn-20260717.htm",
+    "date": "2026-07-23 16:08"
+  },
+  {
+    "company": "TENET HEALTHCARE CORP",
+    "cik": "70318",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Tenet Healthcare Corp annonce des resultats solides pour le deuxieme trimestre 2026",
+    "activite": "exploitation d'hopitaux et de centres de soins ambulatoires",
+    "chiffres": {
+      "revenu": "$5,628 millions",
+      "benefice": "$826 millions",
+      "bpa": "$9,84",
+      "croissance": "16,3%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/70318/000007031826000032/thc-20260630ex991earningsr.htm",
+    "date": "2026-07-23 16:07"
+  },
+  {
+    "company": "Summit Therapeutics Inc.",
+    "cik": "1599298",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Summit Therapeutics Inc. pour le deuxieme trimestre 2026",
+    "activite": "developpement de therapies contre le cancer",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1599298/000159929826000067/a20260723q2earningsdeck_.htm",
+    "date": "2026-07-23 16:07"
+  },
+  {
     "company": "Federal Home Loan Bank of Atlanta",
     "cik": "1331465",
     "form": "8-K",
@@ -2599,47 +2640,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/91668/000143774926023424/ex_985975.htm",
     "date": "2026-07-13 15:34"
-  },
-  {
-    "company": "BASIN ELECTRIC POWER COOPERATIVE",
-    "cik": "720515",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Basin Electric Power Cooperative a conclu un accord de reglement avec McKenzie Electric Cooperative",
-    "activite": "production et distribution d'electricite",
-    "chiffres": {
-      "dividende": "40 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/720515/000072051526000007/basin-20260709.htm",
-    "date": "2026-07-13 15:07"
-  },
-  {
-    "company": "Inception Growth Acquisition Ltd",
-    "cik": "1866838",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Inception Growth Acquisition Ltd depose 12 203,33$ dans un compte de confiance",
-    "activite": "",
-    "chiffres": {
-      "dividende": "12 203,33$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1866838/000121390026077511/ea0297839-8k_inception.htm",
-    "date": "2026-07-13 15:00"
-  },
-  {
-    "company": "DATA I/O CORP",
-    "cik": "351998",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Data I/O Corporation",
-    "activite": "",
-    "chiffres": {
-      "dividende": "6,825,400.00$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426006627/daio_8k.htm",
-    "date": "2026-07-13 13:20"
   }
 ]
