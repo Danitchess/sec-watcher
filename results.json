@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000134/fhlba-20260720.htm",
+    "date": "2026-07-23 14:39"
+  },
+  {
+    "company": "Federal Home Loan Bank of Topeka",
+    "cik": "1325878",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 30,
+    "resume": "La banque affiche des resultats financiers en baisse",
+    "activite": "Fournit des liquidites et des financements pour aider ses membres a construire des communautes solides",
+    "chiffres": {
+      "revenu": "118,9 M$",
+      "benefice": "77,1 M$",
+      "bpa": "6,7%",
+      "croissance": "-18,7%",
+      "dividende": "8,52%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000145/ex991fhlbt063020268k.htm",
+    "date": "2026-07-23 14:29"
+  },
+  {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of New York",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006823/fhlbny_8k.htm",
+    "date": "2026-07-23 14:02"
+  },
+  {
     "company": "Nissan Auto Lease Trust 2026-B",
     "cik": "2141529",
     "form": "8-K",
@@ -2599,46 +2641,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426006627/daio_8k.htm",
     "date": "2026-07-13 13:20"
-  },
-  {
-    "company": "FORTRESS CREDIT REALTY INCOME TRUST",
-    "cik": "2026738",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Fortress Credit Realty Income Trust augmente son financement disponible",
-    "activite": "acquisition et/ou origination de certaines creances",
-    "chiffres": {
-      "financement": "750 millions $ (augmentation de 250 millions $ par rapport aux 500 millions $ precedents)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526301797/ck0002026738-20260708.htm",
-    "date": "2026-07-13 13:17"
-  },
-  {
-    "company": "INNO HOLDINGS INC.",
-    "cik": "1961847",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Inno Holdings Inc. publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1961847/000149315226032977/form8-k.htm",
-    "date": "2026-07-13 12:15"
-  },
-  {
-    "company": "HINES GLOBAL INCOME TRUST, INC.",
-    "cik": "1585101",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Hines Global Income Trust acquiert deux nouvelles propriétés",
-    "activite": "Acquisition de propriétés immobilières",
-    "chiffres": {
-      "contract purchase price de Wicker Park": "70,0 M$",
-      "contract purchase price de 405 Colorado": "151,0 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026047967/hgit-20260623.htm",
-    "date": "2026-07-13 12:11"
   }
 ]
