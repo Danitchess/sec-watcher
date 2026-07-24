@@ -1,5 +1,45 @@
 [
   {
+    "company": "C. H. ROBINSON WORLDWIDE, INC.",
+    "cik": "1043277",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Verdict defavorable a C.H. Robinson Worldwide, Inc. dans un proces lié a un accident de camion",
+    "activite": "",
+    "chiffres": {
+      "dividende": "604 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526315034/d149453d8k.htm",
+    "date": "2026-07-24 06:21"
+  },
+  {
+    "company": "Jazz Pharmaceuticals plc",
+    "cik": "1232524",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jazz Pharmaceuticals plc publie son rapport 8-K sur les resultats de l'assemblee generale annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1232524/000162828026049466/jazz-20260723.htm",
+    "date": "2026-07-24 06:16"
+  },
+  {
+    "company": "JAKKS PACIFIC INC",
+    "cik": "1009829",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "JAKKS PACIFIC INC annonce ses resultats du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,25 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1009829/000118518526003108/jakk8k072226.htm",
+    "date": "2026-07-24 06:15"
+  },
+  {
     "company": "Cycurion, Inc.",
     "cik": "1868419",
     "form": "8-K",
@@ -2601,43 +2641,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1604174/000110465926083170/tm2620178d1_8k.htm",
     "date": "2026-07-13 17:29"
-  },
-  {
-    "company": "SC II Acquisition Corp.",
-    "cik": "2076739",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "L'entreprise annonce l'abandon d'un projet d'acquisition",
-    "activite": "entreprise de technologie de paiement",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2076739/000121390026077669/ea0297805-8k_sc2acq.htm",
-    "date": "2026-07-13 17:29"
-  },
-  {
-    "company": "Eagle Point Income Co Inc.",
-    "cik": "1754836",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Eagle Point Income Co Inc. publie un rapport financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,35 $ - 0,39 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1754836/000110465926083169/tm2620177d1_8k.htm",
-    "date": "2026-07-13 17:29"
-  },
-  {
-    "company": "American Strategic Investment Co.",
-    "cik": "1595527",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement dans la direction de l'entreprise",
-    "activite": "investissements dans l'immobilier",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926083143/tm2620257d1_8k.htm",
-    "date": "2026-07-13 16:58"
   }
 ]
