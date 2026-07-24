@@ -3,6 +3,50 @@
     "company": "Federal Home Loan Bank of Boston",
     "cik": "1331463",
     "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La Federal Home Loan Bank of Boston annonce des resultats financiers solides pour le deuxieme trimestre 2026",
+    "activite": "La banque fournit des financements pour le logement et le developpement economique dans les six etats de la Nouvelle-Angleterre",
+    "chiffres": {
+      "revenu": "$746,702",
+      "benefice": "$45,190",
+      "bpa": "0,24%",
+      "croissance": "$6,9 M",
+      "dividende": "6,67%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000149/ex991-secondquarter2026ear.htm",
+    "date": "2026-07-24 11:39"
+  },
+  {
+    "company": "PROVIDENT FINANCIAL HOLDINGS INC",
+    "cik": "1010470",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Declaration d'un dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.14 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000138/8k72426.htm",
+    "date": "2026-07-24 11:31"
+  },
+  {
+    "company": "LFTD PARTNERS INC.",
+    "cik": "1391135",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "LFTD Partners Inc. publie un depot SEC concernant un contrat immobilier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1391135/000109690626001125/lftd_ex10z94.htm",
+    "date": "2026-07-24 11:14"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
     "sentiment": "neutre",
     "score": 50,
     "resume": "Le depot SEC de type 8-K de la societe Federal Home Loan Bank of Boston decrit les statuts et reglements de la societe",
@@ -2591,51 +2635,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526302685/trex-20260714.htm",
     "date": "2026-07-14 10:00"
-  },
-  {
-    "company": "JPMORGAN CHASE &amp; CO",
-    "cik": "19617",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "JPMorgan Chase & Co annonce des resultats financiers positifs pour le 2e trimestre 2026",
-    "activite": "banque et services financiers",
-    "chiffres": {
-      "revenu": "$58,0 Mds",
-      "benefice": "$21,2 Mds",
-      "bpa": "$7,70",
-      "croissance": "41%",
-      "dividende": "$4,0 Mds"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026048086/a2q26_earningsxpresentat.htm",
-    "date": "2026-07-14 09:52"
-  },
-  {
-    "company": "Catalyst Bancorp, Inc.",
-    "cik": "1849867",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Catalyst Bancorp, Inc. annonce l'acquisition de Lakeside Bancshares, Inc.",
-    "activite": "banque",
-    "chiffres": {
-      "dividende": "41,1 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1849867/000184986726000014/clst-20260714x8k.htm",
-    "date": "2026-07-14 09:41"
-  },
-  {
-    "company": "Federal Home Loan Bank of Indianapolis",
-    "cik": "1331754",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Indianapolis publie un rapport 8-K sur la creation d'une obligation financiere directe",
-    "activite": "emission d'obligations",
-    "chiffres": {
-      "dividende": "4.875% sur 15 000 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000143/fhlbi-20260708.htm",
-    "date": "2026-07-14 08:39"
   }
 ]
