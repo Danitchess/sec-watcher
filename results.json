@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le depot SEC de type 8-K de la societe Federal Home Loan Bank of Boston decrit les statuts et reglements de la societe",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000146/exhibit32-amendedandrestat.htm",
+    "date": "2026-07-24 10:18"
+  },
+  {
+    "company": "PROVIDENT FINANCIAL HOLDINGS INC",
+    "cik": "1010470",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de nouveaux dirigeants",
+    "activite": "banque",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000136/prov8k72326.htm",
+    "date": "2026-07-24 10:05"
+  },
+  {
+    "company": "UNITED BANCORP INC /OH/",
+    "cik": "731653",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de United Bancorp Inc",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/731653/000110465926086543/tm2621220d1_8k.htm",
+    "date": "2026-07-24 10:03"
+  },
+  {
     "company": "TPG Private Equity Opportunities, L.P.",
     "cik": "2050260",
     "form": "8-K",
@@ -2601,45 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000143/fhlbi-20260708.htm",
     "date": "2026-07-14 08:39"
-  },
-  {
-    "company": "Holley Inc.",
-    "cik": "1822928",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Holley Inc. annonce le remboursement de 15 millions de dollars de son prêt à taux fixe",
-    "activite": "",
-    "chiffres": {
-      "dividende": "15 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1822928/000182292826000063/hlly-20260714.htm",
-    "date": "2026-07-14 08:38"
-  },
-  {
-    "company": "SS Innovations International, Inc.",
-    "cik": "1676163",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Nomination d'une nouvelle directrice financiere",
-    "activite": "",
-    "chiffres": {
-      "dividende": "440,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026077784/ea0297601-8k_ssinnova.htm",
-    "date": "2026-07-14 08:35"
-  },
-  {
-    "company": "INTERNATIONAL BUSINESS MACHINES CORP",
-    "cik": "51143",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "IBM publie un rapport financier pour le trimestre clos le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714.htm",
-    "date": "2026-07-14 07:01"
   }
 ]
