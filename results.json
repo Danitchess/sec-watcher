@@ -1,5 +1,43 @@
 [
   {
+    "company": "PEDEVCO CORP",
+    "cik": "1141197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PEDEVCO CORP annonce des attributions d'actions et des conventions d'emploi pour ses dirigeants",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426006883/ped_8k.htm",
+    "date": "2026-07-24 17:30"
+  },
+  {
+    "company": "Lite Strategy, Inc.",
+    "cik": "1262104",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Lite Strategy, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1262104/000119312526316284/lits-20260724.htm",
+    "date": "2026-07-24 17:29"
+  },
+  {
+    "company": "LGL GROUP INC",
+    "cik": "61004",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "LGL Group annonce la completion de son offre de droits de souscription",
+    "activite": "LGL Group est une societe de portefeuille se concentrant sur les investissements de marchand et les operations de portefeuille",
+    "chiffres": {
+      "dividende": "41,8 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926024429/ex_989264.htm",
+    "date": "2026-07-24 17:27"
+  },
+  {
     "company": "NN INC",
     "cik": "918541",
     "form": "8-K",
@@ -2599,43 +2637,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000023/ceiex991-ceipressreleasevi.htm",
     "date": "2026-07-14 16:34"
-  },
-  {
-    "company": "Elite Express Holding Inc.",
-    "cik": "2053641",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Elite Express Holding Inc. publie son rapport financier pour le trimestre se terminant le 31 mai 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2053641/000110465926083527/tm2620499d1_8k.htm",
-    "date": "2026-07-14 16:34"
-  },
-  {
-    "company": "Evofem Biosciences, Inc.",
-    "cik": "1618835",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Evofem Biosciences, Inc. emet une note promissory de 706 304 dollars",
-    "activite": "fabrication et distribution de produits tels que Phexx et Solosec",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1618835/000149315226033184/ex10-1.htm",
-    "date": "2026-07-14 16:31"
-  },
-  {
-    "company": "Franklin BSP Real Estate Debt, Inc.",
-    "cik": "2035428",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Franklin BSP Real Estate Debt, Inc. verse des distributions aux actionnaires",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,1900 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000044/fbred-20260714.htm",
-    "date": "2026-07-14 14:47"
   }
 ]
