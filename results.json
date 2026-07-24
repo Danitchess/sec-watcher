@@ -1,5 +1,43 @@
 [
   {
+    "company": "TPG Private Equity Opportunities, L.P.",
+    "cik": "2050260",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TPG Private Equity Opportunities, L.P. annonce la vente d'unites non enregistrees pour 84,4 millions de dollars",
+    "activite": "investit dans des societes via des unites de participation",
+    "chiffres": {
+      "dividende": "84,4 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2050260/000205026026000036/tpop-20260724.htm",
+    "date": "2026-07-24 08:04"
+  },
+  {
+    "company": "NewAmsterdam Pharma Co N.V.",
+    "cik": "1936258",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NewAmsterdam Pharma obtient une opinion positive pour la commercialisation de deux medicaments",
+    "activite": "developpement de medicaments",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526315163/nams-20260724.htm",
+    "date": "2026-07-24 08:03"
+  },
+  {
+    "company": "FIRST HAWAIIAN, INC.",
+    "cik": "36377",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de First Hawaiian, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/36377/000110465926086492/fhb-20260724x8k.htm",
+    "date": "2026-07-24 08:03"
+  },
+  {
     "company": "C. H. ROBINSON WORLDWIDE, INC.",
     "cik": "1043277",
     "form": "8-K",
@@ -2603,43 +2641,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/ibm-20260714.htm",
     "date": "2026-07-14 07:01"
-  },
-  {
-    "company": "NextCure, Inc.",
-    "cik": "1661059",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "NextCure, Inc. annonce une fusion avec Avere Therapeutics, Inc.",
-    "activite": "NextCure est une societe de biotechnologie qui fusionne avec Avere Therapeutics",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083326/tm2620428d1_8k.htm",
-    "date": "2026-07-14 07:00"
-  },
-  {
-    "company": "D-Wave Quantum Inc.",
-    "cik": "1907982",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "D-Wave transfere sa cotation boursiere a Nasdaq",
-    "activite": "developpement et fourniture de systemes, logiciels et services de calcul quantique",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/d-waveannouncestransferofs.htm",
-    "date": "2026-07-14 07:00"
-  },
-  {
-    "company": "Eagle Point Credit Co",
-    "cik": "1604174",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Eagle Point Credit Company publie un rapport financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,15-0,19 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1604174/000110465926083170/tm2620178d1_8k.htm",
-    "date": "2026-07-13 17:29"
   }
 ]
