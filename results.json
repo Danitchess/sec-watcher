@@ -1,5 +1,45 @@
 [
   {
+    "company": "NN INC",
+    "cik": "918541",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de NN INC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/918541/000091854126000054/formofaward.htm",
+    "date": "2026-07-24 16:13"
+  },
+  {
+    "company": "GoPro, Inc.",
+    "cik": "1500435",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "GoPro, Inc. n'est pas en conformite avec la regle de Nasdaq",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1500435/000162828026049597/gpro-20260721.htm",
+    "date": "2026-07-24 16:10"
+  },
+  {
+    "company": "Eagle Point Trinity Senior Secured Lending Co",
+    "cik": "2027033",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Eagle Point Trinity Senior Secured Lending Co publie son rapport 8-K",
+    "activite": "",
+    "chiffres": {
+      "dividende": "10,25 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2027033/000110465926086648/tm2621301d1_8k.htm",
+    "date": "2026-07-24 16:10"
+  },
+  {
     "company": "BV Financial, Inc.",
     "cik": "1302387",
     "form": "8-K",
@@ -2597,43 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000044/fbred-20260714.htm",
     "date": "2026-07-14 14:47"
-  },
-  {
-    "company": "Federal Home Loan Bank of New York",
-    "cik": "1329842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of New York",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006653/fhlbny_8k.htm",
-    "date": "2026-07-14 14:38"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations financieres",
-    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
-    "chiffres": {
-      "dividende": "15 000 000 $, 40 000 000 $, 10 000 000 $, 50 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000135/fhlbbost-20260708.htm",
-    "date": "2026-07-14 14:37"
-  },
-  {
-    "company": "BION ENVIRONMENTAL TECHNOLOGIES INC",
-    "cik": "875729",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Bion Environmental Technologies Inc. annonce un accord de reglement avec Hamstra Builders",
-    "activite": "construction d'un systeme de recuperation d'ammoniac",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/875729/000107997326000947/bion_8k.htm",
-    "date": "2026-07-14 13:03"
   }
 ]
