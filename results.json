@@ -1,5 +1,45 @@
 [
   {
+    "company": "BV Financial, Inc.",
+    "cik": "1302387",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "BV Financial, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1302387/000119312526315814/bvfl-20260724.htm",
+    "date": "2026-07-24 14:39"
+  },
+  {
+    "company": "Lord Abbett Private Credit Fund S",
+    "cik": "2041841",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lord Abbett Private Credit Fund S publie son rapport 8-K",
+    "activite": "Lord Abbett Private Credit Fund S est un fonds d'investissement qui accorde des prêts à des entreprises",
+    "chiffres": {
+      "dividende": "0,19 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2041841/000093041326002156/c117191_8k-ixbrl.htm",
+    "date": "2026-07-24 14:37"
+  },
+  {
+    "company": "Lord Abbett Private Credit Fund",
+    "cik": "2008748",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lord Abbett Private Credit Fund publie son rapport 8-K",
+    "activite": "Lord Abbett Private Credit Fund est un fonds d'investissement qui accorde des prêts à des entreprises et détient des participations dans des sociétés",
+    "chiffres": {
+      "dividende": "0,22 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2008748/000093041326002155/c117190_8k-ixbrl.htm",
+    "date": "2026-07-24 14:37"
+  },
+  {
     "company": "CHASE GENERAL CORP",
     "cik": "15357",
     "form": "8-K",
@@ -2595,47 +2635,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/875729/000107997326000947/bion_8k.htm",
     "date": "2026-07-14 13:03"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Chicago publie un rapport 8-K sur la creation d'obligations financieres",
-    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
-    "chiffres": {
-      "dividende": "10,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000123/fhlbc-20260708.htm",
-    "date": "2026-07-14 13:02"
-  },
-  {
-    "company": "Federal Home Loan Bank of Cincinnati",
-    "cik": "1326771",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Cincinnati",
-    "activite": "La societe emet des obligations consolidees pour financer ses activites",
-    "chiffres": {
-      "dividende": "50,000,000 $, 10,000,000 $, 2,000,000 $, 13,000,000 $, 3,000,000 $, 16,000,000 $, 1,000,000 $, 2,000,000 $, 11,000,000 $, 12,000,000 $, 5,000,000 $, 5,000,000 $, 7,000,000 $, 22,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000113/fhlbcin-20260708.htm",
-    "date": "2026-07-14 12:54"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Dallas",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "15 000 000 $, 10 000 000 $, 25 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000126/fhlbd-20260708.htm",
-    "date": "2026-07-14 10:50"
   }
 ]
