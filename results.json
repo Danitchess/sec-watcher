@@ -1,5 +1,45 @@
 [
   {
+    "company": "CHASE GENERAL CORP",
+    "cik": "15357",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "La filiale Dye Candy Company est en defaut de paiement",
+    "activite": "exploitation de la societe Dye Candy Company",
+    "chiffres": {
+      "dividende": "500 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/15357/000110465926086601/csgn-20260720x8k.htm",
+    "date": "2026-07-24 13:16"
+  },
+  {
+    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
+    "cik": "1919369",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vista Credit Strategic Lending Corp annonce des ventes d'actions et fournit des informations sur sa valeur nette d'inventaire",
+    "activite": "Vente d'actions et gestion de portefeuille d'investissements",
+    "chiffres": {
+      "dividende": "3,029,800$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526315613/ck0001919369-20260722.htm",
+    "date": "2026-07-24 12:52"
+  },
+  {
+    "company": "Digital Brands Group, Inc.",
+    "cik": "1668010",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente de titres entre Digital Brands Group, Inc. et des acheteurs",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226034517/ex10-1.htm",
+    "date": "2026-07-24 12:34"
+  },
+  {
     "company": "Federal Home Loan Bank of Boston",
     "cik": "1331463",
     "form": "8-K",
@@ -2597,43 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000126/fhlbd-20260708.htm",
     "date": "2026-07-14 10:50"
-  },
-  {
-    "company": "GPB Holdings II, LP",
-    "cik": "1640265",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "GPB Holdings II, LP annonce la fin de l'emploi de son directeur financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1640265/000110465926083406/tm2620479d1_8k.htm",
-    "date": "2026-07-14 10:50"
-  },
-  {
-    "company": "GPB Automotive Portfolio, LP",
-    "cik": "1578742",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "GPB Automotive Portfolio, LP annonce la fin de l'emploi de son directeur financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1578742/000110465926083405/tm2620478d1_8k.htm",
-    "date": "2026-07-14 10:49"
-  },
-  {
-    "company": "TREX CO INC",
-    "cik": "1069878",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Trex Company Inc corrige son chiffre d'Adjusted EBITDA",
-    "activite": "",
-    "chiffres": {
-      "dividende": "335-350 millions$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526302685/trex-20260714.htm",
-    "date": "2026-07-14 10:00"
   }
 ]
