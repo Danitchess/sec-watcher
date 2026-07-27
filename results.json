@@ -1,5 +1,43 @@
 [
   {
+    "company": "RTB Digital, Inc.",
+    "cik": "1419275",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "RTB Digital, Inc. publie un rapport 8-K/A pour mettre a jour les informations financieres",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1419275/000118518526003142/rtb8ka2072326.htm",
+    "date": "2026-07-27 17:30"
+  },
+  {
+    "company": "Huron Consulting Group Inc.",
+    "cik": "1289848",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Huron Consulting Group Inc. annonce l'election de Dr. L. Thomas Richards comme directeur",
+    "activite": "fourniture de services de conseil",
+    "chiffres": {
+      "dividende": "80 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026049857/hurn-20260723.htm",
+    "date": "2026-07-27 17:29"
+  },
+  {
+    "company": "Ocean Power Technologies, Inc.",
+    "cik": "1378140",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ocean Power Technologies, Inc. conclut un accord de vente d'actions avec H.C. Wainwright & Co., LLC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226034862/ex10-1.htm",
+    "date": "2026-07-27 17:28"
+  },
+  {
     "company": "BROOKFIELD REAL ESTATE INCOME TRUST INC.",
     "cik": "1713407",
     "form": "8-K",
@@ -2609,49 +2647,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1283337/000153949726001955/n5998_x1-8k.htm",
     "date": "2026-07-15 14:53"
-  },
-  {
-    "company": "HNO International, Inc.",
-    "cik": "1342916",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de HNO International, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1342916/000134291626000043/ex102.htm",
-    "date": "2026-07-15 14:44"
-  },
-  {
-    "company": "Tennessee Valley Authority",
-    "cik": "1376986",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La societe Tennessee Valley Authority conclut un accord de credit de 1 milliard de dollars",
-    "activite": "La societe est une agence corporative et instrument de l'Etat americain",
-    "chiffres": {
-      "dividende": "1,00 milliard de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000033/exhibit101thirdamendmentan.htm",
-    "date": "2026-07-15 14:44"
-  },
-  {
-    "company": "PNC FINANCIAL SERVICES GROUP, INC.",
-    "cik": "713676",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "PNC Financial Services Group affiche des resultats solides pour le deuxieme trimestre 2026",
-    "activite": "banque et services financiers",
-    "chiffres": {
-      "revenu": "6,875 M$",
-      "benefice": "2,055 M$",
-      "bpa": "4,81 $",
-      "croissance": "16%",
-      "dividende": "2,00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026048308/a2q26earningsslides_vf.htm",
-    "date": "2026-07-15 13:43"
   }
 ]
