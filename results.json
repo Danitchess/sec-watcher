@@ -1,5 +1,45 @@
 [
   {
+    "company": "Ford Credit Auto Lease Trust 2026-B",
+    "cik": "2144097",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K pour l'emission de titres adosses a des actifs",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2144097/000110465926086981/tm2620301d12_8k.htm",
+    "date": "2026-07-27 13:38"
+  },
+  {
+    "company": "Ford Credit Auto Lease Two LLC",
+    "cik": "1519881",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K pour Ford Credit Auto Lease Two LLC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1519881/000110465926086981/tm2620301d12_8k.htm",
+    "date": "2026-07-27 13:38"
+  },
+  {
+    "company": "PEOPLES BANCORP INC",
+    "cik": "318300",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Peoples Bancorp Inc. annonce des résultats positifs pour le deuxième trimestre 2026",
+    "activite": "",
+    "chiffres": {
+      "revenu": "$0,78",
+      "benefice": "$0,96",
+      "bpa": "$23,56"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000187/ex991q22026conferencecallt.htm",
+    "date": "2026-07-27 13:35"
+  },
+  {
     "company": "Carter Bankshares, Inc.",
     "cik": "1829576",
     "form": "8-K",
@@ -2608,43 +2648,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026048282/rhome-20260715.htm",
     "date": "2026-07-15 10:39"
-  },
-  {
-    "company": "LIPELLA PHARMACEUTICALS INC.",
-    "cik": "1347242",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Lipella Pharmaceuticals Inc. est en procedure de faillite",
-    "activite": "developpement de produits pharmaceutiques",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1347242/000175392626001173/g085807_8k.htm",
-    "date": "2026-07-15 10:38"
-  },
-  {
-    "company": "PROGRESSIVE CORP/OH/",
-    "cik": "80661",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe PROGRESSIVE CORP/OH/",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000262/pgr-20260715.htm",
-    "date": "2026-07-15 09:50"
-  },
-  {
-    "company": "NRG ENERGY, INC.",
-    "cik": "1013871",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "NRG Energy, Inc. annonce les resultats de l'enchere de capacite de PJM Interconnection",
-    "activite": "production d'electricite",
-    "chiffres": {
-      "dividende": "6,839 MW a un prix moyen de 325 $ par MW-jour"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926083743/tm2620335d1_8k.htm",
-    "date": "2026-07-15 08:48"
   }
 ]
