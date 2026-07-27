@@ -1,5 +1,50 @@
 [
   {
+    "company": "STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4",
+    "cik": "1340909",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Distribution de certificats de la serie 2005-4",
+    "activite": "",
+    "chiffres": {
+      "revenu": "50,393.24 $",
+      "dividende": "0,09220749 $ par certificat"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1340909/000199937126015890/ex99-1.htm",
+    "date": "2026-07-27 09:22"
+  },
+  {
+    "company": "ENB Financial Corp",
+    "cik": "1437479",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "ENB Financial Corp publie ses resultats pour le deuxieme trimestre 2026",
+    "activite": "ENB Financial Corp est une societe de services financiers qui exploite une banque a travers plusieurs succursales",
+    "chiffres": {
+      "revenu": "$39,710",
+      "benefice": "$9,728,000",
+      "bpa": "$1.71",
+      "croissance": "7.4%",
+      "dividende": "$0.36"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000705/ex99.htm",
+    "date": "2026-07-27 09:22"
+  },
+  {
+    "company": "Bridger Aerospace Group Holdings, Inc.",
+    "cik": "1941536",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Bridger Aerospace Group Holdings, Inc. annonce un contrat avec Texas A&M Forest Service",
+    "activite": "acquisition, modification et livraison d'avions",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1941536/000194153626000017/baer-20260727.htm",
+    "date": "2026-07-27 09:20"
+  },
+  {
     "company": "Profusa, Inc.",
     "cik": "1859807",
     "form": "8-K",
@@ -2601,41 +2646,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1718405/000149315226033283/ex10-1.htm",
     "date": "2026-07-15 07:05"
-  },
-  {
-    "company": "Axsome Therapeutics, Inc.",
-    "cik": "1579428",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "L'entreprise annonce l'acceptation de sa demande de nouveau medicament",
-    "activite": "developpement de traitements pour la narcolepsie",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526304039/axsm-20260715.htm",
-    "date": "2026-07-15 07:05"
-  },
-  {
-    "company": "Green Thumb Industries Inc.",
-    "cik": "1795139",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Green Thumb Industries Inc. modifie ses statuts pour augmenter le quorum requis pour les réunions d'actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1795139/000119312526304034/gtbif-20260709.htm",
-    "date": "2026-07-15 07:00"
-  },
-  {
-    "company": "Laird Superfood, Inc.",
-    "cik": "1650696",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Laird Superfood, Inc. annonce le depart de son directeur financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1650696/000143774926023571/lsf20260714_8k.htm",
-    "date": "2026-07-14 17:30"
   }
 ]
