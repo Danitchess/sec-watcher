@@ -1,5 +1,43 @@
 [
   {
+    "company": "New Concept Energy, Inc.",
+    "cik": "105744",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de l'assemblée générale des actionnaires de New Concept Energy, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/105744/000121465926009048/o7242668k.htm",
+    "date": "2026-07-27 15:10"
+  },
+  {
+    "company": "HPS Net Lease Income REIT",
+    "cik": "2107762",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "HPS Net Lease Income REIT conclut des accords avec des partenaires",
+    "activite": "Gestion de placements immobiliers",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2107762/000119312526317926/d120209d8k.htm",
+    "date": "2026-07-27 15:08"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "cik": "1692951",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cottonwood Communities, Inc. annonce une offre privée de ses actions préférées convertibles",
+    "activite": "",
+    "chiffres": {
+      "dividende": "2,137,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000132/cci-20260721.htm",
+    "date": "2026-07-27 15:05"
+  },
+  {
     "company": "Ford Credit Auto Lease Trust 2026-B",
     "cik": "2144097",
     "form": "8-K",
@@ -2610,43 +2648,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1992084/000188852426012533/bmk23v04_20-1.htm",
     "date": "2026-07-15 12:03"
-  },
-  {
-    "company": "BMO 2024-5C3 Mortgage Trust",
-    "cik": "2006440",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Document juridique relatif a la designation d'un serviteur special",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2006440/000188852426012532/bmo245c3_20-1.htm",
-    "date": "2026-07-15 12:02"
-  },
-  {
-    "company": "AMERICAN EXPRESS CO",
-    "cik": "4962",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "American Express publie des statistiques de delinquency et de write-off pour ses cartes de credit",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000302/axp-20260715.htm",
-    "date": "2026-07-15 12:00"
-  },
-  {
-    "company": "Rithm Perpetual Life Residential Trust",
-    "cik": "2081628",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rithm Perpetual Life Residential Trust publie sa valeur nette d'inventaire par action",
-    "activite": "",
-    "chiffres": {
-      "dividende": "NAV par action : 20,1637 $ (Class J), 20,2802 $ (Class E), Total NAV : 144 294 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026048282/rhome-20260715.htm",
-    "date": "2026-07-15 10:39"
   }
 ]
