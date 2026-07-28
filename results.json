@@ -1,5 +1,45 @@
 [
   {
+    "company": "CONAGRA BRANDS INC.",
+    "cik": "23217",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Conagra Brands annonce le depart a la retraite de son directeur operationnel",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/23217/000002321726000028/tmb-20260724x8k.htm",
+    "date": "2026-07-28 07:32"
+  },
+  {
+    "company": "BOEING CO",
+    "cik": "12927",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Boeing publie ses resultats du deuxieme trimestre 2026",
+    "activite": "construction aeronautique et spatiale",
+    "chiffres": {
+      "revenu": "24,6 Mds$",
+      "benefice": "-428 M$",
+      "bpa": "-0,67$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026049929/a202606jun308kprex991.htm",
+    "date": "2026-07-28 07:31"
+  },
+  {
+    "company": "Grace Therapeutics, Inc.",
+    "cik": "1444192",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Grace Therapeutics, Inc. annonce la reception des minutes de la reunion avec la FDA",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1444192/000114036126029837/ef20078866_8k.htm",
+    "date": "2026-07-28 07:16"
+  },
+  {
     "company": "RTB Digital, Inc.",
     "cik": "1419275",
     "form": "8-K",
@@ -2607,45 +2647,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526304782/jbss-20260715.htm",
     "date": "2026-07-15 16:14"
-  },
-  {
-    "company": "Aspira Women&#39;s Health Inc.",
-    "cik": "926617",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aspira Women's Health Inc. conclut un accord de pret",
-    "activite": "Aspira Women's Health Inc. est une societe de sante pour les femmes",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/926617/000092661726000052/awhl-20260706x8k.htm",
-    "date": "2026-07-15 16:12"
-  },
-  {
-    "company": "Jefferies Financial Group Inc.",
-    "cik": "96223",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Jefferies Financial Group Inc. a realise une emission d'obligations senior de 850 millions d'euros",
-    "activite": "emission d'obligations",
-    "chiffres": {
-      "dividende": "843,8 millions d'euros"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/96223/000114036126028538/ef20077911_8k.htm",
-    "date": "2026-07-15 16:12"
-  },
-  {
-    "company": "STRUCTURED PRODUCTS CORP CRED ENHANCE CORTS TR FOR AON CAP A",
-    "cik": "1283337",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution de certificats de la societe Structured Products Corp",
-    "activite": "emission de certificats de credit",
-    "chiffres": {
-      "dividende": "1,025625 $ par certificat"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1283337/000153949726001955/n5998_x1-8k.htm",
-    "date": "2026-07-15 14:53"
   }
 ]
