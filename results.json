@@ -1,5 +1,46 @@
 [
   {
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "cik": "1901637",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "USCB Financial Holdings, Inc. presente ses resultats financiers et sa strategie de croissance",
+    "activite": "Banque commerciale et services financiers",
+    "chiffres": {
+      "bpa": "1.26%",
+      "dividende": "0.49$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1901637/000156276226000084/exhibit991.htm",
+    "date": "2026-07-28 13:46"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La banque annonce une declaration de dividendes pour le deuxieme trimestre 2026",
+    "activite": "La banque fournit des services financiers a ses membres",
+    "chiffres": {
+      "dividende": "9,50% (annualise)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000137/fhlbc-20260727.htm",
+    "date": "2026-07-28 13:29"
+  },
+  {
+    "company": "Crimson Wine Group, Ltd",
+    "cik": "1562151",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de vote des actionnaires de Crimson Wine Group, Ltd.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1562151/000162828026050043/cwgl-20260723.htm",
+    "date": "2026-07-28 13:21"
+  },
+  {
     "company": "Autonomix Medical, Inc.",
     "cik": "1617867",
     "form": "8-K",
@@ -2598,48 +2639,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/912562/000091256226000141/exhibit991-saleofrenewables.htm",
     "date": "2026-07-16 07:44"
-  },
-  {
-    "company": "NextPlat Corp",
-    "cik": "1058307",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "NextPlat acquiert une pharmacie en Floride pour 1,5 million de dollars",
-    "activite": "fourniture de produits et services de soins de sante",
-    "chiffres": {
-      "revenu": "5,6 millions de dollars",
-      "croissance": "20%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926023651/ex_988178.htm",
-    "date": "2026-07-15 18:20"
-  },
-  {
-    "company": "Global AI, Inc.",
-    "cik": "1473490",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Global AI, Inc. conclut un accord de souscription avec KSY Capital Investments, Inc.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "USD $500,000.00"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1473490/000149315226033407/ex10-1.htm",
-    "date": "2026-07-15 17:40"
-  },
-  {
-    "company": "Stereotaxis, Inc.",
-    "cik": "1289340",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "L'acquisition de Robocath pourrait ne pas être bénéfique pour Stereotaxis",
-    "activite": "Stereotaxis est une entreprise qui fabrique et commercialise des systèmes robotiques et des dispositifs médicaux d'intervention",
-    "chiffres": {
-      "dividende": "1,1 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1289340/000149315226033405/ex99-1.htm",
-    "date": "2026-07-15 17:37"
   }
 ]
