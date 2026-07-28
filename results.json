@@ -1,5 +1,41 @@
 [
   {
+    "company": "Kinetic Seas Inc.",
+    "cik": "1945619",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kinetic Seas Inc. a emis une obligation convertible",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1945619/000168316826005793/kinetic_8k.htm",
+    "date": "2026-07-28 09:45"
+  },
+  {
+    "company": "Kinetic Seas Inc.",
+    "cik": "1945619",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kinetic Seas Incorporated annonce la mise a jour d'un accord de licence",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1945619/000168316826005791/kinetic_8k.htm",
+    "date": "2026-07-28 09:44"
+  },
+  {
+    "company": "Federal Home Loan Bank of Pittsburgh",
+    "cik": "1330399",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Pittsburgh",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette, appeles obligations consolidees, sur les marches financiers",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000119312526319048/ck0001330399-20260722.htm",
+    "date": "2026-07-28 09:41"
+  },
+  {
     "company": "CONAGRA BRANDS INC.",
     "cik": "23217",
     "form": "8-K",
@@ -2607,45 +2643,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1519449/000151944926000044/skwd-20260715.htm",
     "date": "2026-07-15 17:26"
-  },
-  {
-    "company": "Lamb Weston Holdings, Inc.",
-    "cik": "1679273",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lamb Weston Holdings, Inc. presente son plan d'actions 2026",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,538,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000022/ex101amendedlambwestonin.htm",
-    "date": "2026-07-15 17:24"
-  },
-  {
-    "company": "Matson, Inc.",
-    "cik": "3453",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Matson, Inc. publie un rapport financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/3453/000110465926083946/matx-20260715x8k.htm",
-    "date": "2026-07-15 17:20"
-  },
-  {
-    "company": "SANFILIPPO JOHN B &amp; SON INC",
-    "cik": "880117",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe declare des dividendes speciaux et annuels",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,05 $ et 0,95 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526304782/jbss-20260715.htm",
-    "date": "2026-07-15 16:14"
   }
 ]
