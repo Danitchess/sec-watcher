@@ -1,5 +1,47 @@
 [
   {
+    "company": "RENASANT CORP",
+    "cik": "715072",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Renasant Corp annonce des resultats financiers solides pour le deuxieme trimestre 2026",
+    "activite": "banque",
+    "chiffres": {
+      "revenu": "$340,4 millions",
+      "benefice": "$87,1 millions",
+      "bpa": "$0,94",
+      "croissance": "4,7%",
+      "dividende": "$0,24"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000067/exhibit991_rnstx2q2026earn.htm",
+    "date": "2026-07-28 16:37"
+  },
+  {
+    "company": "Terrestrial Energy Inc. /DE/",
+    "cik": "2019804",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Terrestrial Energy Inc. annonce la nomination de Kathryn McCarthy au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000018/tmb-20260723x8k.htm",
+    "date": "2026-07-28 16:35"
+  },
+  {
+    "company": "Satellogic Inc.",
+    "cik": "1874315",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Satellogic Inc. annonce le depart de son directeur financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1874315/000187431526000028/satl-20260722.htm",
+    "date": "2026-07-28 16:34"
+  },
+  {
     "company": "Federal Home Loan Bank of Des Moines",
     "cik": "1325814",
     "form": "8-K",
@@ -2597,47 +2639,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000127/fhlba-20260713.htm",
     "date": "2026-07-16 10:35"
-  },
-  {
-    "company": "Federal Home Loan Bank of Pittsburgh",
-    "cik": "1330399",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Pittsburgh",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette, appeles obligations consolidees, sur les marches financiers",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000119312526305501/ck0001330399-20260713.htm",
-    "date": "2026-07-16 09:23"
-  },
-  {
-    "company": "COMMERCE BANCSHARES INC /MO/",
-    "cik": "22356",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Commerce Bancshares affiche des resultats positifs au 2e trimestre 2026",
-    "activite": "banque et services financiers",
-    "chiffres": {
-      "revenu": "$499 millions",
-      "benefice": "$160 millions",
-      "bpa": "$1,10",
-      "croissance": "11,9%",
-      "dividende": "$2,6 milliards"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000176/a2026q2earningshighlight.htm",
-    "date": "2026-07-16 09:22"
-  },
-  {
-    "company": "Main Street Capital CORP",
-    "cik": "1396440",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Main Street Capital Corporation publie un rapport financier préliminaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000086/main-20260716.htm",
-    "date": "2026-07-16 09:15"
   }
 ]
