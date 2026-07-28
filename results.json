@@ -1,5 +1,43 @@
 [
   {
+    "company": "Autonomix Medical, Inc.",
+    "cik": "1617867",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Autonomix Medical publie un rapport financier",
+    "activite": "",
+    "chiffres": {
+      "dividende": "5,1 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1617867/000143774926024597/amix20260728_8k.htm",
+    "date": "2026-07-28 11:36"
+  },
+  {
+    "company": "Leonardo DRS, Inc.",
+    "cik": "1833756",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Leonardo DRS, Inc. annonce son acquisition de Raft LLC",
+    "activite": "Leonardo DRS, Inc. est une societe qui opere dans le domaine de la technologie et de la defense",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1833756/000183375626000034/drs-20260728.htm",
+    "date": "2026-07-28 11:30"
+  },
+  {
+    "company": "Chaince Digital Holdings Inc.",
+    "cik": "1527762",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K pour Chaince Digital Holdings Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226034956/form8-ka.htm",
+    "date": "2026-07-28 11:18"
+  },
+  {
     "company": "Kinetic Seas Inc.",
     "cik": "1945619",
     "form": "8-K",
@@ -2603,45 +2641,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1289340/000149315226033405/ex99-1.htm",
     "date": "2026-07-15 17:37"
-  },
-  {
-    "company": "SBA COMMUNICATIONS CORP",
-    "cik": "1034054",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "SBA Communications Corporation annonce une emission d'obligations pour un montant de 3,5 milliards de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,350,000,000 $, 1,350,000,000 $, 800,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1034054/000119312526304972/d169827d8k.htm",
-    "date": "2026-07-15 17:29"
-  },
-  {
-    "company": "GameSquare Holdings, Inc.",
-    "cik": "1714562",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Une entreprise accorde des unites d'actions restreintes a un employe",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226033404/ex10-1.htm",
-    "date": "2026-07-15 17:29"
-  },
-  {
-    "company": "Skyward Specialty Insurance Group, Inc.",
-    "cik": "1519449",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Skyward Specialty Insurance Group, Inc. augmente son programme de rachat d'actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "US$50 million a US$100 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1519449/000151944926000044/skwd-20260715.htm",
-    "date": "2026-07-15 17:26"
   }
 ]
