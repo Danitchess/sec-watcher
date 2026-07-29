@@ -1,5 +1,43 @@
 [
   {
+    "company": "FMC CORP",
+    "cik": "37785",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "FMC Corporation publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/37785/000003778526000139/fmc-20260729.htm",
+    "date": "2026-07-29 16:44"
+  },
+  {
+    "company": "PennyMac Mortgage Investment Trust",
+    "cik": "1464423",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PennyMac Mortgage Investment Trust publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1464423/000119312526324102/d25774d8k.htm",
+    "date": "2026-07-29 16:43"
+  },
+  {
+    "company": "Core Laboratories Inc. /DE/",
+    "cik": "1958086",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Core Laboratories Inc. annonce ses resultats financiers pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.01"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1958086/000119312526324101/clb-20260729.htm",
+    "date": "2026-07-29 16:43"
+  },
+  {
     "company": "Nuveen Churchill Private Capital Income Fund",
     "cik": "1911066",
     "form": "8-K",
@@ -2613,41 +2651,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526307004/ck0002043759-20260716.htm",
     "date": "2026-07-17 09:51"
-  },
-  {
-    "company": "OPEN TEXT CORP",
-    "cik": "1002638",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "OpenText nomme Jill Larsen au conseil d'administration",
-    "activite": "leader dans la gestion de donnees pour l'intelligence artificielle d'entreprise",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1002638/000100263826000058/axpressreleasejuly2026dire.htm",
-    "date": "2026-07-17 08:35"
-  },
-  {
-    "company": "MEDIFAST INC",
-    "cik": "910329",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Medifast annonce le rebranding de sa filiale OPTAVIA en Trilivy",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026048574/med-20260717.htm",
-    "date": "2026-07-17 08:33"
-  },
-  {
-    "company": "Sadot Group Inc.",
-    "cik": "1701756",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Sadot Group Inc. annonce l'acquisition d'actifs intellectuels et une financement par notes convertibles",
-    "activite": "développement de logiciels de trading et de gestion des risques",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000952/e7788_8k.htm",
-    "date": "2026-07-17 08:30"
   }
 ]
