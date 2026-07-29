@@ -1,5 +1,45 @@
 [
   {
+    "company": "NATURAL HEALTH TRENDS CORP",
+    "cik": "912061",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Natural Health Trends Corp annonce des pertes pour le deuxieme trimestre 2026",
+    "activite": "entreprise de vente directe et e-commerce de produits de soins personnels et de bien-etre",
+    "chiffres": {
+      "revenu": "7,6 M$ (-23%)",
+      "benefice": "-451 000 $",
+      "bpa": "-0,05 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/912061/000143774926024763/ex_967109.htm",
+    "date": "2026-07-29 09:10"
+  },
+  {
+    "company": "AeroVironment Inc",
+    "cik": "1368622",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AeroVironment Inc. annonce le depart a la retraite d'un membre de son conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1368622/000110465926087871/tm2621437d1_8k.htm",
+    "date": "2026-07-29 09:10"
+  },
+  {
+    "company": "NOV Inc.",
+    "cik": "1021860",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "NOV Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1021860/000119312526322315/nov-20260728.htm",
+    "date": "2026-07-29 09:06"
+  },
+  {
     "company": "AUTOMATIC DATA PROCESSING INC",
     "cik": "8670",
     "form": "8-K",
@@ -2603,43 +2643,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2142044/000119312526305930/d21267d8k.htm",
     "date": "2026-07-16 14:37"
-  },
-  {
-    "company": "John Deere Owner Trust 2026-B",
-    "cik": "2141933",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "John Deere Owner Trust 2026-B publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2141933/000110465926084191/tmb-20260714x8k.htm",
-    "date": "2026-07-16 13:57"
-  },
-  {
-    "company": "John Deere Receivables LLC",
-    "cik": "1762590",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "John Deere Receivables LLC depose un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1762590/000110465926084191/tmb-20260714x8k.htm",
-    "date": "2026-07-16 13:57"
-  },
-  {
-    "company": "BIO-PATH HOLDINGS, INC.",
-    "cik": "1133818",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Bio-Path Holdings, Inc. annonce des ventes de ses actions et des partenariats strategiques",
-    "activite": "developpement de traitements contre le cancer et exploitation d'une plateforme de trading de crypto-monnaies",
-    "chiffres": {
-      "dividende": "13,983 $ et 14,676 $ en net proceeds, 571,341 $ en capacite de levier, 292,264.21 $ et 63,286.55 $ pour les essais cliniques, 670,260 $ pour l'acquisition de HMLA, 11,069 $ pour l'acquisition d'un logiciel"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1133818/000166357726000218/bpth_8k071626.htm",
-    "date": "2026-07-16 13:56"
   }
 ]
