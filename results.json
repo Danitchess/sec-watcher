@@ -1,5 +1,45 @@
 [
   {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Federal Home Loan Bank of Dallas annonce ses resultats pour le deuxieme trimestre 2026",
+    "activite": "La societe fournit des solutions de financement pour le logement et le developpement communautaire",
+    "chiffres": {
+      "revenu": "340,436 $",
+      "benefice": "245,378 $",
+      "dividende": "34,4 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000136/earningsreleaseq22026.htm",
+    "date": "2026-07-29 12:46"
+  },
+  {
+    "company": "Cycurion, Inc.",
+    "cik": "1868419",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Cycurion, Inc. annonce des difficultes dans la realisation d'une fusion",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226035138/form8-k.htm",
+    "date": "2026-07-29 12:41"
+  },
+  {
+    "company": "PROCACCIANTI HOTEL REIT, INC.",
+    "cik": "1692345",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Renouvellement d'un contrat d'advisory agreement",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1692345/000110465926088010/tm2621503d1_8k.htm",
+    "date": "2026-07-29 12:25"
+  },
+  {
     "company": "LXP Industrial Trust",
     "cik": "910108",
     "form": "8-K",
@@ -2607,43 +2647,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007621/vivakorinc_8k.htm",
     "date": "2026-07-16 17:29"
-  },
-  {
-    "company": "UPWORK, INC",
-    "cik": "1627475",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Upwork annonce le depart temporaire de son directeur financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1627475/000162747526000042/upwork-20260714.htm",
-    "date": "2026-07-16 16:22"
-  },
-  {
-    "company": "COCA COLA CO",
-    "cik": "21344",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "La societe COCA COLA CO annonce une violation de donnees chez sa filiale fairlife",
-    "activite": "La societe est active dans le domaine des boissons et produits laitiers",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026048466/ko-20260716.htm",
-    "date": "2026-07-16 16:20"
-  },
-  {
-    "company": "Avalanche Treasury Corp",
-    "cik": "2092446",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Avalanche Treasury Corp signe un accord de pret de monnaie numerique",
-    "activite": "prets de monnaie numerique",
-    "chiffres": {
-      "dividende": "10 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926084256/tm2620435d2_8k.htm",
-    "date": "2026-07-16 16:20"
   }
 ]
