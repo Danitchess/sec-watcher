@@ -1,5 +1,45 @@
 [
   {
+    "company": "SL Investment Fund II LLC",
+    "cik": "2028686",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "SL Investment Fund II LLC annonce une vente d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "29,7 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2028686/000119312526324265/ck0002028686-20260728.htm",
+    "date": "2026-07-29 17:29"
+  },
+  {
+    "company": "Fly-E Group, Inc.",
+    "cik": "1975940",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Fly-E Group, Inc. reçoit une notification de retard de dépôt de ses états financiers",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026082915/ea0299672-8k_flye.htm",
+    "date": "2026-07-29 17:28"
+  },
+  {
+    "company": "MILESTONE SCIENTIFIC INC.",
+    "cik": "855683",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Milestone Scientific Inc. annonce la conversion d'une partie d'une note promissoire",
+    "activite": "",
+    "chiffres": {
+      "dividende": "800,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/855683/000149315226035264/ex99-1.htm",
+    "date": "2026-07-29 17:28"
+  },
+  {
     "company": "FMC CORP",
     "cik": "37785",
     "form": "8-K",
@@ -2608,48 +2648,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/33002/000119312526307066/ebf-20260717.htm",
     "date": "2026-07-17 10:37"
-  },
-  {
-    "company": "Thunder Power Holdings, Inc.",
-    "cik": "1912582",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Thunder Power Holdings, Inc. a effectue une reincorporation de l'Etat du Delaware a l'Etat du Nevada",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1912582/000121390026078968/ea0295709-8k_thunder.htm",
-    "date": "2026-07-17 10:18"
-  },
-  {
-    "company": "STEELE BANCORP INC",
-    "cik": "779227",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Steele Bancorp, Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
-    "activite": "Steele Bancorp, Inc. est une societe de services financiers qui propose des services bancaires aux particuliers, aux familles, aux organisations a but non lucratif et aux entreprises",
-    "chiffres": {
-      "revenu": "$12.66 million",
-      "benefice": "$5.26 million",
-      "bpa": "$1.54",
-      "croissance": "188.8%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/779227/000143774926023746/ex_980420.htm",
-    "date": "2026-07-17 10:08"
-  },
-  {
-    "company": "LAGO Evergreen Credit",
-    "cik": "2043759",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LAGO Evergreen Credit annonce une vente d'actions non enregistrees",
-    "activite": "",
-    "chiffres": {
-      "dividende": "16,909,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2043759/000119312526307004/ck0002043759-20260716.htm",
-    "date": "2026-07-17 09:51"
   }
 ]
