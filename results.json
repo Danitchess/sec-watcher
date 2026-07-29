@@ -1,5 +1,43 @@
 [
   {
+    "company": "BMO 2024-5C7 Mortgage Trust",
+    "cik": "2038433",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "BMO 2024-5C8 Mortgage Trust nomme un nouveau special servicer",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2038433/000188852426013969/bmo245c7_20-1.htm",
+    "date": "2026-07-29 13:54"
+  },
+  {
+    "company": "Citigroup Commercial Mortgage Trust 2026-MFAM1",
+    "cik": "2143199",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission de certificats de placement hypothecaire",
+    "activite": "emission et vente de certificats de placement hypothecaire",
+    "chiffres": {
+      "dividende": "706,575,000$ et 110,275,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2143199/000153949726002023/n5995_x11-8k.htm",
+    "date": "2026-07-29 13:53"
+  },
+  {
+    "company": "PERMIAN BASIN ROYALTY TRUST",
+    "cik": "319654",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une fusion potentielle avec Blackbeard Holdings",
+    "activite": "exploitation de ressources petrolieres et gazières",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526323159/2026_pbt_8-k_sftvst_bbo_.htm",
+    "date": "2026-07-29 13:48"
+  },
+  {
     "company": "Federal Home Loan Bank of Dallas",
     "cik": "1331757",
     "form": "8-K",
@@ -2609,43 +2647,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/320017/000114036126028763/ef20078177_exhibit2-1.htm",
     "date": "2026-07-17 07:01"
-  },
-  {
-    "company": "Calidi Biotherapeutics, Inc.",
-    "cik": "1855485",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Calidi Biotherapeutics conclut un bail avec BP3-SD4 5580 Morehouse Drive LLC",
-    "activite": "Calidi Biotherapeutics loue des locaux pour son activite",
-    "chiffres": {
-      "dividende": "$113,574.78"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1855485/000149315226033594/ex10-1.htm",
-    "date": "2026-07-16 17:30"
-  },
-  {
-    "company": "BioRestorative Therapies, Inc.",
-    "cik": "1505497",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1505497/000149315226033593/ex10-1.htm",
-    "date": "2026-07-16 17:30"
-  },
-  {
-    "company": "Vivakor, Inc.",
-    "cik": "1450704",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vivakor, Inc. effectue un reverse stock split de 1 pour 20",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007621/vivakorinc_8k.htm",
-    "date": "2026-07-16 17:29"
   }
 ]
