@@ -1,5 +1,45 @@
 [
   {
+    "company": "Nuveen Churchill Private Capital Income Fund",
+    "cik": "1911066",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier du Nuveen Churchill Private Capital Income Fund",
+    "activite": "Investissements dans des societes et des entreprises",
+    "chiffres": {
+      "dividende": "0,170 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1911066/000191106626000091/ncpif-20260729.htm",
+    "date": "2026-07-29 15:34"
+  },
+  {
+    "company": "VenHub Global, Inc.",
+    "cik": "1972234",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "VenHub Global, Inc. a augmente son nombre d'actions autorisees",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1972234/000121390026082767/ea0299695-8k_venhub.htm",
+    "date": "2026-07-29 15:32"
+  },
+  {
+    "company": "Nissan Auto Lease Trust 2026-B",
+    "cik": "2141529",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par Nissan Auto Lease Trust 2026-B",
+    "activite": "Emission et vente d'obligations adossees a des contrats de location de vehicules",
+    "chiffres": {
+      "dividende": "$1,289,740,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2141529/000119312526323489/d112051d8k.htm",
+    "date": "2026-07-29 15:22"
+  },
+  {
     "company": "BMO 2024-5C7 Mortgage Trust",
     "cik": "2038433",
     "form": "8-K",
@@ -2609,43 +2649,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000952/e7788_8k.htm",
     "date": "2026-07-17 08:30"
-  },
-  {
-    "company": "Solstice Advanced Materials Inc.",
-    "cik": "2064953",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Solstice Advanced Materials verse un dividende de 0,075$ par action",
-    "activite": "developpe des materiaux specialises pour diverses industries",
-    "chiffres": {
-      "dividende": "0,075$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2064953/000206495326000081/exhibit991-dividendrelease.htm",
-    "date": "2026-07-17 07:14"
-  },
-  {
-    "company": "Kalaris Therapeutics, Inc.",
-    "cik": "1754068",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Kalaris Therapeutics annonce des donnees positives supplementaires de son essai clinique de phase 1a",
-    "activite": "developpement de traitements pour la degenerescence maculaire liee a l'age",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1754068/000119312526306737/d125006d8k.htm",
-    "date": "2026-07-17 07:05"
-  },
-  {
-    "company": "LISATA THERAPEUTICS, INC.",
-    "cik": "320017",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lisata Therapeutics, Inc. modifie une convention de fusion",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/320017/000114036126028763/ef20078177_exhibit2-1.htm",
-    "date": "2026-07-17 07:01"
   }
 ]
