@@ -1,5 +1,43 @@
 [
   {
+    "company": "Stewards, Inc.",
+    "cik": "1795851",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de pret entre Block 40 Property, LLC et VMC CRE Master Lending Upper REIT LLC",
+    "activite": "Block 40 Property, LLC est une societe immobiliere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000236/ex10_1.htm",
+    "date": "2026-07-30 10:36"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Chicago publie un rapport 8-K sur la creation d'obligations consolidees",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette, appeles obligations consolidees, sur les marches financiers",
+    "chiffres": {
+      "dividende": "750,000,000$, 500,000,000$, 15,000,000$, 25,000,000$, 1,000,000,000$, 10,000,000$, 20,000,000$, 38,510,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000142/fhlbc-20260727.htm",
+    "date": "2026-07-30 10:36"
+  },
+  {
+    "company": "OLD DOMINION ELECTRIC COOPERATIVE",
+    "cik": "885568",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Election d'un nouveau membre au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/885568/000119312526325157/ck0000885568-20260728.htm",
+    "date": "2026-07-30 10:31"
+  },
+  {
     "company": "Mastercard Inc",
     "cik": "1141391",
     "form": "8-K",
@@ -2604,41 +2642,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/842722/000168316826005603/fuse_8k.htm",
     "date": "2026-07-17 15:57"
-  },
-  {
-    "company": "Archimedes Tech SPAC Partners III Co.",
-    "cik": "2083910",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur",
-    "activite": "Societe de portefeuille d'investissement",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2083910/000121390026079130/ea0295111-8k_archimedes3.htm",
-    "date": "2026-07-17 15:32"
-  },
-  {
-    "company": "DAKTRONICS INC /SD/",
-    "cik": "915779",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Daktronics, Inc. annonce son programme de compensation pour 2027",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/915779/000162828026048619/dakt-20260714.htm",
-    "date": "2026-07-17 14:21"
-  },
-  {
-    "company": "Rhinebeck Bancorp, Inc.",
-    "cik": "1751783",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rhinebeck Bancorp, Inc. annonce les resultats de son offre d'abonnement",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1751783/000175178326000029/rbkb-20260717x8k.htm",
-    "date": "2026-07-17 14:13"
   }
 ]
