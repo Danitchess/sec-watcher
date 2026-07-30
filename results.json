@@ -1,5 +1,43 @@
 [
   {
+    "company": "Glucotrack, Inc.",
+    "cik": "1506983",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "L'entreprise annonce des progres dans le developpement de son traitement LT-100",
+    "activite": "developpement de traitements therapeutiques et de technologies pour les personnes atteintes de diabete",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226035503/ex99-1.htm",
+    "date": "2026-07-30 17:29"
+  },
+  {
+    "company": "DT Cloud Star Acquisition Corp",
+    "cik": "2017950",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "La societe DT Cloud Star Acquisition Corp. fait face a une delisting de ses securites",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2017950/000149315226035502/form8-k.htm",
+    "date": "2026-07-30 17:28"
+  },
+  {
+    "company": "COLUMBIA BANKING SYSTEM, INC.",
+    "cik": "887343",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau membre au conseil d'administration",
+    "activite": "",
+    "chiffres": {
+      "dividende": "100 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000167/colb-20260728.htm",
+    "date": "2026-07-30 17:27"
+  },
+  {
     "company": "COASTAL FINANCIAL CORP",
     "cik": "1437958",
     "form": "8-K",
@@ -2609,41 +2647,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495426006729/pebk_8k.htm",
     "date": "2026-07-20 09:30"
-  },
-  {
-    "company": "SES AI Corp",
-    "cik": "1819142",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "SES AI Corp. n'est pas en conformite avec les normes de listing de la NYSE",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000038/ses-20260717x8k.htm",
-    "date": "2026-07-20 09:26"
-  },
-  {
-    "company": "Personalis, Inc.",
-    "cik": "1527753",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Personalis, Inc. annonce une fusion avec Tempus AI, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526308488/d68794d8k.htm",
-    "date": "2026-07-20 09:18"
-  },
-  {
-    "company": "HANCOCK WHITNEY CORP",
-    "cik": "750577",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Hancock Whitney Corporation obtient l'approbation réglementaire pour son acquisition d'OFB Bancshares",
-    "activite": "banque et services financiers",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/750577/000119312526308486/d63138d8k.htm",
-    "date": "2026-07-20 09:17"
   }
 ]
