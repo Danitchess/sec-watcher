@@ -1,5 +1,41 @@
 [
   {
+    "company": "Mastercard Inc",
+    "cik": "1141391",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Mastercard Incorporated publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000081/ma-20260730.htm",
+    "date": "2026-07-30 08:07"
+  },
+  {
+    "company": "ALNYLAM PHARMACEUTICALS, INC.",
+    "cik": "1178670",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Alnylam Pharmaceuticals, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
+    "date": "2026-07-30 08:06"
+  },
+  {
+    "company": "Replimune Group, Inc.",
+    "cik": "1737953",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Replimune Group, Inc. annonce une reunion avec la FDA pour discuter de son application de licence biologique",
+    "activite": "developpement de traitements contre le melanome avance",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1737953/000110465926088481/tm2621663d1_8k.htm",
+    "date": "2026-07-30 08:06"
+  },
+  {
     "company": "Cigna Group",
     "cik": "1739940",
     "form": "8-K",
@@ -2604,49 +2640,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1751783/000175178326000029/rbkb-20260717x8k.htm",
     "date": "2026-07-17 14:13"
-  },
-  {
-    "company": "Tofla Megaline Inc.",
-    "cik": "1885849",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un membre du conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1885849/000173112226000955/e7789_8k.htm",
-    "date": "2026-07-17 14:06"
-  },
-  {
-    "company": "WAFD INC",
-    "cik": "936528",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "WAFD INC annonce des resultats trimestriels solides avec une augmentation de 15% des benefices par action",
-    "activite": "banque",
-    "chiffres": {
-      "revenu": "$181 million",
-      "benefice": "$66 million",
-      "bpa": "$0.84",
-      "croissance": "15%",
-      "dividende": "$0.27"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/936528/000093652826000055/exhibit991_june2026earning.htm",
-    "date": "2026-07-17 13:03"
-  },
-  {
-    "company": "Optimus Healthcare Services, Inc.",
-    "cik": "1892025",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "L'entreprise Optimus Healthcare Services, Inc. met fin a ses activites",
-    "activite": "fourniture de services de soins de sante",
-    "chiffres": {
-      "dividende": "4,4 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1892025/000121390026079061/ea0295805-8k_optimus.htm",
-    "date": "2026-07-17 12:57"
   }
 ]
