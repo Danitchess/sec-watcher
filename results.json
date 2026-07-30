@@ -1,5 +1,41 @@
 [
   {
+    "company": "Cigna Group",
+    "cik": "1739940",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le depot SEC de Cigna Group est un rapport financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126030135/ef20078875_8k.htm",
+    "date": "2026-07-30 06:16"
+  },
+  {
+    "company": "Southern Cross Acquisition I Corp.",
+    "cik": "2116230",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Southern Cross Acquisition I Corp annonce la separation de ses unites",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2116230/000192998026000397/sxgc_8k.htm",
+    "date": "2026-07-30 06:15"
+  },
+  {
+    "company": "Amneal Pharmaceuticals, Inc.",
+    "cik": "1723128",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amneal Pharmaceuticals, Inc. publie son rapport financier pour le deuxieme trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1723128/000172312826000025/amrx-20260730.htm",
+    "date": "2026-07-30 06:15"
+  },
+  {
     "company": "SL Investment Fund II LLC",
     "cik": "2028686",
     "form": "8-K",
@@ -2612,41 +2648,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1892025/000121390026079061/ea0295805-8k_optimus.htm",
     "date": "2026-07-17 12:57"
-  },
-  {
-    "company": "BMO 2024-5C8 Mortgage Trust",
-    "cik": "2044614",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Document juridique relatif a la designation d'un serviteur special",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2044614/000188852426012555/bmo245c8_20-1.htm",
-    "date": "2026-07-17 12:48"
-  },
-  {
-    "company": "Londax Corp.",
-    "cik": "1985554",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Londax Corp annonce un changement de controle",
-    "activite": "Londax Corp est une societe dont les activites ne sont pas decrites dans le texte",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826005596/londax_8k.htm",
-    "date": "2026-07-17 11:27"
-  },
-  {
-    "company": "ENNIS, INC.",
-    "cik": "33002",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "L'entreprise Ennis, Inc. annonce les resultats de sa reunion annuelle des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/33002/000119312526307066/ebf-20260717.htm",
-    "date": "2026-07-17 10:37"
   }
 ]
