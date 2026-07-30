@@ -1,5 +1,46 @@
 [
   {
+    "company": "Lexaria Bioscience Corp.",
+    "cik": "1348362",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lexaria Bioscience Corp effectue un reverse stock split de 1 pour 15",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1348362/000164033426001258/lxrp_8k.htm",
+    "date": "2026-07-30 12:02"
+  },
+  {
+    "company": "PROVIDENT FINANCIAL SERVICES INC",
+    "cik": "1178970",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe PROVIDENT FINANCIAL SERVICES INC annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "Banque et services financiers",
+    "chiffres": {
+      "revenu": "$235 million",
+      "benefice": "$0.61 Core Diluted EPS",
+      "bpa": "1.27% Core ROAA",
+      "croissance": "9.93% pour les prets commerciaux"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1178970/000162828026050919/investorroadshowpresenta.htm",
+    "date": "2026-07-30 11:51"
+  },
+  {
+    "company": "AAON, INC.",
+    "cik": "824142",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AAON, INC. annonce des changements dans son conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/824142/000082414226000048/aaon-20260728.htm",
+    "date": "2026-07-30 11:47"
+  },
+  {
     "company": "Stewards, Inc.",
     "cik": "1795851",
     "form": "8-K",
@@ -2604,43 +2645,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1015155/000110465926084692/tm2620775d1_8k.htm",
     "date": "2026-07-17 17:09"
-  },
-  {
-    "company": "Jet.AI Inc.",
-    "cik": "1861622",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Jet.AI Inc. accorde une attribution d'actions restreintes",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1861622/000149315226033784/ex10-1.htm",
-    "date": "2026-07-17 17:07"
-  },
-  {
-    "company": "Invesco Real Estate Income Trust Inc.",
-    "cik": "1756761",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Invesco Real Estate Income Trust Inc. publie son rapport financier pour le 30 juin 2026",
-    "activite": "Investissements immobiliers et prêts hypothécaires",
-    "chiffres": {
-      "dividende": "33,3 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1756761/000175676126000104/inreit-20260630.htm",
-    "date": "2026-07-17 15:58"
-  },
-  {
-    "company": "Fuse Science, Inc.",
-    "cik": "842722",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Fuse Science, Inc. est sous administration judiciaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/842722/000168316826005603/fuse_8k.htm",
-    "date": "2026-07-17 15:57"
   }
 ]
