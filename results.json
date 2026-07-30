@@ -1,5 +1,45 @@
 [
   {
+    "company": "Bridgecrest Lending Auto Securitization Trust 2026-3",
+    "cik": "2138886",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Bridgecrest Lending Auto Securitization Trust 2026-3 a emis des notes pour financer des contrats de vente de vehicules",
+    "activite": "emission de notes pour financer des contrats de vente de vehicules",
+    "chiffres": {
+      "dividende": "62,170,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2138886/000110465926088625/tm2620097d14_8k.htm",
+    "date": "2026-07-30 14:49"
+  },
+  {
+    "company": "Bridgecrest Auto Funding LLC",
+    "cik": "1974820",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Bridgecrest Auto Funding LLC a conclu un accord de vente avec Bridgecrest Acceptance Corporation",
+    "activite": "Bridgecrest Auto Funding LLC est impliquee dans le financement automobile",
+    "chiffres": {
+      "dividende": "62,170,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926088625/tm2620097d14_8k.htm",
+    "date": "2026-07-30 14:49"
+  },
+  {
+    "company": "Woodbridge Liquidation Trust",
+    "cik": "1785494",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le Woodbridge Liquidation Trust prolonge sa date de termination",
+    "activite": "gestion de liquidation",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1785494/000114036126030226/ef20079092_8k.htm",
+    "date": "2026-07-30 14:44"
+  },
+  {
     "company": "AIRWA INC.",
     "cik": "1674440",
     "form": "8-K",
@@ -2607,45 +2647,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926084860/tm2620782d1_8k.htm",
     "date": "2026-07-20 07:12"
-  },
-  {
-    "company": "IREN Ltd",
-    "cik": "1878848",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "IREN Ltd publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_8k.htm",
-    "date": "2026-07-20 07:12"
-  },
-  {
-    "company": "PEDEVCO CORP",
-    "cik": "1141197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un dirigeant et accord de separation",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$80,885"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426006724/ped_8k.htm",
-    "date": "2026-07-17 17:30"
-  },
-  {
-    "company": "SOBR Safe, Inc.",
-    "cik": "1425627",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "SOBR Safe, Inc. a conclu un accord de warrant avec des actionnaires",
-    "activite": "",
-    "chiffres": {
-      "revenu": "3,1 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226004383/sobr_8k.htm",
-    "date": "2026-07-17 17:29"
   }
 ]
