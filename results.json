@@ -1,5 +1,45 @@
 [
   {
+    "company": "AIRWA INC.",
+    "cik": "1674440",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "AiRWA Inc. annonce l'acquisition de Best Life",
+    "activite": "fourniture de services d'intelligence artificielle et de solutions de finance numerique",
+    "chiffres": {
+      "dividende": "30 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1674440/000149315226035417/ex99-1.htm",
+    "date": "2026-07-30 13:53"
+  },
+  {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "375,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000140/fhlba-20260727.htm",
+    "date": "2026-07-30 13:45"
+  },
+  {
+    "company": "Gouverneur Bancorp, Inc./MD/",
+    "cik": "1978811",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Gouverneur Bancorp, Inc. publie son rapport financier pour les trois et neuf mois clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1978811/000197881126000008/tmb-20260729x8k.htm",
+    "date": "2026-07-30 13:28"
+  },
+  {
     "company": "Lexaria Bioscience Corp.",
     "cik": "1348362",
     "form": "8-K",
@@ -2607,43 +2647,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226004383/sobr_8k.htm",
     "date": "2026-07-17 17:29"
-  },
-  {
-    "company": "Exodus Movement, Inc.",
-    "cik": "1821534",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Exodus Movement, Inc. annonce un plan de restructuration avec des licenciements",
-    "activite": "Exodus Movement, Inc. est une entreprise de services financiers, notamment dans le domaine des paiements",
-    "chiffres": {
-      "dividende": "2,5 M$ à 3,5 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/d63529d8k.htm",
-    "date": "2026-07-17 17:26"
-  },
-  {
-    "company": "Citigroup Commercial Mortgage Trust 2026-MFAM1",
-    "cik": "2143199",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Certification du depositaire pour une emission de titres adosses a des actifs",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2143199/000153949726001974/exh36_1-cert.htm",
-    "date": "2026-07-17 17:12"
-  },
-  {
-    "company": "CHARLES &amp; COLVARD LTD",
-    "cik": "1015155",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Charles & Colvard, Ltd. est en procedure de faillite",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1015155/000110465926084692/tm2620775d1_8k.htm",
-    "date": "2026-07-17 17:09"
   }
 ]
