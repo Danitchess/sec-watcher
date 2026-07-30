@@ -1,5 +1,45 @@
 [
   {
+    "company": "COASTAL FINANCIAL CORP",
+    "cik": "1437958",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Modification des statuts de Coastal Financial Corporation",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1437958/000143795826000056/ccb-amendedbylawsfor8xk.htm",
+    "date": "2026-07-30 16:39"
+  },
+  {
+    "company": "Antares Private Credit Fund",
+    "cik": "1976336",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Antares Private Credit Fund declare une distribution reguliere",
+    "activite": "offre publique continue de parts sociales",
+    "chiffres": {
+      "dividende": "$0.1880 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1976336/000119312526326279/ck0001976336-20260728.htm",
+    "date": "2026-07-30 16:39"
+  },
+  {
+    "company": "Atlantic Union Bankshares Corp",
+    "cik": "883948",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Atlantic Union Bankshares Corp. a complete une offre publique de 250 millions de dollars",
+    "activite": "banque",
+    "chiffres": {
+      "dividende": "6,25%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/883948/000110465926088743/tm2621600d1_8k.htm",
+    "date": "2026-07-30 16:37"
+  },
+  {
     "company": "Bridgecrest Lending Auto Securitization Trust 2026-3",
     "cik": "2138886",
     "form": "8-K",
@@ -2605,47 +2645,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/750577/000119312526308486/d63138d8k.htm",
     "date": "2026-07-20 09:17"
-  },
-  {
-    "company": "Tempus AI, Inc.",
-    "cik": "1717115",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Tempus AI annonce une fusion avec Personalis",
-    "activite": "developpement de tests et de donnees de sante",
-    "chiffres": {
-      "dividende": "46.00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526308469/d124162d8k.htm",
-    "date": "2026-07-20 09:03"
-  },
-  {
-    "company": "Armata Pharmaceuticals, Inc.",
-    "cik": "921114",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Armata Pharmaceuticals annonce des progrès cliniques et réglementaires pour son produit AP-SA02",
-    "activite": "développement de produits pharmaceutiques",
-    "chiffres": {
-      "dividende": "2,5 millions $, 28,7 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926084861/tm2620782d2_8k.htm",
-    "date": "2026-07-20 07:13"
-  },
-  {
-    "company": "Armata Pharmaceuticals, Inc.",
-    "cik": "921114",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "371,315 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926084860/tm2620782d1_8k.htm",
-    "date": "2026-07-20 07:12"
   }
 ]
