@@ -1,5 +1,43 @@
 [
   {
+    "company": "ERP OPERATING LTD PARTNERSHIP",
+    "cik": "931182",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de la societe ERP OPERATING LTD PARTNERSHIP",
+    "activite": "Equity Residential est une societe de placement immobilier",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/931182/000119312526328612/eqr-20260731.htm",
+    "date": "2026-07-31 16:15"
+  },
+  {
+    "company": "EQUITY RESIDENTIAL",
+    "cik": "906107",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Equity Residential publie un rapport sur une fusion avec AvalonBay",
+    "activite": "investissements immobiliers",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526328612/eqr-20260731.htm",
+    "date": "2026-07-31 16:15"
+  },
+  {
+    "company": "Bleichroeder Acquisition Corp. III",
+    "cik": "2128045",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Bleichroeder Acquisition Corp. III annonce la separation des actions et des warrants",
+    "activite": "",
+    "chiffres": {
+      "dividende": "11,50 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2128045/000121390026083983/ea0299957-8k_bleichroeder3.htm",
+    "date": "2026-07-31 16:15"
+  },
+  {
     "company": "SB FINANCIAL GROUP, INC.",
     "cik": "767405",
     "form": "8-K",
@@ -2611,41 +2649,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1566044/000110465926085235/tm2620874d1_8k.htm",
     "date": "2026-07-21 08:14"
-  },
-  {
-    "company": "Jerash Holdings (US), Inc.",
-    "cik": "1696558",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement dans la direction de Jerash Holdings",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1696558/000121390026079813/ea0298594-8k_jerash.htm",
-    "date": "2026-07-21 08:05"
-  },
-  {
-    "company": "3M CO",
-    "cik": "66740",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "3M Company publie son rapport financier du deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000242/mmm-20260721.htm",
-    "date": "2026-07-21 06:34"
-  },
-  {
-    "company": "EQUIFAX INC",
-    "cik": "33185",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Equifax Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000024/efx-20260721.htm",
-    "date": "2026-07-21 06:32"
   }
 ]
