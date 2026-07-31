@@ -1,5 +1,43 @@
 [
   {
+    "company": "SB FINANCIAL GROUP, INC.",
+    "cik": "767405",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/767405/000121390026083848/ea0300050-8k_sbfinancial.htm",
+    "date": "2026-07-31 14:41"
+  },
+  {
+    "company": "Greater Cannabis Company, Inc.",
+    "cik": "1695473",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1695473/000149315226035596/ex3-1.htm",
+    "date": "2026-07-31 14:18"
+  },
+  {
+    "company": "EQT Exeter Real Estate Income Trust, Inc.",
+    "cik": "1946997",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EQT Exeter Real Estate Income Trust, Inc. publie un rapport 8-K",
+    "activite": "gestion de placements immobiliers",
+    "chiffres": {
+      "dividende": "0,04326 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526328039/ck0001946997-20260731.htm",
+    "date": "2026-07-31 13:51"
+  },
+  {
     "company": "Interactive Brokers Group, Inc.",
     "cik": "1381197",
     "form": "8-K",
@@ -2609,51 +2647,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000024/efx-20260721.htm",
     "date": "2026-07-21 06:32"
-  },
-  {
-    "company": "HASBRO, INC.",
-    "cik": "46080",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Hasbro annonce des résultats financiers records pour le deuxième trimestre 2026",
-    "activite": "Hasbro est une entreprise de jeux, de propriété intellectuelle et de jouets",
-    "chiffres": {
-      "revenu": "500 million $",
-      "benefice": "253 million $",
-      "bpa": "1,12 $",
-      "croissance": "16%",
-      "dividende": "0,70 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/46080/000004608026000044/exhibit991q22026.htm",
-    "date": "2026-07-21 06:31"
-  },
-  {
-    "company": "Research Alliance Corp IV",
-    "cik": "2137777",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Research Alliance Corp IV annonce la cloture de son offre publique initiale",
-    "activite": "",
-    "chiffres": {
-      "dividende": "75,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2137777/000119312526309108/d16272d8k.htm",
-    "date": "2026-07-20 17:30"
-  },
-  {
-    "company": "NEOGENOMICS INC",
-    "cik": "1077183",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "NeoGenomics annonce un reglement amiable avec le DOJ",
-    "activite": "fournisseur de solutions de diagnostic oncologique",
-    "chiffres": {
-      "dividende": "9,813,260$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1077183/000107718326000045/a2026-07x20pressrelease.htm",
-    "date": "2026-07-20 17:27"
   }
 ]
