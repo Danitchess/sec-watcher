@@ -1,5 +1,45 @@
 [
   {
+    "company": "LOUISIANA-PACIFIC CORP",
+    "cik": "60519",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Louisiana-Pacific Corporation annonce un dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,30 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/60519/000006051926000030/lpx-20260731.htm",
+    "date": "2026-07-31 11:00"
+  },
+  {
+    "company": "TIAA REAL ESTATE ACCOUNT",
+    "cik": "946155",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de TIAA Real Estate Account",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000088/tiaareal-20260731.htm",
+    "date": "2026-07-31 10:56"
+  },
+  {
+    "company": "Principal Credit Real Estate Income Trust",
+    "cik": "2026448",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe declare des distributions pour ses actionnaires",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,1700 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2026448/000162828026051290/pcrei-20260731.htm",
+    "date": "2026-07-31 10:44"
+  },
+  {
     "company": "NOMAD POWER SOLUTIONS, INC.",
     "cik": "1335105",
     "form": "8-K",
@@ -2612,41 +2652,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1829635/000110465926085073/tm2620898d1_8k.htm",
     "date": "2026-07-20 16:15"
-  },
-  {
-    "company": "Solventum Corp",
-    "cik": "1964738",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau vice-president",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000038/solv-20260716.htm",
-    "date": "2026-07-20 16:15"
-  },
-  {
-    "company": "Laser Photonics Corp",
-    "cik": "1807887",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "L'entreprise propose une offre d'inducement pour exercer des warrants de serie A-5 et A-6",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226033889/ex10-1.htm",
-    "date": "2026-07-20 14:33"
-  },
-  {
-    "company": "SATIVUS TECH CORP.",
-    "cik": "1661600",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement d'auditeur independant",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1661600/000168316826005652/sativus_8k.htm",
-    "date": "2026-07-20 14:16"
   }
 ]
