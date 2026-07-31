@@ -1,5 +1,43 @@
 [
   {
+    "company": "NOMAD POWER SOLUTIONS, INC.",
+    "cik": "1335105",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NOMAD Power Solutions annonce le debut du trading d'options sur le Cboe Options Exchange",
+    "activite": "developpe des systemes de stockage d'energie electrique transportables et de grade utilitaire",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226035561/ex99-1.htm",
+    "date": "2026-07-31 09:10"
+  },
+  {
+    "company": "FIRST BUSEY CORP /NV/",
+    "cik": "314489",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/314489/000031448926000052/buse-20260729.htm",
+    "date": "2026-07-31 09:00"
+  },
+  {
+    "company": "SkyWater Technology, Inc",
+    "cik": "1819974",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "SkyWater Technology, Inc. annonce la completion de la fusion avec IonQ, Inc.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "15,00 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1819974/000119312526327137/d49031d8k.htm",
+    "date": "2026-07-31 09:00"
+  },
+  {
     "company": "INOVIO PHARMACEUTICALS, INC.",
     "cik": "1055726",
     "form": "8-K",
@@ -2610,43 +2648,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1661600/000168316826005652/sativus_8k.htm",
     "date": "2026-07-20 14:16"
-  },
-  {
-    "company": "FIVE STAR BANCORP",
-    "cik": "1275168",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Five Star Bancorp declare un dividende trimestriel en espèces",
-    "activite": "exploite une filiale bancaire en Californie",
-    "chiffres": {
-      "dividende": "$0.25 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026048805/exhibit991-q22026dividenda.htm",
-    "date": "2026-07-20 14:06"
-  },
-  {
-    "company": "SLM Student Loan Trust 2006-7",
-    "cik": "1370218",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "SLM Student Loan Trust 2006-7 annonce des intentions d'achat et de vente de notes",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1370218/000114036126028922/ef20078277_8k.htm",
-    "date": "2026-07-20 12:23"
-  },
-  {
-    "company": "Kingfish Holding Corp",
-    "cik": "1374881",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de direction chez Kingfish Holding Corp",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1374881/000147793226004386/king_8k.htm",
-    "date": "2026-07-20 11:57"
   }
 ]
