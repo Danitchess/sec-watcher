@@ -1,5 +1,46 @@
 [
   {
+    "company": "Interactive Brokers Group, Inc.",
+    "cik": "1381197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Interactive Brokers Group, Inc. depose un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000135/ibkr-20260731.htm",
+    "date": "2026-07-31 13:14"
+  },
+  {
+    "company": "Interactive Brokers Group, Inc.",
+    "cik": "1381197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Interactive Brokers Group, Inc. depose un rapport 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000130/ibkr-20260731.htm",
+    "date": "2026-07-31 13:02"
+  },
+  {
+    "company": "TEREX CORP",
+    "cik": "97216",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de REV Group, Inc. pour le premier trimestre 2026",
+    "activite": "fabrication et vente de vehicules speciaux",
+    "chiffres": {
+      "revenu": "552,1 M$",
+      "benefice": "13,3 M$",
+      "bpa": "0,27 $",
+      "dividende": "0,06 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/97216/000009721626000124/exhibit991-revgroupq12026x.htm",
+    "date": "2026-07-31 13:01"
+  },
+  {
     "company": "LOUISIANA-PACIFIC CORP",
     "cik": "60519",
     "form": "8-K",
@@ -2614,43 +2655,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1077183/000107718326000045/a2026-07x20pressrelease.htm",
     "date": "2026-07-20 17:27"
-  },
-  {
-    "company": "Personalis, Inc.",
-    "cik": "1527753",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Personalis, Inc. annonce une fusion avec Tempus AI, Inc.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "16,25 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526309101/d64399d8k.htm",
-    "date": "2026-07-20 17:26"
-  },
-  {
-    "company": "AST SpaceMobile, Inc.",
-    "cik": "1780312",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AST SpaceMobile conclut une transaction financiere",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226033912/ex10-1.htm",
-    "date": "2026-07-20 16:15"
-  },
-  {
-    "company": "Transcode Therapeutics, Inc.",
-    "cik": "1829635",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "TransCode Therapeutics, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1829635/000110465926085073/tm2620898d1_8k.htm",
-    "date": "2026-07-20 16:15"
   }
 ]
