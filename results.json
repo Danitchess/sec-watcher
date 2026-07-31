@@ -1,5 +1,47 @@
 [
   {
+    "company": "INOVIO PHARMACEUTICALS, INC.",
+    "cik": "1055726",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Inovio Pharmaceuticals, Inc. annonce une offre publique de 21 millions d'actions et de warrants",
+    "activite": "developpement de produits pharmaceutiques",
+    "chiffres": {
+      "dividende": "18,3 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526326785/d253972d8k.htm",
+    "date": "2026-07-31 07:23"
+  },
+  {
+    "company": "TENAX THERAPEUTICS, INC.",
+    "cik": "34956",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Tenax Therapeutics, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/34956/000119312526326784/d90330d8k.htm",
+    "date": "2026-07-31 07:23"
+  },
+  {
+    "company": "TXNM ENERGY INC",
+    "cik": "1108426",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "TXNM Energy annonce des résultats positifs pour le deuxième trimestre 2026",
+    "activite": "fourniture d'énergie à plus de 800 000 foyers et entreprises au Texas et au Nouveau-Mexique",
+    "chiffres": {
+      "benefice": "71,3 M$",
+      "bpa": "0,64 $",
+      "dividende": "61,25 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000046/ex99107312026earningsrelea.htm",
+    "date": "2026-07-31 07:13"
+  },
+  {
     "company": "Glucotrack, Inc.",
     "cik": "1506983",
     "form": "8-K",
@@ -2606,46 +2648,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1374881/000147793226004386/king_8k.htm",
     "date": "2026-07-20 11:57"
-  },
-  {
-    "company": "MUNCY COLUMBIA FINANCIAL Corp",
-    "cik": "731122",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Muncy Columbia Financial Corp annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
-    "activite": "banque et services financiers",
-    "chiffres": {
-      "revenu": "46,300",
-      "benefice": "14,311,000",
-      "bpa": "1.35",
-      "dividende": "0.155"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/731122/000117494726000694/ex99-1.htm",
-    "date": "2026-07-20 11:36"
-  },
-  {
-    "company": "BASIN ELECTRIC POWER COOPERATIVE",
-    "cik": "720515",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Basin Electric Power Cooperative adopte un plan d'incitation a court terme pour ses dirigeants",
-    "activite": "fourniture d'electricite",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/720515/000072051526000010/basin-20260715.htm",
-    "date": "2026-07-20 10:25"
-  },
-  {
-    "company": "PEOPLES BANCORP OF NORTH CAROLINA INC",
-    "cik": "1093672",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Peoples Bancorp of North Carolina Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495426006729/pebk_8k.htm",
-    "date": "2026-07-20 09:30"
   }
 ]
