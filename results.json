@@ -1,5 +1,43 @@
 [
   {
+    "company": "Marpai, Inc.",
+    "cik": "1844392",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Marpai, Inc. annonce une placement prive de 12 millions de dollars",
+    "activite": "Marpai, Inc. est une societe qui emet des actions et des obligations",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1844392/000121390026084129/ea0300139-8k_marpai.htm",
+    "date": "2026-07-31 17:29"
+  },
+  {
+    "company": "Calisa Acquisition Corp",
+    "cik": "2026767",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de la societe Calisa Acquisition Corp",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2026767/000149315226035685/ex99-1.htm",
+    "date": "2026-07-31 17:28"
+  },
+  {
+    "company": "ChargePoint Holdings, Inc.",
+    "cik": "1777393",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "ChargePoint Holdings, Inc. annonce une reorganisation avec une reduction de 10% de son effectif",
+    "activite": "ChargePoint Holdings, Inc. est une entreprise qui propose des solutions de recharge pour vehicules electriques",
+    "chiffres": {
+      "revenu": "$100 million a $110 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739326000057/chpt-20260728.htm",
+    "date": "2026-07-31 17:28"
+  },
+  {
     "company": "ERP OPERATING LTD PARTNERSHIP",
     "cik": "931182",
     "form": "8-K",
@@ -2611,43 +2649,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826005670/ipower_8k.htm",
     "date": "2026-07-21 10:30"
-  },
-  {
-    "company": "Federal Home Loan Bank of Topeka",
-    "cik": "1325878",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Topeka",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "500,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000141/fhlbt-20260715.htm",
-    "date": "2026-07-21 10:27"
-  },
-  {
-    "company": "Utz Brands, Inc.",
-    "cik": "1739566",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Utz Brands, Inc. annonce un accord de fusion avec Intersnack Group GmbH & Co. KG",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526309592/d157266d8k.htm",
-    "date": "2026-07-21 08:16"
-  },
-  {
-    "company": "VYNE Therapeutics Inc.",
-    "cik": "1566044",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "VYNE Therapeutics Inc. annonce un regroupement d'actions et fournit une mise a jour sur le dividende special",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1566044/000110465926085235/tm2620874d1_8k.htm",
-    "date": "2026-07-21 08:14"
   }
 ]
