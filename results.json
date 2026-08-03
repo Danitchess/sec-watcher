@@ -1,5 +1,45 @@
 [
   {
+    "company": "Hestia Insight Inc.",
+    "cik": "1813603",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hestia Insight Inc. annonce la cession de sa filiale Hestia Investments Inc.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "20% des benefices nets de la filiale pendant 24 mois"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1813603/000168316826005916/hestia_8k.htm",
+    "date": "2026-08-03 15:00"
+  },
+  {
+    "company": "PUBLIX SUPER MARKETS INC",
+    "cik": "81061",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Publix Super Markets Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/81061/000008106126000088/ck0000081061-20260803.htm",
+    "date": "2026-08-03 14:16"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "cik": "1692951",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cottonwood Communities, Inc. effectue une offre privée de ses actions préférées",
+    "activite": "",
+    "chiffres": {
+      "revenu": "$1,728,950"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000134/cci-20260728.htm",
+    "date": "2026-08-03 14:11"
+  },
+  {
     "company": "Allegiant Travel CO",
     "cik": "1362468",
     "form": "8-K",
@@ -2591,43 +2631,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000112/fhlbdm-20260715.htm",
     "date": "2026-07-21 14:30"
-  },
-  {
-    "company": "Picard Medical, Inc.",
-    "cik": "2030617",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires de Picard Medical, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2030617/000143774926023932/pmi20260720_8k.htm",
-    "date": "2026-07-21 14:01"
-  },
-  {
-    "company": "ASCENT INDUSTRIES CO.",
-    "cik": "95953",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ascent Industries Co. annonce une modification de son credit facility",
-    "activite": "Ascent Industries Co. a acquis Midwest Graphic Sales, Inc. et Sigma Coatings, Inc.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/95953/000009595326000105/acnt-20260717.htm",
-    "date": "2026-07-21 13:40"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations financieres",
-    "activite": "La societe obtient la plupart de ses fonds par la vente de titres de dette",
-    "chiffres": {
-      "dividende": "200,000,000 $, 250,000,000 $, 300,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000139/fhlbbost-20260715.htm",
-    "date": "2026-07-21 13:36"
   }
 ]
