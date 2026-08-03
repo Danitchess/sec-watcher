@@ -1,5 +1,43 @@
 [
   {
+    "company": "Autolus Therapeutics plc",
+    "cik": "1730463",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Autolus Therapeutics plc annonce une augmentation de ses prévisions de revenu pour 2026",
+    "activite": "développement de traitements contre le cancer et les maladies auto-immunes",
+    "chiffres": {
+      "revenu": "140-150 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm",
+    "date": "2026-08-03 08:11"
+  },
+  {
+    "company": "Cohen &amp; Co Inc.",
+    "cik": "1270436",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cohen & Co Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1270436/000110465926089490/tm2621624d1_8k.htm",
+    "date": "2026-08-03 08:08"
+  },
+  {
+    "company": "Design Therapeutics, Inc.",
+    "cik": "1807120",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Design Therapeutics, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1807120/000119312526329570/dsgn-20260803.htm",
+    "date": "2026-08-03 08:03"
+  },
+  {
     "company": "Marpai, Inc.",
     "cik": "1844392",
     "form": "8-K",
@@ -2602,52 +2640,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1406587/000162828026048958/a6302026exhibit991.htm",
     "date": "2026-07-21 12:00"
-  },
-  {
-    "company": "HORTON D R INC /DE/",
-    "cik": "882184",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "D.R. Horton publie ses résultats financiers pour le troisième trimestre de l'année fiscale 2026",
-    "activite": "construction et vente de maisons",
-    "chiffres": {
-      "revenu": "9,2 milliards $",
-      "benefice": "904,9 millions $",
-      "bpa": "3,20 $",
-      "dividende": "0,45 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000092/a6302026exhibit991.htm",
-    "date": "2026-07-21 11:54"
-  },
-  {
-    "company": "Stepstone Private Credit Fund LLC",
-    "cik": "1950803",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Stepstone Private Credit Fund LLC annonce des ventes d'actions non enregistrees et des distributions aux actionnaires",
-    "activite": "vente d'actions non enregistrees et gestion de portefeuille d'investissement",
-    "chiffres": {
-      "revenu": "211,6 millions $",
-      "bpa": "0,51 $",
-      "dividende": "0,54 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526309763/d100336d8k.htm",
-    "date": "2026-07-21 10:30"
-  },
-  {
-    "company": "iPower Inc.",
-    "cik": "1830072",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "iPower Inc. publie un rapport 8-K sur la creation de nouvelles filiales",
-    "activite": "creation de filiales pour separer les activites e-commerce et intelligence artificielle",
-    "chiffres": {
-      "dividende": "30,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826005670/ipower_8k.htm",
-    "date": "2026-07-21 10:30"
   }
 ]
