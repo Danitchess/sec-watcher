@@ -1,5 +1,47 @@
 [
   {
+    "company": "Eikon Therapeutics, Inc.",
+    "cik": "1861123",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Deux membres du conseil d'administration ont demissionne",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1861123/000119312526330710/eikn-20260731.htm",
+    "date": "2026-08-03 16:39"
+  },
+  {
+    "company": "CABOT CORP",
+    "cik": "16040",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cabot Corporation publie son rapport financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/16040/000119312526330708/cbt-20260803.htm",
+    "date": "2026-08-03 16:39"
+  },
+  {
+    "company": "TEREX CORP",
+    "cik": "97216",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Terex Corp annonce des resultats solides pour le deuxieme trimestre 2026",
+    "activite": "fabrication de materiel de construction et de vehicules speciaux",
+    "chiffres": {
+      "revenu": "$2,2 milliards (+8,5%)",
+      "benefice": "$269 millions (+10,7%)",
+      "bpa": "$1,37",
+      "croissance": "25% des commandes",
+      "dividende": "$20 millions"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/97216/000009721626000130/aexh99_120260730q2prepared.htm",
+    "date": "2026-08-03 16:38"
+  },
+  {
     "company": "Hestia Insight Inc.",
     "cik": "1813603",
     "form": "8-K",
@@ -2593,43 +2635,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1530249/000143774926023959/ex_963242.htm",
     "date": "2026-07-21 16:39"
-  },
-  {
-    "company": "Ares Core Infrastructure Fund",
-    "cik": "2031750",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ares Core Infrastructure Fund annonce la vente de parts pour 1,120,6 million de dollars",
-    "activite": "investissement dans des infrastructures",
-    "chiffres": {
-      "dividende": "0,20830 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2031750/000203175026000058/aci-20260721.htm",
-    "date": "2026-07-21 16:38"
-  },
-  {
-    "company": "SAN JUAN BASIN ROYALTY TRUST",
-    "cik": "319655",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "San Juan Basin Royalty Trust n'a pas declare de distribution mensuelle en liquide pour juillet",
-    "activite": "exploitation de gaz naturel",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/319655/000119312526310097/july_2026_8-k.htm",
-    "date": "2026-07-21 14:51"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000112/fhlbdm-20260715.htm",
-    "date": "2026-07-21 14:30"
   }
 ]
