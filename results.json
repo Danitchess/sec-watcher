@@ -1,5 +1,45 @@
 [
   {
+    "company": "INTERNATIONAL BANCSHARES CORP",
+    "cik": "315709",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "International Bancshares Corporation annonce un dividende en espèces",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/315709/000110465926089623/tm2621694d1_8k.htm",
+    "date": "2026-08-03 11:19"
+  },
+  {
+    "company": "Kennedy Lewis Capital Co",
+    "cik": "1911321",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kennedy Lewis Capital Company publie son rapport financier",
+    "activite": "",
+    "chiffres": {
+      "dividende": "NAV par action : 19,95 $ (Class I), 19,92 $ (Class S), 19,95 $ (Class D), Valeur totale des actifs nets : 749 877 765 $, Valeur totale du portefeuille d'investissement : 1 110 922 006 $, Total consideration de l'offre : 667 220 576 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000025/ck0001911321-20260728.htm",
+    "date": "2026-08-03 10:55"
+  },
+  {
+    "company": "Bandwidth Inc.",
+    "cik": "1514416",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Bandwidth Inc. a rachete une partie de ses obligations convertibles",
+    "activite": "",
+    "chiffres": {
+      "dividende": "20,8 M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1514416/000151441626000060/band-20260803.htm",
+    "date": "2026-08-03 10:31"
+  },
+  {
     "company": "Autolus Therapeutics plc",
     "cik": "1730463",
     "form": "8-K",
@@ -2591,54 +2631,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526309857/2026-07_permrock_8-k.htm",
     "date": "2026-07-21 12:19"
-  },
-  {
-    "company": "Starco Brands, Inc.",
-    "cik": "1539850",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Starco Brands, Inc. conclut un accord de pret de 11 millions de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "11,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1539850/000149315226034038/ex10-1.htm",
-    "date": "2026-07-21 12:19"
-  },
-  {
-    "company": "MUELLER INDUSTRIES INC",
-    "cik": "89439",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Mueller Industries annonce des resultats positifs pour le deuxieme trimestre 2026",
-    "activite": "Mueller Industries est une societe industrielle dont les filiales fabriquent des biens essentiels pour des marches importants tels que la distribution d'air, d'eau, de gaz et d'huile, le confort climatique, la preservation des aliments, la transmission electrique, les soins medicaux, l'aerospatiale et l'automobile",
-    "chiffres": {
-      "revenu": "$1,43 milliard",
-      "benefice": "$249,7 millions",
-      "bpa": "$1,13",
-      "croissance": "15,7%",
-      "dividende": "$0,175"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000029/exhibit991q22026earningsre.htm",
-    "date": "2026-07-21 12:09"
-  },
-  {
-    "company": "Forestar Group Inc.",
-    "cik": "1406587",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Forestar Group Inc. annonce des resultats financiers solides pour le troisieme trimestre de l'annee fiscale 2026",
-    "activite": "developpement de terrains residentiels",
-    "chiffres": {
-      "revenu": "$407,0 millions (+4%)",
-      "benefice": "$35,9 millions (+9%)",
-      "bpa": "$0,70",
-      "croissance": "$2,3 milliards de chiffre d'affaires futur"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1406587/000162828026048958/a6302026exhibit991.htm",
-    "date": "2026-07-21 12:00"
   }
 ]
