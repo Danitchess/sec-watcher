@@ -1,5 +1,47 @@
 [
   {
+    "company": "AMERICAN REBEL HOLDINGS INC",
+    "cik": "1648087",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Rebel Holdings Inc. conclut un accord d'echange avec Horberg Enterprises, LP",
+    "activite": "",
+    "chiffres": {
+      "dividende": "51,000.00$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226035971/ex10-1.htm",
+    "date": "2026-08-04 14:22"
+  },
+  {
+    "company": "Columbus Acquisition Corp/Cayman Islands",
+    "cik": "2028201",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Columbus Acquisition Corp prolonge son delai pour une combinaison commerciale",
+    "activite": "La societe est une societe d'acquisition",
+    "chiffres": {
+      "dividende": "50 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2028201/000121390026085084/ea0300015-8k425_columbus.htm",
+    "date": "2026-08-04 14:05"
+  },
+  {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "500,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000143/fhlba-20260729.htm",
+    "date": "2026-08-04 14:01"
+  },
+  {
     "company": "Federal Home Loan Bank of Cincinnati",
     "cik": "1326771",
     "form": "8-K",
@@ -2593,45 +2635,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2141933/000110465926085709/tmb-20260722x8k.htm",
     "date": "2026-07-22 12:44"
-  },
-  {
-    "company": "John Deere Receivables LLC",
-    "cik": "1762590",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "John Deere Receivables LLC publie un rapport 8-K",
-    "activite": "emission d'obligations adossees a des actifs",
-    "chiffres": {
-      "dividende": "226,500,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1762590/000110465926085709/tmb-20260722x8k.htm",
-    "date": "2026-07-22 12:44"
-  },
-  {
-    "company": "JUNIATA VALLEY FINANCIAL CORP",
-    "cik": "714712",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Juniata Valley Financial Corp. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/714712/000110465926085689/juvf-20260722x8k.htm",
-    "date": "2026-07-22 11:57"
-  },
-  {
-    "company": "WFRBS Commercial Mortgage Trust 2014-C20",
-    "cik": "1603578",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K pour WFRBS Commercial Mortgage Trust 2014-C20",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$2,851,173.01"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1603578/000188852426012891/wcm14c20_8k-07172026.htm",
-    "date": "2026-07-22 11:42"
   }
 ]
