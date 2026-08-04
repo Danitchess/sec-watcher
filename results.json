@@ -1,5 +1,45 @@
 [
   {
+    "company": "North Haven Net REIT",
+    "cik": "1999784",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "North Haven Net REIT declare des distributions pour ses actionnaires",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,1022 $ par action (Class S), 0,1142 $ par action (Class F-S), 0,1169 $ par action (Class I), 0,1290 $ par action (Class F-I), 0,1566 $ par action (Class E)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000056/ck0001999784-20260731.htm",
+    "date": "2026-08-04 10:22"
+  },
+  {
+    "company": "CONSUMERS ENERGY CO",
+    "cik": "201533",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par Consumers Energy Company",
+    "activite": "production et distribution d'energie",
+    "chiffres": {
+      "dividende": "450 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/201533/000110465926090132/tm2621538d4_8k.htm",
+    "date": "2026-08-04 10:02"
+  },
+  {
+    "company": "STEEL DYNAMICS INC",
+    "cik": "1022671",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de direction chez Steel Dynamics",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926090129/tm2622182d1_8k.htm",
+    "date": "2026-08-04 09:57"
+  },
+  {
     "company": "First Watch Restaurant Group, Inc.",
     "cik": "1789940",
     "form": "8-K",
@@ -2593,43 +2633,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1416090/000149315226034200/ex10-1.htm",
     "date": "2026-07-22 10:37"
-  },
-  {
-    "company": "Standard Nuclear, Inc.",
-    "cik": "2086716",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Standard Nuclear annonce des jalons importants dans la construction et l'approbation réglementaire de ses installations de production de combustible nucléaire",
-    "activite": "production de combustible nucléaire TRISO",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026049125/standardnuclearpr_licens.htm",
-    "date": "2026-07-22 09:40"
-  },
-  {
-    "company": "CID Holdco, Inc.",
-    "cik": "2033770",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "CID HoldCo, Inc. annonce un accord de vente de titres pour un montant de 6 millions de dollars",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2033770/000121390026080208/ea0298826-8k_cidhold.htm",
-    "date": "2026-07-22 08:47"
-  },
-  {
-    "company": "John Marshall Bancorp, Inc.",
-    "cik": "1710482",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "John Marshall Bancorp, Inc. declare un dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.10"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926085645/jmsb-20260721x8k.htm",
-    "date": "2026-07-22 08:45"
   }
 ]
