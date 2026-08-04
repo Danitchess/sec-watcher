@@ -1,5 +1,45 @@
 [
   {
+    "company": "Angi Inc.",
+    "cik": "1705110",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Angi Inc. publie son rapport financier trimestriel et annonce des changements dans son conseil d'administration",
+    "activite": "",
+    "chiffres": {
+      "dividende": "50 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1705110/000170511026000077/angi-20260804.htm",
+    "date": "2026-08-04 16:06"
+  },
+  {
+    "company": "Celanese Corp",
+    "cik": "1306830",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Celanese Corp modifie son accord de credit",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1306830/000110465926090359/tm2622089d1_8k.htm",
+    "date": "2026-08-04 16:05"
+  },
+  {
+    "company": "Midland States Bancorp, Inc.",
+    "cik": "1466026",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Midland States Bancorp, Inc. annonce des dividendes trimestriels",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,33 $ par action de common stock, 0,4844 $ par depository share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1466026/000110465926090358/tm2621309d1_8k.htm",
+    "date": "2026-08-04 16:05"
+  },
+  {
     "company": "AMERICAN REBEL HOLDINGS INC",
     "cik": "1648087",
     "form": "8-K",
@@ -2594,46 +2634,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1070524/000114036126029241/ef20078418_8k.htm",
     "date": "2026-07-22 14:38"
-  },
-  {
-    "company": "UWHARRIE CAPITAL CORP",
-    "cik": "898171",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Uwharrie Capital Corp annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {
-      "benefice": "7,1 million",
-      "bpa": "0,96"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/898171/000119312526311970/uwhr-20260722.htm",
-    "date": "2026-07-22 13:48"
-  },
-  {
-    "company": "Bank First Corp",
-    "cik": "1746109",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Bank First Corp",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1746109/000110465926085712/tm2621108d1_8ka.htm",
-    "date": "2026-07-22 12:54"
-  },
-  {
-    "company": "John Deere Owner Trust 2026-B",
-    "cik": "2141933",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "John Deere Owner Trust 2026-B emet des obligations adossees a des actifs",
-    "activite": "",
-    "chiffres": {
-      "dividende": "226,500,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2141933/000110465926085709/tmb-20260722x8k.htm",
-    "date": "2026-07-22 12:44"
   }
 ]
