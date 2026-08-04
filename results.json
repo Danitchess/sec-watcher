@@ -1,5 +1,43 @@
 [
   {
+    "company": "REVVITY, INC.",
+    "cik": "31791",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Revvity, Inc. annonce ses resultats financiers pour le deuxieme trimestre 2026",
+    "activite": "Revvity, Inc. est une societe qui opere dans le domaine des diagnostics immunologiques en Chine",
+    "chiffres": {
+      "dividende": "up to $200 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/31791/000003179126000022/pki-20260804.htm",
+    "date": "2026-08-04 06:20"
+  },
+  {
+    "company": "RESIDEO TECHNOLOGIES, INC.",
+    "cik": "1740332",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Resideo Technologies, Inc. annonce la separation de son activite ADI Global Distribution",
+    "activite": "Resideo Technologies, Inc. est une societe qui a separe son activite ADI Global Distribution",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1740332/000121390026084874/ea0300189-8k_resideo.htm",
+    "date": "2026-08-04 06:19"
+  },
+  {
+    "company": "American Strategic Investment Co.",
+    "cik": "1595527",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Strategic Investment Co. annonce la publication de ses resultats financiers du deuxieme trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926090004/tm2622137d1_8k.htm",
+    "date": "2026-08-04 06:15"
+  },
+  {
     "company": "Vivos Therapeutics, Inc.",
     "cik": "1716166",
     "form": "8-K",
@@ -2595,45 +2633,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000042/cme-20260722.htm",
     "date": "2026-07-22 07:15"
-  },
-  {
-    "company": "OLD NATIONAL BANCORP /IN/",
-    "cik": "707179",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Old National Bancorp publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/707179/000162828026049108/onb-20260722.htm",
-    "date": "2026-07-22 07:12"
-  },
-  {
-    "company": "Vivakor, Inc.",
-    "cik": "1450704",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vivakor, Inc. annonce des transactions financières et des opérations de vente d'actions",
-    "activite": "Vivakor, Inc. est impliquée dans des transactions financières et des opérations de vente d'actions, y compris des accords de prêt et des émissions d'actions",
-    "chiffres": {
-      "dividende": "12,0 millions $, 15 000 000 $, 3 000 000 $, 6 000 000 $, 100 000 000 $, 647 059 $, 550 000 $, 28 545 $, 33 000, 5 117 647,06 $, 4 350 000 $, 27 680 $, 32 000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007719/vivakorinc_8k.htm",
-    "date": "2026-07-21 17:28"
-  },
-  {
-    "company": "GRAY MEDIA, INC",
-    "cik": "43196",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Gray Media, Inc. a rachete des obligations senior securisees",
-    "activite": "edition de contenu mediatique",
-    "chiffres": {
-      "dividende": "100 millions $ et 20 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/43196/000143774926023973/gtn20260720_8k.htm",
-    "date": "2026-07-21 17:27"
   }
 ]
