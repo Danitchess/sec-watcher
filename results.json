@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Cincinnati",
+    "cik": "1326771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par la Federal Home Loan Bank of Cincinnati",
+    "activite": "La societe emet des obligations pour financer ses activites",
+    "chiffres": {
+      "dividende": "4.500 $, 5.500 $, 4.625 $, 6.000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000128/fhlbcin-20260729.htm",
+    "date": "2026-08-04 12:13"
+  },
+  {
+    "company": "AT&amp;T INC.",
+    "cik": "732717",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AT&T Inc. annonce la cloture de la vente de notes globales",
+    "activite": "emission d'obligations",
+    "chiffres": {
+      "dividende": "3.600% pour les notes globales dues en 2030, 4.150% pour les notes globales dues en 2034, 4.550% pour les notes globales dues en 2038, 5.050% pour les notes globales dues en 2045 et 7.050% pour les notes globales dues en 2052"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526332110/d112584d8k.htm",
+    "date": "2026-08-04 12:07"
+  },
+  {
+    "company": "JAB Acquisition Corp I",
+    "cik": "2128739",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "JAB Acquisition Corp I annonce la possibilité de séparer les titres composant ses unités",
+    "activite": "",
+    "chiffres": {
+      "dividende": "11,50 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2128739/000121390026085025/ea0300385-8k_jabacq1.htm",
+    "date": "2026-08-04 11:46"
+  },
+  {
     "company": "North Haven Net REIT",
     "cik": "1999784",
     "form": "8-K",
@@ -2591,47 +2633,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1603578/000188852426012891/wcm14c20_8k-07172026.htm",
     "date": "2026-07-22 11:42"
-  },
-  {
-    "company": "C2 Blockchain, Inc.",
-    "cik": "1882781",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "C2 Blockchain, Inc. annonce une vente d'actions",
-    "activite": "vente d'actions",
-    "chiffres": {
-      "revenu": "$30,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1882781/000188278126000043/form8k72226o.htm",
-    "date": "2026-07-22 11:23"
-  },
-  {
-    "company": "Stone Point Credit Income Fund",
-    "cik": "2031283",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Stone Point Credit Income Fund annonce une emission de 167749,797 actions",
-    "activite": "emission et vente d'actions",
-    "chiffres": {
-      "dividende": "4,130,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2031283/000110465926085672/tm2621027d1_8k.htm",
-    "date": "2026-07-22 10:41"
-  },
-  {
-    "company": "BLUSKY AI INC.",
-    "cik": "1416090",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de direction entre BluSky AI Inc. et Mort Aaronson",
-    "activite": "",
-    "chiffres": {
-      "dividende": "75 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1416090/000149315226034200/ex10-1.htm",
-    "date": "2026-07-22 10:37"
   }
 ]
