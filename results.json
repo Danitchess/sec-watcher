@@ -1,5 +1,41 @@
 [
   {
+    "company": "Uber Technologies, Inc",
+    "cik": "1543151",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Uber Technologies, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000027/uber-20260805.htm",
+    "date": "2026-08-05 06:56"
+  },
+  {
+    "company": "Flutter Entertainment plc",
+    "cik": "1635327",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de dirigeant chez Flutter Entertainment plc",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526333794/d167128d8k.htm",
+    "date": "2026-08-05 06:56"
+  },
+  {
+    "company": "Target Hospitality Corp.",
+    "cik": "1712189",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Target Hospitality Corp. nomme deux nouveaux administrateurs",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1712189/000110465926090700/tm2621747d1_8k.htm",
+    "date": "2026-08-05 06:55"
+  },
+  {
     "company": "Z Squared Inc.",
     "cik": "1759186",
     "form": "8-K",
@@ -2600,43 +2636,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003094/zsqr8k072126.htm",
     "date": "2026-07-22 17:30"
-  },
-  {
-    "company": "Jones Ventures INTL Acquisition1 Corp",
-    "cik": "2129056",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Jones Ventures INTL Acquisition1 Corp annonce la cloture de son offre publique initiale",
-    "activite": "entreprise de capital-investissement",
-    "chiffres": {
-      "revenu": "200,000,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2129056/000121390026080481/ea0298656-8k_jones1.htm",
-    "date": "2026-07-22 17:30"
-  },
-  {
-    "company": "CATHAY GENERAL BANCORP",
-    "cik": "861842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cathay General Bancorp annonce ses resultats financiers pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926024142/caty20260722_8k.htm",
-    "date": "2026-07-22 16:35"
-  },
-  {
-    "company": "GLOBE LIFE INC.",
-    "cik": "320335",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Globe Life Inc. publie son rapport financier du deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000203/gl-20260722.htm",
-    "date": "2026-07-22 16:34"
   }
 ]
