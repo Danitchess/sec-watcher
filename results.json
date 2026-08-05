@@ -1,5 +1,41 @@
 [
   {
+    "company": "SEKISUI HOUSE U.S., INC.",
+    "cik": "773141",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un directeur et nomination d'un nouveau",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/773141/000077314126000015/mdc-20260801.htm",
+    "date": "2026-08-05 12:52"
+  },
+  {
+    "company": "ONE STOP SYSTEMS, INC.",
+    "cik": "1394056",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "One Stop Systems, Inc. annonce la retraite de son VP de ventes et la signature d'un contrat de consulting",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1394056/000119312526334453/oss-20260731.htm",
+    "date": "2026-08-05 12:47"
+  },
+  {
+    "company": "Londax Corp.",
+    "cik": "1985554",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Londax Corp. annonce un changement de controle et de direction",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826005972/londax_8ka.htm",
+    "date": "2026-08-05 12:45"
+  },
+  {
     "company": "Essential Utilities, Inc.",
     "cik": "78128",
     "form": "8-K",
@@ -2601,45 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000131/fhlbc-20260720.htm",
     "date": "2026-07-23 11:44"
-  },
-  {
-    "company": "Nuveen Global Cities REIT, Inc.",
-    "cik": "1711799",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nuveen Global Cities REIT, Inc. declare des distributions pour chaque classe d'actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,06316609 $ par action pour la classe T, 0,06316609 $ par action pour la classe S, 0,06316609 $ par action pour la classe D, 0,06316609 $ par action pour la classe I, 0,06316609 $ par action pour la classe N"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000044/nuveen-20260723.htm",
-    "date": "2026-07-23 11:37"
-  },
-  {
-    "company": "POOL CORP",
-    "cik": "945841",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "POOL CORP publie son rapport financier du 2e trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/945841/000119312526313430/pool-20260723.htm",
-    "date": "2026-07-23 09:29"
-  },
-  {
-    "company": "PETMED EXPRESS INC",
-    "cik": "1040130",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Addendum au contrat commercial",
-    "activite": "",
-    "chiffres": {
-      "dividende": "100 000,00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1040130/000104013026000029/a420scongress-addendumof.htm",
-    "date": "2026-07-23 09:26"
   }
 ]
