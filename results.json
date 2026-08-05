@@ -1,5 +1,47 @@
 [
   {
+    "company": "SHF Holdings, Inc.",
+    "cik": "1854963",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe SHF Holdings, Inc. annonce la fin d'une periode de reduction temporaire de la conversion de ses actions preferentielles",
+    "activite": "Safe Harbor est une plateforme financiere exclusive pour l'industrie du cannabis, offrant des services de banque, de pret, de paiement et de conseil",
+    "chiffres": {
+      "dividende": "35 milliards $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226036225/ex99-1.htm",
+    "date": "2026-08-05 17:30"
+  },
+  {
+    "company": "Reliance Global Group, Inc.",
+    "cik": "1812727",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Reliance Global Group annonce la vente de sa filiale Altruis Benefit Consulting pour 11 millions de dollars en cash",
+    "activite": "entreprise d'assurance utilisant l'intelligence artificielle pour transformer l'industrie de l'assurance",
+    "chiffres": {
+      "dividende": "11 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226036223/ex99-1.htm",
+    "date": "2026-08-05 17:29"
+  },
+  {
+    "company": "APOGEE ENTERPRISES, INC.",
+    "cik": "6845",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Election de deux nouveaux directeurs",
+    "activite": "",
+    "chiffres": {
+      "dividende": "75 000 $ par an"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/6845/000000684526000070/apog-20260805.htm",
+    "date": "2026-08-05 17:27"
+  },
+  {
     "company": "Pattern Group Inc.",
     "cik": "1811935",
     "form": "8-K",
@@ -2595,47 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/70318/000007031826000032/thc-20260630ex991earningsr.htm",
     "date": "2026-07-23 16:07"
-  },
-  {
-    "company": "Summit Therapeutics Inc.",
-    "cik": "1599298",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Summit Therapeutics Inc. pour le deuxieme trimestre 2026",
-    "activite": "developpement de therapies contre le cancer",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1599298/000159929826000067/a20260723q2earningsdeck_.htm",
-    "date": "2026-07-23 16:07"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000134/fhlba-20260720.htm",
-    "date": "2026-07-23 14:39"
-  },
-  {
-    "company": "Federal Home Loan Bank of Topeka",
-    "cik": "1325878",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 30,
-    "resume": "La banque affiche des resultats financiers en baisse",
-    "activite": "Fournit des liquidites et des financements pour aider ses membres a construire des communautes solides",
-    "chiffres": {
-      "revenu": "118,9 M$",
-      "benefice": "77,1 M$",
-      "bpa": "6,7%",
-      "croissance": "-18,7%",
-      "dividende": "8,52%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000145/ex991fhlbt063020268k.htm",
-    "date": "2026-07-23 14:29"
   }
 ]
