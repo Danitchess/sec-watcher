@@ -1,5 +1,43 @@
 [
   {
+    "company": "MFA FINANCIAL, INC.",
+    "cik": "1055160",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MFA Financial, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000013/mfa-20260805.htm",
+    "date": "2026-08-05 08:45"
+  },
+  {
+    "company": "Flash Sports &amp; Media Holdings, Inc.",
+    "cik": "1706524",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Flash Sports & Media Holdings, Inc. annonce une acquisition proposee de 51% de Bongo",
+    "activite": "acquisition d'une participation majoritaire dans une entreprise de medias",
+    "chiffres": {
+      "dividende": "$35.0 million, $25.7 million, $15.4 million, $10.3 million, $12.0 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026085414/ea0300599-8k_flash.htm",
+    "date": "2026-08-05 08:42"
+  },
+  {
+    "company": "Athene Holding Ltd.",
+    "cik": "1527469",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Athene Holding Ltd. publie un rapport financier préliminaire",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527469/000119312526333977/d114269d8k.htm",
+    "date": "2026-08-05 08:40"
+  },
+  {
     "company": "Uber Technologies, Inc",
     "cik": "1543151",
     "form": "8-K",
@@ -2596,45 +2634,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000041/aci-20260723.htm",
     "date": "2026-07-23 07:31"
-  },
-  {
-    "company": "Incannex Healthcare Inc.",
-    "cik": "1873875",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Incannex Healthcare Inc. depose un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1873875/000121390026080622/ea0298674-8k_incannex.htm",
-    "date": "2026-07-23 07:30"
-  },
-  {
-    "company": "Scilex Holding Co",
-    "cik": "1820190",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Scilex Holding Company conclut un accord de rachat d'actions avec Vivasor Holding Company",
-    "activite": "",
-    "chiffres": {
-      "dividende": "11,999,762.28$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526312591/sclx-20260718.htm",
-    "date": "2026-07-22 17:30"
-  },
-  {
-    "company": "Z Squared Inc.",
-    "cik": "1759186",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Z Squared Inc. annonce la fin de deux accords de vente d'actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "300,000,000$ et 50,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003094/zsqr8k072126.htm",
-    "date": "2026-07-22 17:30"
   }
 ]
