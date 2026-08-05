@@ -1,5 +1,43 @@
 [
   {
+    "company": "Constellation Energy Corp",
+    "cik": "1868275",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement dans la direction de Constellation Energy Corporation",
+    "activite": "",
+    "chiffres": {
+      "dividende": "50 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000089/ceg-20260804.htm",
+    "date": "2026-08-05 14:14"
+  },
+  {
+    "company": "Alternus Clean Energy, Inc.",
+    "cik": "1883984",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Alternus Clean Energy, Inc. a emis des actions de serie F",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1883984/000143774926025888/alce20260805_8k.htm",
+    "date": "2026-08-05 14:08"
+  },
+  {
+    "company": "Quanome Technologies, Inc.",
+    "cik": "1996192",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Quanome Technologies lance une nouvelle identite corporative et elargit son focus strategique",
+    "activite": "developpement de technologies, applications et partenariats a l'intersection de l'informatique quantique, de l'intelligence artificielle, de la simulation avancee et des systemes intelligents",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026085554/ea0300504-8k_quanome.htm",
+    "date": "2026-08-05 14:00"
+  },
+  {
     "company": "SEKISUI HOUSE U.S., INC.",
     "cik": "773141",
     "form": "8-K",
@@ -2591,51 +2629,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1244832/000119312526313767/d149149d8k.htm",
     "date": "2026-07-23 13:02"
-  },
-  {
-    "company": "Nex Neo Tech Inc.",
-    "cik": "2091438",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nex Neo Tech Inc. est partie a un accord d'assignment de pret",
-    "activite": "Nex Neo Tech Inc. emprunte de l'argent",
-    "chiffres": {
-      "dividende": "300 000 $ et 122 319,94 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2091438/000209143826000014/ex10_1.htm",
-    "date": "2026-07-23 13:02"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Federal Home Loan Bank of Atlanta annonce ses resultats operationnels pour le deuxieme trimestre 2026",
-    "activite": "FHLBank Atlanta offre des services de financement, de developpement communautaire et d'autres services bancaires pour aider les institutions financieres membres a offrir des credits hypothecaires abordables et des credits de developpement economique",
-    "chiffres": {
-      "revenu": "$203 million",
-      "benefice": "$127 million",
-      "bpa": "5.41 percent",
-      "croissance": "$18.7 billion",
-      "dividende": "6.20 percent"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000132/ex991q22026operatinghighli.htm",
-    "date": "2026-07-23 11:49"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Chicago",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "750,000,000$, 500,000,000$, 600,000,000$, 20,000,000$, 500,000,000$, 15,000,000$, 15,000,000$, 10,000,000$, 10,000,000$, 40,000,000$, 15,000,000$, 15,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000131/fhlbc-20260720.htm",
-    "date": "2026-07-23 11:44"
   }
 ]
