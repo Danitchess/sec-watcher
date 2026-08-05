@@ -1,5 +1,49 @@
 [
   {
+    "company": "Pattern Group Inc.",
+    "cik": "1811935",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Pattern Group Inc. annonce des resultats financiers records pour le deuxieme trimestre 2026",
+    "activite": "Pattern accelerates les marques sur les places de marche electroniques mondiales en utilisant une technologie et une intelligence artificielle proprietes",
+    "chiffres": {
+      "revenu": "$877 million (+47%)",
+      "benefice": "$27 million (+16%)",
+      "bpa": "$0,15",
+      "croissance": "37% a 38% pour l'annee 2026"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1811935/000181193526000051/ptrn-20260630xearningsrele.htm",
+    "date": "2026-08-05 16:04"
+  },
+  {
+    "company": "Duolingo, Inc.",
+    "cik": "1562088",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Duolingo publie son rapport financier pour les six mois clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828026053299/duol-20260805.htm",
+    "date": "2026-08-05 16:04"
+  },
+  {
+    "company": "Symbotic Inc.",
+    "cik": "1837240",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Symbotic Inc. annonce des résultats financiers positifs pour le troisième trimestre de l'année fiscale 2026",
+    "activite": "Symbotic est un leader en technologie de robotique alimentée par l'intelligence artificielle pour la chaîne d'approvisionnement",
+    "chiffres": {
+      "revenu": "721 million $ (+22%)",
+      "benefice": "55 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000042/q3268-k_ex991.htm",
+    "date": "2026-08-05 16:04"
+  },
+  {
     "company": "Constellation Energy Corp",
     "cik": "1868275",
     "form": "8-K",
@@ -2593,41 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000145/ex991fhlbt063020268k.htm",
     "date": "2026-07-23 14:29"
-  },
-  {
-    "company": "Federal Home Loan Bank of New York",
-    "cik": "1329842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of New York",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426006823/fhlbny_8k.htm",
-    "date": "2026-07-23 14:02"
-  },
-  {
-    "company": "Nissan Auto Lease Trust 2026-B",
-    "cik": "2141529",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Nissan Auto Lease Trust 2026-B",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2141529/000119312526313767/d149149d8k.htm",
-    "date": "2026-07-23 13:02"
-  },
-  {
-    "company": "NISSAN AUTO LEASING LLC II",
-    "cik": "1244832",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Nissan Auto Leasing LLC II",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1244832/000119312526313767/d149149d8k.htm",
-    "date": "2026-07-23 13:02"
   }
 ]
