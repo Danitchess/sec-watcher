@@ -1,5 +1,45 @@
 [
   {
+    "company": "FS KKR Capital Corp",
+    "cik": "1422183",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "FS KKR Capital Corp annonce ses resultats pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {
+      "dividende": "0,44 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926091572/tm2622260d1_8k.htm",
+    "date": "2026-08-06 06:42"
+  },
+  {
+    "company": "NexPoint Real Estate Finance, Inc.",
+    "cik": "1786248",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "NexPoint Real Estate Finance, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1786248/000119312526336594/nref-20260806.htm",
+    "date": "2026-08-06 06:38"
+  },
+  {
+    "company": "SOMNIGROUP INTERNATIONAL INC.",
+    "cik": "1206264",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Somnigroup International Inc. annonce un dividende trimestriel en espèces",
+    "activite": "conception, fabrication, distribution et vente de literie",
+    "chiffres": {
+      "dividende": "0,17 $ par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1206264/000120626426000099/a08062026sgipressrelease-t.htm",
+    "date": "2026-08-06 06:37"
+  },
+  {
     "company": "SHF Holdings, Inc.",
     "cik": "1854963",
     "form": "8-K",
@@ -2594,48 +2634,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026081023/ea0299093-8k_change.htm",
     "date": "2026-07-23 17:30"
-  },
-  {
-    "company": "BOXABL Inc.",
-    "cik": "1906364",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de verrouillage des actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "12.00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1906364/000149315226034441/ex10-1.htm",
-    "date": "2026-07-23 17:29"
-  },
-  {
-    "company": "Intellicheck, Inc.",
-    "cik": "1040896",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Intellicheck, Inc. a modifie ses statuts",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1040896/000104089626000026/idn-20260717.htm",
-    "date": "2026-07-23 16:08"
-  },
-  {
-    "company": "TENET HEALTHCARE CORP",
-    "cik": "70318",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Tenet Healthcare Corp annonce des resultats solides pour le deuxieme trimestre 2026",
-    "activite": "exploitation d'hopitaux et de centres de soins ambulatoires",
-    "chiffres": {
-      "revenu": "$5,628 millions",
-      "benefice": "$826 millions",
-      "bpa": "$9,84",
-      "croissance": "16,3%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/70318/000007031826000032/thc-20260630ex991earningsr.htm",
-    "date": "2026-07-23 16:07"
   }
 ]
