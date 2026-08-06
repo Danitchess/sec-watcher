@@ -1,5 +1,45 @@
 [
   {
+    "company": "Montauk Renewables, Inc.",
+    "cik": "1826600",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Montauk Renewables, Inc. publie un rapport financier pour les six mois termines le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1826600/000119312526336927/d85806d8k.htm",
+    "date": "2026-08-06 08:49"
+  },
+  {
+    "company": "Scholar Rock Holding Corp",
+    "cik": "1727196",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Scholar Rock Holding Corp annonce une mise a jour de son programme de vente au marche",
+    "activite": "developpement de therapies pour le traitement de maladies",
+    "chiffres": {
+      "dividende": "257,7 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000110465926091702/tm2622083d2_8k.htm",
+    "date": "2026-08-06 08:49"
+  },
+  {
+    "company": "Barinthus Biotherapeutics plc.",
+    "cik": "1828185",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Barinthus Biotherapeutics plc annonce ses résultats financiers pour le deuxième trimestre 2026 et fournit une mise à jour sur ses développements corporatifs",
+    "activite": "développement de thérapies pour traiter les maladies auto-immunes et inflammatoires",
+    "chiffres": {
+      "dividende": "59,6 millions de dollars en cash, cash equivalents et restricted cash"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1828185/000162828026053940/brns-20260630xexx991.htm",
+    "date": "2026-08-06 08:49"
+  },
+  {
     "company": "FS KKR Capital Corp",
     "cik": "1422183",
     "form": "8-K",
@@ -2594,45 +2634,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1232524/000162828026049466/jazz-20260723.htm",
     "date": "2026-07-24 06:16"
-  },
-  {
-    "company": "JAKKS PACIFIC INC",
-    "cik": "1009829",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "JAKKS PACIFIC INC annonce ses resultats du deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,25 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1009829/000118518526003108/jakk8k072226.htm",
-    "date": "2026-07-24 06:15"
-  },
-  {
-    "company": "Cycurion, Inc.",
-    "cik": "1868419",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cycurion, Inc. modifie son plan d'incitation en actions pour 2025",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226034443/ex10-1.htm",
-    "date": "2026-07-23 17:30"
-  },
-  {
-    "company": "Change Agents Corporation.",
-    "cik": "1630212",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Change Agents Corporation conclut un accord d'achat d'actions avec Hudson Global Ventures",
-    "activite": "conclusion d'un accord d'achat d'actions",
-    "chiffres": {
-      "dividende": "$10,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026081023/ea0299093-8k_change.htm",
-    "date": "2026-07-23 17:30"
   }
 ]
