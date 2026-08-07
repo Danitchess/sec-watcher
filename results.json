@@ -1,5 +1,45 @@
 [
   {
+    "company": "OneMain Holdings, Inc.",
+    "cik": "1584207",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "OneMain Holdings, Inc. annonce une emission d'obligations",
+    "activite": "emission d'obligations",
+    "chiffres": {
+      "dividende": "600,0 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1584207/000114036126031876/ef20079685_8k.htm",
+    "date": "2026-08-07 17:30"
+  },
+  {
+    "company": "ONEMAIN FINANCE CORP",
+    "cik": "25598",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "OneMain Finance Corp propose d'emettre 600 millions de dollars de titres",
+    "activite": "emission de titres",
+    "chiffres": {
+      "dividende": "600 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/25598/000114036126031875/ef20079685_ex1-1.htm",
+    "date": "2026-08-07 17:30"
+  },
+  {
+    "company": "COVENANT LOGISTICS GROUP, INC.",
+    "cik": "928658",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Covenant Logistics Group, Inc. modifie les accords de depart de certains dirigeants",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000203/form8k.htm",
+    "date": "2026-08-07 17:27"
+  },
+  {
     "company": "Apollo Debt Solutions BDC",
     "cik": "1837532",
     "form": "8-K",
@@ -2613,41 +2653,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026049857/hurn-20260723.htm",
     "date": "2026-07-27 17:29"
-  },
-  {
-    "company": "Ocean Power Technologies, Inc.",
-    "cik": "1378140",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ocean Power Technologies, Inc. conclut un accord de vente d'actions avec H.C. Wainwright & Co., LLC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226034862/ex10-1.htm",
-    "date": "2026-07-27 17:28"
-  },
-  {
-    "company": "BROOKFIELD REAL ESTATE INCOME TRUST INC.",
-    "cik": "1713407",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'actions non enregistrees",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1713407/000171340726000074/bra-20260720.htm",
-    "date": "2026-07-27 16:46"
-  },
-  {
-    "company": "Community West Bancshares",
-    "cik": "1127371",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Community West Bancshares publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1127371/000162828026049837/cvcy-20260727.htm",
-    "date": "2026-07-27 16:46"
   }
 ]
