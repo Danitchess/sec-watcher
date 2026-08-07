@@ -1,5 +1,43 @@
 [
   {
+    "company": "MEXICO FUND INC",
+    "cik": "65433",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K de la societe MEXICO FUND INC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/65433/000165495426007378/mxf_8k.htm",
+    "date": "2026-08-07 11:43"
+  },
+  {
+    "company": "BCB BANCORP INC",
+    "cik": "1228454",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de BCB BANCORP INC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1228454/000119312526339642/d155268d8k.htm",
+    "date": "2026-08-07 11:43"
+  },
+  {
+    "company": "Fortress Net Lease REIT",
+    "cik": "1966394",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Fortress Net Lease REIT annonce des ventes d'actions et des distributions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$91.3 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1966394/000119312526339638/ck0001966394-20260803.htm",
+    "date": "2026-08-07 11:41"
+  },
+  {
     "company": "TIAA REAL ESTATE ACCOUNT",
     "cik": "946155",
     "form": "8-K",
@@ -2615,41 +2653,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1125376/000112537626000036/ensg-20260727.htm",
     "date": "2026-07-27 06:07"
-  },
-  {
-    "company": "Baker Hughes Co",
-    "cik": "1701605",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Baker Hughes Company annonce ses resultats financiers pour le deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000021/bkr-20260726.htm",
-    "date": "2026-07-27 06:07"
-  },
-  {
-    "company": "PEDEVCO CORP",
-    "cik": "1141197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "PEDEVCO CORP annonce des attributions d'actions et des conventions d'emploi pour ses dirigeants",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426006883/ped_8k.htm",
-    "date": "2026-07-24 17:30"
-  },
-  {
-    "company": "Lite Strategy, Inc.",
-    "cik": "1262104",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Lite Strategy, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1262104/000119312526316284/lits-20260724.htm",
-    "date": "2026-07-24 17:29"
   }
 ]
