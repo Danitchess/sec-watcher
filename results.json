@@ -1,5 +1,55 @@
 [
   {
+    "company": "Earth Science Tech, Inc.",
+    "cik": "1538495",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "La societe Earth Science Tech, Inc. annonce des resultats financiers positifs pour le premier trimestre 2027",
+    "activite": "La societe opere comme une entreprise de portefeuille diversifiee dans le secteur de la sante et du bien-etre",
+    "chiffres": {
+      "revenu": "$9.0 million",
+      "benefice": "$715,697 (+57%)",
+      "bpa": "$0.003",
+      "croissance": "108% pour le flux de trésorerie d'exploitation"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1538495/000149315226036483/ex99-1.htm",
+    "date": "2026-08-07 08:05"
+  },
+  {
+    "company": "Calumet, Inc. /DE",
+    "cik": "2013745",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Calumet annonce des resultats positifs pour le deuxieme trimestre 2026",
+    "activite": "Calumet fabrique, formule et commercialise des produits speciaux et des carburants renouvelables",
+    "chiffres": {
+      "benefice": "(95,9) million $",
+      "bpa": "(1,09) $",
+      "dividende": "115 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2013745/000201374526000022/clmt-20260630xex991.htm",
+    "date": "2026-08-07 08:05"
+  },
+  {
+    "company": "Construction Partners, Inc.",
+    "cik": "1718227",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Construction Partners, Inc. annonce des resultats financiers solides pour le troisieme trimestre de l'exercice 2026",
+    "activite": "Construction et maintenance de routes et infrastructures publiques et privees dans le Sunbelt",
+    "chiffres": {
+      "revenu": "$999,4 millions (+28,2%)",
+      "benefice": "$59,6 millions",
+      "bpa": "$1,08",
+      "croissance": "28%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1718227/000162828026054592/exhibit991_earnings06302026.htm",
+    "date": "2026-08-07 08:04"
+  },
+  {
     "company": "Kimbell Royalty Partners, LP",
     "cik": "1657788",
     "form": "8-K",
@@ -2603,47 +2653,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2041841/000093041326002156/c117191_8k-ixbrl.htm",
     "date": "2026-07-24 14:37"
-  },
-  {
-    "company": "Lord Abbett Private Credit Fund",
-    "cik": "2008748",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lord Abbett Private Credit Fund publie son rapport 8-K",
-    "activite": "Lord Abbett Private Credit Fund est un fonds d'investissement qui accorde des prêts à des entreprises et détient des participations dans des sociétés",
-    "chiffres": {
-      "dividende": "0,22 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2008748/000093041326002155/c117190_8k-ixbrl.htm",
-    "date": "2026-07-24 14:37"
-  },
-  {
-    "company": "CHASE GENERAL CORP",
-    "cik": "15357",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "La filiale Dye Candy Company est en defaut de paiement",
-    "activite": "exploitation de la societe Dye Candy Company",
-    "chiffres": {
-      "dividende": "500 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/15357/000110465926086601/csgn-20260720x8k.htm",
-    "date": "2026-07-24 13:16"
-  },
-  {
-    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
-    "cik": "1919369",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vista Credit Strategic Lending Corp annonce des ventes d'actions et fournit des informations sur sa valeur nette d'inventaire",
-    "activite": "Vente d'actions et gestion de portefeuille d'investissements",
-    "chiffres": {
-      "dividende": "3,029,800$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526315613/ck0001919369-20260722.htm",
-    "date": "2026-07-24 12:52"
   }
 ]
