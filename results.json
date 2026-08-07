@@ -1,5 +1,45 @@
 [
   {
+    "company": "TIAA REAL ESTATE ACCOUNT",
+    "cik": "946155",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport de performance du TIAA Real Estate Account au 30 juin 2026",
+    "activite": "Gestion d'un portefeuille de biens immobiliers productifs de revenus",
+    "chiffres": {
+      "dividende": "0,855% de frais estimés pour la période du 1er mai 2026 au 30 avril 2027"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000097/a99163026.htm",
+    "date": "2026-08-07 10:42"
+  },
+  {
+    "company": "ARTESIAN RESOURCES CORP",
+    "cik": "863110",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Artesian Resources Corporation publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/863110/000086311026000072/artna-20260806.htm",
+    "date": "2026-08-07 10:40"
+  },
+  {
+    "company": "ENTERGY CORP /DE/",
+    "cik": "65984",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Entergy Corporation emet des debentures subordonnees junior",
+    "activite": "",
+    "chiffres": {
+      "dividende": "750 000 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/65984/000119312526339472/d42703d8k.htm",
+    "date": "2026-08-07 10:36"
+  },
+  {
     "company": "CBL &amp; ASSOCIATES PROPERTIES INC",
     "cik": "910612",
     "form": "8-K",
@@ -2611,45 +2651,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1262104/000119312526316284/lits-20260724.htm",
     "date": "2026-07-24 17:29"
-  },
-  {
-    "company": "LGL GROUP INC",
-    "cik": "61004",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "LGL Group annonce la completion de son offre de droits de souscription",
-    "activite": "LGL Group est une societe de portefeuille se concentrant sur les investissements de marchand et les operations de portefeuille",
-    "chiffres": {
-      "dividende": "41,8 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/61004/000143774926024429/ex_989264.htm",
-    "date": "2026-07-24 17:27"
-  },
-  {
-    "company": "NN INC",
-    "cik": "918541",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de NN INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/918541/000091854126000054/formofaward.htm",
-    "date": "2026-07-24 16:13"
-  },
-  {
-    "company": "GoPro, Inc.",
-    "cik": "1500435",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "GoPro, Inc. n'est pas en conformite avec la regle de Nasdaq",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,00 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1500435/000162828026049597/gpro-20260721.htm",
-    "date": "2026-07-24 16:10"
   }
 ]
