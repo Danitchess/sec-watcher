@@ -1,5 +1,45 @@
 [
   {
+    "company": "Apollo Debt Solutions BDC",
+    "cik": "1837532",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Apollo Debt Solutions BDC annonce une emission de dette securisee de 514,9 millions de dollars",
+    "activite": "emission de dette securisee",
+    "chiffres": {
+      "dividende": "514,900,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526340369/d157652d8k.htm",
+    "date": "2026-08-07 16:30"
+  },
+  {
+    "company": "Edible Garden AG Inc",
+    "cik": "1809750",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Edible Garden AG Inc annonce un echange d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,252,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1809750/000147793226004776/edbl_8k.htm",
+    "date": "2026-08-07 16:30"
+  },
+  {
+    "company": "Agassi Sports Entertainment Corp.",
+    "cik": "930245",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Agassi Sports Entertainment Corp. ratifie des actes corporatifs defectueux",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/930245/000149315226036605/ex99-1.htm",
+    "date": "2026-08-07 16:30"
+  },
+  {
     "company": "Goldman Sachs Real Estate Finance Trust Inc",
     "cik": "2027537",
     "form": "8-K",
@@ -2609,46 +2649,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1127371/000162828026049837/cvcy-20260727.htm",
     "date": "2026-07-27 16:46"
-  },
-  {
-    "company": "H2O AMERICA",
-    "cik": "766829",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "H2O America annonce des resultats financiers solides pour le deuxieme trimestre 2026",
-    "activite": "fourniture d'eau et de services de traitement des eaux usees",
-    "chiffres": {
-      "revenu": "210,5 M$",
-      "benefice": "26,6 M$",
-      "bpa": "0,62 $",
-      "dividende": "0,44 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/766829/000162828026049836/exhibit991-2q2026.htm",
-    "date": "2026-07-27 16:45"
-  },
-  {
-    "company": "New Concept Energy, Inc.",
-    "cik": "105744",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires de New Concept Energy, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/105744/000121465926009048/o7242668k.htm",
-    "date": "2026-07-27 15:10"
-  },
-  {
-    "company": "HPS Net Lease Income REIT",
-    "cik": "2107762",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "HPS Net Lease Income REIT conclut des accords avec des partenaires",
-    "activite": "Gestion de placements immobiliers",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2107762/000119312526317926/d120209d8k.htm",
-    "date": "2026-07-27 15:08"
   }
 ]
