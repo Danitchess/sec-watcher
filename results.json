@@ -1,5 +1,19 @@
 [
   {
+    "company": "NexMetals Mining Corp.",
+    "cik": "795800",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NexMetals Mining Corp annonce une augmentation de 70% de ses ressources minerales en cuivre equivalent",
+    "activite": "exploitation miniere de cuivre, nickel, platine et autres metaux",
+    "chiffres": {
+      "croissance": "70%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/795800/000149315226036682/ex99-1.htm",
+    "date": "2026-08-07 17:30"
+  },
+  {
     "company": "OneMain Holdings, Inc.",
     "cik": "1584207",
     "form": "8-K",
@@ -2639,19 +2653,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1419275/000118518526003142/rtb8ka2072326.htm",
     "date": "2026-07-27 17:30"
-  },
-  {
-    "company": "Huron Consulting Group Inc.",
-    "cik": "1289848",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Huron Consulting Group Inc. annonce l'election de Dr. L. Thomas Richards comme directeur",
-    "activite": "fourniture de services de conseil",
-    "chiffres": {
-      "dividende": "80 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026049857/hurn-20260723.htm",
-    "date": "2026-07-27 17:29"
   }
 ]
