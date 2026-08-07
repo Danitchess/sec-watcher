@@ -1,5 +1,43 @@
 [
   {
+    "company": "Goldman Sachs Real Estate Finance Trust Inc",
+    "cik": "2027537",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Goldman Sachs Real Estate Finance Trust Inc annonce des ventes d'actions et des distributions pour le mois de juillet 2026",
+    "activite": "La societe origine des prets immobiliers pour financer des acquisitions et des refinancements de proprietes",
+    "chiffres": {
+      "dividende": "$ 0,1480 par action pour la classe S, $ 0,1660 par action pour la classe I, $ 0,1660 par action pour la classe NV-1, $ 0,1660 par action pour la classe NV-2, $ 0,2168 par action pour la classe F-I, $ 0,1901 par action pour la classe F-II"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2027537/000119312526340158/d138288d8k.htm",
+    "date": "2026-08-07 15:42"
+  },
+  {
+    "company": "OSR Health, Inc.",
+    "cik": "1840425",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "OSR Health, Inc. publie un communiqué de presse pour clarifier ses communications avec Nasdaq",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1840425/000121390026086599/ea0301114-8k_osrhealth.htm",
+    "date": "2026-08-07 15:32"
+  },
+  {
+    "company": "ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc.",
+    "cik": "1625941",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Description du programme de rachat d'actions de la societe ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1625941/000162828026054775/aire-20260630ex991.htm",
+    "date": "2026-08-07 15:05"
+  },
+  {
     "company": "LION COPPER &amp; GOLD CORP.",
     "cik": "1339688",
     "form": "8-K",
@@ -2612,43 +2650,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2107762/000119312526317926/d120209d8k.htm",
     "date": "2026-07-27 15:08"
-  },
-  {
-    "company": "Cottonwood Communities, Inc.",
-    "cik": "1692951",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cottonwood Communities, Inc. annonce une offre privée de ses actions préférées convertibles",
-    "activite": "",
-    "chiffres": {
-      "dividende": "2,137,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000132/cci-20260721.htm",
-    "date": "2026-07-27 15:05"
-  },
-  {
-    "company": "Ford Credit Auto Lease Trust 2026-B",
-    "cik": "2144097",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour l'emission de titres adosses a des actifs",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2144097/000110465926086981/tm2620301d12_8k.htm",
-    "date": "2026-07-27 13:38"
-  },
-  {
-    "company": "Ford Credit Auto Lease Two LLC",
-    "cik": "1519881",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K pour Ford Credit Auto Lease Two LLC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1519881/000110465926086981/tm2620301d12_8k.htm",
-    "date": "2026-07-27 13:38"
   }
 ]
