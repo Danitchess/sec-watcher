@@ -1,5 +1,45 @@
 [
   {
+    "company": "BBCMS Mortgage Trust 2022-C15",
+    "cik": "1913593",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour le 26 Broadway Mortgage Loan",
+    "activite": "Gestion de prêts hypothécaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1913593/000188852426014444/bcr22c15_8k-08072026.htm",
+    "date": "2026-08-07 13:41"
+  },
+  {
+    "company": "EQT Exeter Real Estate Income Trust, Inc.",
+    "cik": "1946997",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "EQT Exeter Real Estate Income Trust, Inc. effectue des ventes d'actions non enregistrees",
+    "activite": "",
+    "chiffres": {
+      "dividende": "3,28 mille $, 0,11 million $, 0,14 million $, 3,50 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526339868/ck0001946997-20260710.htm",
+    "date": "2026-08-07 13:40"
+  },
+  {
+    "company": "Rise Companies Corp",
+    "cik": "1640967",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rise Companies Corp annonce une augmentation du prix d'offre de son action de classe B",
+    "activite": "",
+    "chiffres": {
+      "dividende": "15,90 $ a 16,05 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1640967/000162828026054717/rc-20260807.htm",
+    "date": "2026-08-07 13:13"
+  },
+  {
     "company": "Energy 11, L.P.",
     "cik": "1581552",
     "form": "8-K",
@@ -2612,50 +2652,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1304280/000130428026000026/nvl-20260723.htm",
     "date": "2026-07-27 11:14"
-  },
-  {
-    "company": "CAPITAL CITY BANK GROUP INC",
-    "cik": "726601",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Capital City Bank Group Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/726601/000072660126000022/ccbg-20260727.htm",
-    "date": "2026-07-27 11:11"
-  },
-  {
-    "company": "STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4",
-    "cik": "1340909",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution de certificats de la serie 2005-4",
-    "activite": "",
-    "chiffres": {
-      "revenu": "50,393.24 $",
-      "dividende": "0,09220749 $ par certificat"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1340909/000199937126015890/ex99-1.htm",
-    "date": "2026-07-27 09:22"
-  },
-  {
-    "company": "ENB Financial Corp",
-    "cik": "1437479",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "ENB Financial Corp publie ses resultats pour le deuxieme trimestre 2026",
-    "activite": "ENB Financial Corp est une societe de services financiers qui exploite une banque a travers plusieurs succursales",
-    "chiffres": {
-      "revenu": "$39,710",
-      "benefice": "$9,728,000",
-      "bpa": "$1.71",
-      "croissance": "7.4%",
-      "dividende": "$0.36"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000705/ex99.htm",
-    "date": "2026-07-27 09:22"
   }
 ]
