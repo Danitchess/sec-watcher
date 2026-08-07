@@ -1,5 +1,46 @@
 [
   {
+    "company": "Kimbell Royalty Partners, LP",
+    "cik": "1657788",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kimbell Royalty Partners, LP publie son rapport financier du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1657788/000110465926092355/tm2622481d1_8k.htm",
+    "date": "2026-08-07 07:17"
+  },
+  {
+    "company": "Douglas Elliman Inc.",
+    "cik": "1878897",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Douglas Elliman Inc. annonce des resultats financiers solides pour le deuxieme trimestre 2026",
+    "activite": "Douglas Elliman est une societe de courtage immobilier de luxe",
+    "chiffres": {
+      "revenu": "$283,4 millions",
+      "benefice": "-$2,7 millions",
+      "bpa": "-$0,03",
+      "croissance": "4,5%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1878897/000187889726000041/a2026q2pressrelease.htm",
+    "date": "2026-08-07 07:16"
+  },
+  {
+    "company": "Sylvamo Corp",
+    "cik": "1856485",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Sylvamo Corp publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1856485/000185648526000031/syl-20260807.htm",
+    "date": "2026-08-07 07:14"
+  },
+  {
     "company": "Yum China Holdings, Inc.",
     "cik": "1673358",
     "form": "8-K",
@@ -2604,49 +2645,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526315613/ck0001919369-20260722.htm",
     "date": "2026-07-24 12:52"
-  },
-  {
-    "company": "Digital Brands Group, Inc.",
-    "cik": "1668010",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente de titres entre Digital Brands Group, Inc. et des acheteurs",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226034517/ex10-1.htm",
-    "date": "2026-07-24 12:34"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La Federal Home Loan Bank of Boston annonce des resultats financiers solides pour le deuxieme trimestre 2026",
-    "activite": "La banque fournit des financements pour le logement et le developpement economique dans les six etats de la Nouvelle-Angleterre",
-    "chiffres": {
-      "revenu": "$746,702",
-      "benefice": "$45,190",
-      "bpa": "0,24%",
-      "croissance": "$6,9 M",
-      "dividende": "6,67%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000149/ex991-secondquarter2026ear.htm",
-    "date": "2026-07-24 11:39"
-  },
-  {
-    "company": "PROVIDENT FINANCIAL HOLDINGS INC",
-    "cik": "1010470",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Declaration d'un dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.14 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000138/8k72426.htm",
-    "date": "2026-07-24 11:31"
   }
 ]
