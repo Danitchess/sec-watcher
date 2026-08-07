@@ -1,5 +1,43 @@
 [
   {
+    "company": "CBL &amp; ASSOCIATES PROPERTIES INC",
+    "cik": "910612",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de CBL & Associates Properties, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526339362/cbl-20260806.htm",
+    "date": "2026-08-07 09:38"
+  },
+  {
+    "company": "LCI INDUSTRIES",
+    "cik": "763744",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de LCI INDUSTRIES",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000079/lcii-20260805.htm",
+    "date": "2026-08-07 09:32"
+  },
+  {
+    "company": "Old QVC Group, Inc.",
+    "cik": "1355096",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Old QVC Group, Inc. sort de la faillite avec un plan de reorganisation",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,240,362,247 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1355096/000110465926092423/tm2622253d3_8k.htm",
+    "date": "2026-08-07 09:26"
+  },
+  {
     "company": "Earth Science Tech, Inc.",
     "cik": "1538495",
     "form": "8-K",
@@ -2613,45 +2651,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1500435/000162828026049597/gpro-20260721.htm",
     "date": "2026-07-24 16:10"
-  },
-  {
-    "company": "Eagle Point Trinity Senior Secured Lending Co",
-    "cik": "2027033",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Eagle Point Trinity Senior Secured Lending Co publie son rapport 8-K",
-    "activite": "",
-    "chiffres": {
-      "dividende": "10,25 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2027033/000110465926086648/tm2621301d1_8k.htm",
-    "date": "2026-07-24 16:10"
-  },
-  {
-    "company": "BV Financial, Inc.",
-    "cik": "1302387",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "BV Financial, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1302387/000119312526315814/bvfl-20260724.htm",
-    "date": "2026-07-24 14:39"
-  },
-  {
-    "company": "Lord Abbett Private Credit Fund S",
-    "cik": "2041841",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lord Abbett Private Credit Fund S publie son rapport 8-K",
-    "activite": "Lord Abbett Private Credit Fund S est un fonds d'investissement qui accorde des prêts à des entreprises",
-    "chiffres": {
-      "dividende": "0,19 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2041841/000093041326002156/c117191_8k-ixbrl.htm",
-    "date": "2026-07-24 14:37"
   }
 ]
