@@ -1,5 +1,45 @@
 [
   {
+    "company": "Energy 11, L.P.",
+    "cik": "1581552",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Energy 11, L.P. annonce des distributions aux actionnaires",
+    "activite": "exploitation de partenariat pour les energies",
+    "chiffres": {
+      "dividende": "$0.93 par unite, $0.12 par unite speciale, $4.6 millions, $37.3 millions"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1581552/000143774926026502/eele20260804_8k.htm",
+    "date": "2026-08-07 12:37"
+  },
+  {
+    "company": "Morgan Stanley Capital I Trust 2022-L8",
+    "cik": "1912724",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de special servicer pour le 26 Broadway Non-Serviced Loan Combination",
+    "activite": "Servicing et administration de prets hypothecaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1912724/000153949726002122/n3018-x14_8k.htm",
+    "date": "2026-08-07 12:17"
+  },
+  {
+    "company": "TABLE TRAC INC",
+    "cik": "1090396",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Table Trac Inc. annonce un dividende trimestriel",
+    "activite": "developpe, vend, loue et supporte des systemes de gestion de casino et des solutions technologiques de jeu pour les operateurs de casino dans le monde entier",
+    "chiffres": {
+      "dividende": "$0.02 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1090396/000143774926026491/ex_1001018.htm",
+    "date": "2026-08-07 12:13"
+  },
+  {
     "company": "MEXICO FUND INC",
     "cik": "65433",
     "form": "8-K",
@@ -2617,41 +2657,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000705/ex99.htm",
     "date": "2026-07-27 09:22"
-  },
-  {
-    "company": "Bridger Aerospace Group Holdings, Inc.",
-    "cik": "1941536",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Bridger Aerospace Group Holdings, Inc. annonce un contrat avec Texas A&M Forest Service",
-    "activite": "acquisition, modification et livraison d'avions",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1941536/000194153626000017/baer-20260727.htm",
-    "date": "2026-07-27 09:20"
-  },
-  {
-    "company": "Profusa, Inc.",
-    "cik": "1859807",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Profusa, Inc. annonce des changements dans son equipe de direction et un projet d'acquisition",
-    "activite": "developpement de solutions de diagnostics de sante",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026081560/ea0298832-8k_profusa.htm",
-    "date": "2026-07-27 06:08"
-  },
-  {
-    "company": "ENSIGN GROUP, INC",
-    "cik": "1125376",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier du deuxieme trimestre de l'entreprise",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1125376/000112537626000036/ensg-20260727.htm",
-    "date": "2026-07-27 06:07"
   }
 ]
