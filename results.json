@@ -1,5 +1,45 @@
 [
   {
+    "company": "LION COPPER &amp; GOLD CORP.",
+    "cik": "1339688",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Lion Copper & Gold Corp. annonce l'acquisition de terres strategiques dans le district de Yerington",
+    "activite": "exploitation miniere",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326004098/exhibit99-1.htm",
+    "date": "2026-08-07 14:34"
+  },
+  {
+    "company": "Citibank, N.A., as depositor of Citibank Credit Card Issuance Trust",
+    "cik": "1522616",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Citibank Credit Card Issuance Trust",
+    "activite": "Gestion de cartes de credit",
+    "chiffres": {
+      "revenu": "$ 2,309,999"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1522616/000119312526339916/d114054d8k.htm",
+    "date": "2026-08-07 14:00"
+  },
+  {
+    "company": "CITIBANK CREDIT CARD ISSUANCE TRUST",
+    "cik": "1108348",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de CITIBANK CREDIT CARD ISSUANCE TRUST",
+    "activite": "Gestion de cartes de credit",
+    "chiffres": {
+      "revenu": "$ 2,309,999"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1108348/000119312526339916/d114054d8k.htm",
+    "date": "2026-08-07 14:00"
+  },
+  {
     "company": "BBCMS Mortgage Trust 2022-C15",
     "cik": "1913593",
     "form": "8-K",
@@ -2610,47 +2650,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1519881/000110465926086981/tm2620301d12_8k.htm",
     "date": "2026-07-27 13:38"
-  },
-  {
-    "company": "PEOPLES BANCORP INC",
-    "cik": "318300",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Peoples Bancorp Inc. annonce des résultats positifs pour le deuxième trimestre 2026",
-    "activite": "",
-    "chiffres": {
-      "revenu": "$0,78",
-      "benefice": "$0,96",
-      "bpa": "$23,56"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000187/ex991q22026conferencecallt.htm",
-    "date": "2026-07-27 13:35"
-  },
-  {
-    "company": "Carter Bankshares, Inc.",
-    "cik": "1829576",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Carter Bankshares, Inc. publie un rapport 8-K sans information financiere specifique",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1829576/000182957626000073/care-20260727.htm",
-    "date": "2026-07-27 11:24"
-  },
-  {
-    "company": "Novelis Inc.",
-    "cik": "1304280",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Novelis Inc. conclut un accord de prêt de 500 millions de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "500 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1304280/000130428026000026/nvl-20260723.htm",
-    "date": "2026-07-27 11:14"
   }
 ]
