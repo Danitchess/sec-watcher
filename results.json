@@ -1,5 +1,50 @@
 [
   {
+    "company": "Yum China Holdings, Inc.",
+    "cik": "1673358",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Yum China Holdings, Inc. annonce la conclusion d'un accord de licence pour les marques KFC et Taco Bell",
+    "activite": "exploitation de marques de restauration rapide",
+    "chiffres": {
+      "dividende": "US$1,2 milliard"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526339048/yumc-20260807.htm",
+    "date": "2026-08-07 06:19"
+  },
+  {
+    "company": "Trulieve Cannabis Corp.",
+    "cik": "1754195",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Trulieve Cannabis Corp. annonce ses resultats financiers pour le deuxieme trimestre 2026",
+    "activite": "exploitation de produits du cannabis",
+    "chiffres": {
+      "revenu": "$271 million",
+      "benefice": "$20 million (ajuste)",
+      "bpa": "$0,11",
+      "croissance": "-10% (revenu par rapport au Q2 2025)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1754195/000175419526000067/exhibit991trlvearningsrele.htm",
+    "date": "2026-08-07 06:17"
+  },
+  {
+    "company": "YUM BRANDS INC",
+    "cik": "1041061",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Yum Brands Inc annonce la completion de la vente de ses droits sur le marche chinois de Pizza Hut",
+    "activite": "exploitation de restaurants KFC, Taco Bell et Pizza Hut",
+    "chiffres": {
+      "dividende": "1,2 milliard $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1041061/000110465926092305/tm2622152d1_8k.htm",
+    "date": "2026-08-07 06:15"
+  },
+  {
     "company": "IOVANCE BIOTHERAPEUTICS, INC.",
     "cik": "1425205",
     "form": "8-K",
@@ -2603,41 +2648,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000138/8k72426.htm",
     "date": "2026-07-24 11:31"
-  },
-  {
-    "company": "LFTD PARTNERS INC.",
-    "cik": "1391135",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LFTD Partners Inc. publie un depot SEC concernant un contrat immobilier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1391135/000109690626001125/lftd_ex10z94.htm",
-    "date": "2026-07-24 11:14"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le depot SEC de type 8-K de la societe Federal Home Loan Bank of Boston decrit les statuts et reglements de la societe",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000146/exhibit32-amendedandrestat.htm",
-    "date": "2026-07-24 10:18"
-  },
-  {
-    "company": "PROVIDENT FINANCIAL HOLDINGS INC",
-    "cik": "1010470",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de nouveaux dirigeants",
-    "activite": "banque",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000136/prov8k72326.htm",
-    "date": "2026-07-24 10:05"
   }
 ]
