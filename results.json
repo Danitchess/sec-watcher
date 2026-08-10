@@ -1,5 +1,43 @@
 [
   {
+    "company": "LINCOLN NATIONAL CORP",
+    "cik": "59558",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le directeur financier quitte l'entreprise",
+    "activite": "",
+    "chiffres": {
+      "dividende": "550 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/59558/000119312526341190/d104957d8k.htm",
+    "date": "2026-08-10 07:01"
+  },
+  {
+    "company": "Oruka Therapeutics, Inc.",
+    "cik": "907654",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Oruka Therapeutics, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026086933/ea0301312-8k_oruka.htm",
+    "date": "2026-08-10 07:00"
+  },
+  {
+    "company": "Cherry Hill Mortgage Investment Corp",
+    "cik": "1571776",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Cherry Hill Mortgage Investment Corp",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1571776/000114036126031932/ef20079832_8k.htm",
+    "date": "2026-08-10 07:00"
+  },
+  {
     "company": "NexMetals Mining Corp.",
     "cik": "795800",
     "form": "8-K",
@@ -2613,45 +2651,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/23217/000002321726000028/tmb-20260724x8k.htm",
     "date": "2026-07-28 07:32"
-  },
-  {
-    "company": "BOEING CO",
-    "cik": "12927",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Boeing publie ses resultats du deuxieme trimestre 2026",
-    "activite": "construction aeronautique et spatiale",
-    "chiffres": {
-      "revenu": "24,6 Mds$",
-      "benefice": "-428 M$",
-      "bpa": "-0,67$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026049929/a202606jun308kprex991.htm",
-    "date": "2026-07-28 07:31"
-  },
-  {
-    "company": "Grace Therapeutics, Inc.",
-    "cik": "1444192",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Grace Therapeutics, Inc. annonce la reception des minutes de la reunion avec la FDA",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1444192/000114036126029837/ef20078866_8k.htm",
-    "date": "2026-07-28 07:16"
-  },
-  {
-    "company": "RTB Digital, Inc.",
-    "cik": "1419275",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "RTB Digital, Inc. publie un rapport 8-K/A pour mettre a jour les informations financieres",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1419275/000118518526003142/rtb8ka2072326.htm",
-    "date": "2026-07-27 17:30"
   }
 ]
