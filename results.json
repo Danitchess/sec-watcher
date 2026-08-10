@@ -1,5 +1,43 @@
 [
   {
+    "company": "Aspire Biopharma Holdings, Inc.",
+    "cik": "1847345",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aspire Biopharma Holdings, Inc. conclut un accord avec FireFish TopCo, LLC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1847345/000149315226036777/ex10-2.htm",
+    "date": "2026-08-10 09:45"
+  },
+  {
+    "company": "AleeanPeace Group Holdings Ltd",
+    "cik": "1763660",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1763660/000149315226036775/ex3-1.htm",
+    "date": "2026-08-10 09:43"
+  },
+  {
+    "company": "FIRST TRUST SENIOR FLOATING RATE INCOME FUND II",
+    "cik": "1282850",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "First Trust annonce la reorganisation de son fonds senior floating rate income en un ETF flexible",
+    "activite": "gestion de fonds d'investissement",
+    "chiffres": {
+      "dividende": "une distribution en aout 2026"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1282850/000144554626005855/ex_99.htm",
+    "date": "2026-08-10 09:26"
+  },
+  {
     "company": "BEYOND MEAT, INC.",
     "cik": "1655210",
     "form": "8-K",
@@ -2615,41 +2653,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1617867/000143774926024597/amix20260728_8k.htm",
     "date": "2026-07-28 11:36"
-  },
-  {
-    "company": "Leonardo DRS, Inc.",
-    "cik": "1833756",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Leonardo DRS, Inc. annonce son acquisition de Raft LLC",
-    "activite": "Leonardo DRS, Inc. est une societe qui opere dans le domaine de la technologie et de la defense",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1833756/000183375626000034/drs-20260728.htm",
-    "date": "2026-07-28 11:30"
-  },
-  {
-    "company": "Chaince Digital Holdings Inc.",
-    "cik": "1527762",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K pour Chaince Digital Holdings Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226034956/form8-ka.htm",
-    "date": "2026-07-28 11:18"
-  },
-  {
-    "company": "Kinetic Seas Inc.",
-    "cik": "1945619",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Kinetic Seas Inc. a emis une obligation convertible",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1945619/000168316826005793/kinetic_8k.htm",
-    "date": "2026-07-28 09:45"
   }
 ]
