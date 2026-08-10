@@ -1,5 +1,45 @@
 [
   {
+    "company": "Where Food Comes From, Inc.",
+    "cik": "1360565",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Where Food Comes From, Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "Verification et certification de pratiques de production alimentaire",
+    "chiffres": {
+      "revenu": "$6,611,000",
+      "benefice": "$413,000",
+      "bpa": "$0,08"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1360565/000149315226036804/ex99-1.htm",
+    "date": "2026-08-10 13:23"
+  },
+  {
+    "company": "HyOrc Corp",
+    "cik": "1070789",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226036801/form8-k.htm",
+    "date": "2026-08-10 13:12"
+  },
+  {
+    "company": "Vestand Inc.",
+    "cik": "1898604",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vestand Inc. annonce des changements dans les droits des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1898604/000149315226036799/form8-k.htm",
+    "date": "2026-08-10 12:47"
+  },
+  {
     "company": "HyOrc Corp",
     "cik": "1070789",
     "form": "8-K",
@@ -2614,41 +2654,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000067/exhibit991_rnstx2q2026earn.htm",
     "date": "2026-07-28 16:37"
-  },
-  {
-    "company": "Terrestrial Energy Inc. /DE/",
-    "cik": "2019804",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Terrestrial Energy Inc. annonce la nomination de Kathryn McCarthy au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000018/tmb-20260723x8k.htm",
-    "date": "2026-07-28 16:35"
-  },
-  {
-    "company": "Satellogic Inc.",
-    "cik": "1874315",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Satellogic Inc. annonce le depart de son directeur financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1874315/000187431526000028/satl-20260722.htm",
-    "date": "2026-07-28 16:34"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
-    "activite": "emission de consolidations obligataires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000116/fhlbdm-20260722.htm",
-    "date": "2026-07-28 15:03"
   }
 ]
