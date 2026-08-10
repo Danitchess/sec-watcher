@@ -1,5 +1,45 @@
 [
   {
+    "company": "MASTEC INC",
+    "cik": "15615",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MasTec Inc. annonce une emission d'obligations senior de 650 millions de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "650 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/15615/000119312526342507/d165744d8k.htm",
+    "date": "2026-08-10 16:32"
+  },
+  {
+    "company": "Energy Services of America CORP",
+    "cik": "1357971",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Energy Services of America Corporation publie son rapport financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1357971/000110465926093416/tm2622641d1_8k.htm",
+    "date": "2026-08-10 16:31"
+  },
+  {
+    "company": "Onterris, Inc.",
+    "cik": "1643615",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Onterris, Inc. declare un dividende de droits de preference",
+    "activite": "",
+    "chiffres": {
+      "dividende": "105.00 $ par action de preference"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1643615/000119312526342500/ont-20260805.htm",
+    "date": "2026-08-10 16:31"
+  },
+  {
     "company": "ARTS WAY MANUFACTURING CO INC",
     "cik": "7623",
     "form": "8-K",
@@ -2610,41 +2650,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/912061/000143774926024763/ex_967109.htm",
     "date": "2026-07-29 09:10"
-  },
-  {
-    "company": "AeroVironment Inc",
-    "cik": "1368622",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AeroVironment Inc. annonce le depart a la retraite d'un membre de son conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1368622/000110465926087871/tm2621437d1_8k.htm",
-    "date": "2026-07-29 09:10"
-  },
-  {
-    "company": "NOV Inc.",
-    "cik": "1021860",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "NOV Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1021860/000119312526322315/nov-20260728.htm",
-    "date": "2026-07-29 09:06"
-  },
-  {
-    "company": "AUTOMATIC DATA PROCESSING INC",
-    "cik": "8670",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier d'Automatic Data Processing, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867026000025/adp-20260729.htm",
-    "date": "2026-07-29 06:57"
   }
 ]
