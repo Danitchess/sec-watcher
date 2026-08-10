@@ -1,5 +1,47 @@
 [
   {
+    "company": "PECO ENERGY CO",
+    "cik": "78100",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PECO Energy Company emet des obligations pour 750 millions de dollars",
+    "activite": "production et distribution d'energie",
+    "chiffres": {
+      "dividende": "750 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/78100/000007810026000003/exc-20260810.htm",
+    "date": "2026-08-10 14:36"
+  },
+  {
+    "company": "Fidelity Ethereum Fund",
+    "cik": "2000046",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Fidelity Ethereum Fund entre en accord avec des societes de services de custodie",
+    "activite": "Fidelity Ethereum Fund propose des services de custodie et de staking d'ether",
+    "chiffres": {
+      "dividende": "15% des recompenses de staking"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2000046/000119312526342079/ck0002000046-20260807.htm",
+    "date": "2026-08-10 14:24"
+  },
+  {
+    "company": "CLOUDASTRUCTURE, INC.",
+    "cik": "1709628",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cloudastructure, Inc. conclut un accord d'echange avec Streeterville Capital, LLC",
+    "activite": "",
+    "chiffres": {
+      "dividende": "108,332.50$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1709628/000168316826006154/cloud_8k.htm",
+    "date": "2026-08-10 14:17"
+  },
+  {
     "company": "Where Food Comes From, Inc.",
     "cik": "1360565",
     "form": "8-K",
@@ -2607,52 +2649,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2115119/000211511926000022/clbk-20260728.htm",
     "date": "2026-07-28 17:29"
-  },
-  {
-    "company": "Axiom Intelligence Acquisition Corp 1",
-    "cik": "2057030",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Axiom Intelligence Acquisition Corp 1 emet une note promissoire",
-    "activite": "emission d'une note promissoire pour les besoins de trésorerie",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2057030/000121390026082395/ea0299366-8k_axiom1.htm",
-    "date": "2026-07-28 17:28"
-  },
-  {
-    "company": "RUSH ENTERPRISES INC \\TX\\",
-    "cik": "1012019",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Rush Enterprises annonce des resultats positifs pour le deuxieme trimestre 2026",
-    "activite": "exploitation du plus grand reseau de concessionnaires de vehicules commerciaux en Amerique du Nord",
-    "chiffres": {
-      "revenu": "$1.9 milliard",
-      "benefice": "$72.8 million",
-      "bpa": "$0.91",
-      "dividende": "$0.14 par action (+10.5%)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926024701/ex_994467.htm",
-    "date": "2026-07-28 17:27"
-  },
-  {
-    "company": "RENASANT CORP",
-    "cik": "715072",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Renasant Corp annonce des resultats financiers solides pour le deuxieme trimestre 2026",
-    "activite": "banque",
-    "chiffres": {
-      "revenu": "$340,4 millions",
-      "benefice": "$87,1 millions",
-      "bpa": "$0,94",
-      "croissance": "4,7%",
-      "dividende": "$0,24"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/715072/000071507226000067/exhibit991_rnstx2q2026earn.htm",
-    "date": "2026-07-28 16:37"
   }
 ]
