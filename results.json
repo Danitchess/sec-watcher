@@ -1,5 +1,41 @@
 [
   {
+    "company": "BEYOND MEAT, INC.",
+    "cik": "1655210",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Beyond Meat, Inc. a conclu un accord supplementaire",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1655210/000119312526341312/d156122d8k.htm",
+    "date": "2026-08-10 08:04"
+  },
+  {
+    "company": "Outdoor Holding Co",
+    "cik": "1015383",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226036743/ex3-1.htm",
+    "date": "2026-08-10 08:01"
+  },
+  {
+    "company": "CONDUENT Inc",
+    "cik": "1677703",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Conduent Incorporated publie son rapport financier du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000091/cndt-20260810.htm",
+    "date": "2026-08-10 08:01"
+  },
+  {
     "company": "LINCOLN NATIONAL CORP",
     "cik": "59558",
     "form": "8-K",
@@ -2615,41 +2651,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1945619/000168316826005793/kinetic_8k.htm",
     "date": "2026-07-28 09:45"
-  },
-  {
-    "company": "Kinetic Seas Inc.",
-    "cik": "1945619",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Kinetic Seas Incorporated annonce la mise a jour d'un accord de licence",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1945619/000168316826005791/kinetic_8k.htm",
-    "date": "2026-07-28 09:44"
-  },
-  {
-    "company": "Federal Home Loan Bank of Pittsburgh",
-    "cik": "1330399",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Pittsburgh",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette, appeles obligations consolidees, sur les marches financiers",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000119312526319048/ck0001330399-20260722.htm",
-    "date": "2026-07-28 09:41"
-  },
-  {
-    "company": "CONAGRA BRANDS INC.",
-    "cik": "23217",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Conagra Brands annonce le depart a la retraite de son directeur operationnel",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/23217/000002321726000028/tmb-20260724x8k.htm",
-    "date": "2026-07-28 07:32"
   }
 ]
