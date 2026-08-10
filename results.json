@@ -1,5 +1,43 @@
 [
   {
+    "company": "BIP Ventures Evergreen BDC",
+    "cik": "1950572",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un membre du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1950572/000119312526341548/ck0001950572-20260805.htm",
+    "date": "2026-08-10 10:28"
+  },
+  {
+    "company": "Evolution Metals &amp; Technologies Corp.",
+    "cik": "1866226",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Evolution Metals & Technologies Corp. annonce la nomination de Kenji Konishi",
+    "activite": "production de magnetes",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026087062/ea0301347-8k_evolution.htm",
+    "date": "2026-08-10 10:21"
+  },
+  {
+    "company": "MUELLER INDUSTRIES INC",
+    "cik": "89439",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Mueller Industries verse un dividende trimestriel",
+    "activite": "Mueller Industries est une societe industrielle dont les filiales fabriquent des biens essentiels pour des marches tels que la distribution d'air, d'eau, de petrole et de gaz, le confort climatique, la preservation des aliments, la transmission electrique, le medical, l'aerospace et l'automobile",
+    "chiffres": {
+      "dividende": "17,5 cents par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000036/ex-99_1q32026dividend.htm",
+    "date": "2026-08-10 10:17"
+  },
+  {
     "company": "Aspire Biopharma Holdings, Inc.",
     "cik": "1847345",
     "form": "8-K",
@@ -2613,45 +2651,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1901637/000156276226000084/exhibit991.htm",
     "date": "2026-07-28 13:46"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La banque annonce une declaration de dividendes pour le deuxieme trimestre 2026",
-    "activite": "La banque fournit des services financiers a ses membres",
-    "chiffres": {
-      "dividende": "9,50% (annualise)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000137/fhlbc-20260727.htm",
-    "date": "2026-07-28 13:29"
-  },
-  {
-    "company": "Crimson Wine Group, Ltd",
-    "cik": "1562151",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de vote des actionnaires de Crimson Wine Group, Ltd.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1562151/000162828026050043/cwgl-20260723.htm",
-    "date": "2026-07-28 13:21"
-  },
-  {
-    "company": "Autonomix Medical, Inc.",
-    "cik": "1617867",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Autonomix Medical publie un rapport financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "5,1 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1617867/000143774926024597/amix20260728_8k.htm",
-    "date": "2026-07-28 11:36"
   }
 ]
