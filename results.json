@@ -1,5 +1,50 @@
 [
   {
+    "company": "TEAM INC",
+    "cik": "318833",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TEAM INC. annonce ses resultats financiers pour le deuxieme trimestre 2026",
+    "activite": "fournisseur de services industriels specialises",
+    "chiffres": {
+      "revenu": "228,7 M$",
+      "benefice": "-6,8 M$",
+      "bpa": "54,4 M$",
+      "croissance": "-7,8%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/318833/000031883326000053/a8-kex991q2x2026earnings.htm",
+    "date": "2026-08-10 17:30"
+  },
+  {
+    "company": "East West Ave Acquisition Corp.",
+    "cik": "2100704",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de East West Ave Acquisition Corp.",
+    "activite": "La societe est une entreprise de capital-investissement qui vise a effectuer une fusion ou une acquisition avec une ou plusieurs entreprises.",
+    "chiffres": {
+      "dividende": "100,500,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2100704/000149315226036924/ex99-1.htm",
+    "date": "2026-08-10 17:29"
+  },
+  {
+    "company": "Phillips Edison &amp; Company, Inc.",
+    "cik": "1476204",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Phillips Edison & Company, Inc. effectue une offre au comptant pour vendre des actions ordinaires",
+    "activite": "",
+    "chiffres": {
+      "dividende": "400,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1476204/000147620426000042/august2026atmrefresh8-kex51.htm",
+    "date": "2026-08-10 17:27"
+  },
+  {
     "company": "MASTEC INC",
     "cik": "15615",
     "form": "8-K",
@@ -2610,45 +2655,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/910108/000091010826000047/exhibit991-pressreleasedat.htm",
     "date": "2026-07-29 11:11"
-  },
-  {
-    "company": "Bogota Financial Corp.",
-    "cik": "1787414",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bogota Financial Corp. annonce les resultats du vote des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1787414/000094337426000332/bsbk-20260728.htm",
-    "date": "2026-07-29 11:00"
-  },
-  {
-    "company": "PROCTER &amp; GAMBLE Co",
-    "cik": "80424",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Procter & Gamble publie son rapport financier trimestriel et annuel",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000097/pg-20260729.htm",
-    "date": "2026-07-29 10:38"
-  },
-  {
-    "company": "NATURAL HEALTH TRENDS CORP",
-    "cik": "912061",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Natural Health Trends Corp annonce des pertes pour le deuxieme trimestre 2026",
-    "activite": "entreprise de vente directe et e-commerce de produits de soins personnels et de bien-etre",
-    "chiffres": {
-      "revenu": "7,6 M$ (-23%)",
-      "benefice": "-451 000 $",
-      "bpa": "-0,05 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/912061/000143774926024763/ex_967109.htm",
-    "date": "2026-07-29 09:10"
   }
 ]
