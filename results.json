@@ -1,5 +1,43 @@
 [
   {
+    "company": "ARTS WAY MANUFACTURING CO INC",
+    "cik": "7623",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Arts Way Manufacturing Co. Inc. annonce des contrats importants pour son segment de bâtiments modulaires",
+    "activite": "construction de bâtiments modulaires",
+    "chiffres": {
+      "dividende": "19,0 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/7623/000143774926026761/artw20260810_8k.htm",
+    "date": "2026-08-10 15:37"
+  },
+  {
+    "company": "IPC Alternative Real Estate Income Trust, Inc.",
+    "cik": "1959961",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "IPC Alternative Real Estate Income Trust, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526342185/ck0001959961-20260806.htm",
+    "date": "2026-08-10 15:10"
+  },
+  {
+    "company": "LINCOLN EDUCATIONAL SERVICES CORP",
+    "cik": "1286613",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lincoln Educational Services Corporation publie son rapport financier pour le deuxieme trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1286613/000114036126031997/ef20079845_8k.htm",
+    "date": "2026-08-10 15:09"
+  },
+  {
     "company": "PECO ENERGY CO",
     "cik": "78100",
     "form": "8-K",
@@ -2608,46 +2646,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867026000025/adp-20260729.htm",
     "date": "2026-07-29 06:57"
-  },
-  {
-    "company": "Johnson Controls International plc",
-    "cik": "833444",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Johnson Controls International plc publie son rapport financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000083/jci-20260729.htm",
-    "date": "2026-07-29 06:57"
-  },
-  {
-    "company": "Garrett Motion Inc.",
-    "cik": "1735707",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Garrett Motion Inc. annonce des resultats financiers solides pour le deuxieme trimestre 2026",
-    "activite": "fournisseur de technologie automobile et industrielle",
-    "chiffres": {
-      "revenu": "976 millions $",
-      "benefice": "101 millions $",
-      "bpa": "10,3%",
-      "dividende": "0,08 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1735707/000173570726000025/exhibit99_1-2026q2.htm",
-    "date": "2026-07-29 06:56"
-  },
-  {
-    "company": "Columbia Financial, Inc./MD/",
-    "cik": "2115119",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Columbia Financial, Inc. annonce des changements dans son conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2115119/000211511926000022/clbk-20260728.htm",
-    "date": "2026-07-28 17:29"
   }
 ]
