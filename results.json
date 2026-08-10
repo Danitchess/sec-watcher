@@ -1,5 +1,43 @@
 [
   {
+    "company": "HyOrc Corp",
+    "cik": "1070789",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC sans information financiere",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226036791/ex10-1.htm",
+    "date": "2026-08-10 11:49"
+  },
+  {
+    "company": "Greenland Mines Ltd",
+    "cik": "1907223",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Greenland Mines Ltd. annonce l'ajournement d'une reunion speciale des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026087103/ea0301192-8k_greenland.htm",
+    "date": "2026-08-10 11:36"
+  },
+  {
+    "company": "Chase Card Funding LLC",
+    "cik": "1658982",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Chase Card Funding LLC",
+    "activite": "Emission de cartes de credit",
+    "chiffres": {
+      "revenu": "1,458,070 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1658982/000119312526341668/d134948d8k.htm",
+    "date": "2026-08-10 11:26"
+  },
+  {
     "company": "BIP Ventures Evergreen BDC",
     "cik": "1950572",
     "form": "8-K",
@@ -2612,44 +2650,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000116/fhlbdm-20260722.htm",
     "date": "2026-07-28 15:03"
-  },
-  {
-    "company": "Ford Credit Auto Lease Trust 2026-B",
-    "cik": "2144097",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour Ford Credit Auto Lease Trust 2026-B",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2144097/000110465926087481/tm2620301d13_8k.htm",
-    "date": "2026-07-28 14:45"
-  },
-  {
-    "company": "Ford Credit Auto Lease Two LLC",
-    "cik": "1519881",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour Ford Credit Auto Lease Two LLC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1519881/000110465926087481/tm2620301d13_8k.htm",
-    "date": "2026-07-28 14:45"
-  },
-  {
-    "company": "USCB FINANCIAL HOLDINGS, INC.",
-    "cik": "1901637",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "USCB Financial Holdings, Inc. presente ses resultats financiers et sa strategie de croissance",
-    "activite": "Banque commerciale et services financiers",
-    "chiffres": {
-      "bpa": "1.26%",
-      "dividende": "0.49$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1901637/000156276226000084/exhibit991.htm",
-    "date": "2026-07-28 13:46"
   }
 ]
