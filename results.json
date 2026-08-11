@@ -1,5 +1,45 @@
 [
   {
+    "company": "Monroe Capital Income Plus Corp",
+    "cik": "1742313",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport d'assemblée générale annuelle de Monroe Capital Income Plus Corporation",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000048/mcip-20260811.htm",
+    "date": "2026-08-11 16:36"
+  },
+  {
+    "company": "JONES SODA CO.",
+    "cik": "1083522",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Jones Soda Co. annonce la cloture d'une placement prive",
+    "activite": "manufacture et distribution de sodas artisanaux",
+    "chiffres": {
+      "dividende": "200,155$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1083522/000149315226037154/ex99-1.htm",
+    "date": "2026-08-11 16:36"
+  },
+  {
+    "company": "Carter Bankshares, Inc.",
+    "cik": "1829576",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Carter Bankshares, Inc. etablit un plan de reinvestissement des dividendes et d'achat d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,000,000 actions"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1829576/000182957626000080/care-20260811.htm",
+    "date": "2026-08-11 16:36"
+  },
+  {
     "company": "BERKSHIRE HATHAWAY INC",
     "cik": "1067983",
     "form": "8-K",
@@ -2617,45 +2657,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1785494/000114036126030226/ef20079092_8k.htm",
     "date": "2026-07-30 14:44"
-  },
-  {
-    "company": "AIRWA INC.",
-    "cik": "1674440",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "AiRWA Inc. annonce l'acquisition de Best Life",
-    "activite": "fourniture de services d'intelligence artificielle et de solutions de finance numerique",
-    "chiffres": {
-      "dividende": "30 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1674440/000149315226035417/ex99-1.htm",
-    "date": "2026-07-30 13:53"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "375,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000140/fhlba-20260727.htm",
-    "date": "2026-07-30 13:45"
-  },
-  {
-    "company": "Gouverneur Bancorp, Inc./MD/",
-    "cik": "1978811",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Gouverneur Bancorp, Inc. publie son rapport financier pour les trois et neuf mois clos le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1978811/000197881126000008/tmb-20260729x8k.htm",
-    "date": "2026-07-30 13:28"
   }
 ]
