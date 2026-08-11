@@ -1,5 +1,41 @@
 [
   {
+    "company": "Vireo Growth Inc.",
+    "cik": "1771706",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vireo Growth Inc. annonce une fusion avec Planet 13 Holdings Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926093723/vreof-20260811x8k.htm",
+    "date": "2026-08-11 07:11"
+  },
+  {
+    "company": "Hemab Therapeutics Holdings, Inc.",
+    "cik": "2114044",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hemab Therapeutics Holdings, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2114044/000119312526343421/d180684d8k.htm",
+    "date": "2026-08-11 07:11"
+  },
+  {
+    "company": "CVRx, Inc.",
+    "cik": "1235912",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un dirigeant de CVRx, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1235912/000110465926093721/tm2622791d1_8k.htm",
+    "date": "2026-08-11 07:09"
+  },
+  {
     "company": "Artificial Intelligence Technology Solutions Inc.",
     "cik": "1498148",
     "form": "8-K",
@@ -2609,47 +2645,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2038433/000188852426013969/bmo245c7_20-1.htm",
     "date": "2026-07-29 13:54"
-  },
-  {
-    "company": "Citigroup Commercial Mortgage Trust 2026-MFAM1",
-    "cik": "2143199",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission de certificats de placement hypothecaire",
-    "activite": "emission et vente de certificats de placement hypothecaire",
-    "chiffres": {
-      "dividende": "706,575,000$ et 110,275,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2143199/000153949726002023/n5995_x11-8k.htm",
-    "date": "2026-07-29 13:53"
-  },
-  {
-    "company": "PERMIAN BASIN ROYALTY TRUST",
-    "cik": "319654",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'une fusion potentielle avec Blackbeard Holdings",
-    "activite": "exploitation de ressources petrolieres et gazières",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526323159/2026_pbt_8-k_sftvst_bbo_.htm",
-    "date": "2026-07-29 13:48"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Federal Home Loan Bank of Dallas annonce ses resultats pour le deuxieme trimestre 2026",
-    "activite": "La societe fournit des solutions de financement pour le logement et le developpement communautaire",
-    "chiffres": {
-      "revenu": "340,436 $",
-      "benefice": "245,378 $",
-      "dividende": "34,4 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000136/earningsreleaseq22026.htm",
-    "date": "2026-07-29 12:46"
   }
 ]
