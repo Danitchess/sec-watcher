@@ -1,5 +1,49 @@
 [
   {
+    "company": "NATIONAL HEALTHCARE CORP",
+    "cik": "1047335",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NHC annonce un dividende trimestriel de 67 cents par action",
+    "activite": "exploitation de facilites de soins de sante, y compris des maisons de retraite et des hopitaux",
+    "chiffres": {
+      "dividende": "67 cents"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1047335/000143774926026960/ex_1000190.htm",
+    "date": "2026-08-11 14:39"
+  },
+  {
+    "company": "NATIONAL HEALTHCARE CORP",
+    "cik": "1047335",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "NATIONAL HEALTHCARE CORP annonce une augmentation de ses revenus et de son benefice pour le deuxieme trimestre 2026",
+    "activite": "NATIONAL HEALTHCARE CORP exploite des etablissements de soins de sante pour personnes agees, y compris des foyers de soins infirmiers, des communautes de vie assistee et des hopitaux de sante mentale",
+    "chiffres": {
+      "revenu": "408,025,000 $ (+8,8%)",
+      "benefice": "40,319,000 $",
+      "bpa": "2,54 $",
+      "croissance": "7,2%",
+      "dividende": "0,67 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1047335/000143774926026957/ex_1000196.htm",
+    "date": "2026-08-11 14:38"
+  },
+  {
+    "company": "Fidelity Core Real Estate Fund",
+    "cik": "1953520",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement dans l'equipe de direction",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1953520/000119312526344215/ck0001953520-20260810.htm",
+    "date": "2026-08-11 14:37"
+  },
+  {
     "company": "AUBURN NATIONAL BANCORPORATION, INC",
     "cik": "750574",
     "form": "8-K",
@@ -2618,43 +2662,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/824142/000082414226000048/aaon-20260728.htm",
     "date": "2026-07-30 11:47"
-  },
-  {
-    "company": "Stewards, Inc.",
-    "cik": "1795851",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de pret entre Block 40 Property, LLC et VMC CRE Master Lending Upper REIT LLC",
-    "activite": "Block 40 Property, LLC est une societe immobiliere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000236/ex10_1.htm",
-    "date": "2026-07-30 10:36"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Chicago publie un rapport 8-K sur la creation d'obligations consolidees",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette, appeles obligations consolidees, sur les marches financiers",
-    "chiffres": {
-      "dividende": "750,000,000$, 500,000,000$, 15,000,000$, 25,000,000$, 1,000,000,000$, 10,000,000$, 20,000,000$, 38,510,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000142/fhlbc-20260727.htm",
-    "date": "2026-07-30 10:36"
-  },
-  {
-    "company": "OLD DOMINION ELECTRIC COOPERATIVE",
-    "cik": "885568",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Election d'un nouveau membre au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/885568/000119312526325157/ck0000885568-20260728.htm",
-    "date": "2026-07-30 10:31"
   }
 ]
