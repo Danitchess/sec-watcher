@@ -1,5 +1,43 @@
 [
   {
+    "company": "Inuvo, Inc.",
+    "cik": "829323",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Inuvo, Inc. annonce des changements dans son equipe de direction",
+    "activite": "",
+    "chiffres": {
+      "dividende": "62,500 $ par mois"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/829323/000165495426007482/inuvo_8k.htm",
+    "date": "2026-08-11 17:29"
+  },
+  {
+    "company": "INTELLIGENT BIO SOLUTIONS INC.",
+    "cik": "1725430",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Intelligent Bio Solutions annonce la completion de son etude de comparaison de methode pour le systeme de depistage de drogues Intelligent Fingerprinting",
+    "activite": "developpement de solutions de depistage de drogues non invasives",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226037206/ex99-1.htm",
+    "date": "2026-08-11 17:29"
+  },
+  {
+    "company": "TOFUTTI BRANDS INC",
+    "cik": "730349",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "L'entreprise a trouve un nouvel accord de co-packing pour ses produits",
+    "activite": "production de produits alimentaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/730349/000149315226037205/form8-k.htm",
+    "date": "2026-08-11 17:29"
+  },
+  {
     "company": "Monroe Capital Income Plus Corp",
     "cik": "1742313",
     "form": "8-K",
@@ -2617,45 +2655,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/883948/000110465926088743/tm2621600d1_8k.htm",
     "date": "2026-07-30 16:37"
-  },
-  {
-    "company": "Bridgecrest Lending Auto Securitization Trust 2026-3",
-    "cik": "2138886",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bridgecrest Lending Auto Securitization Trust 2026-3 a emis des notes pour financer des contrats de vente de vehicules",
-    "activite": "emission de notes pour financer des contrats de vente de vehicules",
-    "chiffres": {
-      "dividende": "62,170,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2138886/000110465926088625/tm2620097d14_8k.htm",
-    "date": "2026-07-30 14:49"
-  },
-  {
-    "company": "Bridgecrest Auto Funding LLC",
-    "cik": "1974820",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bridgecrest Auto Funding LLC a conclu un accord de vente avec Bridgecrest Acceptance Corporation",
-    "activite": "Bridgecrest Auto Funding LLC est impliquee dans le financement automobile",
-    "chiffres": {
-      "dividende": "62,170,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926088625/tm2620097d14_8k.htm",
-    "date": "2026-07-30 14:49"
-  },
-  {
-    "company": "Woodbridge Liquidation Trust",
-    "cik": "1785494",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le Woodbridge Liquidation Trust prolonge sa date de termination",
-    "activite": "gestion de liquidation",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1785494/000114036126030226/ef20079092_8k.htm",
-    "date": "2026-07-30 14:44"
   }
 ]
