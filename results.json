@@ -1,5 +1,45 @@
 [
   {
+    "company": "AUBURN NATIONAL BANCORPORATION, INC",
+    "cik": "750574",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Auburn National Bancorporation, Inc. annonce son dividende trimestriel",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/750574/000119312526344014/d138330d8k.htm",
+    "date": "2026-08-11 13:32"
+  },
+  {
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "cik": "1331754",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations consolidées",
+    "activite": "Emission d'obligations consolidées pour le financement de diverses activités",
+    "chiffres": {
+      "dividende": "250,000,000$ et 200,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000165/fhlbi-20260805.htm",
+    "date": "2026-08-11 13:05"
+  },
+  {
+    "company": "Federal Home Loan Bank of Cincinnati",
+    "cik": "1326771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Cincinnati",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "4.500 $ 7,000,000, 4.500 $ 4,000,000, 4.750 $ 5,000,000, 5.220 $ 11,500,000, 5.890 $ 5,000,000, 4.480 $ 11,500,000, 5.800 $ 1,500,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000132/fhlbcin-20260807.htm",
+    "date": "2026-08-11 13:00"
+  },
+  {
     "company": "Bluerock Homes Trust, Inc.",
     "cik": "1903382",
     "form": "8-K",
@@ -2616,41 +2656,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/885568/000119312526325157/ck0000885568-20260728.htm",
     "date": "2026-07-30 10:31"
-  },
-  {
-    "company": "Mastercard Inc",
-    "cik": "1141391",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Mastercard Incorporated publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000081/ma-20260730.htm",
-    "date": "2026-07-30 08:07"
-  },
-  {
-    "company": "ALNYLAM PHARMACEUTICALS, INC.",
-    "cik": "1178670",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Alnylam Pharmaceuticals, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
-    "date": "2026-07-30 08:06"
-  },
-  {
-    "company": "Replimune Group, Inc.",
-    "cik": "1737953",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Replimune Group, Inc. annonce une reunion avec la FDA pour discuter de son application de licence biologique",
-    "activite": "developpement de traitements contre le melanome avance",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1737953/000110465926088481/tm2621663d1_8k.htm",
-    "date": "2026-07-30 08:06"
   }
 ]
