@@ -1,5 +1,49 @@
 [
   {
+    "company": "Coya Therapeutics, Inc.",
+    "cik": "1835022",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Coya Therapeutics, Inc. publie un rapport financier pour le trimestre clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526343473/coya-20260811.htm",
+    "date": "2026-08-11 08:03"
+  },
+  {
+    "company": "Imunon, Inc.",
+    "cik": "749647",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Imunon publie des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "developpement de therapies innovantes contre le cancer",
+    "chiffres": {
+      "dividende": "2,8 millions $ de perte nette pour le deuxieme trimestre 2026, 7,1 millions $ de perte nette pour le premier semestre 2026, 10 millions $ de financement"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226036985/ex99-1.htm",
+    "date": "2026-08-11 08:01"
+  },
+  {
+    "company": "SMITHFIELD FOODS INC",
+    "cik": "91388",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Smithfield Foods annonce des resultats financiers records pour le premier semestre de l'annee fiscale 2026",
+    "activite": "leader dans les viandes emballees et le porc frais",
+    "chiffres": {
+      "revenu": "$3,7 milliards",
+      "benefice": "$290 millions",
+      "bpa": "7,8%",
+      "croissance": "11,6%",
+      "dividende": "$0,3125 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/91388/000009138826000052/q22026pressrelease.htm",
+    "date": "2026-08-11 08:01"
+  },
+  {
     "company": "Vireo Growth Inc.",
     "cik": "1771706",
     "form": "8-K",
@@ -2607,43 +2651,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1911066/000191106626000091/ncpif-20260729.htm",
     "date": "2026-07-29 15:34"
-  },
-  {
-    "company": "VenHub Global, Inc.",
-    "cik": "1972234",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "VenHub Global, Inc. a augmente son nombre d'actions autorisees",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1972234/000121390026082767/ea0299695-8k_venhub.htm",
-    "date": "2026-07-29 15:32"
-  },
-  {
-    "company": "Nissan Auto Lease Trust 2026-B",
-    "cik": "2141529",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations par Nissan Auto Lease Trust 2026-B",
-    "activite": "Emission et vente d'obligations adossees a des contrats de location de vehicules",
-    "chiffres": {
-      "dividende": "$1,289,740,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2141529/000119312526323489/d112051d8k.htm",
-    "date": "2026-07-29 15:22"
-  },
-  {
-    "company": "BMO 2024-5C7 Mortgage Trust",
-    "cik": "2038433",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "BMO 2024-5C8 Mortgage Trust nomme un nouveau special servicer",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2038433/000188852426013969/bmo245c7_20-1.htm",
-    "date": "2026-07-29 13:54"
   }
 ]
