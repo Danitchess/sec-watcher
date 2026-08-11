@@ -1,5 +1,43 @@
 [
   {
+    "company": "Artificial Intelligence Technology Solutions Inc.",
+    "cik": "1498148",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe Artificial Intelligence Technology Solutions Inc. annonce une nouvelle commande de son vehicule de patrouille autonome ROAMEO",
+    "activite": "developpement et operation de solutions de securite et de productivite basees sur l'intelligence artificielle pour les entreprises",
+    "chiffres": {
+      "dividende": "50 milliards $ (US)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326004160/exhibit99-1.htm",
+    "date": "2026-08-11 06:01"
+  },
+  {
+    "company": "Crane NXT, Co.",
+    "cik": "25445",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Crane NXT, Co. participera a une conference technologique",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/25445/000002544526000038/cxt-20260811.htm",
+    "date": "2026-08-11 06:00"
+  },
+  {
+    "company": "Flowco Holdings Inc.",
+    "cik": "2035149",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Flowco Holdings Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526343188/floc-20260811.htm",
+    "date": "2026-08-11 06:00"
+  },
+  {
     "company": "TEAM INC",
     "cik": "318833",
     "form": "8-K",
@@ -2613,47 +2651,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000136/earningsreleaseq22026.htm",
     "date": "2026-07-29 12:46"
-  },
-  {
-    "company": "Cycurion, Inc.",
-    "cik": "1868419",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Cycurion, Inc. annonce des difficultes dans la realisation d'une fusion",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226035138/form8-k.htm",
-    "date": "2026-07-29 12:41"
-  },
-  {
-    "company": "PROCACCIANTI HOTEL REIT, INC.",
-    "cik": "1692345",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Renouvellement d'un contrat d'advisory agreement",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1692345/000110465926088010/tm2621503d1_8k.htm",
-    "date": "2026-07-29 12:25"
-  },
-  {
-    "company": "LXP Industrial Trust",
-    "cik": "910108",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "LXP Industrial Trust annonce ses resultats pour le deuxieme trimestre 2026",
-    "activite": "LXP Industrial Trust est un fonds de placement immobilier (REIT) qui se concentre sur les investissements dans des entrepots et des distributions de classe A",
-    "chiffres": {
-      "revenu": "$88.1 million",
-      "benefice": "$(1.6) million",
-      "bpa": "$(0.03) par action",
-      "croissance": "5.0%",
-      "dividende": "$0.70 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/910108/000091010826000047/exhibit991-pressreleasedat.htm",
-    "date": "2026-07-29 11:11"
   }
 ]
