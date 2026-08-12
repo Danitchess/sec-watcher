@@ -1,5 +1,45 @@
 [
   {
+    "company": "Workhorse Group Inc.",
+    "cik": "1425287",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Workhorse Group Inc. modifie son accord de credit",
+    "activite": "",
+    "chiffres": {
+      "dividende": "40,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1425287/000162828026056273/ex-101projectmotorxamendme.htm",
+    "date": "2026-08-12 16:34"
+  },
+  {
+    "company": "Direct Digital Holdings, Inc.",
+    "cik": "1880613",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de Direct Digital Holdings, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1880613/000188061326000095/drct-20260812.htm",
+    "date": "2026-08-12 16:34"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "cik": "1692951",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cottonwood Communities, Inc. annonce une offre privée de ses actions préférées convertibles",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$200,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000137/cci-20260806.htm",
+    "date": "2026-08-12 16:34"
+  },
+  {
     "company": "Mediaco Holding Inc.",
     "cik": "1784254",
     "form": "8-K",
@@ -2625,43 +2665,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1807120/000119312526329570/dsgn-20260803.htm",
     "date": "2026-08-03 08:03"
-  },
-  {
-    "company": "Marpai, Inc.",
-    "cik": "1844392",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Marpai, Inc. annonce une placement prive de 12 millions de dollars",
-    "activite": "Marpai, Inc. est une societe qui emet des actions et des obligations",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1844392/000121390026084129/ea0300139-8k_marpai.htm",
-    "date": "2026-07-31 17:29"
-  },
-  {
-    "company": "Calisa Acquisition Corp",
-    "cik": "2026767",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de la societe Calisa Acquisition Corp",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2026767/000149315226035685/ex99-1.htm",
-    "date": "2026-07-31 17:28"
-  },
-  {
-    "company": "ChargePoint Holdings, Inc.",
-    "cik": "1777393",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "ChargePoint Holdings, Inc. annonce une reorganisation avec une reduction de 10% de son effectif",
-    "activite": "ChargePoint Holdings, Inc. est une entreprise qui propose des solutions de recharge pour vehicules electriques",
-    "chiffres": {
-      "revenu": "$100 million a $110 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1777393/000177739326000057/chpt-20260728.htm",
-    "date": "2026-07-31 17:28"
   }
 ]
