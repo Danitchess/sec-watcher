@@ -1,5 +1,48 @@
 [
   {
+    "company": "Rimini Street, Inc.",
+    "cik": "1635282",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rimini Street nomme un nouveau directeur general",
+    "activite": "",
+    "chiffres": {
+      "dividende": "460,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000060/rmni-20260812.htm",
+    "date": "2026-08-12 08:50"
+  },
+  {
+    "company": "DYADIC INTERNATIONAL INC",
+    "cik": "1213809",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Dyadic International publie ses résultats financiers pour le deuxième trimestre 2026, montrant des progrès dans la commercialisation de produits et la mise en place de partenariats stratégiques.",
+    "activite": "Dyadic est une entreprise de biotechnologie produisant des protéines et des enzymes pour diverses applications commerciales.",
+    "chiffres": {
+      "revenu": "$961,138",
+      "benefice": "-$2,123,884",
+      "bpa": "-$0,06",
+      "croissance": "-0,6%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226037257/ex99-1.htm",
+    "date": "2026-08-12 08:45"
+  },
+  {
+    "company": "PodcastOne, Inc.",
+    "cik": "1940177",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PodcastOne, Inc. publie son rapport financier pour le premier trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026088073/ea0301725-8k_podcast.htm",
+    "date": "2026-08-12 08:45"
+  },
+  {
     "company": "Xilio Therapeutics, Inc.",
     "cik": "1840233",
     "form": "8-K",
@@ -2618,47 +2661,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1819974/000119312526327137/d49031d8k.htm",
     "date": "2026-07-31 09:00"
-  },
-  {
-    "company": "INOVIO PHARMACEUTICALS, INC.",
-    "cik": "1055726",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Inovio Pharmaceuticals, Inc. annonce une offre publique de 21 millions d'actions et de warrants",
-    "activite": "developpement de produits pharmaceutiques",
-    "chiffres": {
-      "dividende": "18,3 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526326785/d253972d8k.htm",
-    "date": "2026-07-31 07:23"
-  },
-  {
-    "company": "TENAX THERAPEUTICS, INC.",
-    "cik": "34956",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Tenax Therapeutics, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/34956/000119312526326784/d90330d8k.htm",
-    "date": "2026-07-31 07:23"
-  },
-  {
-    "company": "TXNM ENERGY INC",
-    "cik": "1108426",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "TXNM Energy annonce des résultats positifs pour le deuxième trimestre 2026",
-    "activite": "fourniture d'énergie à plus de 800 000 foyers et entreprises au Texas et au Nouveau-Mexique",
-    "chiffres": {
-      "benefice": "71,3 M$",
-      "bpa": "0,64 $",
-      "dividende": "61,25 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000046/ex99107312026earningsrelea.htm",
-    "date": "2026-07-31 07:13"
   }
 ]
