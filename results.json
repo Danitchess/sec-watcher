@@ -1,5 +1,43 @@
 [
   {
+    "company": "AMERICAN EXPRESS CO",
+    "cik": "4962",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Express Company emet des actions preferentielles de serie E",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$1,000,000 par action de serie D Preferred Shares"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000338/axp-20260812.htm",
+    "date": "2026-08-12 17:29"
+  },
+  {
+    "company": "BioStem Technologies, Inc.",
+    "cik": "1658678",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de BioStem Technologies, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1658678/000119312526347211/bsem-20260812.htm",
+    "date": "2026-08-12 17:27"
+  },
+  {
+    "company": "Shepherd&#39;s Finance, LLC",
+    "cik": "1544190",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": " Depot SEC de type 8-K pour Shepherd's Finance, LLC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1544190/000149315226037454/ex16-1.htm",
+    "date": "2026-08-12 17:25"
+  },
+  {
     "company": "Workhorse Group Inc.",
     "cik": "1425287",
     "form": "8-K",
@@ -2627,43 +2665,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1514416/000151441626000060/band-20260803.htm",
     "date": "2026-08-03 10:31"
-  },
-  {
-    "company": "Autolus Therapeutics plc",
-    "cik": "1730463",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Autolus Therapeutics plc annonce une augmentation de ses prévisions de revenu pour 2026",
-    "activite": "développement de traitements contre le cancer et les maladies auto-immunes",
-    "chiffres": {
-      "revenu": "140-150 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000112/autl-20260803.htm",
-    "date": "2026-08-03 08:11"
-  },
-  {
-    "company": "Cohen &amp; Co Inc.",
-    "cik": "1270436",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cohen & Co Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1270436/000110465926089490/tm2621624d1_8k.htm",
-    "date": "2026-08-03 08:08"
-  },
-  {
-    "company": "Design Therapeutics, Inc.",
-    "cik": "1807120",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Design Therapeutics, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1807120/000119312526329570/dsgn-20260803.htm",
-    "date": "2026-08-03 08:03"
   }
 ]
