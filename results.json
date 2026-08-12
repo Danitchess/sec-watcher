@@ -1,5 +1,46 @@
 [
   {
+    "company": "Xilio Therapeutics, Inc.",
+    "cik": "1840233",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Xilio Therapeutics, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526345753/xlo-20260812.htm",
+    "date": "2026-08-12 07:35"
+  },
+  {
+    "company": "Altimmune, Inc.",
+    "cik": "1326190",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Altimmune, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1326190/000132619026000049/alt-20260812x8k.htm",
+    "date": "2026-08-12 07:33"
+  },
+  {
+    "company": "Arbutus Biopharma Corp",
+    "cik": "1447028",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Arbutus Biopharma Corp annonce des resultats financiers solides pour le deuxieme trimestre 2026",
+    "activite": "developpement de therapeutiques contre les maladies infectieuses",
+    "chiffres": {
+      "revenu": "1,0 million",
+      "benefice": "-5,1 million",
+      "bpa": "-0,03",
+      "dividende": "jusqu'a 230 millions"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1447028/000117184326005442/exh_991.htm",
+    "date": "2026-08-12 07:31"
+  },
+  {
     "company": "Kontoor Brands, Inc.",
     "cik": "1760965",
     "form": "8-K",
@@ -2619,43 +2660,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000046/ex99107312026earningsrelea.htm",
     "date": "2026-07-31 07:13"
-  },
-  {
-    "company": "Glucotrack, Inc.",
-    "cik": "1506983",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "L'entreprise annonce des progres dans le developpement de son traitement LT-100",
-    "activite": "developpement de traitements therapeutiques et de technologies pour les personnes atteintes de diabete",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226035503/ex99-1.htm",
-    "date": "2026-07-30 17:29"
-  },
-  {
-    "company": "DT Cloud Star Acquisition Corp",
-    "cik": "2017950",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "La societe DT Cloud Star Acquisition Corp. fait face a une delisting de ses securites",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2017950/000149315226035502/form8-k.htm",
-    "date": "2026-07-30 17:28"
-  },
-  {
-    "company": "COLUMBIA BANKING SYSTEM, INC.",
-    "cik": "887343",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau membre au conseil d'administration",
-    "activite": "",
-    "chiffres": {
-      "dividende": "100 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000167/colb-20260728.htm",
-    "date": "2026-07-30 17:27"
   }
 ]
