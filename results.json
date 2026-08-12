@@ -1,5 +1,47 @@
 [
   {
+    "company": "Kontoor Brands, Inc.",
+    "cik": "1760965",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Kontoor Brands, Inc. annonce des résultats trimestriels positifs avec une augmentation de 19% du chiffre d'affaires",
+    "activite": "Conception et vente de vêtements sous les marques Wrangler et Helly Hansen",
+    "chiffres": {
+      "revenu": "$584 million (+19%)",
+      "benefice": "$91 million",
+      "bpa": "$1.03",
+      "croissance": "12 à 13%",
+      "dividende": "$0.53 par action"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000055/a2026q2ktberexhibit991.htm",
+    "date": "2026-08-12 06:51"
+  },
+  {
+    "company": "T1 Energy Inc.",
+    "cik": "1992243",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "T1 Energy Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026088022/ea0301615-8k_t1energy.htm",
+    "date": "2026-08-12 06:50"
+  },
+  {
+    "company": "Liquidia Corp",
+    "cik": "1819576",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Liquidia Corp publie son rapport financier pour le trimestre clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926094411/tm2622888d1_8k.htm",
+    "date": "2026-08-12 06:45"
+  },
+  {
     "company": "Inuvo, Inc.",
     "cik": "829323",
     "form": "8-K",
@@ -2615,45 +2657,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000167/colb-20260728.htm",
     "date": "2026-07-30 17:27"
-  },
-  {
-    "company": "COASTAL FINANCIAL CORP",
-    "cik": "1437958",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Modification des statuts de Coastal Financial Corporation",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1437958/000143795826000056/ccb-amendedbylawsfor8xk.htm",
-    "date": "2026-07-30 16:39"
-  },
-  {
-    "company": "Antares Private Credit Fund",
-    "cik": "1976336",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Antares Private Credit Fund declare une distribution reguliere",
-    "activite": "offre publique continue de parts sociales",
-    "chiffres": {
-      "dividende": "$0.1880 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1976336/000119312526326279/ck0001976336-20260728.htm",
-    "date": "2026-07-30 16:39"
-  },
-  {
-    "company": "Atlantic Union Bankshares Corp",
-    "cik": "883948",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Atlantic Union Bankshares Corp. a complete une offre publique de 250 millions de dollars",
-    "activite": "banque",
-    "chiffres": {
-      "dividende": "6,25%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/883948/000110465926088743/tm2621600d1_8k.htm",
-    "date": "2026-07-30 16:37"
   }
 ]
