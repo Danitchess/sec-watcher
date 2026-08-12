@@ -1,5 +1,47 @@
 [
   {
+    "company": "TABLE TRAC INC",
+    "cik": "1090396",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Table Trac Inc. accorde des options d'achat d'actions a son CEO",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1090396/000143774926027198/tbltrc20260812_8k.htm",
+    "date": "2026-08-12 11:18"
+  },
+  {
+    "company": "Curaleaf Holdings, Inc.",
+    "cik": "1756770",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Curaleaf annonce son intention de lancer une offre publique d'achat pour acquérir Aurora Cannabis",
+    "activite": "fournisseur de produits de cannabis",
+    "chiffres": {
+      "revenu": "1,5 milliard $",
+      "benefice": "350 millions $ (EBITDA ajusté)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1756770/000162828026056012/a2026-08x11xcuraleafxann.htm",
+    "date": "2026-08-12 11:03"
+  },
+  {
+    "company": "NATURAL GAS SERVICES GROUP INC",
+    "cik": "1084991",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe NATURAL GAS SERVICES GROUP INC annonce des resultats records pour le deuxieme trimestre 2026",
+    "activite": "fourniture de services de compression de gaz naturel",
+    "chiffres": {
+      "revenu": "120 millions $",
+      "croissance": "30%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000086/a2q2026conferncecallscri.htm",
+    "date": "2026-08-12 11:02"
+  },
+  {
     "company": "Monopar Therapeutics",
     "cik": "1645469",
     "form": "8-K",
@@ -2624,45 +2666,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/97216/000009721626000124/exhibit991-revgroupq12026x.htm",
     "date": "2026-07-31 13:01"
-  },
-  {
-    "company": "LOUISIANA-PACIFIC CORP",
-    "cik": "60519",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Louisiana-Pacific Corporation annonce un dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,30 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/60519/000006051926000030/lpx-20260731.htm",
-    "date": "2026-07-31 11:00"
-  },
-  {
-    "company": "TIAA REAL ESTATE ACCOUNT",
-    "cik": "946155",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de TIAA Real Estate Account",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000088/tiaareal-20260731.htm",
-    "date": "2026-07-31 10:56"
-  },
-  {
-    "company": "Principal Credit Real Estate Income Trust",
-    "cik": "2026448",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe declare des distributions pour ses actionnaires",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,1700 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2026448/000162828026051290/pcrei-20260731.htm",
-    "date": "2026-07-31 10:44"
   }
 ]
