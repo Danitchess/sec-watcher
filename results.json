@@ -1,5 +1,17 @@
 [
   {
+    "company": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "ABVC BIOPHARMA, INC. retarde la distribution d'actions",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1173313/000121390026088165/ea0301755-8ka1_abvc.htm",
+    "date": "2026-08-12 11:50"
+  },
+  {
     "company": "TABLE TRAC INC",
     "cik": "1090396",
     "form": "8-K",
@@ -2649,22 +2661,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000130/ibkr-20260731.htm",
     "date": "2026-07-31 13:02"
-  },
-  {
-    "company": "TEREX CORP",
-    "cik": "97216",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de REV Group, Inc. pour le premier trimestre 2026",
-    "activite": "fabrication et vente de vehicules speciaux",
-    "chiffres": {
-      "revenu": "552,1 M$",
-      "benefice": "13,3 M$",
-      "bpa": "0,27 $",
-      "dividende": "0,06 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/97216/000009721626000124/exhibit991-revgroupq12026x.htm",
-    "date": "2026-07-31 13:01"
   }
 ]
