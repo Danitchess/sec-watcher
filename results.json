@@ -1,5 +1,33 @@
 [
   {
+    "company": "APPlife Digital Solutions Inc",
+    "cik": "1755101",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "APPlife Digital Solutions Inc. a emis une obligation convertible",
+    "activite": "",
+    "chiffres": {
+      "dividende": "170,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1755101/000109690626001208/alds-20260805_8-k.htm",
+    "date": "2026-08-12 13:36"
+  },
+  {
+    "company": "IIOT-OXYS, Inc.",
+    "cik": "1290658",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "IIOT-OXYS, Inc. annonce une modification de son accord d'achat de titres avec GHS Investments, LLC",
+    "activite": "",
+    "chiffres": {
+      "dividende": "37 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1290658/000168316826006251/iiot_8k.htm",
+    "date": "2026-08-12 13:30"
+  },
+  {
     "company": "Starwood Real Estate Income Trust, Inc.",
     "cik": "1711929",
     "form": "8-K",
@@ -2637,29 +2665,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2128045/000121390026083983/ea0299957-8k_bleichroeder3.htm",
     "date": "2026-07-31 16:15"
-  },
-  {
-    "company": "SB FINANCIAL GROUP, INC.",
-    "cik": "767405",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier du deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/767405/000121390026083848/ea0300050-8k_sbfinancial.htm",
-    "date": "2026-07-31 14:41"
-  },
-  {
-    "company": "Greater Cannabis Company, Inc.",
-    "cik": "1695473",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1695473/000149315226035596/ex3-1.htm",
-    "date": "2026-07-31 14:18"
   }
 ]
