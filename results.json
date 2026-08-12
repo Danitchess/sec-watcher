@@ -1,5 +1,43 @@
 [
   {
+    "company": "Starwood Real Estate Income Trust, Inc.",
+    "cik": "1711929",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Starwood Real Estate Income Trust, Inc. annonce l'ajournement de son assemblee annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1711929/000119312526346366/ck0001711929-20260811.htm",
+    "date": "2026-08-12 13:14"
+  },
+  {
+    "company": "Bluerock Homes Trust, Inc.",
+    "cik": "1903382",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Bluerock Homes Trust, Inc. annonce la disposition de 21 unites residentielles",
+    "activite": "Bluerock Homes Trust, Inc. est une societe immobiliere qui investit dans des unites residentielles",
+    "chiffres": {
+      "dividende": "7,1 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1903382/000110465926094678/tm2622939d1_8k.htm",
+    "date": "2026-08-12 12:41"
+  },
+  {
+    "company": "Honda Auto Receivables 2026-3 Owner Trust",
+    "cik": "2143476",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Honda Auto Receivables 2026-3 Owner Trust publie un rapport 8-K",
+    "activite": "emission de notes adossees a des creances",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2143476/000110465926094677/tm2620484d9_8k.htm",
+    "date": "2026-08-12 12:41"
+  },
+  {
     "company": "ABVC BIOPHARMA, INC.",
     "cik": "1173313",
     "form": "8-K",
@@ -2623,43 +2661,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1695473/000149315226035596/ex3-1.htm",
     "date": "2026-07-31 14:18"
-  },
-  {
-    "company": "EQT Exeter Real Estate Income Trust, Inc.",
-    "cik": "1946997",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "EQT Exeter Real Estate Income Trust, Inc. publie un rapport 8-K",
-    "activite": "gestion de placements immobiliers",
-    "chiffres": {
-      "dividende": "0,04326 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526328039/ck0001946997-20260731.htm",
-    "date": "2026-07-31 13:51"
-  },
-  {
-    "company": "Interactive Brokers Group, Inc.",
-    "cik": "1381197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Interactive Brokers Group, Inc. depose un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000135/ibkr-20260731.htm",
-    "date": "2026-07-31 13:14"
-  },
-  {
-    "company": "Interactive Brokers Group, Inc.",
-    "cik": "1381197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Interactive Brokers Group, Inc. depose un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000130/ibkr-20260731.htm",
-    "date": "2026-07-31 13:02"
   }
 ]
