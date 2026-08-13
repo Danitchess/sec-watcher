@@ -1,5 +1,31 @@
 [
   {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations consolidées",
+    "activite": "La société obtient la plupart de ses fonds par la vente de titres de dette appelés obligations consolidées",
+    "chiffres": {
+      "dividende": "15 000 000 $, 10 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000160/fhlbbost-20260811.htm",
+    "date": "2026-08-13 14:49"
+  },
+  {
+    "company": "ECO SCIENCE SOLUTIONS, INC.",
+    "cik": "1490873",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Eco Science Solutions, Inc. change d'auditeur",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1490873/000147793226004974/essi_8k.htm",
+    "date": "2026-08-13 14:27"
+  },
+  {
     "company": "Federal Home Loan Bank of Des Moines",
     "cik": "1325814",
     "form": "8-K",
@@ -2639,33 +2665,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2128739/000121390026085025/ea0300385-8k_jabacq1.htm",
     "date": "2026-08-04 11:46"
-  },
-  {
-    "company": "North Haven Net REIT",
-    "cik": "1999784",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "North Haven Net REIT declare des distributions pour ses actionnaires",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,1022 $ par action (Class S), 0,1142 $ par action (Class F-S), 0,1169 $ par action (Class I), 0,1290 $ par action (Class F-I), 0,1566 $ par action (Class E)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000056/ck0001999784-20260731.htm",
-    "date": "2026-08-04 10:22"
-  },
-  {
-    "company": "CONSUMERS ENERGY CO",
-    "cik": "201533",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations par Consumers Energy Company",
-    "activite": "production et distribution d'energie",
-    "chiffres": {
-      "dividende": "450 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/201533/000110465926090132/tm2621538d4_8k.htm",
-    "date": "2026-08-04 10:02"
   }
 ]
