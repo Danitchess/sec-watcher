@@ -1,5 +1,17 @@
 [
   {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000126/fhlbdm-20260810.htm",
+    "date": "2026-08-13 13:51"
+  },
+  {
     "company": "Vestand Inc.",
     "cik": "1898604",
     "form": "8-K",
@@ -2655,17 +2667,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/201533/000110465926090132/tm2621538d4_8k.htm",
     "date": "2026-08-04 10:02"
-  },
-  {
-    "company": "STEEL DYNAMICS INC",
-    "cik": "1022671",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de direction chez Steel Dynamics",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926090129/tm2622182d1_8k.htm",
-    "date": "2026-08-04 09:57"
   }
 ]
