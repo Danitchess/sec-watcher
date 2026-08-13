@@ -1,5 +1,41 @@
 [
   {
+    "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+    "cik": "1951667",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Cheetah Net Supply Chain Service Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926096060/tm2623100d1_8k.htm",
+    "date": "2026-08-13 17:31"
+  },
+  {
+    "company": "Vivakor, Inc.",
+    "cik": "1450704",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vivakor, Inc. publie un rapport 8-K sur des ventes non enregistrees de titres de capital",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626008777/vivakorinc_8k.htm",
+    "date": "2026-08-13 17:29"
+  },
+  {
+    "company": "Freenome, Inc.",
+    "cik": "2017526",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Freenome, Inc. publie un rapport financier pour les six mois termines le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126032873/ef20080133_8ka.htm",
+    "date": "2026-08-13 17:28"
+  },
+  {
     "company": "Firy Inc.",
     "cik": "1801661",
     "form": "8-K",
@@ -2625,47 +2661,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1466026/000110465926090358/tm2621309d1_8k.htm",
     "date": "2026-08-04 16:05"
-  },
-  {
-    "company": "AMERICAN REBEL HOLDINGS INC",
-    "cik": "1648087",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "American Rebel Holdings Inc. conclut un accord d'echange avec Horberg Enterprises, LP",
-    "activite": "",
-    "chiffres": {
-      "dividende": "51,000.00$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226035971/ex10-1.htm",
-    "date": "2026-08-04 14:22"
-  },
-  {
-    "company": "Columbus Acquisition Corp/Cayman Islands",
-    "cik": "2028201",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Columbus Acquisition Corp prolonge son delai pour une combinaison commerciale",
-    "activite": "La societe est une societe d'acquisition",
-    "chiffres": {
-      "dividende": "50 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2028201/000121390026085084/ea0300015-8k425_columbus.htm",
-    "date": "2026-08-04 14:05"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Atlanta",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "500,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000143/fhlba-20260729.htm",
-    "date": "2026-08-04 14:01"
   }
 ]
