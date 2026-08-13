@@ -1,5 +1,47 @@
 [
   {
+    "company": "ENTERGY LOUISIANA, LLC",
+    "cik": "1348952",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Entergy Louisiana, LLC emet des obligations pour un montant de 1 milliard de dollars",
+    "activite": "",
+    "chiffres": {
+      "dividende": "500,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1348952/000119312526348222/d139037d8k.htm",
+    "date": "2026-08-13 10:51"
+  },
+  {
+    "company": "FORD MOTOR CREDIT CO LLC",
+    "cik": "38009",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ford Motor Credit Company LLC emet des obligations",
+    "activite": "",
+    "chiffres": {
+      "dividende": "1,500,000,000$ et 1,000,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/38009/000003800926000052/exhibits5and231august132026.htm",
+    "date": "2026-08-13 10:37"
+  },
+  {
+    "company": "AAON, INC.",
+    "cik": "824142",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AAON, INC. annonce son dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.10 par action ou $0.40 annuellement"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/824142/000082414226000057/aaon-20260812.htm",
+    "date": "2026-08-13 10:31"
+  },
+  {
     "company": "Federal Home Loan Bank of Topeka",
     "cik": "1325878",
     "form": "8-K",
@@ -2618,46 +2660,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926090004/tm2622137d1_8k.htm",
     "date": "2026-08-04 06:15"
-  },
-  {
-    "company": "Vivos Therapeutics, Inc.",
-    "cik": "1716166",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de separation et de transition pour le directeur financier",
-    "activite": "developpement de therapies",
-    "chiffres": {
-      "revenu": "320 000 $",
-      "dividende": "13 333 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226035867/ex10-1.htm",
-    "date": "2026-08-03 17:29"
-  },
-  {
-    "company": "8X8 INC /DE/",
-    "cik": "1023731",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de l'assemblée générale des actionnaires de 8X8 INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1023731/000102373126000102/eght-20260803.htm",
-    "date": "2026-08-03 17:28"
-  },
-  {
-    "company": "Lantern Pharma Inc.",
-    "cik": "1763950",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Lantern Pharma cree une filiale pour commercialiser sa plateforme d'intelligence artificielle",
-    "activite": "developpement de medicaments contre le cancer en utilisant l'intelligence artificielle",
-    "chiffres": {
-      "dividende": "10 milliards $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226035864/ex99-1.htm",
-    "date": "2026-08-03 17:24"
   }
 ]
