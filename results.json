@@ -1,5 +1,49 @@
 [
   {
+    "company": "Firy Inc.",
+    "cik": "1801661",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Firy Inc. annonce des resultats financiers pour le deuxieme trimestre 2026",
+    "activite": "Firy Inc. est une societe de jeux et de divertissement qui exploite une plateforme de jeux en ligne",
+    "chiffres": {
+      "revenu": "$31,0 million",
+      "benefice": "-$24,5 million",
+      "bpa": "-$1,52"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000090/q226firyex991-earningsrele.htm",
+    "date": "2026-08-13 16:33"
+  },
+  {
+    "company": "AbCellera Biologics Inc.",
+    "cik": "1703057",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "AbCellera Biologics Inc. annonce une offre publique d'actions",
+    "activite": "",
+    "chiffres": {
+      "dividende": "187,0 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1703057/000119312526349353/d20959d8k.htm",
+    "date": "2026-08-13 16:33"
+  },
+  {
+    "company": "Murphy USA Inc.",
+    "cik": "1573516",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Murphy USA Inc. annonce une augmentation de son dividende",
+    "activite": "retail de gasoline et de merchandise de convenience",
+    "chiffres": {
+      "dividende": "$0.65 par action (+23% par rapport au dividende du Q3 2025), $2.60 par action sur une base annualisee"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000168/exhibit9912026q3dividendan.htm",
+    "date": "2026-08-13 16:32"
+  },
+  {
     "company": "Federal Home Loan Bank of Boston",
     "cik": "1331463",
     "form": "8-K",
@@ -2623,47 +2667,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000143/fhlba-20260729.htm",
     "date": "2026-08-04 14:01"
-  },
-  {
-    "company": "Federal Home Loan Bank of Cincinnati",
-    "cik": "1326771",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations par la Federal Home Loan Bank of Cincinnati",
-    "activite": "La societe emet des obligations pour financer ses activites",
-    "chiffres": {
-      "dividende": "4.500 $, 5.500 $, 4.625 $, 6.000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000128/fhlbcin-20260729.htm",
-    "date": "2026-08-04 12:13"
-  },
-  {
-    "company": "AT&amp;T INC.",
-    "cik": "732717",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AT&T Inc. annonce la cloture de la vente de notes globales",
-    "activite": "emission d'obligations",
-    "chiffres": {
-      "dividende": "3.600% pour les notes globales dues en 2030, 4.150% pour les notes globales dues en 2034, 4.550% pour les notes globales dues en 2038, 5.050% pour les notes globales dues en 2045 et 7.050% pour les notes globales dues en 2052"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526332110/d112584d8k.htm",
-    "date": "2026-08-04 12:07"
-  },
-  {
-    "company": "JAB Acquisition Corp I",
-    "cik": "2128739",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "JAB Acquisition Corp I annonce la possibilité de séparer les titres composant ses unités",
-    "activite": "",
-    "chiffres": {
-      "dividende": "11,50 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2128739/000121390026085025/ea0300385-8k_jabacq1.htm",
-    "date": "2026-08-04 11:46"
   }
 ]
