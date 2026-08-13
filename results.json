@@ -1,5 +1,41 @@
 [
   {
+    "company": "LITHIUM AMERICAS CORP.",
+    "cik": "1966983",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lithium Americas Corp. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1966983/000119312526347834/lac-20260813.htm",
+    "date": "2026-08-13 06:55"
+  },
+  {
+    "company": "SBC Medical Group Holdings Inc",
+    "cik": "1930313",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "SBC Medical Group Holdings Incorporated publie son rapport financier du deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1930313/000119312526347825/sbc-20260813.htm",
+    "date": "2026-08-13 06:50"
+  },
+  {
+    "company": "TAPESTRY, INC.",
+    "cik": "1116132",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Tapestry, Inc. publie son rapport financier pour le quatrieme trimestre et l'annee fiscale",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036126032624/ef20079840_8k.htm",
+    "date": "2026-08-13 06:46"
+  },
+  {
     "company": "AMERICAN EXPRESS CO",
     "cik": "4962",
     "form": "8-K",
@@ -2625,45 +2661,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/737875/000073787526000027/fkys-20260730x8k.htm",
     "date": "2026-08-03 12:20"
-  },
-  {
-    "company": "INTERNATIONAL BANCSHARES CORP",
-    "cik": "315709",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "International Bancshares Corporation annonce un dividende en espèces",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/315709/000110465926089623/tm2621694d1_8k.htm",
-    "date": "2026-08-03 11:19"
-  },
-  {
-    "company": "Kennedy Lewis Capital Co",
-    "cik": "1911321",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Kennedy Lewis Capital Company publie son rapport financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "NAV par action : 19,95 $ (Class I), 19,92 $ (Class S), 19,95 $ (Class D), Valeur totale des actifs nets : 749 877 765 $, Valeur totale du portefeuille d'investissement : 1 110 922 006 $, Total consideration de l'offre : 667 220 576 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1911321/000191132126000025/ck0001911321-20260728.htm",
-    "date": "2026-08-03 10:55"
-  },
-  {
-    "company": "Bandwidth Inc.",
-    "cik": "1514416",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Bandwidth Inc. a rachete une partie de ses obligations convertibles",
-    "activite": "",
-    "chiffres": {
-      "dividende": "20,8 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1514416/000151441626000060/band-20260803.htm",
-    "date": "2026-08-03 10:31"
   }
 ]
