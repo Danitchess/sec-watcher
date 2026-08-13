@@ -1,5 +1,47 @@
 [
   {
+    "company": "Federal Home Loan Bank of Topeka",
+    "cik": "1325878",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations consolidées par la Federal Home Loan Bank of Topeka",
+    "activite": "La société obtient la plupart de ses fonds de la vente de titres de dette, appelés obligations consolidées, sur les marchés financiers",
+    "chiffres": {
+      "dividende": "250 000 000 $, 10 000 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000163/fhlbt-20260811.htm",
+    "date": "2026-08-13 10:05"
+  },
+  {
+    "company": "FIRST NATIONAL CORP /VA/",
+    "cik": "719402",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La societe declare un dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.17"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/719402/000143774926027512/fxnc20260811_8k.htm",
+    "date": "2026-08-13 10:05"
+  },
+  {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of Dallas publie un rapport 8-K sur la creation d'obligations consolidées",
+    "activite": "La société obtient la plupart de ses fonds de la vente de titres de dette, appelés obligations consolidées, sur les marchés financiers",
+    "chiffres": {
+      "dividende": "20 000 000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000148/fhlbd-20260811.htm",
+    "date": "2026-08-13 10:05"
+  },
+  {
     "company": "Dogwood Therapeutics, Inc.",
     "cik": "1818844",
     "form": "8-K",
@@ -2617,47 +2659,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226035864/ex99-1.htm",
     "date": "2026-08-03 17:24"
-  },
-  {
-    "company": "Eikon Therapeutics, Inc.",
-    "cik": "1861123",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Deux membres du conseil d'administration ont demissionne",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1861123/000119312526330710/eikn-20260731.htm",
-    "date": "2026-08-03 16:39"
-  },
-  {
-    "company": "CABOT CORP",
-    "cik": "16040",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cabot Corporation publie son rapport financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/16040/000119312526330708/cbt-20260803.htm",
-    "date": "2026-08-03 16:39"
-  },
-  {
-    "company": "TEREX CORP",
-    "cik": "97216",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Terex Corp annonce des resultats solides pour le deuxieme trimestre 2026",
-    "activite": "fabrication de materiel de construction et de vehicules speciaux",
-    "chiffres": {
-      "revenu": "$2,2 milliards (+8,5%)",
-      "benefice": "$269 millions (+10,7%)",
-      "bpa": "$1,37",
-      "croissance": "25% des commandes",
-      "dividende": "$20 millions"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/97216/000009721626000130/aexh99_120260730q2prepared.htm",
-    "date": "2026-08-03 16:38"
   }
 ]
