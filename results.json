@@ -1,5 +1,41 @@
 [
   {
+    "company": "MiNK Therapeutics, Inc.",
+    "cik": "1840229",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "MiNK Therapeutics, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1840229/000119312526347907/inkt-20260813.htm",
+    "date": "2026-08-13 07:40"
+  },
+  {
+    "company": "CREATIVE REALITIES, INC.",
+    "cik": "1356093",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Creative Realities, Inc. publie son rapport financier pour les trois et six mois clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926027479/crex20260811_8k.htm",
+    "date": "2026-08-13 07:40"
+  },
+  {
+    "company": "Madison Square Garden Sports Corp.",
+    "cik": "1636519",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Madison Square Garden Sports Corp. publie son rapport financier",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1636519/000162828026056478/msgs-20260813.htm",
+    "date": "2026-08-13 07:40"
+  },
+  {
     "company": "LITHIUM AMERICAS CORP.",
     "cik": "1966983",
     "form": "8-K",
@@ -2623,43 +2659,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000134/cci-20260728.htm",
     "date": "2026-08-03 14:11"
-  },
-  {
-    "company": "Allegiant Travel CO",
-    "cik": "1362468",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Allegiant Travel Company annonce un nouvel accord de negociation collective avec ses pilotes",
-    "activite": "transport aérien",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1362468/000136246826000044/algt-20260731.htm",
-    "date": "2026-08-03 12:57"
-  },
-  {
-    "company": "Keenova Therapeutics plc",
-    "cik": "1567892",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Keenova Therapeutics plc vend ses activites Percocet et Endocet",
-    "activite": "developpement de traitements therapeutiques",
-    "chiffres": {
-      "dividende": "250,0 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1567892/000110465926089655/tm2621903d1_8k.htm",
-    "date": "2026-08-03 12:28"
-  },
-  {
-    "company": "FIRST KEYSTONE CORP",
-    "cik": "737875",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "annonce des resultats financiers du deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/737875/000073787526000027/fkys-20260730x8k.htm",
-    "date": "2026-08-03 12:20"
   }
 ]
