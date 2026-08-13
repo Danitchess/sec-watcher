@@ -1,5 +1,47 @@
 [
   {
+    "company": "Vestand Inc.",
+    "cik": "1898604",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vestand Inc. transfere 200 actions de Vestand Korea Co., Ltd. a Noh Sang-woo",
+    "activite": "",
+    "chiffres": {
+      "dividende": "KRW 1,000,000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1898604/000149315226037659/ex10-1.htm",
+    "date": "2026-08-13 12:48"
+  },
+  {
+    "company": "GM Financial Automobile Leasing Trust 2026-3",
+    "cik": "2142914",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission de notes adossees a des actifs par GM Financial Automobile Leasing Trust 2026-3",
+    "activite": "emission de notes adossees a des actifs",
+    "chiffres": {
+      "dividende": "137,220,000 $, 295,000,000 $, 90,220,000 $, 315,180,000 $, 67,860,000 $, 49,450,000 $, 45,600,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2142914/000119312526348547/d164829d8k.htm",
+    "date": "2026-08-13 12:45"
+  },
+  {
+    "company": "GMF Leasing LLC",
+    "cik": "1631055",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission de notes adossees a des actifs par GMF Leasing LLC",
+    "activite": "emission de notes adossees a des actifs",
+    "chiffres": {
+      "dividende": "137,220,000 $, 295,000,000 $, 90,220,000 $, 315,180,000 $, 67,860,000 $, 49,450,000 $, 45,600,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1631055/000119312526348547/d164829d8k.htm",
+    "date": "2026-08-13 12:45"
+  },
+  {
     "company": "Magnolia Bancorp, Inc.",
     "cik": "2033615",
     "form": "8-K",
@@ -2625,44 +2667,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926090129/tm2622182d1_8k.htm",
     "date": "2026-08-04 09:57"
-  },
-  {
-    "company": "First Watch Restaurant Group, Inc.",
-    "cik": "1789940",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "First Watch Restaurant Group, Inc. presente ses objectifs de croissance a long terme",
-    "activite": "exploitation de restaurants",
-    "chiffres": {
-      "revenu": "10% a 13%",
-      "benefice": "11% a 14%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1789940/000178994026000092/exh991q22026irsitedecklt.htm",
-    "date": "2026-08-04 08:25"
-  },
-  {
-    "company": "Nuvectis Pharma, Inc.",
-    "cik": "1875558",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nuvectis Pharma, Inc. publie un rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1875558/000110465926090094/tm2622125d1_8k.htm",
-    "date": "2026-08-04 08:25"
-  },
-  {
-    "company": "NexPoint Residential Trust, Inc.",
-    "cik": "1620393",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "NexPoint Residential Trust, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1620393/000119312526331611/nxrt-20260804.htm",
-    "date": "2026-08-04 08:23"
   }
 ]
