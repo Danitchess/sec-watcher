@@ -1,5 +1,47 @@
 [
   {
+    "company": "Magnolia Bancorp, Inc.",
+    "cik": "2033615",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depart d'un dirigeant et nomination d'un nouveau dirigeant",
+    "activite": "banque et services financiers",
+    "chiffres": {
+      "dividende": "175 000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2033615/000092708926000148/mban20260813_8k.htm",
+    "date": "2026-08-13 12:18"
+  },
+  {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La Federal Home Loan Bank of San Francisco publie un rapport 8-K sur la creation d'une obligation financiere directe",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "40,000,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000138/fhlbsf-20260810.htm",
+    "date": "2026-08-13 12:12"
+  },
+  {
+    "company": "Federal Home Loan Bank of Cincinnati",
+    "cik": "1326771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de la Federal Home Loan Bank of Cincinnati",
+    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
+    "chiffres": {
+      "dividende": "10,000,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000135/fhlbcin-20260810.htm",
+    "date": "2026-08-13 11:36"
+  },
+  {
     "company": "ENTERGY LOUISIANA, LLC",
     "cik": "1348952",
     "form": "8-K",
@@ -2622,43 +2664,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1620393/000119312526331611/nxrt-20260804.htm",
     "date": "2026-08-04 08:23"
-  },
-  {
-    "company": "REVVITY, INC.",
-    "cik": "31791",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Revvity, Inc. annonce ses resultats financiers pour le deuxieme trimestre 2026",
-    "activite": "Revvity, Inc. est une societe qui opere dans le domaine des diagnostics immunologiques en Chine",
-    "chiffres": {
-      "dividende": "up to $200 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/31791/000003179126000022/pki-20260804.htm",
-    "date": "2026-08-04 06:20"
-  },
-  {
-    "company": "RESIDEO TECHNOLOGIES, INC.",
-    "cik": "1740332",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Resideo Technologies, Inc. annonce la separation de son activite ADI Global Distribution",
-    "activite": "Resideo Technologies, Inc. est une societe qui a separe son activite ADI Global Distribution",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1740332/000121390026084874/ea0300189-8k_resideo.htm",
-    "date": "2026-08-04 06:19"
-  },
-  {
-    "company": "American Strategic Investment Co.",
-    "cik": "1595527",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "American Strategic Investment Co. annonce la publication de ses resultats financiers du deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1595527/000110465926090004/tm2622137d1_8k.htm",
-    "date": "2026-08-04 06:15"
   }
 ]
