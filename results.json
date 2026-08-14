@@ -1,5 +1,34 @@
 [
   {
+    "company": "Cue Biopharma, Inc.",
+    "cik": "1645460",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Cue Biopharma, Inc. publie un rapport financier pour le trimestre se terminant le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526352126/cue-20260814.htm",
+    "date": "2026-08-14 16:00"
+  },
+  {
+    "company": "Lifeloc Technologies, Inc",
+    "cik": "1493137",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lifeloc Technologies, Inc. annonce ses résultats financiers pour le deuxième trimestre 2026",
+    "activite": "développement et fabrication de dispositifs de détection d'alcool et de drogues",
+    "chiffres": {
+      "revenu": "$2,445 million",
+      "benefice": "$(134) thousand",
+      "bpa": "$(0,05)",
+      "croissance": "10%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1493137/000107997326001110/ex99x1.htm",
+    "date": "2026-08-14 15:43"
+  },
+  {
     "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
     "cik": "1310488",
     "form": "8-K",
@@ -2626,31 +2655,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926091572/tm2622260d1_8k.htm",
     "date": "2026-08-06 06:42"
-  },
-  {
-    "company": "NexPoint Real Estate Finance, Inc.",
-    "cik": "1786248",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "NexPoint Real Estate Finance, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1786248/000119312526336594/nref-20260806.htm",
-    "date": "2026-08-06 06:38"
-  },
-  {
-    "company": "SOMNIGROUP INTERNATIONAL INC.",
-    "cik": "1206264",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Somnigroup International Inc. annonce un dividende trimestriel en espèces",
-    "activite": "conception, fabrication, distribution et vente de literie",
-    "chiffres": {
-      "dividende": "0,17 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1206264/000120626426000099/a08062026sgipressrelease-t.htm",
-    "date": "2026-08-06 06:37"
   }
 ]
