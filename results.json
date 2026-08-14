@@ -1,5 +1,45 @@
 [
   {
+    "company": "Presurance Holdings, Inc.",
+    "cik": "1502292",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Presurance Holdings, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1502292/000119312526350625/prhi-20260812.htm",
+    "date": "2026-08-14 08:47"
+  },
+  {
+    "company": "Boost Run Inc.",
+    "cik": "2090646",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Boost Run Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
+    "activite": "Fournisseur de services de cloud et d'infrastructure pour l'intelligence artificielle",
+    "chiffres": {
+      "revenu": "31,1 M$ (+270%)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226038014/ex99-1.htm",
+    "date": "2026-08-14 08:46"
+  },
+  {
+    "company": "Proficient Auto Logistics, Inc",
+    "cik": "1998768",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Proficient Auto Logistics, Inc. a complete une offre privee de 75 millions de dollars de notes convertibles",
+    "activite": "",
+    "chiffres": {
+      "dividende": "75,0 millions de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1998768/000121390026089491/ea0301906-8k_proficient.htm",
+    "date": "2026-08-14 08:45"
+  },
+  {
     "company": "Lantern Pharma Inc.",
     "cik": "1763950",
     "form": "8-K",
@@ -2617,41 +2657,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1527469/000119312526333977/d114269d8k.htm",
     "date": "2026-08-05 08:40"
-  },
-  {
-    "company": "Uber Technologies, Inc",
-    "cik": "1543151",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Uber Technologies, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000027/uber-20260805.htm",
-    "date": "2026-08-05 06:56"
-  },
-  {
-    "company": "Flutter Entertainment plc",
-    "cik": "1635327",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de dirigeant chez Flutter Entertainment plc",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526333794/d167128d8k.htm",
-    "date": "2026-08-05 06:56"
-  },
-  {
-    "company": "Target Hospitality Corp.",
-    "cik": "1712189",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Target Hospitality Corp. nomme deux nouveaux administrateurs",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1712189/000110465926090700/tm2621747d1_8k.htm",
-    "date": "2026-08-05 06:55"
   }
 ]
