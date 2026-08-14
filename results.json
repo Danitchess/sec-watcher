@@ -1,5 +1,43 @@
 [
   {
+    "company": "Lantern Pharma Inc.",
+    "cik": "1763950",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Lantern Pharma annonce des résultats financiers et des mises à jour commerciales positives pour le deuxième trimestre 2026",
+    "activite": "développement de médicaments contre le cancer",
+    "chiffres": {
+      "dividende": "Cash, cash equivalents, and marketable securities d'environ 7,4 millions $, perte d'exploitation d'environ 3,5 millions $ pour le Q2 2026, soit une diminution d'environ 25% par rapport à l'année précédente"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226037979/ex99-1.htm",
+    "date": "2026-08-14 07:35"
+  },
+  {
+    "company": "Beneficient",
+    "cik": "1775734",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe Beneficient",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1775734/000177573426000026/ben-20260814.htm",
+    "date": "2026-08-14 07:31"
+  },
+  {
+    "company": "Digi Power X Inc.",
+    "cik": "1854368",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Digi Power X Inc. publie son rapport financier pour le deuxieme trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026089450/ea0301730-8k_digi.htm",
+    "date": "2026-08-14 07:30"
+  },
+  {
     "company": "ACCO BRANDS Corp",
     "cik": "712034",
     "form": "8-K",
@@ -2615,49 +2653,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1712189/000110465926090700/tm2621747d1_8k.htm",
     "date": "2026-08-05 06:55"
-  },
-  {
-    "company": "Z Squared Inc.",
-    "cik": "1759186",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Z Squared Inc. annonce l'acquisition de Paradox Data",
-    "activite": "developpement de capacites de calcul pour l'intelligence artificielle",
-    "chiffres": {
-      "dividende": "8.0% par an"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/zsqr8k080426.htm",
-    "date": "2026-08-04 17:29"
-  },
-  {
-    "company": "EPLUS INC",
-    "cik": "1022408",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "ePlus publie ses résultats financiers pour le premier trimestre de l'année fiscale 2027",
-    "activite": "fournisseur de solutions technologiques",
-    "chiffres": {
-      "revenu": "$649,1 million",
-      "benefice": "$30,3 million",
-      "bpa": "$1,16",
-      "croissance": "1,0%",
-      "dividende": "$0,27"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1022408/000114036126031282/ef20079242_ex99-1.htm",
-    "date": "2026-08-04 17:29"
-  },
-  {
-    "company": "Expion360 Inc.",
-    "cik": "1894954",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Expion360 Inc. annonce le depart de son directeur financier et sa conformite avec les regles de listing de Nasdaq",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000291/xpon_8k.htm",
-    "date": "2026-08-04 17:28"
   }
 ]
