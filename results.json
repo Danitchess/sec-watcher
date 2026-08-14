@@ -1,5 +1,43 @@
 [
   {
+    "company": "WORTHINGTON ENTERPRISES, INC.",
+    "cik": "108516",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Worthington Enterprises, Inc. publie un rapport courant sur Form 8-K",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526350842/wor-20260812.htm",
+    "date": "2026-08-14 10:04"
+  },
+  {
+    "company": "TOMI Environmental Solutions, Inc.",
+    "cik": "314227",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TOMI Environmental Solutions, Inc. publie son rapport financier pour le deuxieme trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/314227/000165495426007621/tomz_8k.htm",
+    "date": "2026-08-14 10:01"
+  },
+  {
+    "company": "Skye Bioscience, Inc.",
+    "cik": "1516551",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Skye Bioscience et Redx annoncent un accord de transaction et de financement",
+    "activite": "developpement de therapies anti-fibrotiques",
+    "chiffres": {
+      "dividende": "125 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1516551/000162828026056966/a260813_skyexredxxceosxscr.htm",
+    "date": "2026-08-14 09:36"
+  },
+  {
     "company": "Presurance Holdings, Inc.",
     "cik": "1502292",
     "form": "8-K",
@@ -2619,43 +2657,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526334161/d151018d8k.htm",
     "date": "2026-08-05 10:22"
-  },
-  {
-    "company": "MFA FINANCIAL, INC.",
-    "cik": "1055160",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MFA Financial, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000013/mfa-20260805.htm",
-    "date": "2026-08-05 08:45"
-  },
-  {
-    "company": "Flash Sports &amp; Media Holdings, Inc.",
-    "cik": "1706524",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Flash Sports & Media Holdings, Inc. annonce une acquisition proposee de 51% de Bongo",
-    "activite": "acquisition d'une participation majoritaire dans une entreprise de medias",
-    "chiffres": {
-      "dividende": "$35.0 million, $25.7 million, $15.4 million, $10.3 million, $12.0 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026085414/ea0300599-8k_flash.htm",
-    "date": "2026-08-05 08:42"
-  },
-  {
-    "company": "Athene Holding Ltd.",
-    "cik": "1527469",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Athene Holding Ltd. publie un rapport financier préliminaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1527469/000119312526333977/d114269d8k.htm",
-    "date": "2026-08-05 08:40"
   }
 ]
