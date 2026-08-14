@@ -1,5 +1,45 @@
 [
   {
+    "company": "Global Crossing Airlines Group Inc.",
+    "cik": "1846084",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rapport financier de Global Crossing Airlines Group Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1846084/000119312526351131/jetmf-20260814.htm",
+    "date": "2026-08-14 11:09"
+  },
+  {
+    "company": "ISABELLA BANK CORP",
+    "cik": "842517",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Isabella Bank Corp annonce un accord de participation pour son directeur financier",
+    "activite": "",
+    "chiffres": {
+      "dividende": "300,000$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/842517/000084251726000184/isba-20260811.htm",
+    "date": "2026-08-14 11:00"
+  },
+  {
+    "company": "Atmus Filtration Technologies Inc.",
+    "cik": "1921963",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Atmus Filtration Technologies Inc. declare un dividende trimestriel",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.06"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000071/atmu-20260814.htm",
+    "date": "2026-08-14 10:56"
+  },
+  {
     "company": "WORTHINGTON ENTERPRISES, INC.",
     "cik": "108516",
     "form": "8-K",
@@ -2614,48 +2654,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826005972/londax_8ka.htm",
     "date": "2026-08-05 12:45"
-  },
-  {
-    "company": "Essential Utilities, Inc.",
-    "cik": "78128",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Essential Utilities, Inc. annonce des resultats positifs pour le deuxieme trimestre 2026",
-    "activite": "fourniture de services publics d'eau et de gaz naturel",
-    "chiffres": {
-      "revenu": "530,9 M$",
-      "benefice": "105,7 M$",
-      "bpa": "0,37 $",
-      "dividende": "0,3606 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000404/e26327_ex99-1.htm",
-    "date": "2026-08-05 10:48"
-  },
-  {
-    "company": "HEARTLAND EXPRESS INC",
-    "cik": "799233",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Heartland Express INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/799233/000079923326000037/htld-20260730.htm",
-    "date": "2026-08-05 10:35"
-  },
-  {
-    "company": "HPS Corporate Lending Fund",
-    "cik": "1838126",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "HPS Corporate Lending Fund augmente ses engagements de credit",
-    "activite": "preteur corporatif",
-    "chiffres": {
-      "dividende": "2,650,000,000$ a 3,325,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526334161/d151018d8k.htm",
-    "date": "2026-08-05 10:22"
   }
 ]
