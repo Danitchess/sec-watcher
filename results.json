@@ -1,5 +1,45 @@
 [
   {
+    "company": "GM Financial Automobile Leasing Trust 2026-3",
+    "cik": "2142914",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par GM Financial Automobile Leasing Trust 2026-3",
+    "activite": "Emission d'obligations adossees a des actifs",
+    "chiffres": {
+      "dividende": "137,220,000 $, 295,000,000 $, 90,220,000 $, 315,180,000 $, 67,860,000 $, 49,450,000 $, 45,600,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2142914/000119312526351504/d158890d8k.htm",
+    "date": "2026-08-14 12:56"
+  },
+  {
+    "company": "GMF Leasing LLC",
+    "cik": "1631055",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d'obligations par GMF Leasing LLC",
+    "activite": "Emission d'obligations adossees a des actifs",
+    "chiffres": {
+      "dividende": "137,220,000 $, 295,000,000 $, 90,220,000 $, 315,180,000 $, 67,860,000 $, 49,450,000 $, 45,600,000 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1631055/000119312526351504/d158890d8k.htm",
+    "date": "2026-08-14 12:56"
+  },
+  {
+    "company": "Owlet, Inc.",
+    "cik": "1816708",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Owlet, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1816708/000181670826000092/owlt-20260812.htm",
+    "date": "2026-08-14 12:56"
+  },
+  {
     "company": "TCW SPECIALTY LENDING LLC",
     "cik": "2066811",
     "form": "8-K",
@@ -2619,43 +2659,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000042/q3268-k_ex991.htm",
     "date": "2026-08-05 16:04"
-  },
-  {
-    "company": "Constellation Energy Corp",
-    "cik": "1868275",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement dans la direction de Constellation Energy Corporation",
-    "activite": "",
-    "chiffres": {
-      "dividende": "50 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000089/ceg-20260804.htm",
-    "date": "2026-08-05 14:14"
-  },
-  {
-    "company": "Alternus Clean Energy, Inc.",
-    "cik": "1883984",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Alternus Clean Energy, Inc. a emis des actions de serie F",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1883984/000143774926025888/alce20260805_8k.htm",
-    "date": "2026-08-05 14:08"
-  },
-  {
-    "company": "Quanome Technologies, Inc.",
-    "cik": "1996192",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Quanome Technologies lance une nouvelle identite corporative et elargit son focus strategique",
-    "activite": "developpement de technologies, applications et partenariats a l'intersection de l'informatique quantique, de l'intelligence artificielle, de la simulation avancee et des systemes intelligents",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026085554/ea0300504-8k_quanome.htm",
-    "date": "2026-08-05 14:00"
   }
 ]
