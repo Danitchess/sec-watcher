@@ -1,5 +1,46 @@
 [
   {
+    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+    "cik": "1310488",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de nouveaux dirigeants et conseillers",
+    "activite": "",
+    "chiffres": {
+      "dividende": "2,5 milliards de dollars"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000124/bfnh-08142026_8k.htm",
+    "date": "2026-08-14 15:23"
+  },
+  {
+    "company": "HCW Biologics Inc.",
+    "cik": "1828673",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "HCW Biologics Inc. annonce des résultats financiers et des avancées cliniques positives pour le deuxième trimestre 2026",
+    "activite": "développement de traitements immunothérapeutiques pour les maladies auto-immunes, le cancer et la dysplasie associée au vieillissement",
+    "chiffres": {
+      "revenu": "6,7 M$",
+      "dividende": "4,0 M$ en 2025, 15,0 Mds$ d'ici 2032"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226038258/ex99-1.htm",
+    "date": "2026-08-14 15:20"
+  },
+  {
+    "company": "READING INTERNATIONAL INC",
+    "cik": "716634",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Depot SEC de type 8-K de la societe READING INTERNATIONAL INC",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/716634/000071663426000030/rdi-20260814x8k.htm",
+    "date": "2026-08-14 15:19"
+  },
+  {
     "company": "Qrons Inc.",
     "cik": "1689084",
     "form": "8-K",
@@ -2611,47 +2652,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1206264/000120626426000099/a08062026sgipressrelease-t.htm",
     "date": "2026-08-06 06:37"
-  },
-  {
-    "company": "SHF Holdings, Inc.",
-    "cik": "1854963",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe SHF Holdings, Inc. annonce la fin d'une periode de reduction temporaire de la conversion de ses actions preferentielles",
-    "activite": "Safe Harbor est une plateforme financiere exclusive pour l'industrie du cannabis, offrant des services de banque, de pret, de paiement et de conseil",
-    "chiffres": {
-      "dividende": "35 milliards $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226036225/ex99-1.htm",
-    "date": "2026-08-05 17:30"
-  },
-  {
-    "company": "Reliance Global Group, Inc.",
-    "cik": "1812727",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Reliance Global Group annonce la vente de sa filiale Altruis Benefit Consulting pour 11 millions de dollars en cash",
-    "activite": "entreprise d'assurance utilisant l'intelligence artificielle pour transformer l'industrie de l'assurance",
-    "chiffres": {
-      "dividende": "11 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226036223/ex99-1.htm",
-    "date": "2026-08-05 17:29"
-  },
-  {
-    "company": "APOGEE ENTERPRISES, INC.",
-    "cik": "6845",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Election de deux nouveaux directeurs",
-    "activite": "",
-    "chiffres": {
-      "dividende": "75 000 $ par an"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/6845/000000684526000070/apog-20260805.htm",
-    "date": "2026-08-05 17:27"
   }
 ]
