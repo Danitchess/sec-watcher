@@ -1,5 +1,44 @@
 [
   {
+    "company": "TCW SPECIALTY LENDING LLC",
+    "cik": "2066811",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TCW Specialty Lending LLC conclut un accord de remboursement",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2066811/000119312526351258/d180536d8k.htm",
+    "date": "2026-08-14 12:03"
+  },
+  {
+    "company": "Swarmer, Inc",
+    "cik": "2092574",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Swarmer, Inc annonce le lancement d'un nouveau site web corporate",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2092574/000119312526351247/swmr-20260814.htm",
+    "date": "2026-08-14 12:00"
+  },
+  {
+    "company": "PCS Edventures!, Inc.",
+    "cik": "1122020",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PCS Edventures! annonce ses resultats pour le premier trimestre de l'annee fiscale 2027",
+    "activite": "conception et livraison de produits et services riches en technologie pour le marche TK-12 qui developpent les competences du 21e siecle",
+    "chiffres": {
+      "revenu": "1,74 million $ (-28,2%)",
+      "benefice": "0,10 million $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1122020/000149315226038119/ex99.htm",
+    "date": "2026-08-14 11:47"
+  },
+  {
     "company": "Global Crossing Airlines Group Inc.",
     "cik": "1846084",
     "form": "8-K",
@@ -2618,41 +2657,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026085554/ea0300504-8k_quanome.htm",
     "date": "2026-08-05 14:00"
-  },
-  {
-    "company": "SEKISUI HOUSE U.S., INC.",
-    "cik": "773141",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un directeur et nomination d'un nouveau",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/773141/000077314126000015/mdc-20260801.htm",
-    "date": "2026-08-05 12:52"
-  },
-  {
-    "company": "ONE STOP SYSTEMS, INC.",
-    "cik": "1394056",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "One Stop Systems, Inc. annonce la retraite de son VP de ventes et la signature d'un contrat de consulting",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1394056/000119312526334453/oss-20260731.htm",
-    "date": "2026-08-05 12:47"
-  },
-  {
-    "company": "Londax Corp.",
-    "cik": "1985554",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Londax Corp. annonce un changement de controle et de direction",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1985554/000168316826005972/londax_8ka.htm",
-    "date": "2026-08-05 12:45"
   }
 ]
