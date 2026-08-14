@@ -1,5 +1,43 @@
 [
   {
+    "company": "ACCO BRANDS Corp",
+    "cik": "712034",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "ACCO Brands acquiert GXT Holding B.V.",
+    "activite": "fournisseur de produits de bureau et de materiel informatique",
+    "chiffres": {
+      "dividende": "57 millions $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/712034/000119312526350311/acco-20260814.htm",
+    "date": "2026-08-14 06:50"
+  },
+  {
+    "company": "Amcor plc",
+    "cik": "1748790",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement de cabinet d'audit pour Amcor plc",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000110465926096303/tm2622721d1_8k.htm",
+    "date": "2026-08-14 06:20"
+  },
+  {
+    "company": "Lincoln International, Inc.",
+    "cik": "1925283",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lincoln International, Inc. publie un rapport 8-K sur l'emission de titres",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1925283/000162828026056917/lcln-20260812.htm",
+    "date": "2026-08-14 06:20"
+  },
+  {
     "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
     "cik": "1951667",
     "form": "8-K",
@@ -2621,45 +2659,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000291/xpon_8k.htm",
     "date": "2026-08-04 17:28"
-  },
-  {
-    "company": "Angi Inc.",
-    "cik": "1705110",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Angi Inc. publie son rapport financier trimestriel et annonce des changements dans son conseil d'administration",
-    "activite": "",
-    "chiffres": {
-      "dividende": "50 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1705110/000170511026000077/angi-20260804.htm",
-    "date": "2026-08-04 16:06"
-  },
-  {
-    "company": "Celanese Corp",
-    "cik": "1306830",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Celanese Corp modifie son accord de credit",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1306830/000110465926090359/tm2622089d1_8k.htm",
-    "date": "2026-08-04 16:05"
-  },
-  {
-    "company": "Midland States Bancorp, Inc.",
-    "cik": "1466026",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Midland States Bancorp, Inc. annonce des dividendes trimestriels",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,33 $ par action de common stock, 0,4844 $ par depository share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1466026/000110465926090358/tm2621309d1_8k.htm",
-    "date": "2026-08-04 16:05"
   }
 ]
