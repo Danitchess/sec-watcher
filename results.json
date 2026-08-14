@@ -1,5 +1,44 @@
 [
   {
+    "company": "AIR T INC",
+    "cik": "353184",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "AIR T INC presente ses resultats financiers et ses strategies de croissance",
+    "activite": "exploitation d'une entreprise de services aeriens et de gestion d'actifs",
+    "chiffres": {
+      "revenu": "371,7M$",
+      "benefice": "9,5M$"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/353184/000035318426000082/a2026-06x30airtinvestorp.htm",
+    "date": "2026-08-14 16:52"
+  },
+  {
+    "company": "DataMeds AI, Inc.",
+    "cik": "2030763",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Distribution de tokens Meme Coins aux actionnaires de DataMEDS",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226038475/ex99-1.htm",
+    "date": "2026-08-14 16:46"
+  },
+  {
+    "company": "Sadot Group Inc.",
+    "cik": "1701756",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Sadot Group Inc. publie son rapport financier pour les trois et six mois clos le 30 juin 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001070/e7858_8-k.htm",
+    "date": "2026-08-14 16:46"
+  },
+  {
     "company": "Cue Biopharma, Inc.",
     "cik": "1645460",
     "form": "8-K",
@@ -2613,47 +2652,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1826600/000119312526336927/d85806d8k.htm",
     "date": "2026-08-06 08:49"
-  },
-  {
-    "company": "Scholar Rock Holding Corp",
-    "cik": "1727196",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Scholar Rock Holding Corp annonce une mise a jour de son programme de vente au marche",
-    "activite": "developpement de therapies pour le traitement de maladies",
-    "chiffres": {
-      "dividende": "257,7 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1727196/000110465926091702/tm2622083d2_8k.htm",
-    "date": "2026-08-06 08:49"
-  },
-  {
-    "company": "Barinthus Biotherapeutics plc.",
-    "cik": "1828185",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Barinthus Biotherapeutics plc annonce ses résultats financiers pour le deuxième trimestre 2026 et fournit une mise à jour sur ses développements corporatifs",
-    "activite": "développement de thérapies pour traiter les maladies auto-immunes et inflammatoires",
-    "chiffres": {
-      "dividende": "59,6 millions de dollars en cash, cash equivalents et restricted cash"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1828185/000162828026053940/brns-20260630xexx991.htm",
-    "date": "2026-08-06 08:49"
-  },
-  {
-    "company": "FS KKR Capital Corp",
-    "cik": "1422183",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "FS KKR Capital Corp annonce ses resultats pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {
-      "dividende": "0,44 $ par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1422183/000110465926091572/tm2622260d1_8k.htm",
-    "date": "2026-08-06 06:42"
   }
 ]
