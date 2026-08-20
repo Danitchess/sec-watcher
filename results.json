@@ -1,5 +1,41 @@
 [
   {
+    "company": "North Haven Net REIT",
+    "cik": "1999784",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000064/ck0001999784-20260814.htm",
+    "date": "2026-08-20 15:38"
+  },
+  {
+    "company": "Monroe Capital Income Plus Corp",
+    "cik": "1742313",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sent",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000052/mcip-20260820.htm",
+    "date": "2026-08-20 15:32"
+  },
+  {
+    "company": "UNITED BANCORP INC /OH/",
+    "cik": "731653",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Annonce du versement du dividende du troisième trimestre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/731653/000110465926099202/tm2623702d1_8k.htm",
+    "date": "2026-08-20 15:29"
+  },
+  {
     "company": "Array Technologies, Inc.",
     "cik": "1820721",
     "form": "8-K",
@@ -2575,45 +2611,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/25598/000114036126031875/ef20079685_ex1-1.htm",
     "date": "2026-08-07 17:30"
-  },
-  {
-    "company": "COVENANT LOGISTICS GROUP, INC.",
-    "cik": "928658",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Covenant Logistics Group, Inc. modifie les accords de depart de certains dirigeants",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000203/form8k.htm",
-    "date": "2026-08-07 17:27"
-  },
-  {
-    "company": "Apollo Debt Solutions BDC",
-    "cik": "1837532",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Apollo Debt Solutions BDC annonce une emission de dette securisee de 514,9 millions de dollars",
-    "activite": "emission de dette securisee",
-    "chiffres": {
-      "dividende": "514,900,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526340369/d157652d8k.htm",
-    "date": "2026-08-07 16:30"
-  },
-  {
-    "company": "Edible Garden AG Inc",
-    "cik": "1809750",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Edible Garden AG Inc annonce un echange d'actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,252,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1809750/000147793226004776/edbl_8k.htm",
-    "date": "2026-08-07 16:30"
   }
 ]
