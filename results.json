@@ -1,5 +1,41 @@
 [
   {
+    "company": "Quanome Technologies, Inc.",
+    "cik": "1996192",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Annonce de la création d'un Global Quantum Council et d'un réseau d'experts scientifiques",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026091979/ea0302873-8k_quanome.htm",
+    "date": "2026-08-20 12:30"
+  },
+  {
+    "company": "Carvana Auto Receivables Trust 2026-P3",
+    "cik": "1999511",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K annonçant l’émission d’obligations adossées aux créances de Carvana.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1999511/000177037326000046/crvna2026-p3form8xkreopini.htm",
+    "date": "2026-08-20 12:17"
+  },
+  {
+    "company": "Carvana Receivables Depositor LLC",
+    "cik": "1770373",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K annonçant l’émission de titres adossés à des créances Carvana.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1770373/000177037326000046/crvna2026-p3form8xkreopini.htm",
+    "date": "2026-08-20 12:17"
+  },
+  {
     "company": "HIGHWATER ETHANOL LLC",
     "cik": "1371451",
     "form": "8-K",
@@ -2587,45 +2623,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526339868/ck0001946997-20260710.htm",
     "date": "2026-08-07 13:40"
-  },
-  {
-    "company": "Rise Companies Corp",
-    "cik": "1640967",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rise Companies Corp annonce une augmentation du prix d'offre de son action de classe B",
-    "activite": "",
-    "chiffres": {
-      "dividende": "15,90 $ a 16,05 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1640967/000162828026054717/rc-20260807.htm",
-    "date": "2026-08-07 13:13"
-  },
-  {
-    "company": "Energy 11, L.P.",
-    "cik": "1581552",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Energy 11, L.P. annonce des distributions aux actionnaires",
-    "activite": "exploitation de partenariat pour les energies",
-    "chiffres": {
-      "dividende": "$0.93 par unite, $0.12 par unite speciale, $4.6 millions, $37.3 millions"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1581552/000143774926026502/eele20260804_8k.htm",
-    "date": "2026-08-07 12:37"
-  },
-  {
-    "company": "Morgan Stanley Capital I Trust 2022-L8",
-    "cik": "1912724",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de special servicer pour le 26 Broadway Non-Serviced Loan Combination",
-    "activite": "Servicing et administration de prets hypothecaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1912724/000153949726002122/n3018-x14_8k.htm",
-    "date": "2026-08-07 12:17"
   }
 ]
