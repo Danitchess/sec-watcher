@@ -1,5 +1,29 @@
 [
   {
+    "company": "Audax Private Credit Fund, LLC",
+    "cik": "2033362",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2033362/000119312526358566/ck0002033362-20260813.htm",
+    "date": "2026-08-20 10:58"
+  },
+  {
+    "company": "AB Private Lending Fund",
+    "cik": "1982701",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1982701/000119312526358557/d163003d8k.htm",
+    "date": "2026-08-20 10:52"
+  },
+  {
     "company": "Federal Home Loan Bank of Dallas",
     "cik": "1331757",
     "form": "8-K",
@@ -2605,33 +2629,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1228454/000119312526339642/d155268d8k.htm",
     "date": "2026-08-07 11:43"
-  },
-  {
-    "company": "Fortress Net Lease REIT",
-    "cik": "1966394",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Fortress Net Lease REIT annonce des ventes d'actions et des distributions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$91.3 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1966394/000119312526339638/ck0001966394-20260803.htm",
-    "date": "2026-08-07 11:41"
-  },
-  {
-    "company": "TIAA REAL ESTATE ACCOUNT",
-    "cik": "946155",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de performance du TIAA Real Estate Account au 30 juin 2026",
-    "activite": "Gestion d'un portefeuille de biens immobiliers productifs de revenus",
-    "chiffres": {
-      "dividende": "0,855% de frais estimés pour la période du 1er mai 2026 au 30 avril 2027"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000097/a99163026.htm",
-    "date": "2026-08-07 10:42"
   }
 ]
