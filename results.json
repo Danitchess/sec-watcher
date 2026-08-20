@@ -1,5 +1,41 @@
 [
   {
+    "company": "ADVANCE AUTO PARTS INC",
+    "cik": "1158449",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt 8‑K informe de la publication des résultats du deuxième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/aap-20260820.htm",
+    "date": "2026-08-20 06:31"
+  },
+  {
+    "company": "INNSUITES HOSPITALITY TRUST",
+    "cik": "82473",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt ne contient pas d'information substantielle.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/82473/000149315226039352/ex10-1.htm",
+    "date": "2026-08-20 06:27"
+  },
+  {
+    "company": "Transocean Ltd.",
+    "cik": "1451505",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000064/rig-20260820x8k.htm",
+    "date": "2026-08-20 06:21"
+  },
+  {
     "company": "Precipio, Inc.",
     "cik": "1043961",
     "form": "8-K",
@@ -2620,48 +2656,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526339048/yumc-20260807.htm",
     "date": "2026-08-07 06:19"
-  },
-  {
-    "company": "Trulieve Cannabis Corp.",
-    "cik": "1754195",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Trulieve Cannabis Corp. annonce ses resultats financiers pour le deuxieme trimestre 2026",
-    "activite": "exploitation de produits du cannabis",
-    "chiffres": {
-      "revenu": "$271 million",
-      "benefice": "$20 million (ajuste)",
-      "bpa": "$0,11",
-      "croissance": "-10% (revenu par rapport au Q2 2025)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1754195/000175419526000067/exhibit991trlvearningsrele.htm",
-    "date": "2026-08-07 06:17"
-  },
-  {
-    "company": "YUM BRANDS INC",
-    "cik": "1041061",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Yum Brands Inc annonce la completion de la vente de ses droits sur le marche chinois de Pizza Hut",
-    "activite": "exploitation de restaurants KFC, Taco Bell et Pizza Hut",
-    "chiffres": {
-      "dividende": "1,2 milliard $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1041061/000110465926092305/tm2622152d1_8k.htm",
-    "date": "2026-08-07 06:15"
-  },
-  {
-    "company": "IOVANCE BIOTHERAPEUTICS, INC.",
-    "cik": "1425205",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Iovance Biotherapeutics met a jour sa presentation corporative",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926092145/tm2622463d1_8k.htm",
-    "date": "2026-08-06 17:30"
   }
 ]
