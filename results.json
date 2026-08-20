@@ -1,5 +1,29 @@
 [
   {
+    "company": "POPULAR, INC.",
+    "cik": "763901",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de nouveaux dirigeants et approbation de leurs rémunérations.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526359008/d26601d8k.htm",
+    "date": "2026-08-20 14:26"
+  },
+  {
+    "company": "POPULAR, INC.",
+    "cik": "763901",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 85,\n  \"resume\": \"Annonce d'un dividende trimestriel de 0,90 $ par action\",\n  \"activite\": \"\",\n  \"chiffres\": {\n    \"revenu\": \"\",\n    \"benefice\": \"\",\n    \"bpa\": \"\",",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526358984/d184051d8k.htm",
+    "date": "2026-08-20 14:21"
+  },
+  {
     "company": "Federal Home Loan Bank of Boston",
     "cik": "1331463",
     "form": "8-K",
@@ -2593,29 +2617,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1840425/000121390026086599/ea0301114-8k_osrhealth.htm",
     "date": "2026-08-07 15:32"
-  },
-  {
-    "company": "ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc.",
-    "cik": "1625941",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Description du programme de rachat d'actions de la societe ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1625941/000162828026054775/aire-20260630ex991.htm",
-    "date": "2026-08-07 15:05"
-  },
-  {
-    "company": "LION COPPER &amp; GOLD CORP.",
-    "cik": "1339688",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Lion Copper & Gold Corp. annonce l'acquisition de terres strategiques dans le district de Yerington",
-    "activite": "exploitation miniere",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326004098/exhibit99-1.htm",
-    "date": "2026-08-07 14:34"
   }
 ]
