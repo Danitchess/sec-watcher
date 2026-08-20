@@ -1,5 +1,41 @@
 [
   {
+    "company": "TREDEGAR CORP",
+    "cik": "850429",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'Ana Dutra au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/850429/000162828026058292/tg-20260817.htm",
+    "date": "2026-08-20 17:30"
+  },
+  {
+    "company": "FIRST BUSINESS FINANCIAL SERVICES, INC.",
+    "cik": "1521951",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Publication d'une présentation aux investisseurs détaillant la performance récente de la société.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1521951/000119312526359419/fbiz-20260820.htm",
+    "date": "2026-08-20 17:28"
+  },
+  {
+    "company": "Nexalin Technology, Inc.",
+    "cik": "1527352",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nexalin Technology signe un accord d'achat de titres pour lever environ 750 000 $.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626009173/nexalintec_8k.htm",
+    "date": "2026-08-20 17:28"
+  },
+  {
     "company": "ASP Isotopes Inc.",
     "cik": "1921865",
     "form": "8-K",
@@ -2567,41 +2603,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1282850/000144554626005855/ex_99.htm",
     "date": "2026-08-10 09:26"
-  },
-  {
-    "company": "BEYOND MEAT, INC.",
-    "cik": "1655210",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Beyond Meat, Inc. a conclu un accord supplementaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1655210/000119312526341312/d156122d8k.htm",
-    "date": "2026-08-10 08:04"
-  },
-  {
-    "company": "Outdoor Holding Co",
-    "cik": "1015383",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226036743/ex3-1.htm",
-    "date": "2026-08-10 08:01"
-  },
-  {
-    "company": "CONDUENT Inc",
-    "cik": "1677703",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Conduent Incorporated publie son rapport financier du deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000091/cndt-20260810.htm",
-    "date": "2026-08-10 08:01"
   }
 ]
