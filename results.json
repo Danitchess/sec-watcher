@@ -1,5 +1,41 @@
 [
   {
+    "company": "HIGHWATER ETHANOL LLC",
+    "cik": "1371451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau administrateur au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1371451/000162828026058180/highwater-20260819.htm",
+    "date": "2026-08-20 11:37"
+  },
+  {
+    "company": "Protagenic Therapeutics, Inc.\\new",
+    "cik": "1022899",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Protagenic Therapeutics reçoit un avis favorable de la FDA pour son IND sur le traitement du trouble anxieux généralisé.",
+    "activite": "Entreprise biopharmaceutique en phase clinique développant des traitements peptidiques pour les troubles neuropsychiatriques liés au stress.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1022899/000149315226039410/ex99-1.htm",
+    "date": "2026-08-20 11:26"
+  },
+  {
+    "company": "Rocky Mountains Group Ltd",
+    "cik": "2034288",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le 20 août 2026, Rocky Mountains Group Ltd a cédé 83,2 % de son capital à Ya Deng, qui devient président‑directeur général.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2034288/000149315226039409/form8-k.htm",
+    "date": "2026-08-20 11:24"
+  },
+  {
     "company": "Audax Private Credit Fund, LLC",
     "cik": "2033362",
     "form": "8-K",
@@ -2591,43 +2627,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1912724/000153949726002122/n3018-x14_8k.htm",
     "date": "2026-08-07 12:17"
-  },
-  {
-    "company": "TABLE TRAC INC",
-    "cik": "1090396",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Table Trac Inc. annonce un dividende trimestriel",
-    "activite": "developpe, vend, loue et supporte des systemes de gestion de casino et des solutions technologiques de jeu pour les operateurs de casino dans le monde entier",
-    "chiffres": {
-      "dividende": "$0.02 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1090396/000143774926026491/ex_1001018.htm",
-    "date": "2026-08-07 12:13"
-  },
-  {
-    "company": "MEXICO FUND INC",
-    "cik": "65433",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K de la societe MEXICO FUND INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/65433/000165495426007378/mxf_8k.htm",
-    "date": "2026-08-07 11:43"
-  },
-  {
-    "company": "BCB BANCORP INC",
-    "cik": "1228454",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de BCB BANCORP INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1228454/000119312526339642/d155268d8k.htm",
-    "date": "2026-08-07 11:43"
   }
 ]
