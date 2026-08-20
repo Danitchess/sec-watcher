@@ -1,5 +1,29 @@
 [
   {
+    "company": "Profusa, Inc.",
+    "cik": "1859807",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Profusa, Inc. a publié ses résultats financiers du trimestre se terminant le 30 juin 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026091905/ea0302812-8k_profusa.htm",
+    "date": "2026-08-20 08:32"
+  },
+  {
+    "company": "Standard Nuclear, Inc.",
+    "cik": "2086716",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Standard Nuclear signe un accord d'approvisionnement en combustible TRISO avec Radiant jusqu'en 2031.",
+    "activite": "producteur de combustible nucléaire TRISO à grande échelle",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026058139/radiant_fuelxsalexagreement.htm",
+    "date": "2026-08-20 08:31"
+  },
+  {
     "company": "ALLSTATE CORP",
     "cik": "899051",
     "form": "8-K",
@@ -2613,38 +2637,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1355096/000110465926092423/tm2622253d3_8k.htm",
     "date": "2026-08-07 09:26"
-  },
-  {
-    "company": "Earth Science Tech, Inc.",
-    "cik": "1538495",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "La societe Earth Science Tech, Inc. annonce des resultats financiers positifs pour le premier trimestre 2027",
-    "activite": "La societe opere comme une entreprise de portefeuille diversifiee dans le secteur de la sante et du bien-etre",
-    "chiffres": {
-      "revenu": "$9.0 million",
-      "benefice": "$715,697 (+57%)",
-      "bpa": "$0.003",
-      "croissance": "108% pour le flux de trésorerie d'exploitation"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1538495/000149315226036483/ex99-1.htm",
-    "date": "2026-08-07 08:05"
-  },
-  {
-    "company": "Calumet, Inc. /DE",
-    "cik": "2013745",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Calumet annonce des resultats positifs pour le deuxieme trimestre 2026",
-    "activite": "Calumet fabrique, formule et commercialise des produits speciaux et des carburants renouvelables",
-    "chiffres": {
-      "benefice": "(95,9) million $",
-      "bpa": "(1,09) $",
-      "dividende": "115 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2013745/000201374526000022/clmt-20260630xex991.htm",
-    "date": "2026-08-07 08:05"
   }
 ]
