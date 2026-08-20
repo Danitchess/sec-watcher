@@ -1,5 +1,41 @@
 [
   {
+    "company": "CAPITAL ONE FINANCIAL CORP",
+    "cik": "927628",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Capital One annonce le rachat de toutes les actions de sa série M de titres privilégiés.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/927628/000119312526358268/d825041d8k.htm",
+    "date": "2026-08-20 09:22"
+  },
+  {
+    "company": "PetVivo Holdings, Inc.",
+    "cik": "1512922",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt sans informations significatives.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1512922/000149315226039397/ex99-1.htm",
+    "date": "2026-08-20 09:20"
+  },
+  {
+    "company": "Game Your Game Inc.",
+    "cik": "2111846",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lettre aux actionnaires présentant les offres de produits et le modèle économique.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026091916/ea0302824-8k_game.htm",
+    "date": "2026-08-20 09:15"
+  },
+  {
     "company": "Profusa, Inc.",
     "cik": "1859807",
     "form": "8-K",
@@ -2599,43 +2635,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/65984/000119312526339472/d42703d8k.htm",
     "date": "2026-08-07 10:36"
-  },
-  {
-    "company": "CBL &amp; ASSOCIATES PROPERTIES INC",
-    "cik": "910612",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de CBL & Associates Properties, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526339362/cbl-20260806.htm",
-    "date": "2026-08-07 09:38"
-  },
-  {
-    "company": "LCI INDUSTRIES",
-    "cik": "763744",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de LCI INDUSTRIES",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000079/lcii-20260805.htm",
-    "date": "2026-08-07 09:32"
-  },
-  {
-    "company": "Old QVC Group, Inc.",
-    "cik": "1355096",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Old QVC Group, Inc. sort de la faillite avec un plan de reorganisation",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,240,362,247 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1355096/000110465926092423/tm2622253d3_8k.htm",
-    "date": "2026-08-07 09:26"
   }
 ]
