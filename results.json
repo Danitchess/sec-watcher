@@ -1,5 +1,29 @@
 [
   {
+    "company": "ASP Isotopes Inc.",
+    "cik": "1921865",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de prêt sécurisé d'environ 14,2 M$ pour ASP Isotopes",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226005196/aspi_8k.htm",
+    "date": "2026-08-20 17:17"
+  },
+  {
+    "company": "CCO HOLDINGS CAPITAL CORP",
+    "cik": "1271834",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la finalisation des fusions avec Liberty Broadband et Cox",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1271834/000114036126033909/ef20080687_8k.htm",
+    "date": "2026-08-20 17:16"
+  },
+  {
     "company": "Monroe Capital Enhanced Corporate Lending Fund",
     "cik": "2061670",
     "form": "8-K",
@@ -2579,31 +2603,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000091/cndt-20260810.htm",
     "date": "2026-08-10 08:01"
-  },
-  {
-    "company": "LINCOLN NATIONAL CORP",
-    "cik": "59558",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le directeur financier quitte l'entreprise",
-    "activite": "",
-    "chiffres": {
-      "dividende": "550 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/59558/000119312526341190/d104957d8k.htm",
-    "date": "2026-08-10 07:01"
-  },
-  {
-    "company": "Oruka Therapeutics, Inc.",
-    "cik": "907654",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Oruka Therapeutics, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026086933/ea0301312-8k_oruka.htm",
-    "date": "2026-08-10 07:00"
   }
 ]
