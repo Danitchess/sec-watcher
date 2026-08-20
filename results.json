@@ -1,5 +1,29 @@
 [
   {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000164/fhlbbost-20260817.htm",
+    "date": "2026-08-20 13:51"
+  },
+  {
+    "company": "Barings Private Credit Corp",
+    "cik": "1859919",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1859919/000185991926000078/bdc-20260819.htm",
+    "date": "2026-08-20 13:30"
+  },
+  {
     "company": "Federal Home Loan Bank of Indianapolis",
     "cik": "1331754",
     "form": "8-K",
@@ -2593,33 +2617,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326004098/exhibit99-1.htm",
     "date": "2026-08-07 14:34"
-  },
-  {
-    "company": "Citibank, N.A., as depositor of Citibank Credit Card Issuance Trust",
-    "cik": "1522616",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Citibank Credit Card Issuance Trust",
-    "activite": "Gestion de cartes de credit",
-    "chiffres": {
-      "revenu": "$ 2,309,999"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1522616/000119312526339916/d114054d8k.htm",
-    "date": "2026-08-07 14:00"
-  },
-  {
-    "company": "CITIBANK CREDIT CARD ISSUANCE TRUST",
-    "cik": "1108348",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de CITIBANK CREDIT CARD ISSUANCE TRUST",
-    "activite": "Gestion de cartes de credit",
-    "chiffres": {
-      "revenu": "$ 2,309,999"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1108348/000119312526339916/d114054d8k.htm",
-    "date": "2026-08-07 14:00"
   }
 ]
