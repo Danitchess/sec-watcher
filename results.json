@@ -1,5 +1,29 @@
 [
   {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.\",\"",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000152/fhlbd-20260817.htm",
+    "date": "2026-08-20 10:15"
+  },
+  {
+    "company": "HOVNANIAN ENTERPRISES INC",
+    "cik": "357294",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/357294/000175392626001568/ex991_1.htm",
+    "date": "2026-08-20 10:02"
+  },
+  {
     "company": "CAPITAL ONE FINANCIAL CORP",
     "cik": "927628",
     "form": "8-K",
@@ -2609,31 +2633,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/946155/000094615526000097/a99163026.htm",
     "date": "2026-08-07 10:42"
-  },
-  {
-    "company": "ARTESIAN RESOURCES CORP",
-    "cik": "863110",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Artesian Resources Corporation publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/863110/000086311026000072/artna-20260806.htm",
-    "date": "2026-08-07 10:40"
-  },
-  {
-    "company": "ENTERGY CORP /DE/",
-    "cik": "65984",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Entergy Corporation emet des debentures subordonnees junior",
-    "activite": "",
-    "chiffres": {
-      "dividende": "750 000 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/65984/000119312526339472/d42703d8k.htm",
-    "date": "2026-08-07 10:36"
   }
 ]
