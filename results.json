@@ -1,5 +1,41 @@
 [
   {
+    "company": "PITNEY BOWES INC /DE/",
+    "cik": "78814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du lancement d'offres de rachat en espèces de ses obligations",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/78814/000162828026058130/pbi-20260820.htm",
+    "date": "2026-08-20 07:10"
+  },
+  {
+    "company": "Performance Food Group Co",
+    "cik": "1618673",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de nouveaux dirigeants et réduction du conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1618673/000119312526357838/d134405d8k.htm",
+    "date": "2026-08-20 07:05"
+  },
+  {
+    "company": "UroGen Pharma Ltd.",
+    "cik": "1668243",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "UroGen Pharma signe un accord de licence et prévoit d'investir jusqu'à 7 M$ dans IntraGel.",
+    "activite": "Développe et commercialise des traitements contre le cancer, notamment via une plateforme d'hydrogel à libération prolongée.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1668243/000143774926028590/urgn20260819_8k.htm",
+    "date": "2026-08-20 07:04"
+  },
+  {
     "company": "ADVANCE AUTO PARTS INC",
     "cik": "1158449",
     "form": "8-K",
@@ -2613,48 +2649,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1657788/000110465926092355/tm2622481d1_8k.htm",
     "date": "2026-08-07 07:17"
-  },
-  {
-    "company": "Douglas Elliman Inc.",
-    "cik": "1878897",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Douglas Elliman Inc. annonce des resultats financiers solides pour le deuxieme trimestre 2026",
-    "activite": "Douglas Elliman est une societe de courtage immobilier de luxe",
-    "chiffres": {
-      "revenu": "$283,4 millions",
-      "benefice": "-$2,7 millions",
-      "bpa": "-$0,03",
-      "croissance": "4,5%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1878897/000187889726000041/a2026q2pressrelease.htm",
-    "date": "2026-08-07 07:16"
-  },
-  {
-    "company": "Sylvamo Corp",
-    "cik": "1856485",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Sylvamo Corp publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1856485/000185648526000031/syl-20260807.htm",
-    "date": "2026-08-07 07:14"
-  },
-  {
-    "company": "Yum China Holdings, Inc.",
-    "cik": "1673358",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Yum China Holdings, Inc. annonce la conclusion d'un accord de licence pour les marques KFC et Taco Bell",
-    "activite": "exploitation de marques de restauration rapide",
-    "chiffres": {
-      "dividende": "US$1,2 milliard"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526339048/yumc-20260807.htm",
-    "date": "2026-08-07 06:19"
   }
 ]
