@@ -1,5 +1,29 @@
 [
   {
+    "company": "Quoin Pharmaceuticals, Ltd.",
+    "cik": "1671502",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit les votes et décisions de l'assemblée annuelle des actionnaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926099239/tm2623719d1_8k.htm",
+    "date": "2026-08-20 16:19"
+  },
+  {
+    "company": "ONEMAIN FINANCE CORP",
+    "cik": "25598",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "OneMain Finance a émis 600 M$ de notes senior à 7,125 % échéant 2034.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/25598/000114036126033882/ef20080671_8k.htm",
+    "date": "2026-08-20 16:18"
+  },
+  {
     "company": "North Haven Net REIT",
     "cik": "1999784",
     "form": "8-K",
@@ -2582,34 +2606,6 @@
       "croissance": "70%"
     },
     "url": "https://www.sec.gov/Archives/edgar/data/795800/000149315226036682/ex99-1.htm",
-    "date": "2026-08-07 17:30"
-  },
-  {
-    "company": "OneMain Holdings, Inc.",
-    "cik": "1584207",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "OneMain Holdings, Inc. annonce une emission d'obligations",
-    "activite": "emission d'obligations",
-    "chiffres": {
-      "dividende": "600,0 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1584207/000114036126031876/ef20079685_8k.htm",
-    "date": "2026-08-07 17:30"
-  },
-  {
-    "company": "ONEMAIN FINANCE CORP",
-    "cik": "25598",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "OneMain Finance Corp propose d'emettre 600 millions de dollars de titres",
-    "activite": "emission de titres",
-    "chiffres": {
-      "dividende": "600 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/25598/000114036126031875/ef20079685_ex1-1.htm",
     "date": "2026-08-07 17:30"
   }
 ]
