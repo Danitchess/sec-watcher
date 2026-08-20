@@ -1,5 +1,29 @@
 [
   {
+    "company": "Monroe Capital Enhanced Corporate Lending Fund",
+    "cik": "2061670",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000078/mlend-20260820.htm",
+    "date": "2026-08-20 16:49"
+  },
+  {
+    "company": "RF Acquisition Corp II",
+    "cik": "2012807",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2012807/000182912626009168/rfacquisition2_8k.htm",
+    "date": "2026-08-20 16:49"
+  },
+  {
     "company": "Quoin Pharmaceuticals, Ltd.",
     "cik": "1671502",
     "form": "8-K",
@@ -2581,31 +2605,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026086933/ea0301312-8k_oruka.htm",
     "date": "2026-08-10 07:00"
-  },
-  {
-    "company": "Cherry Hill Mortgage Investment Corp",
-    "cik": "1571776",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Cherry Hill Mortgage Investment Corp",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1571776/000114036126031932/ef20079832_8k.htm",
-    "date": "2026-08-10 07:00"
-  },
-  {
-    "company": "NexMetals Mining Corp.",
-    "cik": "795800",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "NexMetals Mining Corp annonce une augmentation de 70% de ses ressources minerales en cuivre equivalent",
-    "activite": "exploitation miniere de cuivre, nickel, platine et autres metaux",
-    "chiffres": {
-      "croissance": "70%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/795800/000149315226036682/ex99-1.htm",
-    "date": "2026-08-07 17:30"
   }
 ]
