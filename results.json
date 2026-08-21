@@ -1,5 +1,17 @@
 [
   {
+    "company": "Antares Private Credit Fund",
+    "cik": "1976336",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a signé des accords d'investissement et d'administration amendés",
+    "activite": "Fournit des services de conseil en investissement et d'administration de fonds",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1976336/000110465926099624/tm2623732d1_8k.htm",
+    "date": "2026-08-21 13:59"
+  },
+  {
     "company": "PERMIAN BASIN ROYALTY TRUST",
     "cik": "319654",
     "form": "8-K",
@@ -2564,17 +2576,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326004160/exhibit99-1.htm",
     "date": "2026-08-11 06:01"
-  },
-  {
-    "company": "Crane NXT, Co.",
-    "cik": "25445",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Crane NXT, Co. participera a une conference technologique",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/25445/000002544526000038/cxt-20260811.htm",
-    "date": "2026-08-11 06:00"
   }
 ]
