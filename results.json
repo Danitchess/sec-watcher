@@ -1,5 +1,41 @@
 [
   {
+    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+    "cik": "1979414",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de Nasim Shomali au comité d'audit du conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626009220/neonctechnologies_8ka.htm",
+    "date": "2026-08-21 14:58"
+  },
+  {
+    "company": "Woodward, Inc.",
+    "cik": "108312",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Woodward a conclu un accord d'achat de notes de 450 M$ en placement privé.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/108312/000119312526360911/wwd-20260819.htm",
+    "date": "2026-08-21 14:51"
+  },
+  {
+    "company": "SAN JUAN BASIN ROYALTY TRUST",
+    "cik": "319655",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "Le Trust annonce qu'aucune distribution de trésorerie ne sera versée en août en raison de coûts de production élevés et de prix du gaz bas.",
+    "activite": "Le Trust détient des intérêts de production de gaz naturel dans le bassin de San Juan.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/319655/000119312526360880/august_2026_8-k.htm",
+    "date": "2026-08-21 14:47"
+  },
+  {
     "company": "Antares Private Credit Fund",
     "cik": "1976336",
     "form": "8-K",
@@ -2538,43 +2574,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926093723/vreof-20260811x8k.htm",
     "date": "2026-08-11 07:11"
-  },
-  {
-    "company": "Hemab Therapeutics Holdings, Inc.",
-    "cik": "2114044",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Hemab Therapeutics Holdings, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2114044/000119312526343421/d180684d8k.htm",
-    "date": "2026-08-11 07:11"
-  },
-  {
-    "company": "CVRx, Inc.",
-    "cik": "1235912",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un dirigeant de CVRx, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1235912/000110465926093721/tm2622791d1_8k.htm",
-    "date": "2026-08-11 07:09"
-  },
-  {
-    "company": "Artificial Intelligence Technology Solutions Inc.",
-    "cik": "1498148",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe Artificial Intelligence Technology Solutions Inc. annonce une nouvelle commande de son vehicule de patrouille autonome ROAMEO",
-    "activite": "developpement et operation de solutions de securite et de productivite basees sur l'intelligence artificielle pour les entreprises",
-    "chiffres": {
-      "dividende": "50 milliards $ (US)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326004160/exhibit99-1.htm",
-    "date": "2026-08-11 06:01"
   }
 ]
