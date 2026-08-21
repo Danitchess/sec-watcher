@@ -1,5 +1,41 @@
 [
   {
+    "company": "ALBEMARLE CORP",
+    "cik": "915913",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de Max W. Hood comme directeur comptable avec détails de sa rémunération.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000107/alb-20260819.htm",
+    "date": "2026-08-21 06:30"
+  },
+  {
+    "company": "Streamex Corp.",
+    "cik": "1530766",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"positif\",\"",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1530766/000149315226039547/ex99-1.htm",
+    "date": "2026-08-21 06:02"
+  },
+  {
+    "company": "Jefferson Capital, Inc. / DE",
+    "cik": "2046042",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2046042/000110465926099334/tm2623654d1_8k.htm",
+    "date": "2026-08-21 06:01"
+  },
+  {
     "company": "PROSPECT CAPITAL CORP",
     "cik": "1287032",
     "form": "8-K",
@@ -2563,43 +2599,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026087062/ea0301347-8k_evolution.htm",
     "date": "2026-08-10 10:21"
-  },
-  {
-    "company": "MUELLER INDUSTRIES INC",
-    "cik": "89439",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Mueller Industries verse un dividende trimestriel",
-    "activite": "Mueller Industries est une societe industrielle dont les filiales fabriquent des biens essentiels pour des marches tels que la distribution d'air, d'eau, de petrole et de gaz, le confort climatique, la preservation des aliments, la transmission electrique, le medical, l'aerospace et l'automobile",
-    "chiffres": {
-      "dividende": "17,5 cents par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000036/ex-99_1q32026dividend.htm",
-    "date": "2026-08-10 10:17"
-  },
-  {
-    "company": "Aspire Biopharma Holdings, Inc.",
-    "cik": "1847345",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aspire Biopharma Holdings, Inc. conclut un accord avec FireFish TopCo, LLC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1847345/000149315226036777/ex10-2.htm",
-    "date": "2026-08-10 09:45"
-  },
-  {
-    "company": "AleeanPeace Group Holdings Ltd",
-    "cik": "1763660",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1763660/000149315226036775/ex3-1.htm",
-    "date": "2026-08-10 09:43"
   }
 ]
