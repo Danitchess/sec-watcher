@@ -1,5 +1,29 @@
 [
   {
+    "company": "Uniti Group Inc.",
+    "cik": "2020795",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326012737/dp252143_8k.htm",
+    "date": "2026-08-21 07:31"
+  },
+  {
+    "company": "Intercontinental Exchange, Inc.",
+    "cik": "1571949",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Intercontinental Exchange a amend",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526359930/d369319d8k.htm",
+    "date": "2026-08-21 07:30"
+  },
+  {
     "company": "Qnity Electronics, Inc.",
     "cik": "2058873",
     "form": "8-K",
@@ -2573,31 +2597,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226036791/ex10-1.htm",
     "date": "2026-08-10 11:49"
-  },
-  {
-    "company": "Greenland Mines Ltd",
-    "cik": "1907223",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Greenland Mines Ltd. annonce l'ajournement d'une reunion speciale des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026087103/ea0301192-8k_greenland.htm",
-    "date": "2026-08-10 11:36"
-  },
-  {
-    "company": "Chase Card Funding LLC",
-    "cik": "1658982",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Chase Card Funding LLC",
-    "activite": "Emission de cartes de credit",
-    "chiffres": {
-      "revenu": "1,458,070 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1658982/000119312526341668/d134948d8k.htm",
-    "date": "2026-08-10 11:26"
   }
 ]
