@@ -1,5 +1,41 @@
 [
   {
+    "company": "Peraso Inc.",
+    "cik": "890394",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une hausse de 5 % des salaires de base des dirigeants.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/890394/000121390026092719/ea0303091-8k_peraso.htm",
+    "date": "2026-08-21 17:30"
+  },
+  {
+    "company": "Vivos Therapeutics, Inc.",
+    "cik": "1716166",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 90,\n  \"resume\": \"Vivos Therapeutics ouvre un nouveau centre de dépistage et traitement du sommeil à Henderson, Nevada, doublant sa capacité de production.\",\n  \"a",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226039736/ex99-1.htm",
+    "date": "2026-08-21 17:30"
+  },
+  {
+    "company": "Flash Sports &amp; Media Holdings, Inc.",
+    "cik": "1706524",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 30,
+    "resume": "La société fait face à une suspension de ses actions Nasdaq et prévoit de demander une audience pour réintégrer la cote.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026092714/ea0303082-8k_flash.htm",
+    "date": "2026-08-21 17:28"
+  },
+  {
     "company": "SolarMax Technology, Inc.",
     "cik": "1519472",
     "form": "8-K",
@@ -2521,43 +2557,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000132/fhlbcin-20260807.htm",
     "date": "2026-08-11 13:00"
-  },
-  {
-    "company": "Bluerock Homes Trust, Inc.",
-    "cik": "1903382",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bluerock Homes Trust, Inc. annonce la disposition de 26 unites residentielles",
-    "activite": "Bluerock Homes Trust, Inc. est une societe immobiliere",
-    "chiffres": {
-      "dividende": "7,2 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1903382/000110465926093930/tm2622807d1_8k.htm",
-    "date": "2026-08-11 12:45"
-  },
-  {
-    "company": "REGENCY CENTERS LP",
-    "cik": "1066247",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Regency Centers LP publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1066247/000119312526343812/reg-20260811.htm",
-    "date": "2026-08-11 11:46"
-  },
-  {
-    "company": "REGENCY CENTERS CORP",
-    "cik": "910606",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Regency Centers Corporation publie un rapport 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/910606/000119312526343812/reg-20260811.htm",
-    "date": "2026-08-11 11:46"
   }
 ]
