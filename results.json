@@ -1,5 +1,45 @@
 [
   {
+    "company": "Nuveen Global Cities REIT, Inc.",
+    "cik": "1711799",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000058/nuveen-20260821.htm",
+    "date": "2026-08-21 11:46"
+  },
+  {
+    "company": "Steele Creek Capital Corp",
+    "cik": "1817825",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le conseil d'administration a déclaré un dividende de 0,1287 $ par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.1287"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1817825/000121390026092451/ea0303020-8k_steele.htm",
+    "date": "2026-08-21 11:37"
+  },
+  {
+    "company": "MGE ENERGY INC",
+    "cik": "1161728",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "MGE Energy annonce une hausse de son dividende trimestriel à 0,5083 $ par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.5083 per share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1161728/000119312526360327/mgee-20260821.htm",
+    "date": "2026-08-21 11:33"
+  },
+  {
     "company": "CROSS TIMBERS ROYALTY TRUST",
     "cik": "881787",
     "form": "8-K",
@@ -2545,45 +2585,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1476204/000147620426000042/august2026atmrefresh8-kex51.htm",
     "date": "2026-08-10 17:27"
-  },
-  {
-    "company": "MASTEC INC",
-    "cik": "15615",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MasTec Inc. annonce une emission d'obligations senior de 650 millions de dollars",
-    "activite": "",
-    "chiffres": {
-      "dividende": "650 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/15615/000119312526342507/d165744d8k.htm",
-    "date": "2026-08-10 16:32"
-  },
-  {
-    "company": "Energy Services of America CORP",
-    "cik": "1357971",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Energy Services of America Corporation publie son rapport financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1357971/000110465926093416/tm2622641d1_8k.htm",
-    "date": "2026-08-10 16:31"
-  },
-  {
-    "company": "Onterris, Inc.",
-    "cik": "1643615",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Onterris, Inc. declare un dividende de droits de preference",
-    "activite": "",
-    "chiffres": {
-      "dividende": "105.00 $ par action de preference"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1643615/000119312526342500/ont-20260805.htm",
-    "date": "2026-08-10 16:31"
   }
 ]
