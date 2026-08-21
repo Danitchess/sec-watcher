@@ -1,5 +1,41 @@
 [
   {
+    "company": "CROSS TIMBERS ROYALTY TRUST",
+    "cik": "881787",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526360273/crt-ex99_1.htm",
+    "date": "2026-08-21 10:58"
+  },
+  {
+    "company": "HUGOTON ROYALTY TRUST",
+    "cik": "862022",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/862022/000119312526360252/hgtxu-ex99_1.htm",
+    "date": "2026-08-21 10:56"
+  },
+  {
+    "company": "FS Bancorp, Inc.",
+    "cik": "1530249",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"positif\",\"score\":80,\"resume\":\"FS Bancorp a finalisé l'acquisition de Pacific West Bancorp, renforçant sa présence bancaire.\",\"activite\":\"FS Bancorp est une société mère de banques, dont ",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000205/8k82026.htm",
+    "date": "2026-08-21 10:34"
+  },
+  {
     "company": "YUM BRANDS INC",
     "cik": "1041061",
     "form": "8-K",
@@ -2549,43 +2585,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1643615/000119312526342500/ont-20260805.htm",
     "date": "2026-08-10 16:31"
-  },
-  {
-    "company": "ARTS WAY MANUFACTURING CO INC",
-    "cik": "7623",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Arts Way Manufacturing Co. Inc. annonce des contrats importants pour son segment de bâtiments modulaires",
-    "activite": "construction de bâtiments modulaires",
-    "chiffres": {
-      "dividende": "19,0 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/7623/000143774926026761/artw20260810_8k.htm",
-    "date": "2026-08-10 15:37"
-  },
-  {
-    "company": "IPC Alternative Real Estate Income Trust, Inc.",
-    "cik": "1959961",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "IPC Alternative Real Estate Income Trust, Inc. annonce les resultats de son assemblee annuelle des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526342185/ck0001959961-20260806.htm",
-    "date": "2026-08-10 15:10"
-  },
-  {
-    "company": "LINCOLN EDUCATIONAL SERVICES CORP",
-    "cik": "1286613",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lincoln Educational Services Corporation publie son rapport financier pour le deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1286613/000114036126031997/ef20079845_8k.htm",
-    "date": "2026-08-10 15:09"
   }
 ]
