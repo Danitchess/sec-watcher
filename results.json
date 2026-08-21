@@ -1,5 +1,29 @@
 [
   {
+    "company": "Qnity Electronics, Inc.",
+    "cik": "2058873",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 92,
+    "resume": "Nomination d'un nouveau directeur financier, Ken Rizvi, pour soutenir la croissance de Qnity.",
+    "activite": "Fournisseur de technologies et de matériaux haute performance pour la chaîne de valeur des semi-conducteurs.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000033/ex991-pressreleasex82126.htm",
+    "date": "2026-08-21 07:09"
+  },
+  {
+    "company": "Ubiquiti Inc.",
+    "cik": "1511737",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 90,\n  \"resume\": \"Ubiquiti annonce des revenus record de 3,3 milliards $ et un",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173726000057/exhibit991-063026.htm",
+    "date": "2026-08-21 07:05"
+  },
+  {
     "company": "ALBEMARLE CORP",
     "cik": "915913",
     "form": "8-K",
@@ -2575,29 +2599,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1658982/000119312526341668/d134948d8k.htm",
     "date": "2026-08-10 11:26"
-  },
-  {
-    "company": "BIP Ventures Evergreen BDC",
-    "cik": "1950572",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un membre du conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1950572/000119312526341548/ck0001950572-20260805.htm",
-    "date": "2026-08-10 10:28"
-  },
-  {
-    "company": "Evolution Metals &amp; Technologies Corp.",
-    "cik": "1866226",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Evolution Metals & Technologies Corp. annonce la nomination de Kenji Konishi",
-    "activite": "production de magnetes",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026087062/ea0301347-8k_evolution.htm",
-    "date": "2026-08-10 10:21"
   }
 ]
