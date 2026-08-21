@@ -1,5 +1,17 @@
 [
   {
+    "company": "PROSPECT CAPITAL CORP",
+    "cik": "1287032",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1287032/000128703226000270/a2026-6x30xpsecearningsrel.htm",
+    "date": "2026-08-20 17:33"
+  },
+  {
     "company": "TREDEGAR CORP",
     "cik": "850429",
     "form": "8-K",
@@ -2589,19 +2601,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1763660/000149315226036775/ex3-1.htm",
     "date": "2026-08-10 09:43"
-  },
-  {
-    "company": "FIRST TRUST SENIOR FLOATING RATE INCOME FUND II",
-    "cik": "1282850",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "First Trust annonce la reorganisation de son fonds senior floating rate income en un ETF flexible",
-    "activite": "gestion de fonds d'investissement",
-    "chiffres": {
-      "dividende": "une distribution en aout 2026"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1282850/000144554626005855/ex_99.htm",
-    "date": "2026-08-10 09:26"
   }
 ]
