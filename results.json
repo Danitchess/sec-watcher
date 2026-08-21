@@ -1,5 +1,29 @@
 [
   {
+    "company": "NexPoint Capital, Inc.",
+    "cik": "1588272",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le NAV par action a été fixé à 4,67 $.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1588272/000119312526360561/d438452d8k.htm",
+    "date": "2026-08-21 12:56"
+  },
+  {
+    "company": "SOLESENCE, INC.",
+    "cik": "883107",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "La société a découvert des erreurs comptables dans ses stocks et doit reconstituer ses états financiers.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/883107/000117184326005702/f8k_082126.htm",
+    "date": "2026-08-21 12:30"
+  },
+  {
     "company": "Nuveen Global Cities REIT, Inc.",
     "cik": "1711799",
     "form": "8-K",
@@ -2557,33 +2581,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/318833/000031883326000053/a8-kex991q2x2026earnings.htm",
     "date": "2026-08-10 17:30"
-  },
-  {
-    "company": "East West Ave Acquisition Corp.",
-    "cik": "2100704",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de East West Ave Acquisition Corp.",
-    "activite": "La societe est une entreprise de capital-investissement qui vise a effectuer une fusion ou une acquisition avec une ou plusieurs entreprises.",
-    "chiffres": {
-      "dividende": "100,500,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2100704/000149315226036924/ex99-1.htm",
-    "date": "2026-08-10 17:29"
-  },
-  {
-    "company": "Phillips Edison &amp; Company, Inc.",
-    "cik": "1476204",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Phillips Edison & Company, Inc. effectue une offre au comptant pour vendre des actions ordinaires",
-    "activite": "",
-    "chiffres": {
-      "dividende": "400,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1476204/000147620426000042/august2026atmrefresh8-kex51.htm",
-    "date": "2026-08-10 17:27"
   }
 ]
