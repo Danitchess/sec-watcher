@@ -1,5 +1,29 @@
 [
   {
+    "company": "MODINE MANUFACTURING CO",
+    "cik": "67347",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Les actionnaires ont élu de nouveaux administrateurs et approuvé les votes consultatifs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/67347/000110465926099432/mod-20260820x8k.htm",
+    "date": "2026-08-21 09:30"
+  },
+  {
+    "company": "CDT Equity Inc.",
+    "cik": "1896212",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226039588/ex99-1.htm",
+    "date": "2026-08-21 09:27"
+  },
+  {
     "company": "BOSTON OMAHA Corp",
     "cik": "1494582",
     "form": "8-K",
@@ -2567,35 +2591,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2000046/000119312526342079/ck0002000046-20260807.htm",
     "date": "2026-08-10 14:24"
-  },
-  {
-    "company": "CLOUDASTRUCTURE, INC.",
-    "cik": "1709628",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cloudastructure, Inc. conclut un accord d'echange avec Streeterville Capital, LLC",
-    "activite": "",
-    "chiffres": {
-      "dividende": "108,332.50$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1709628/000168316826006154/cloud_8k.htm",
-    "date": "2026-08-10 14:17"
-  },
-  {
-    "company": "Where Food Comes From, Inc.",
-    "cik": "1360565",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Where Food Comes From, Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
-    "activite": "Verification et certification de pratiques de production alimentaire",
-    "chiffres": {
-      "revenu": "$6,611,000",
-      "benefice": "$413,000",
-      "bpa": "$0,08"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1360565/000149315226036804/ex99-1.htm",
-    "date": "2026-08-10 13:23"
   }
 ]
