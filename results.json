@@ -1,5 +1,29 @@
 [
   {
+    "company": "PERMIAN BASIN ROYALTY TRUST",
+    "cik": "319654",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a annoncé sa distribution de trésorerie mensuelle aux porteurs d'unités.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526360716/2026-08_permian_basin_8-.htm",
+    "date": "2026-08-21 13:48"
+  },
+  {
+    "company": "MARINE PETROLEUM TRUST",
+    "cik": "62362",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":55,\"resume\":\"Marine Petroleum Trust annonce une distribution de trésorerie de 0,095378 $ par unité pour le troisième trimestre.\",\"activite\":\"Marine Petroleum Trust perçoi",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/62362/000119312526360671/marps-ex99_1.htm",
+    "date": "2026-08-21 13:32"
+  },
+  {
     "company": "NexPoint Capital, Inc.",
     "cik": "1588272",
     "form": "8-K",
@@ -2552,34 +2576,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/25445/000002544526000038/cxt-20260811.htm",
     "date": "2026-08-11 06:00"
-  },
-  {
-    "company": "Flowco Holdings Inc.",
-    "cik": "2035149",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Flowco Holdings Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526343188/floc-20260811.htm",
-    "date": "2026-08-11 06:00"
-  },
-  {
-    "company": "TEAM INC",
-    "cik": "318833",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "TEAM INC. annonce ses resultats financiers pour le deuxieme trimestre 2026",
-    "activite": "fournisseur de services industriels specialises",
-    "chiffres": {
-      "revenu": "228,7 M$",
-      "benefice": "-6,8 M$",
-      "bpa": "54,4 M$",
-      "croissance": "-7,8%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/318833/000031883326000053/a8-kex991q2x2026earnings.htm",
-    "date": "2026-08-10 17:30"
   }
 ]
