@@ -1,5 +1,41 @@
 [
   {
+    "company": "BOSTON OMAHA Corp",
+    "cik": "1494582",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Boston Omaha a présenté son diaporama annuel lors de l'assemblée des actionnaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1494582/000143774926028680/bomn20260809c_8k.htm",
+    "date": "2026-08-21 08:31"
+  },
+  {
+    "company": "Meridian3 Industrials Acquisition Corp",
+    "cik": "2136530",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la mise en place du commerce séparé des actions et des bons de la société.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926099399/tm2623537d1_8k.htm",
+    "date": "2026-08-21 08:26"
+  },
+  {
+    "company": "reAlpha Tech Corp.",
+    "cik": "1859199",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Annonce la clôture d'une fusion avec InstaMortgage",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026092336/ea0302373-8k_realpha.htm",
+    "date": "2026-08-21 08:25"
+  },
+  {
     "company": "Uniti Group Inc.",
     "cik": "2020795",
     "form": "8-K",
@@ -2561,41 +2597,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1360565/000149315226036804/ex99-1.htm",
     "date": "2026-08-10 13:23"
-  },
-  {
-    "company": "HyOrc Corp",
-    "cik": "1070789",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un membre du conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226036801/form8-k.htm",
-    "date": "2026-08-10 13:12"
-  },
-  {
-    "company": "Vestand Inc.",
-    "cik": "1898604",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vestand Inc. annonce des changements dans les droits des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1898604/000149315226036799/form8-k.htm",
-    "date": "2026-08-10 12:47"
-  },
-  {
-    "company": "HyOrc Corp",
-    "cik": "1070789",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC sans information financiere",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226036791/ex10-1.htm",
-    "date": "2026-08-10 11:49"
   }
 ]
