@@ -1,5 +1,29 @@
 [
   {
+    "company": "YUM BRANDS INC",
+    "cik": "1041061",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur avec une attribution d'actions de 25 000 $.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000171/yum-20260820.htm",
+    "date": "2026-08-21 10:19"
+  },
+  {
+    "company": "UWHARRIE CAPITAL CORP",
+    "cik": "898171",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport trimestriel a été publié sans détail financier.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/898171/000119312526360116/uwhr-20260821.htm",
+    "date": "2026-08-21 09:39"
+  },
+  {
     "company": "MODINE MANUFACTURING CO",
     "cik": "67347",
     "form": "8-K",
@@ -2563,33 +2587,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1286613/000114036126031997/ef20079845_8k.htm",
     "date": "2026-08-10 15:09"
-  },
-  {
-    "company": "PECO ENERGY CO",
-    "cik": "78100",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "PECO Energy Company emet des obligations pour 750 millions de dollars",
-    "activite": "production et distribution d'energie",
-    "chiffres": {
-      "dividende": "750 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/78100/000007810026000003/exc-20260810.htm",
-    "date": "2026-08-10 14:36"
-  },
-  {
-    "company": "Fidelity Ethereum Fund",
-    "cik": "2000046",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Fidelity Ethereum Fund entre en accord avec des societes de services de custodie",
-    "activite": "Fidelity Ethereum Fund propose des services de custodie et de staking d'ether",
-    "chiffres": {
-      "dividende": "15% des recompenses de staking"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2000046/000119312526342079/ck0002000046-20260807.htm",
-    "date": "2026-08-10 14:24"
   }
 ]
