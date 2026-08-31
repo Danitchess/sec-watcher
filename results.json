@@ -1,5 +1,29 @@
 [
   {
+    "company": "Inflection Point Acquisition Corp. V",
+    "cik": "2028355",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Le SPAC Inflection Point Acquisition Corp. V a modifié son accord de combinaison avec GOWell, supprimant les restrictions de lock‑up et préparant l'approbation de la fusion.",
+    "activite": "Société d'acquisition (SPAC) visant à fusionner avec GOWell Technology Limited et ses filiales.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2028355/000121390026095807/ea0303966-8k425_inflection5.htm",
+    "date": "2026-08-31 17:29"
+  },
+  {
+    "company": "DIGI INTERNATIONAL INC",
+    "cik": "854775",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Digi International a conclu un accord de crédit revolving de 350 M$.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/854775/000110465926103966/tm2624262d1_8k.htm",
+    "date": "2026-08-31 17:26"
+  },
+  {
     "company": "Brightwood Capital Corp I",
     "cik": "1895316",
     "form": "8-K",
@@ -2523,29 +2547,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922d8k.htm",
     "date": "2026-08-11 15:52"
-  },
-  {
-    "company": "SPRUCE POWER HOLDING CORP",
-    "cik": "1772720",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Spruce Power Holding Corporation annonce les resultats du vote de ses actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1772720/000162828026055655/spru-20260811.htm",
-    "date": "2026-08-11 15:30"
-  },
-  {
-    "company": "Free Flow USA, Inc.",
-    "cik": "1543652",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement d'auditeur independant",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1543652/000109690626001191/fflo-20260811_8k.htm",
-    "date": "2026-08-11 14:55"
   }
 ]
