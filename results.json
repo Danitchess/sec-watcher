@@ -1,5 +1,29 @@
 [
   {
+    "company": "BARFRESH FOOD GROUP INC.",
+    "cik": "1487197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de départs de dirigeants et nomination d’un nouveau contrôleur avec son salaire",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1487197/000149315226041065/form8-k.htm",
+    "date": "2026-09-01 17:30"
+  },
+  {
+    "company": "HWH International Inc.",
+    "cik": "1897245",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1897245/000149315226041064/ex99-1.htm",
+    "date": "2026-09-01 17:28"
+  },
+  {
     "company": "Hartford Creative Group, Inc.",
     "cik": "1482554",
     "form": "8-K",
@@ -2511,35 +2535,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1447028/000117184326005442/exh_991.htm",
     "date": "2026-08-12 07:31"
-  },
-  {
-    "company": "Kontoor Brands, Inc.",
-    "cik": "1760965",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Kontoor Brands, Inc. annonce des résultats trimestriels positifs avec une augmentation de 19% du chiffre d'affaires",
-    "activite": "Conception et vente de vêtements sous les marques Wrangler et Helly Hansen",
-    "chiffres": {
-      "revenu": "$584 million (+19%)",
-      "benefice": "$91 million",
-      "bpa": "$1.03",
-      "croissance": "12 à 13%",
-      "dividende": "$0.53 par action"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000055/a2026q2ktberexhibit991.htm",
-    "date": "2026-08-12 06:51"
-  },
-  {
-    "company": "T1 Energy Inc.",
-    "cik": "1992243",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "T1 Energy Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026088022/ea0301615-8k_t1energy.htm",
-    "date": "2026-08-12 06:50"
   }
 ]
