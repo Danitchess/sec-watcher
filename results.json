@@ -1,5 +1,29 @@
 [
   {
+    "company": "Iron Horse Acquisition II Corp.",
+    "cik": "2051985",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Iron Horse Acquisition II Corp. annonce une combinaison avec Electra Vehicles et le choix de Mooving pour l'analyse de batteries en Inde.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026095968/ea0304133-8k425_iron2.htm",
+    "date": "2026-09-01 07:51"
+  },
+  {
+    "company": "Keurig Dr Pepper Inc.",
+    "cik": "1418135",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000055/kdp-20260828.htm",
+    "date": "2026-09-01 07:33"
+  },
+  {
     "company": "Inflection Point Acquisition Corp. V",
     "cik": "2028355",
     "form": "8-K",
@@ -2521,31 +2545,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1083522/000149315226037154/ex99-1.htm",
     "date": "2026-08-11 16:36"
-  },
-  {
-    "company": "Carter Bankshares, Inc.",
-    "cik": "1829576",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Carter Bankshares, Inc. etablit un plan de reinvestissement des dividendes et d'achat d'actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "1,000,000 actions"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1829576/000182957626000080/care-20260811.htm",
-    "date": "2026-08-11 16:36"
-  },
-  {
-    "company": "BERKSHIRE HATHAWAY INC",
-    "cik": "1067983",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Berkshire Hathaway Inc. publie son rapport financier pour le deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526344495/d159922d8k.htm",
-    "date": "2026-08-11 15:52"
   }
 ]
