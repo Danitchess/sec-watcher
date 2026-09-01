@@ -1,5 +1,41 @@
 [
   {
+    "company": "Hartford Creative Group, Inc.",
+    "cik": "1482554",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de nomination du CEO avec salaire annuel de 60 000 $",
+    "activite": "Agence de publicité sur les réseaux sociaux et production de mini‑dramas",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1482554/000149315226040994/ex10-1.htm",
+    "date": "2026-09-01 14:55"
+  },
+  {
+    "company": "FLEXIBLE SOLUTIONS INTERNATIONAL INC",
+    "cik": "1069394",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"positif\",\"score\":75,\"resume\":\"Nomination d'une nouvelle directrice et remerciements à un ancien dirigeant.\",\"activite\":\"Développe et fabrique des polymères biodégradables et des technolo",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1069394/000149315226040991/ex99-1.htm",
+    "date": "2026-09-01 14:42"
+  },
+  {
+    "company": "Earth Science Tech, Inc.",
+    "cik": "1538495",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 85,\n  \"resume\": \"Les actionnaires ont approuvé plusieurs résolutions, dont la stratégie d'up‑listing et la retraite d'actions privilégiées.\",\n  \"activite\": \"Hold",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1538495/000149315226040990/ex99-1.htm",
+    "date": "2026-09-01 14:42"
+  },
+  {
     "company": "Federal Home Loan Bank of Atlanta",
     "cik": "1331465",
     "form": "8-K",
@@ -2505,43 +2541,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026088022/ea0301615-8k_t1energy.htm",
     "date": "2026-08-12 06:50"
-  },
-  {
-    "company": "Liquidia Corp",
-    "cik": "1819576",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Liquidia Corp publie son rapport financier pour le trimestre clos le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926094411/tm2622888d1_8k.htm",
-    "date": "2026-08-12 06:45"
-  },
-  {
-    "company": "Inuvo, Inc.",
-    "cik": "829323",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Inuvo, Inc. annonce des changements dans son equipe de direction",
-    "activite": "",
-    "chiffres": {
-      "dividende": "62,500 $ par mois"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/829323/000165495426007482/inuvo_8k.htm",
-    "date": "2026-08-11 17:29"
-  },
-  {
-    "company": "INTELLIGENT BIO SOLUTIONS INC.",
-    "cik": "1725430",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Intelligent Bio Solutions annonce la completion de son etude de comparaison de methode pour le systeme de depistage de drogues Intelligent Fingerprinting",
-    "activite": "developpement de solutions de depistage de drogues non invasives",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226037206/ex99-1.htm",
-    "date": "2026-08-11 17:29"
   }
 ]
