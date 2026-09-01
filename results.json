@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l’émission d’obligations consolidées et leurs caractéristiques.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des titres de dette sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000159/fhlba-20260827.htm",
+    "date": "2026-09-01 11:17"
+  },
+  {
+    "company": "COMSTOCK RESOURCES INC",
+    "cik": "23194",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/23194/000119312526377822/crk-20260901.htm",
+    "date": "2026-09-01 11:04"
+  },
+  {
+    "company": "Fundrise eREIT, LLC",
+    "cik": "2093809",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"positif\",\"score\":75,\"resume\":\"Le gestionnaire a déclaré une distribution quotidienne de 0,0000684930 $ par action pour septembre 2026.\",\"activite\":\"\",\"chiffres\":{\"revenu\":\"\",\"benefice\":\"",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2093809/000209380926000029/freit-20260901.htm",
+    "date": "2026-09-01 10:56"
+  },
+  {
     "company": "Iron Horse Acquisition II Corp.",
     "cik": "2051985",
     "form": "8-K",
@@ -2507,43 +2543,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226037206/ex99-1.htm",
     "date": "2026-08-11 17:29"
-  },
-  {
-    "company": "TOFUTTI BRANDS INC",
-    "cik": "730349",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "L'entreprise a trouve un nouvel accord de co-packing pour ses produits",
-    "activite": "production de produits alimentaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/730349/000149315226037205/form8-k.htm",
-    "date": "2026-08-11 17:29"
-  },
-  {
-    "company": "Monroe Capital Income Plus Corp",
-    "cik": "1742313",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport d'assemblée générale annuelle de Monroe Capital Income Plus Corporation",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000048/mcip-20260811.htm",
-    "date": "2026-08-11 16:36"
-  },
-  {
-    "company": "JONES SODA CO.",
-    "cik": "1083522",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Jones Soda Co. annonce la cloture d'une placement prive",
-    "activite": "manufacture et distribution de sodas artisanaux",
-    "chiffres": {
-      "dividende": "200,155$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1083522/000149315226037154/ex99-1.htm",
-    "date": "2026-08-11 16:36"
   }
 ]
