@@ -1,5 +1,41 @@
 [
   {
+    "company": "Antares Strategic Credit Fund II LLC",
+    "cik": "2065397",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Le fonds prolonge la renonciation aux frais de gestion et d'incitation.\",\"activite\":\"\",\"chiffres\":{\"",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2065397/000110465926104713/tm2624605d1_8k.htm",
+    "date": "2026-09-02 15:33"
+  },
+  {
+    "company": "IEH Corp",
+    "cik": "50292",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"positif\",\"score\":90,\"resume\":\"IEH Corp. annonce 6,5 M$ de nouvelles commandes, portant son carnet de commandes à plus de 45 M$.\",\"activite\":\"Conception et fabrication de connecteurs PCB ",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/50292/000117494726000837/ex99-1.htm",
+    "date": "2026-09-02 15:28"
+  },
+  {
+    "company": "BANK 2026-BNK52",
+    "cik": "2138709",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de mise en commun et de service pour les certificats de titres hypothécaires commerciaux 2026‑BNK52.",
+    "activite": "Gestion et service de prêts hypothécaires commerciaux dans le cadre d'un trust de titres adossés à des hypothèques.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2138709/000153949726002442/exh4_1-bnk52psa.htm",
+    "date": "2026-09-02 15:22"
+  },
+  {
     "company": "TWINLAB CONSOLIDATED HOLDINGS, INC.",
     "cik": "1590695",
     "form": "8-K",
@@ -2485,45 +2521,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1645469/000143774926027165/ex_1003235.htm",
     "date": "2026-08-12 09:30"
-  },
-  {
-    "company": "XCF Global, Inc.",
-    "cik": "2019793",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "XCF Global annonce des ventes de diesel renouvelable",
-    "activite": "production de diesel renouvelable et de carburant d'aviation durable",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2019793/000149315226037267/ex99-1.htm",
-    "date": "2026-08-12 09:28"
-  },
-  {
-    "company": "Alkermes plc.",
-    "cik": "1520262",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Alkermes plc annonce une modification de son accord de credit",
-    "activite": "",
-    "chiffres": {
-      "dividende": "745,312,500.00$ et 773,062,500$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1520262/000119312526345901/alks-20260812.htm",
-    "date": "2026-08-12 09:26"
-  },
-  {
-    "company": "Rimini Street, Inc.",
-    "cik": "1635282",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rimini Street nomme un nouveau directeur general",
-    "activite": "",
-    "chiffres": {
-      "dividende": "460,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000060/rmni-20260812.htm",
-    "date": "2026-08-12 08:50"
   }
 ]
