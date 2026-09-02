@@ -1,5 +1,41 @@
 [
   {
+    "company": "RELIABILITY INC",
+    "cik": "34285",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aucun élément significatif dans le texte fourni.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/34285/000149315226041269/ex10-1.htm",
+    "date": "2026-09-02 17:30"
+  },
+  {
+    "company": "SENSIENT TECHNOLOGIES CORP",
+    "cik": "310142",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Sensient a augmenté le plafond de son programme de titrisation de créances à 115 M$ et prolongé sa durée.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/310142/000114036126035504/ef20081499_8k.htm",
+    "date": "2026-09-02 17:29"
+  },
+  {
+    "company": "BioRestorative Therapies, Inc.",
+    "cik": "1505497",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un fractionnement d'actions inverse 1 pour 20",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1505497/000121390026096810/ea0304389-8k_biore.htm",
+    "date": "2026-09-02 17:29"
+  },
+  {
     "company": "Antares Strategic Credit Fund II LLC",
     "cik": "2065397",
     "form": "8-K",
@@ -2476,50 +2512,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1090396/000143774926027198/tbltrc20260812_8k.htm",
     "date": "2026-08-12 11:18"
-  },
-  {
-    "company": "Curaleaf Holdings, Inc.",
-    "cik": "1756770",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Curaleaf annonce son intention de lancer une offre publique d'achat pour acquérir Aurora Cannabis",
-    "activite": "fournisseur de produits de cannabis",
-    "chiffres": {
-      "revenu": "1,5 milliard $",
-      "benefice": "350 millions $ (EBITDA ajusté)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1756770/000162828026056012/a2026-08x11xcuraleafxann.htm",
-    "date": "2026-08-12 11:03"
-  },
-  {
-    "company": "NATURAL GAS SERVICES GROUP INC",
-    "cik": "1084991",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe NATURAL GAS SERVICES GROUP INC annonce des resultats records pour le deuxieme trimestre 2026",
-    "activite": "fourniture de services de compression de gaz naturel",
-    "chiffres": {
-      "revenu": "120 millions $",
-      "croissance": "30%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000086/a2q2026conferncecallscri.htm",
-    "date": "2026-08-12 11:02"
-  },
-  {
-    "company": "Monopar Therapeutics",
-    "cik": "1645469",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Monopar Therapeutics annonce des resultats financiers pour le deuxieme trimestre 2026 et fournit des mises a jour sur ses activites",
-    "activite": "developpement de traitements innovants pour les patients ayant des besoins medicaux non satisfaits",
-    "chiffres": {
-      "benefice": "-5,3 millions $",
-      "bpa": "-0,62 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1645469/000143774926027165/ex_1003235.htm",
-    "date": "2026-08-12 09:30"
   }
 ]
