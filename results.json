@@ -1,5 +1,29 @@
 [
   {
+    "company": "TWINLAB CONSOLIDATED HOLDINGS, INC.",
+    "cik": "1590695",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Twinlab vend ses actifs de marques nutritionnelles dans le cadre d'une procédure d'insolvabilité.",
+    "activite": "fabrication et commercialisation de compléments nutritionnels et de marques de suppléments",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1590695/000175392626001687/g085921_8k.htm",
+    "date": "2026-09-02 11:02"
+  },
+  {
+    "company": "Exascale Labs Holdings Inc.",
+    "cik": "2109869",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "Exascale Labs Holdings finalise sa fusion avec D. Boral ARC, créant une société cotée sous le symbole XLAB",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626009632/exascalelabs_8k.htm",
+    "date": "2026-09-02 10:55"
+  },
+  {
     "company": "TELEPHONE &amp; DATA SYSTEMS INC /DE/",
     "cik": "1051512",
     "form": "8-K",
@@ -2501,34 +2525,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000060/rmni-20260812.htm",
     "date": "2026-08-12 08:50"
-  },
-  {
-    "company": "DYADIC INTERNATIONAL INC",
-    "cik": "1213809",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Dyadic International publie ses résultats financiers pour le deuxième trimestre 2026, montrant des progrès dans la commercialisation de produits et la mise en place de partenariats stratégiques.",
-    "activite": "Dyadic est une entreprise de biotechnologie produisant des protéines et des enzymes pour diverses applications commerciales.",
-    "chiffres": {
-      "revenu": "$961,138",
-      "benefice": "-$2,123,884",
-      "bpa": "-$0,06",
-      "croissance": "-0,6%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226037257/ex99-1.htm",
-    "date": "2026-08-12 08:45"
-  },
-  {
-    "company": "PodcastOne, Inc.",
-    "cik": "1940177",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "PodcastOne, Inc. publie son rapport financier pour le premier trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026088073/ea0301725-8k_podcast.htm",
-    "date": "2026-08-12 08:45"
   }
 ]
