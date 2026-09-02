@@ -1,5 +1,41 @@
 [
   {
+    "company": "TELEPHONE &amp; DATA SYSTEMS INC /DE/",
+    "cik": "1051512",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 25,
+    "resume": "TDS a abandonné son projet d'acquisition d'Array Digital Infrastructure.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1051512/000105151226000070/tds-20260901.htm",
+    "date": "2026-09-02 08:06"
+  },
+  {
+    "company": "Liberty Media Corp",
+    "cik": "1560385",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur juridique et transition d'une conseillère senior",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1560385/000156038526000024/lmca-20260831x8k.htm",
+    "date": "2026-09-02 08:04"
+  },
+  {
+    "company": "BROWN FORMAN CORP",
+    "cik": "14693",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Brown-Forman a publié ses résultats du premier trimestre fiscal 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469326000048/bfb-20260902.htm",
+    "date": "2026-09-02 08:03"
+  },
+  {
     "company": "BARFRESH FOOD GROUP INC.",
     "cik": "1487197",
     "form": "8-K",
@@ -2494,46 +2530,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1940177/000121390026088073/ea0301725-8k_podcast.htm",
     "date": "2026-08-12 08:45"
-  },
-  {
-    "company": "Xilio Therapeutics, Inc.",
-    "cik": "1840233",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Xilio Therapeutics, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526345753/xlo-20260812.htm",
-    "date": "2026-08-12 07:35"
-  },
-  {
-    "company": "Altimmune, Inc.",
-    "cik": "1326190",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Altimmune, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1326190/000132619026000049/alt-20260812x8k.htm",
-    "date": "2026-08-12 07:33"
-  },
-  {
-    "company": "Arbutus Biopharma Corp",
-    "cik": "1447028",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Arbutus Biopharma Corp annonce des resultats financiers solides pour le deuxieme trimestre 2026",
-    "activite": "developpement de therapeutiques contre les maladies infectieuses",
-    "chiffres": {
-      "revenu": "1,0 million",
-      "benefice": "-5,1 million",
-      "bpa": "-0,03",
-      "dividende": "jusqu'a 230 millions"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1447028/000117184326005442/exh_991.htm",
-    "date": "2026-08-12 07:31"
   }
 ]
