@@ -1,5 +1,31 @@
 [
   {
+    "company": "Pacific Oak Strategic Opportunity REIT, Inc.",
+    "cik": "1452936",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "Le dépôt montre des pertes importantes et une détérioration du résultat.",
+    "activite": "Gestion d'immeubles locatifs et d'hôtels",
+    "chiffres": {
+      "revenu": "51,614 $"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1452936/000145293626000044/bviq22026ex991.htm",
+    "date": "2026-09-03 15:17"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "cik": "1692951",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Cottonwood",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000162/cci-20260828.htm",
+    "date": "2026-09-03 15:04"
+  },
+  {
     "company": "Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36",
     "cik": "2145539",
     "form": "8-K",
@@ -2482,33 +2508,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926009986/ex2_1.htm",
     "date": "2026-08-12 14:50"
-  },
-  {
-    "company": "APPlife Digital Solutions Inc",
-    "cik": "1755101",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "APPlife Digital Solutions Inc. a emis une obligation convertible",
-    "activite": "",
-    "chiffres": {
-      "dividende": "170,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1755101/000109690626001208/alds-20260805_8-k.htm",
-    "date": "2026-08-12 13:36"
-  },
-  {
-    "company": "IIOT-OXYS, Inc.",
-    "cik": "1290658",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "IIOT-OXYS, Inc. annonce une modification de son accord d'achat de titres avec GHS Investments, LLC",
-    "activite": "",
-    "chiffres": {
-      "dividende": "37 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1290658/000168316826006251/iiot_8k.htm",
-    "date": "2026-08-12 13:30"
   }
 ]
