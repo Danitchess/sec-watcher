@@ -1,5 +1,41 @@
 [
   {
+    "company": "OLD DOMINION FREIGHT LINE, INC.",
+    "cik": "878927",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe d'une mise à jour des indicateurs opérationnels du troisième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000025/odfl-20260903.htm",
+    "date": "2026-09-03 09:37"
+  },
+  {
+    "company": "Federal Home Loan Bank of Pittsburgh",
+    "cik": "1330399",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Pittsburgh.",
+    "activite": "Elle obtient la plupart de ses fonds par la vente d'obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000111/ck0001330399-20260831.htm",
+    "date": "2026-09-03 09:34"
+  },
+  {
+    "company": "Plutonian Acquisition Corp. II",
+    "cik": "2065661",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un accord de fusion entre Plutonian Acquisition Corp. II et NT1",
+    "activite": "Il s'agit d'une société d'acquisition à vocation spéciale cotée en bourse.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2065661/000147793226005397/pltn_8k.htm",
+    "date": "2026-09-03 09:29"
+  },
+  {
     "company": "RELIABILITY INC",
     "cik": "34285",
     "form": "8-K",
@@ -2476,41 +2512,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1903382/000110465926094678/tm2622939d1_8k.htm",
     "date": "2026-08-12 12:41"
-  },
-  {
-    "company": "Honda Auto Receivables 2026-3 Owner Trust",
-    "cik": "2143476",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Honda Auto Receivables 2026-3 Owner Trust publie un rapport 8-K",
-    "activite": "emission de notes adossees a des creances",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2143476/000110465926094677/tm2620484d9_8k.htm",
-    "date": "2026-08-12 12:41"
-  },
-  {
-    "company": "ABVC BIOPHARMA, INC.",
-    "cik": "1173313",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "ABVC BIOPHARMA, INC. retarde la distribution d'actions",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1173313/000121390026088165/ea0301755-8ka1_abvc.htm",
-    "date": "2026-08-12 11:50"
-  },
-  {
-    "company": "TABLE TRAC INC",
-    "cik": "1090396",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Table Trac Inc. accorde des options d'achat d'actions a son CEO",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1090396/000143774926027198/tbltrc20260812_8k.htm",
-    "date": "2026-08-12 11:18"
   }
 ]
