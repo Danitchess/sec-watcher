@@ -1,5 +1,29 @@
 [
   {
+    "company": "Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36",
+    "cik": "2145539",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de mise en commun et de services pour le trust hypothécaire BMO 2026-C15.",
+    "activite": "Gestion et service de prêts hypothécaires commerciaux pour le trust BMO 2026-C15.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/exh4_1-c15psa.htm",
+    "date": "2026-09-03 13:23"
+  },
+  {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.\",\"activite\":\"La banque obtient la plupart de ses f",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000161/fhlbd-20260831.htm",
+    "date": "2026-09-03 13:08"
+  },
+  {
     "company": "OLD DOMINION FREIGHT LINE, INC.",
     "cik": "878927",
     "form": "8-K",
@@ -2486,31 +2510,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1290658/000168316826006251/iiot_8k.htm",
     "date": "2026-08-12 13:30"
-  },
-  {
-    "company": "Starwood Real Estate Income Trust, Inc.",
-    "cik": "1711929",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Starwood Real Estate Income Trust, Inc. annonce l'ajournement de son assemblee annuelle des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1711929/000119312526346366/ck0001711929-20260811.htm",
-    "date": "2026-08-12 13:14"
-  },
-  {
-    "company": "Bluerock Homes Trust, Inc.",
-    "cik": "1903382",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bluerock Homes Trust, Inc. annonce la disposition de 21 unites residentielles",
-    "activite": "Bluerock Homes Trust, Inc. est une societe immobiliere qui investit dans des unites residentielles",
-    "chiffres": {
-      "dividende": "7,1 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1903382/000110465926094678/tm2622939d1_8k.htm",
-    "date": "2026-08-12 12:41"
   }
 ]
