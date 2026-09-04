@@ -1,5 +1,41 @@
 [
   {
+    "company": "PDS Biotechnology Corp",
+    "cik": "1472091",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement d'un billet de 6 M$ modifiant les conditions de remboursement.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126035809/ef20081442_8k.htm",
+    "date": "2026-09-04 17:25"
+  },
+  {
+    "company": "Greenland Mines Ltd",
+    "cik": "1907223",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Greenland Mines a finalisé l’acquisition d’un projet minier en Groenland avec une NPV pré‑taxe de 2,05 milliards $.",
+    "activite": "Exploration et développement du projet minier de terres rares Sarfartoq au Groenland.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026097770/ea0304732-8k_greenland.htm",
+    "date": "2026-09-04 17:25"
+  },
+  {
+    "company": "VIP Play, Inc.",
+    "cik": "1832161",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "aucune information fournie",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1832161/000149315226041599/ex99-1.htm",
+    "date": "2026-09-04 17:23"
+  },
+  {
     "company": "READING INTERNATIONAL INC",
     "cik": "716634",
     "form": "8-K",
@@ -2466,41 +2502,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1840229/000119312526347907/inkt-20260813.htm",
     "date": "2026-08-13 07:40"
-  },
-  {
-    "company": "CREATIVE REALITIES, INC.",
-    "cik": "1356093",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Creative Realities, Inc. publie son rapport financier pour les trois et six mois clos le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926027479/crex20260811_8k.htm",
-    "date": "2026-08-13 07:40"
-  },
-  {
-    "company": "Madison Square Garden Sports Corp.",
-    "cik": "1636519",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Madison Square Garden Sports Corp. publie son rapport financier",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1636519/000162828026056478/msgs-20260813.htm",
-    "date": "2026-08-13 07:40"
-  },
-  {
-    "company": "LITHIUM AMERICAS CORP.",
-    "cik": "1966983",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lithium Americas Corp. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1966983/000119312526347834/lac-20260813.htm",
-    "date": "2026-08-13 06:55"
   }
 ]
