@@ -1,5 +1,41 @@
 [
   {
+    "company": "CSAIL 2017-CX10 Commercial Mortgage Trust",
+    "cik": "1720474",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\":",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1720474/000188852426016565/csc17x10_8k-08312026.htm",
+    "date": "2026-09-04 09:36"
+  },
+  {
+    "company": "Nordicus Partners Corp",
+    "cik": "1011060",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Référence à un document annexe",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1011060/000149315226041470/ex10-1.htm",
+    "date": "2026-09-04 09:15"
+  },
+  {
+    "company": "FIRST FINANCIAL CORP /IN/",
+    "cik": "714562",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la participation de dirigeants à une conférence sur la technologie bancaire.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000062/thff-20260904x8k.htm",
+    "date": "2026-09-04 09:08"
+  },
+  {
     "company": "Andretti Acquisition Corp. II",
     "cik": "2025341",
     "form": "8-K",
@@ -2470,43 +2506,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1425287/000162828026056273/ex-101projectmotorxamendme.htm",
     "date": "2026-08-12 16:34"
-  },
-  {
-    "company": "Direct Digital Holdings, Inc.",
-    "cik": "1880613",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de Direct Digital Holdings, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1880613/000188061326000095/drct-20260812.htm",
-    "date": "2026-08-12 16:34"
-  },
-  {
-    "company": "Cottonwood Communities, Inc.",
-    "cik": "1692951",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cottonwood Communities, Inc. annonce une offre privée de ses actions préférées convertibles",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$200,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000137/cci-20260806.htm",
-    "date": "2026-08-12 16:34"
-  },
-  {
-    "company": "Mediaco Holding Inc.",
-    "cik": "1784254",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport de MediaCo Holding Inc. sur son assemblee annuelle des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1784254/000178425426000031/mdia-20260807.htm",
-    "date": "2026-08-12 15:31"
   }
 ]
