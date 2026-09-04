@@ -1,5 +1,41 @@
 [
   {
+    "company": "VIRCO MFG CORPORATION",
+    "cik": "751365",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/751365/000162828026060659/exhibit991q207312026pressr.htm",
+    "date": "2026-09-04 13:08"
+  },
+  {
+    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+    "cik": "1310488",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Émission de 4,5 M d'actions restreintes contre des services d'une valeur de 2,48 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000140/bfnh-09042026_8k.htm",
+    "date": "2026-09-04 12:51"
+  },
+  {
+    "company": "Rithm Perpetual Life Residential Trust",
+    "cik": "2081628",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026060653/rhome-20260831.htm",
+    "date": "2026-09-04 12:44"
+  },
+  {
     "company": "CSAIL 2017-CX10 Commercial Mortgage Trust",
     "cik": "1720474",
     "form": "8-K",
@@ -2468,43 +2504,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000338/axp-20260812.htm",
     "date": "2026-08-12 17:29"
-  },
-  {
-    "company": "BioStem Technologies, Inc.",
-    "cik": "1658678",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de BioStem Technologies, Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1658678/000119312526347211/bsem-20260812.htm",
-    "date": "2026-08-12 17:27"
-  },
-  {
-    "company": "Shepherd&#39;s Finance, LLC",
-    "cik": "1544190",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": " Depot SEC de type 8-K pour Shepherd's Finance, LLC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1544190/000149315226037454/ex16-1.htm",
-    "date": "2026-08-12 17:25"
-  },
-  {
-    "company": "Workhorse Group Inc.",
-    "cik": "1425287",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Workhorse Group Inc. modifie son accord de credit",
-    "activite": "",
-    "chiffres": {
-      "dividende": "40,000,000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1425287/000162828026056273/ex-101projectmotorxamendme.htm",
-    "date": "2026-08-12 16:34"
   }
 ]
