@@ -126,7 +126,7 @@ Extrait :
       model: LLM_MODEL,
       messages: [{ role: "user", content: prompt }],
       temperature: 0,
-      max_tokens: 500,
+      max_tokens: 1000,
     }),
   });
   if (!res.ok) throw new Error(`LLM ${res.status}: ${(await res.text()).slice(0, 200)}`);
