@@ -1,5 +1,31 @@
 [
   {
+    "company": "Federal Home Loan Bank of Topeka",
+    "cik": "1325878",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Topeka.",
+    "activite": "Elle obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000178/fhlbt-20260903.htm",
+    "date": "2026-09-08 10:36"
+  },
+  {
+    "company": "SOUTHERN CO GAS",
+    "cik": "1004155",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Southern Company Gas a conclu une entente qui augmenterait les revenus de base de Nicor Gas de 82 M$",
+    "activite": "Distribution de gaz naturel",
+    "chiffres": {
+      "revenu": "$82 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1004155/000100415526000016/so-20260908.htm",
+    "date": "2026-09-08 10:16"
+  },
+  {
     "company": "HORNBECK OFFSHORE SERVICES, INC.",
     "cik": "866829",
     "form": "8-K",
@@ -2472,31 +2498,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/719402/000143774926027512/fxnc20260811_8k.htm",
     "date": "2026-08-13 10:05"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Dallas publie un rapport 8-K sur la creation d'obligations consolidées",
-    "activite": "La société obtient la plupart de ses fonds de la vente de titres de dette, appelés obligations consolidées, sur les marchés financiers",
-    "chiffres": {
-      "dividende": "20 000 000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000148/fhlbd-20260811.htm",
-    "date": "2026-08-13 10:05"
-  },
-  {
-    "company": "Dogwood Therapeutics, Inc.",
-    "cik": "1818844",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dogwood Therapeutics, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1818844/000110465926095512/dwtx-20260813x8k.htm",
-    "date": "2026-08-13 08:50"
   }
 ]
