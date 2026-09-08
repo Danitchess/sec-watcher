@@ -1,5 +1,41 @@
 [
   {
+    "company": "HORNBECK OFFSHORE SERVICES, INC.",
+    "cik": "866829",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hornbeck Offshore Services annonce l'amendement de son 8‑K pour fournir les informations financières pro forma liées à la combinaison d'affaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/866829/000119312526384311/d50831d8ka.htm",
+    "date": "2026-09-08 06:21"
+  },
+  {
+    "company": "Kosmos Energy Ltd.",
+    "cik": "1509991",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kosmos Energy annonce le rachat partiel de ses obligations senior de 25 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000051/kos-20260908.htm",
+    "date": "2026-09-08 06:16"
+  },
+  {
+    "company": "BOSTON SCIENTIFIC CORP",
+    "cik": "885725",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 15,
+    "resume": "Boston Scientific signale un incident de cybersécurité qui perturbe sa production et risque de réduire ses ventes et bénéfices.",
+    "activite": "fabrication et distribution de dispositifs médicaux",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000059/bsx-20260907.htm",
+    "date": "2026-09-08 06:15"
+  },
+  {
     "company": "PDS Biotechnology Corp",
     "cik": "1472091",
     "form": "8-K",
@@ -2462,45 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1818844/000110465926095512/dwtx-20260813x8k.htm",
     "date": "2026-08-13 08:50"
-  },
-  {
-    "company": "BED BATH &amp; BEYOND, INC.",
-    "cik": "1130713",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "400,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126032653/ef20079981_8k.htm",
-    "date": "2026-08-13 08:48"
-  },
-  {
-    "company": "Cingulate Inc.",
-    "cik": "1862150",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Cingulate Inc. annonce des resultats financiers pour le deuxieme trimestre 2026 et fait des progres dans le developpement de son produit CTx-1301",
-    "activite": "developpement de produits pharmaceutiques pour le traitement du TDAH et d'autres troubles",
-    "chiffres": {
-      "dividende": "28,4 M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226037605/ex99-1.htm",
-    "date": "2026-08-13 08:40"
-  },
-  {
-    "company": "MiNK Therapeutics, Inc.",
-    "cik": "1840229",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "MiNK Therapeutics, Inc. publie son rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1840229/000119312526347907/inkt-20260813.htm",
-    "date": "2026-08-13 07:40"
   }
 ]
