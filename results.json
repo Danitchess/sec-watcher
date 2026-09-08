@@ -1,5 +1,43 @@
 [
   {
+    "company": "Sound Point Meridian Capital, Inc.",
+    "cik": "1930147",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt 8‑K indique une fourchette d’actif net par action entre 9,52 $ et 9,62 $.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1930147/000182912626009903/soundpointmeridian_8k.htm",
+    "date": "2026-09-08 17:29"
+  },
+  {
+    "company": "Vivos Therapeutics, Inc.",
+    "cik": "1716166",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Émission d'actions contre la remise de notes d'une valeur totale de 2,86 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226041807/form8-ka.htm",
+    "date": "2026-09-08 17:29"
+  },
+  {
+    "company": "Ellington Credit Co",
+    "cik": "1560672",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ellington Credit Company annonce une distribution mensuelle de 0,08 $ par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.08"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1560672/000162828026060947/earn-20260908.htm",
+    "date": "2026-09-08 17:28"
+  },
+  {
     "company": "Perspective Therapeutics, Inc.",
     "cik": "728387",
     "form": "8-K",
@@ -2444,47 +2482,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2142914/000119312526348547/d164829d8k.htm",
     "date": "2026-08-13 12:45"
-  },
-  {
-    "company": "GMF Leasing LLC",
-    "cik": "1631055",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission de notes adossees a des actifs par GMF Leasing LLC",
-    "activite": "emission de notes adossees a des actifs",
-    "chiffres": {
-      "dividende": "137,220,000 $, 295,000,000 $, 90,220,000 $, 315,180,000 $, 67,860,000 $, 49,450,000 $, 45,600,000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1631055/000119312526348547/d164829d8k.htm",
-    "date": "2026-08-13 12:45"
-  },
-  {
-    "company": "Magnolia Bancorp, Inc.",
-    "cik": "2033615",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depart d'un dirigeant et nomination d'un nouveau dirigeant",
-    "activite": "banque et services financiers",
-    "chiffres": {
-      "dividende": "175 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2033615/000092708926000148/mban20260813_8k.htm",
-    "date": "2026-08-13 12:18"
-  },
-  {
-    "company": "Federal Home Loan Bank of San Francisco",
-    "cik": "1316944",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of San Francisco publie un rapport 8-K sur la creation d'une obligation financiere directe",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {
-      "dividende": "40,000,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000138/fhlbsf-20260810.htm",
-    "date": "2026-08-13 12:12"
   }
 ]
