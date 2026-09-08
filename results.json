@@ -1,5 +1,41 @@
 [
   {
+    "company": "DarkPulse, Inc.",
+    "cik": "866439",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le texte est neutre et informatif.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/866439/000168316826006998/darkpulse_8k.htm",
+    "date": "2026-09-08 14:12"
+  },
+  {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.",
+    "activite": "La Federal Home Loan Bank of Dallas émet des obligations consolidées pour financer ses activités.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000163/fhlbd-20260902.htm",
+    "date": "2026-09-08 13:57"
+  },
+  {
+    "company": "Healthcare Triangle, Inc.",
+    "cik": "1839285",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un accord de séparation et de spin‑off de la filiale Teyame.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1839285/000121390026097953/ea0304854-8k_healthcare.htm",
+    "date": "2026-09-08 13:56"
+  },
+  {
     "company": "Federal Home Loan Bank of Topeka",
     "cik": "1325878",
     "form": "8-K",
@@ -2456,47 +2492,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/38009/000003800926000052/exhibits5and231august132026.htm",
     "date": "2026-08-13 10:37"
-  },
-  {
-    "company": "AAON, INC.",
-    "cik": "824142",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AAON, INC. annonce son dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.10 par action ou $0.40 annuellement"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/824142/000082414226000057/aaon-20260812.htm",
-    "date": "2026-08-13 10:31"
-  },
-  {
-    "company": "Federal Home Loan Bank of Topeka",
-    "cik": "1325878",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d'obligations consolidées par la Federal Home Loan Bank of Topeka",
-    "activite": "La société obtient la plupart de ses fonds de la vente de titres de dette, appelés obligations consolidées, sur les marchés financiers",
-    "chiffres": {
-      "dividende": "250 000 000 $, 10 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000163/fhlbt-20260811.htm",
-    "date": "2026-08-13 10:05"
-  },
-  {
-    "company": "FIRST NATIONAL CORP /VA/",
-    "cik": "719402",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La societe declare un dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.17"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/719402/000143774926027512/fxnc20260811_8k.htm",
-    "date": "2026-08-13 10:05"
   }
 ]
