@@ -1,5 +1,41 @@
 [
   {
+    "company": "AMERICAS CARMART INC",
+    "cik": "799850",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\": \"negatif\",\n  \"score\": 10,\n  \"resume\": \"Les résultats du premier trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/799850/000117184326005948/exh_991.htm",
+    "date": "2026-09-09 14:53"
+  },
+  {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
+    "activite": "La banque obtient la plupart de ses fonds par la vente d'obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000142/fhlbdm-20260902.htm",
+    "date": "2026-09-09 13:52"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "cik": "1692951",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Cottonwood Communities a levé 2,616,000 $ via une offre privée d'actions privilégiées convertibles.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000171/cci-20260903.htm",
+    "date": "2026-09-09 12:10"
+  },
+  {
     "company": "CME GROUP INC.",
     "cik": "1156375",
     "form": "8-K",
@@ -2432,49 +2468,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126032873/ef20080133_8ka.htm",
     "date": "2026-08-13 17:28"
-  },
-  {
-    "company": "Firy Inc.",
-    "cik": "1801661",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Firy Inc. annonce des resultats financiers pour le deuxieme trimestre 2026",
-    "activite": "Firy Inc. est une societe de jeux et de divertissement qui exploite une plateforme de jeux en ligne",
-    "chiffres": {
-      "revenu": "$31,0 million",
-      "benefice": "-$24,5 million",
-      "bpa": "-$1,52"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000090/q226firyex991-earningsrele.htm",
-    "date": "2026-08-13 16:33"
-  },
-  {
-    "company": "AbCellera Biologics Inc.",
-    "cik": "1703057",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "AbCellera Biologics Inc. annonce une offre publique d'actions",
-    "activite": "",
-    "chiffres": {
-      "dividende": "187,0 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1703057/000119312526349353/d20959d8k.htm",
-    "date": "2026-08-13 16:33"
-  },
-  {
-    "company": "Murphy USA Inc.",
-    "cik": "1573516",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Murphy USA Inc. annonce une augmentation de son dividende",
-    "activite": "retail de gasoline et de merchandise de convenience",
-    "chiffres": {
-      "dividende": "$0.65 par action (+23% par rapport au dividende du Q3 2025), $2.60 par action sur une base annualisee"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000168/exhibit9912026q3dividendan.htm",
-    "date": "2026-08-13 16:32"
   }
 ]
