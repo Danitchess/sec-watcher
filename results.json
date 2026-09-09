@@ -1,5 +1,41 @@
 [
   {
+    "company": "AMERICAN TOWER CORP /MA/",
+    "cik": "1053507",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Tower a annoncé le prix de son offre publique de notes senior d'un total de 1,6 milliard de dollars.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000141/amt-20260909.htm",
+    "date": "2026-09-09 17:29"
+  },
+  {
+    "company": "Stewards, Inc.",
+    "cik": "1795851",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Stewards annonce son passage au Nasdaq, marquant une étape clé de son évolution.",
+    "activite": "Stewards est une plateforme financière diversifiée couvrant le crédit privé, les actifs réels et l'infrastructure financière technologique.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000266/ex99_1.htm",
+    "date": "2026-09-09 17:28"
+  },
+  {
+    "company": "ENBRIDGE INC",
+    "cik": "895728",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Enbridge annonce une offre d'actions en « bought‑deal ».",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/895728/000110465926106404/tm2624881d5_8k.htm",
+    "date": "2026-09-09 17:26"
+  },
+  {
     "company": "AMERICAS CARMART INC",
     "cik": "799850",
     "form": "8-K",
@@ -2432,41 +2468,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1925283/000162828026056917/lcln-20260812.htm",
     "date": "2026-08-14 06:20"
-  },
-  {
-    "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
-    "cik": "1951667",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Cheetah Net Supply Chain Service Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926096060/tm2623100d1_8k.htm",
-    "date": "2026-08-13 17:31"
-  },
-  {
-    "company": "Vivakor, Inc.",
-    "cik": "1450704",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Vivakor, Inc. publie un rapport 8-K sur des ventes non enregistrees de titres de capital",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626008777/vivakorinc_8k.htm",
-    "date": "2026-08-13 17:29"
-  },
-  {
-    "company": "Freenome, Inc.",
-    "cik": "2017526",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Freenome, Inc. publie un rapport financier pour les six mois termines le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126032873/ef20080133_8ka.htm",
-    "date": "2026-08-13 17:28"
   }
 ]
