@@ -1,5 +1,41 @@
 [
   {
+    "company": "CME GROUP INC.",
+    "cik": "1156375",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de nouvelles nominations de direction financière et juridique",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312526386091/d157844d8k.htm",
+    "date": "2026-09-09 11:15"
+  },
+  {
+    "company": "NEW YORK TIMES CO",
+    "cik": "71691",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du départ de la vice-présidente exécutive et directrice des ressources humaines.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/71691/000119312526386067/d118790d8k.htm",
+    "date": "2026-09-09 11:02"
+  },
+  {
+    "company": "Barinthus Biotherapeutics plc.",
+    "cik": "1828185",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Barinthus Biotherapeutics a été entièrement acquis par Topco et ses actions ont été retirées du Nasdaq.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1828185/000110465926106183/tm2625093d1_8k.htm",
+    "date": "2026-09-09 10:24"
+  },
+  {
     "company": "Daedalus Special Acquisition Corp.",
     "cik": "2082149",
     "form": "8-K",
@@ -2440,43 +2476,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000168/exhibit9912026q3dividendan.htm",
     "date": "2026-08-13 16:32"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La Federal Home Loan Bank of Boston publie un rapport 8-K sur la creation d'obligations consolidées",
-    "activite": "La société obtient la plupart de ses fonds par la vente de titres de dette appelés obligations consolidées",
-    "chiffres": {
-      "dividende": "15 000 000 $, 10 000 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000160/fhlbbost-20260811.htm",
-    "date": "2026-08-13 14:49"
-  },
-  {
-    "company": "ECO SCIENCE SOLUTIONS, INC.",
-    "cik": "1490873",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Eco Science Solutions, Inc. change d'auditeur",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1490873/000147793226004974/essi_8k.htm",
-    "date": "2026-08-13 14:27"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de la Federal Home Loan Bank of Des Moines",
-    "activite": "La societe obtient la plupart de ses fonds de la vente de titres de dette",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000126/fhlbdm-20260810.htm",
-    "date": "2026-08-13 13:51"
   }
 ]
