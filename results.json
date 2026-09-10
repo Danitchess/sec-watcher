@@ -1,5 +1,41 @@
 [
   {
+    "company": "Summit Networks Inc.",
+    "cik": "1619096",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lettre de démission de Ross Miller.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1619096/000109181826000143/ex9901.htm",
+    "date": "2026-09-10 14:56"
+  },
+  {
+    "company": "Three Lions Acquisition Corp.",
+    "cik": "2128462",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "L'entreprise a levé 100,5 M$ lors de son IPO et d'un placement privé.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2128462/000119312526387717/d173457d8k.htm",
+    "date": "2026-09-10 14:50"
+  },
+  {
+    "company": "HAWTHORN BANCSHARES, INC.",
+    "cik": "893847",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du décès d'un administrateur de Hawthorn Bancshares.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000093/hwbk-20260910.htm",
+    "date": "2026-09-10 14:49"
+  },
+  {
     "company": "Federal Home Loan Bank of San Francisco",
     "cik": "1316944",
     "form": "8-K",
@@ -2424,45 +2460,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1516551/000162828026056966/a260813_skyexredxxceosxscr.htm",
     "date": "2026-08-14 09:36"
-  },
-  {
-    "company": "Presurance Holdings, Inc.",
-    "cik": "1502292",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Presurance Holdings, Inc. publie son rapport financier pour le deuxieme trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1502292/000119312526350625/prhi-20260812.htm",
-    "date": "2026-08-14 08:47"
-  },
-  {
-    "company": "Boost Run Inc.",
-    "cik": "2090646",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Boost Run Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
-    "activite": "Fournisseur de services de cloud et d'infrastructure pour l'intelligence artificielle",
-    "chiffres": {
-      "revenu": "31,1 M$ (+270%)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226038014/ex99-1.htm",
-    "date": "2026-08-14 08:46"
-  },
-  {
-    "company": "Proficient Auto Logistics, Inc",
-    "cik": "1998768",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Proficient Auto Logistics, Inc. a complete une offre privee de 75 millions de dollars de notes convertibles",
-    "activite": "",
-    "chiffres": {
-      "dividende": "75,0 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1998768/000121390026089491/ea0301906-8k_proficient.htm",
-    "date": "2026-08-14 08:45"
   }
 ]
