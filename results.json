@@ -1,5 +1,41 @@
 [
   {
+    "company": "EQUITY LIFESTYLE PROPERTIES INC",
+    "cik": "895417",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Présentation aux investisseurs contenant des déclarations prospectives",
+    "activite": "Propriétaire intégré de propriétés de style de vie, principalement des résidences de villégiature et marinas aux États‑Unis",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/895417/000162828026061232/els-20260910.htm",
+    "date": "2026-09-10 08:32"
+  },
+  {
+    "company": "SKYX Platforms Corp.",
+    "cik": "1598981",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Emission d’une note de 8,5 M$ pour financer la fusion avec Deako.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/ex10-1.htm",
+    "date": "2026-09-10 08:32"
+  },
+  {
+    "company": "Ramaco Resources, Inc.",
+    "cik": "1687187",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le sénateur Joseph Manchin a démissionné du conseil d'administration de Ramaco Resources le 4 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1687187/000121390026098589/ea0305007-8k_ramaco.htm",
+    "date": "2026-09-10 08:30"
+  },
+  {
     "company": "AMERICAN TOWER CORP /MA/",
     "cik": "1053507",
     "form": "8-K",
@@ -2430,43 +2466,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026089450/ea0301730-8k_digi.htm",
     "date": "2026-08-14 07:30"
-  },
-  {
-    "company": "ACCO BRANDS Corp",
-    "cik": "712034",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "ACCO Brands acquiert GXT Holding B.V.",
-    "activite": "fournisseur de produits de bureau et de materiel informatique",
-    "chiffres": {
-      "dividende": "57 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/712034/000119312526350311/acco-20260814.htm",
-    "date": "2026-08-14 06:50"
-  },
-  {
-    "company": "Amcor plc",
-    "cik": "1748790",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement de cabinet d'audit pour Amcor plc",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000110465926096303/tm2622721d1_8k.htm",
-    "date": "2026-08-14 06:20"
-  },
-  {
-    "company": "Lincoln International, Inc.",
-    "cik": "1925283",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lincoln International, Inc. publie un rapport 8-K sur l'emission de titres",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1925283/000162828026056917/lcln-20260812.htm",
-    "date": "2026-08-14 06:20"
   }
 ]
