@@ -1,5 +1,41 @@
 [
   {
+    "company": "MEXCO ENERGY CORP",
+    "cik": "66418",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'option d'achat d'actions pour un employé",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/66418/000149315226042246/ex10-1.htm",
+    "date": "2026-09-10 17:28"
+  },
+  {
+    "company": "OS Therapies Inc",
+    "cik": "1795091",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Opinion juridique sur l'émission d'actions et de titres dérivés d'OS Therapies.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026098880/ea0301513501ex5-1.htm",
+    "date": "2026-09-10 17:28"
+  },
+  {
+    "company": "Z Squared Inc.",
+    "cik": "1759186",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Adoption de nouveaux statuts modifiant le quorum des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003919/zsqr8k091026.htm",
+    "date": "2026-09-10 17:27"
+  },
+  {
     "company": "Summit Networks Inc.",
     "cik": "1619096",
     "form": "8-K",
@@ -2422,43 +2458,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000071/atmu-20260814.htm",
     "date": "2026-08-14 10:56"
-  },
-  {
-    "company": "WORTHINGTON ENTERPRISES, INC.",
-    "cik": "108516",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Worthington Enterprises, Inc. publie un rapport courant sur Form 8-K",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526350842/wor-20260812.htm",
-    "date": "2026-08-14 10:04"
-  },
-  {
-    "company": "TOMI Environmental Solutions, Inc.",
-    "cik": "314227",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "TOMI Environmental Solutions, Inc. publie son rapport financier pour le deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/314227/000165495426007621/tomz_8k.htm",
-    "date": "2026-08-14 10:01"
-  },
-  {
-    "company": "Skye Bioscience, Inc.",
-    "cik": "1516551",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Skye Bioscience et Redx annoncent un accord de transaction et de financement",
-    "activite": "developpement de therapies anti-fibrotiques",
-    "chiffres": {
-      "dividende": "125 millions $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1516551/000162828026056966/a260813_skyexredxxceosxscr.htm",
-    "date": "2026-08-14 09:36"
   }
 ]
