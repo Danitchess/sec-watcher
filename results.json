@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l’émission d’une obligation consolidée de 10 M$ avec un coupon de 4,75 %.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000150/fhlbsf-20260908.htm",
+    "date": "2026-09-10 12:12"
+  },
+  {
+    "company": "Central Plains Bancshares, Inc.",
+    "cik": "1979332",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le conseil a approuvé un nouveau programme de rachat d'actions.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1979332/000119312526387526/cpbi-20260909.htm",
+    "date": "2026-09-10 11:46"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
+    "activite": "Le Federal Home Loan Bank of Chicago obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000168/fhlbc-20260908.htm",
+    "date": "2026-09-10 11:45"
+  },
+  {
     "company": "EQUITY LIFESTYLE PROPERTIES INC",
     "cik": "895417",
     "form": "8-K",
@@ -2428,43 +2464,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1998768/000121390026089491/ea0301906-8k_proficient.htm",
     "date": "2026-08-14 08:45"
-  },
-  {
-    "company": "Lantern Pharma Inc.",
-    "cik": "1763950",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Lantern Pharma annonce des résultats financiers et des mises à jour commerciales positives pour le deuxième trimestre 2026",
-    "activite": "développement de médicaments contre le cancer",
-    "chiffres": {
-      "dividende": "Cash, cash equivalents, and marketable securities d'environ 7,4 millions $, perte d'exploitation d'environ 3,5 millions $ pour le Q2 2026, soit une diminution d'environ 25% par rapport à l'année précédente"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226037979/ex99-1.htm",
-    "date": "2026-08-14 07:35"
-  },
-  {
-    "company": "Beneficient",
-    "cik": "1775734",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe Beneficient",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1775734/000177573426000026/ben-20260814.htm",
-    "date": "2026-08-14 07:31"
-  },
-  {
-    "company": "Digi Power X Inc.",
-    "cik": "1854368",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Digi Power X Inc. publie son rapport financier pour le deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026089450/ea0301730-8k_digi.htm",
-    "date": "2026-08-14 07:30"
   }
 ]
