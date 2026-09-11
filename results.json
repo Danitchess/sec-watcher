@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit la création d’obligations consolidées sans indication de résultats financiers.",
+    "activite": "Banque fédérale de prêts hypothécaires qui obtient des fonds principalement par la vente d’obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000144/fhlbdm-20260908.htm",
+    "date": "2026-09-11 12:30"
+  },
+  {
+    "company": "REGENCY CENTERS LP",
+    "cik": "1066247",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Regency Centers a mis à disposition une présentation actualisée pour les investisseurs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1066247/000119312526388861/reg-20260911.htm",
+    "date": "2026-09-11 11:43"
+  },
+  {
+    "company": "REGENCY CENTERS CORP",
+    "cik": "910606",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Regency Centers a mis à disposition une présentation actualisée pour les investisseurs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/910606/000119312526388861/reg-20260911.htm",
+    "date": "2026-09-11 11:43"
+  },
+  {
     "company": "Rent the Runway, Inc.",
     "cik": "1468327",
     "form": "8-K",
@@ -2415,44 +2451,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1816708/000181670826000092/owlt-20260812.htm",
     "date": "2026-08-14 12:56"
-  },
-  {
-    "company": "TCW SPECIALTY LENDING LLC",
-    "cik": "2066811",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "TCW Specialty Lending LLC conclut un accord de remboursement",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2066811/000119312526351258/d180536d8k.htm",
-    "date": "2026-08-14 12:03"
-  },
-  {
-    "company": "Swarmer, Inc",
-    "cik": "2092574",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Swarmer, Inc annonce le lancement d'un nouveau site web corporate",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2092574/000119312526351247/swmr-20260814.htm",
-    "date": "2026-08-14 12:00"
-  },
-  {
-    "company": "PCS Edventures!, Inc.",
-    "cik": "1122020",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "PCS Edventures! annonce ses resultats pour le premier trimestre de l'annee fiscale 2027",
-    "activite": "conception et livraison de produits et services riches en technologie pour le marche TK-12 qui developpent les competences du 21e siecle",
-    "chiffres": {
-      "revenu": "1,74 million $ (-28,2%)",
-      "benefice": "0,10 million $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1122020/000149315226038119/ex99.htm",
-    "date": "2026-08-14 11:47"
   }
 ]
