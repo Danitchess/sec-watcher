@@ -1,5 +1,41 @@
 [
   {
+    "company": "Fly-E Group, Inc.",
+    "cik": "1975940",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau PDG et d'un administrateur indépendant avec leurs rémunérations.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026099368/ea0305297-8k_flye.htm",
+    "date": "2026-09-11 17:29"
+  },
+  {
+    "company": "SharonAI Holdings Inc.",
+    "cik": "2068385",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le texte détaille la modification du poste du dirigeant et le maintien de ses RSU retenues.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226042434/ex10-1.htm",
+    "date": "2026-09-11 17:28"
+  },
+  {
+    "company": "DeFi Development Corp.",
+    "cik": "1805526",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt ne contient aucune information financière ou opérationnelle notable",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000104/certifieddpdv-certificat.htm",
+    "date": "2026-09-11 17:27"
+  },
+  {
     "company": "Caring Brands, Inc.",
     "cik": "2020737",
     "form": "8-K",
@@ -2411,43 +2447,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/716634/000071663426000030/rdi-20260814x8k.htm",
     "date": "2026-08-14 15:19"
-  },
-  {
-    "company": "Qrons Inc.",
-    "cik": "1689084",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Qrons Inc. publie un rapport financier préliminaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1689084/000147793226005057/qron_8k.htm",
-    "date": "2026-08-14 13:59"
-  },
-  {
-    "company": "Bluerock Homes Trust, Inc.",
-    "cik": "1903382",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bluerock Homes Trust, Inc. publie un rapport 8-K sur des ventes non enregistrees de titres de capital",
-    "activite": "",
-    "chiffres": {
-      "dividende": "210 000 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1903382/000110465926096869/tm2623286d1_8k.htm",
-    "date": "2026-08-14 13:55"
-  },
-  {
-    "company": "Creatd, Inc.",
-    "cik": "1357671",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Creatd, Inc. reprend son statut de societe de rapport aupres de la SEC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1357671/000162828026057047/crtd-20260814.htm",
-    "date": "2026-08-14 13:42"
   }
 ]
