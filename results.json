@@ -1,5 +1,41 @@
 [
   {
+    "company": "Rent the Runway, Inc.",
+    "cik": "1468327",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Rent the Runway a conclu un accord de soutien pour une offre de droits de 15 M$ afin de renforcer sa situation financière.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326013810/dp253178_8k.htm",
+    "date": "2026-09-11 08:10"
+  },
+  {
+    "company": "Global Net Lease, Inc.",
+    "cik": "1526113",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de l'amendement du formulaire 8‑K concernant la fusion et les informations financières pro forma de Global Net Lease.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926106905/tm2624701d2_8ka.htm",
+    "date": "2026-09-11 08:09"
+  },
+  {
+    "company": "Jerash Holdings (US), Inc.",
+    "cik": "1696558",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit le vote des actionnaires lors de l'assemblée annuelle du 10 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1696558/000121390026098980/ea0305218-8k_jerash.htm",
+    "date": "2026-09-11 08:05"
+  },
+  {
     "company": "MEXCO ENERGY CORP",
     "cik": "66418",
     "form": "8-K",
@@ -2418,45 +2454,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1122020/000149315226038119/ex99.htm",
     "date": "2026-08-14 11:47"
-  },
-  {
-    "company": "Global Crossing Airlines Group Inc.",
-    "cik": "1846084",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rapport financier de Global Crossing Airlines Group Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1846084/000119312526351131/jetmf-20260814.htm",
-    "date": "2026-08-14 11:09"
-  },
-  {
-    "company": "ISABELLA BANK CORP",
-    "cik": "842517",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Isabella Bank Corp annonce un accord de participation pour son directeur financier",
-    "activite": "",
-    "chiffres": {
-      "dividende": "300,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/842517/000084251726000184/isba-20260811.htm",
-    "date": "2026-08-14 11:00"
-  },
-  {
-    "company": "Atmus Filtration Technologies Inc.",
-    "cik": "1921963",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Atmus Filtration Technologies Inc. declare un dividende trimestriel",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.06"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000071/atmu-20260814.htm",
-    "date": "2026-08-14 10:56"
   }
 ]
