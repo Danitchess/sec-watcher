@@ -1,5 +1,41 @@
 [
   {
+    "company": "Crane Co",
+    "cik": "1944013",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Crane Co. annonce l'acquisition du business de pompes américain de Trillium Flow Technologies.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1944013/000162828026061780/cr-20260914.htm",
+    "date": "2026-09-14 12:14"
+  },
+  {
+    "company": "Allarity Therapeutics, Inc.",
+    "cik": "1860657",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Allarity Therapeutics annonce le dépôt d'un formulaire S‑1 pour l'introduction en bourse de Allarity Acquisition Corp.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026099576/ea0305408-8k_allarity.htm",
+    "date": "2026-09-14 12:14"
+  },
+  {
+    "company": "NEWS CORP",
+    "cik": "1564708",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de programme de rachat d'actions d'une valeur maximale d'1 milliard USD",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000200/appendix3cclassa20260911.htm",
+    "date": "2026-09-14 12:09"
+  },
+  {
     "company": "Brookfield Asset Management Ltd.",
     "cik": "1937926",
     "form": "8-K",
@@ -2401,46 +2437,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226038475/ex99-1.htm",
     "date": "2026-08-14 16:46"
-  },
-  {
-    "company": "Sadot Group Inc.",
-    "cik": "1701756",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Sadot Group Inc. publie son rapport financier pour les trois et six mois clos le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001070/e7858_8-k.htm",
-    "date": "2026-08-14 16:46"
-  },
-  {
-    "company": "Cue Biopharma, Inc.",
-    "cik": "1645460",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Cue Biopharma, Inc. publie un rapport financier pour le trimestre se terminant le 30 juin 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526352126/cue-20260814.htm",
-    "date": "2026-08-14 16:00"
-  },
-  {
-    "company": "Lifeloc Technologies, Inc",
-    "cik": "1493137",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lifeloc Technologies, Inc. annonce ses résultats financiers pour le deuxième trimestre 2026",
-    "activite": "développement et fabrication de dispositifs de détection d'alcool et de drogues",
-    "chiffres": {
-      "revenu": "$2,445 million",
-      "benefice": "$(134) thousand",
-      "bpa": "$(0,05)",
-      "croissance": "10%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1493137/000107997326001110/ex99x1.htm",
-    "date": "2026-08-14 15:43"
   }
 ]
