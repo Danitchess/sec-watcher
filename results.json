@@ -1,5 +1,41 @@
 [
   {
+    "company": "Brookfield Asset Management Ltd.",
+    "cik": "1937926",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Brookfield annonce son Investor Day 2026 et rappelle son rôle de leader mondial de l'investissement avec plus d'un trillion de dollars d'actifs.",
+    "activite": "Gestionnaire d'investissements mondiaux actif dans l'infrastructure, l'énergie, le private equity, l'immobilier et le crédit.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326006022/exh_991.htm",
+    "date": "2026-09-14 06:45"
+  },
+  {
+    "company": "TOYOTA MOTOR CREDIT CORP",
+    "cik": "834071",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Renouvellement du programme de titres de créance Euro de TMCC pour un an, avec un plafond de 60 milliards d’euros.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/834071/000095010326013869/dp253089_8k.htm",
+    "date": "2026-09-14 06:42"
+  },
+  {
+    "company": "American Healthcare REIT, Inc.",
+    "cik": "1632970",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration de mise à disposition d’une présentation aux investisseurs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1632970/000119312526389802/ahr-20260914.htm",
+    "date": "2026-09-14 06:35"
+  },
+  {
     "company": "Fly-E Group, Inc.",
     "cik": "1975940",
     "form": "8-K",
@@ -2406,46 +2442,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1493137/000107997326001110/ex99x1.htm",
     "date": "2026-08-14 15:43"
-  },
-  {
-    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
-    "cik": "1310488",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de nouveaux dirigeants et conseillers",
-    "activite": "",
-    "chiffres": {
-      "dividende": "2,5 milliards de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000124/bfnh-08142026_8k.htm",
-    "date": "2026-08-14 15:23"
-  },
-  {
-    "company": "HCW Biologics Inc.",
-    "cik": "1828673",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "HCW Biologics Inc. annonce des résultats financiers et des avancées cliniques positives pour le deuxième trimestre 2026",
-    "activite": "développement de traitements immunothérapeutiques pour les maladies auto-immunes, le cancer et la dysplasie associée au vieillissement",
-    "chiffres": {
-      "revenu": "6,7 M$",
-      "dividende": "4,0 M$ en 2025, 15,0 Mds$ d'ici 2032"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1828673/000149315226038258/ex99-1.htm",
-    "date": "2026-08-14 15:20"
-  },
-  {
-    "company": "READING INTERNATIONAL INC",
-    "cik": "716634",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Depot SEC de type 8-K de la societe READING INTERNATIONAL INC",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/716634/000071663426000030/rdi-20260814x8k.htm",
-    "date": "2026-08-14 15:19"
   }
 ]
