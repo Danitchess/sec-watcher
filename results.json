@@ -1,5 +1,41 @@
 [
   {
+    "company": "Bowhead Specialty Holdings Inc.",
+    "cik": "2002473",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de Derek Walker au conseil d'administration de Bowhead Specialty Holdings.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2002473/000162828026061867/bow-20260912.htm",
+    "date": "2026-09-14 16:40"
+  },
+  {
+    "company": "Lument Finance Trust, Inc.",
+    "cik": "1547546",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Lument Finance Trust a réalisé un fractionnement d'actions inverse 1 pour 10.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926107523/tm2625090d1_8k.htm",
+    "date": "2026-09-14 16:40"
+  },
+  {
+    "company": "CitroTech Inc.",
+    "cik": "894556",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "CitroTech a signé un amendement à ses accords d'échange d'actions avec deux investisseurs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/894556/000168316826007113/citro_8k.htm",
+    "date": "2026-09-14 16:39"
+  },
+  {
     "company": "Crane Co",
     "cik": "1944013",
     "form": "8-K",
@@ -2396,46 +2432,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226038508/ex99-1.htm",
     "date": "2026-08-14 17:15"
-  },
-  {
-    "company": "Bayview Acquisition Corp",
-    "cik": "1969475",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Bayview Acquisition Corp depose un rapport 8-K",
-    "activite": "",
-    "chiffres": {
-      "dividende": "50,000$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1969475/000149315226038507/form8-k.htm",
-    "date": "2026-08-14 17:15"
-  },
-  {
-    "company": "AIR T INC",
-    "cik": "353184",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "AIR T INC presente ses resultats financiers et ses strategies de croissance",
-    "activite": "exploitation d'une entreprise de services aeriens et de gestion d'actifs",
-    "chiffres": {
-      "revenu": "371,7M$",
-      "benefice": "9,5M$"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/353184/000035318426000082/a2026-06x30airtinvestorp.htm",
-    "date": "2026-08-14 16:52"
-  },
-  {
-    "company": "DataMeds AI, Inc.",
-    "cik": "2030763",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Distribution de tokens Meme Coins aux actionnaires de DataMEDS",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226038475/ex99-1.htm",
-    "date": "2026-08-14 16:46"
   }
 ]
