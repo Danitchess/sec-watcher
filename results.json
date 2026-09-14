@@ -1,5 +1,41 @@
 [
   {
+    "company": "Stewards, Inc.",
+    "cik": "1795851",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le conseil d'administration a suspendu l'attribution prévue de 3 000 000 d'unités d'actions restreintes et a lancé un examen supplémentaire du plan d'incitation.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000275/swrd_8k091426.htm",
+    "date": "2026-09-14 17:29"
+  },
+  {
+    "company": "Rekor Systems, Inc.",
+    "cik": "1697851",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Réunion annuelle reportée faute de quorum",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926030353/rekr20260911_8k.htm",
+    "date": "2026-09-14 17:29"
+  },
+  {
+    "company": "House of Doge Inc.",
+    "cik": "1903595",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "House of Doge finalise sa fusion et détaille son rôle de partenaire commercial officiel de la Dogecoin Foundation",
+    "activite": "House of Doge agit comme bras corporatif officiel de la Dogecoin Foundation, développant des solutions de paiement, des produits financiers et la tokenisation d’actifs liés à Dogecoin",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1903595/000121390026099794/ea0305345-8ka1_house.htm",
+    "date": "2026-09-14 17:26"
+  },
+  {
     "company": "Bowhead Specialty Holdings Inc.",
     "cik": "2002473",
     "form": "8-K",
@@ -2383,54 +2419,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1784254/000178425426000037/mdia-20260630xearningsrele.htm",
     "date": "2026-08-14 17:29"
-  },
-  {
-    "company": "INNSUITES HOSPITALITY TRUST",
-    "cik": "82473",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "InnSuites Hospitality Trust annonce des resultats positifs pour ses operations hotelieres",
-    "activite": "operations hotelieres",
-    "chiffres": {
-      "revenu": "$597,323",
-      "dividende": "$4.1 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/82473/000149315226038529/form8-k.htm",
-    "date": "2026-08-14 17:27"
-  },
-  {
-    "company": "Brand Engagement Network Inc.",
-    "cik": "1838163",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Brand Engagement Network Inc. annonce l'acquisition de Cataneo GmbH pour 19,5 millions de dollars",
-    "activite": "developpement de solutions d'engagement intelligent pour les entreprises",
-    "chiffres": {
-      "reduction de dette": "3,3 millions de dollars",
-      "actifs totaux": "30,7 millions de dollars",
-      "equity": "19,4 millions de dollars",
-      "acquisition": "19,5 millions de dollars"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1838163/000149315226038510/ex99-1.htm",
-    "date": "2026-08-14 17:17"
-  },
-  {
-    "company": "Canton Strategic Holdings, Inc.",
-    "cik": "1861657",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Canton Strategic Holdings, Inc. annonce des résultats financiers et opérationnels pour le deuxième trimestre 2026",
-    "activite": "La societe opere comme un Super Validateur sur le Canton Network et propose des services de verrouillage",
-    "chiffres": {
-      "revenu": "$1,495,859",
-      "benefice": "($19,254,826)",
-      "bpa": "($0.08)",
-      "dividende": "$50 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1861657/000149315226038508/ex99-1.htm",
-    "date": "2026-08-14 17:15"
   }
 ]
