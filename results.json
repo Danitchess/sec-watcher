@@ -1,5 +1,41 @@
 [
   {
+    "company": "AEye, Inc.",
+    "cik": "1818644",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "AEye a conclu un accord de vente d'actions au comptant d'une valeur maximale de 50 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1818644/000094787126000868/ss6825285_8k.htm",
+    "date": "2026-09-15 17:29"
+  },
+  {
+    "company": "Firy Inc.",
+    "cik": "1801661",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Nomination de Marc Lasry au conseil d'administration de FIRY Inc.",
+    "activite": "FIRY Inc. est une société holding mondiale active dans le contenu, l'identité, le commerce et le marketing de performance.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000099/firy_lasryxboardxpressxr.htm",
+    "date": "2026-09-15 17:27"
+  },
+  {
+    "company": "Catalyst Acquisition Corp.",
+    "cik": "2104391",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la séparation des unités en actions ordinaires et droits.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2104391/000121390026100217/ea0305603-8k_catalyst.htm",
+    "date": "2026-09-15 17:26"
+  },
+  {
     "company": "VISTA GOLD CORP",
     "cik": "783324",
     "form": "8-K",
@@ -2378,43 +2414,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026058139/radiant_fuelxsalexagreement.htm",
     "date": "2026-08-20 08:31"
-  },
-  {
-    "company": "ALLSTATE CORP",
-    "cik": "899051",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Allstate Corp a publié un rapport mensuel sur les pertes catastrophiques estimées.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000127/all-20260820.htm",
-    "date": "2026-08-20 07:45"
-  },
-  {
-    "company": "SharonAI Holdings Inc.",
-    "cik": "2068385",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Sharon AI a livré avec succès la première phase d’un déploiement AI Cloud pour un client mondial, marquant un jalon clé.",
-    "activite": "Fournisseur australien de services de cloud IA souverain via sa plateforme AI Factory.",
-    "chiffres": {
-      "revenu": "US$950m"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226039364/ex99-1.htm",
-    "date": "2026-08-20 07:43"
-  },
-  {
-    "company": "PITNEY BOWES INC /DE/",
-    "cik": "78814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du lancement d'offres de rachat en espèces de ses obligations",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/78814/000162828026058130/pbi-20260820.htm",
-    "date": "2026-08-20 07:10"
   }
 ]
