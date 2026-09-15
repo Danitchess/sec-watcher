@@ -1,5 +1,31 @@
 [
   {
+    "company": "HEALTHSTREAM INC",
+    "cik": "1095565",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'achat d'actions entre HealthStream, un actionnaire vendeur et un investisseur.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1095565/000143774926030399/ex_1016292.htm",
+    "date": "2026-09-15 09:27"
+  },
+  {
+    "company": "Dream Finders Homes, Inc.",
+    "cik": "1825088",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dream Finders Homes a levé 225 M$ en émettant des actions privilégiées B.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "12.00%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026061981/dream-20260914.htm",
+    "date": "2026-09-15 09:26"
+  },
+  {
     "company": "Stewards, Inc.",
     "cik": "1795851",
     "form": "8-K",
@@ -2390,34 +2416,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000064/rig-20260820x8k.htm",
     "date": "2026-08-20 06:21"
-  },
-  {
-    "company": "Precipio, Inc.",
-    "cik": "1043961",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Precipio, Inc. publie son rapport financier pour le deuxieme trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1043961/000110465926097364/tm2623274d1_8k.htm",
-    "date": "2026-08-14 17:30"
-  },
-  {
-    "company": "Mediaco Holding Inc.",
-    "cik": "1784254",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "MediaCo Holding Inc. annonce des resultats financiers positifs pour le deuxieme trimestre 2026",
-    "activite": "MediaCo est une societe de medias diversifiee servant des audiences multiculturelles aux Etats-Unis",
-    "chiffres": {
-      "revenu": "$65,4 million",
-      "benefice": "-$18,0 million",
-      "bpa": "-$8,613",
-      "croissance": "10%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1784254/000178425426000037/mdia-20260630xearningsrele.htm",
-    "date": "2026-08-14 17:29"
   }
 ]
