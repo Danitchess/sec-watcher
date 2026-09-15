@@ -1,5 +1,29 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Atlanta.",
+    "activite": "Elle obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000165/fhlba-20260909.htm",
+    "date": "2026-09-15 13:46"
+  },
+  {
+    "company": "Jaguar Health, Inc.",
+    "cik": "1585608",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jaguar Health a réalisé plusieurs échanges d'actions et notes, incluant l'émission de 557 377 actions contre un solde de note de 175 016,36 $.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526391682/d162139d8k.htm",
+    "date": "2026-09-15 13:44"
+  },
+  {
     "company": "HEALTHSTREAM INC",
     "cik": "1095565",
     "form": "8-K",
@@ -2392,29 +2416,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/aap-20260820.htm",
     "date": "2026-08-20 06:31"
-  },
-  {
-    "company": "INNSUITES HOSPITALITY TRUST",
-    "cik": "82473",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt ne contient pas d'information substantielle.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/82473/000149315226039352/ex10-1.htm",
-    "date": "2026-08-20 06:27"
-  },
-  {
-    "company": "Transocean Ltd.",
-    "cik": "1451505",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000064/rig-20260820x8k.htm",
-    "date": "2026-08-20 06:21"
   }
 ]
