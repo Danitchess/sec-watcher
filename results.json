@@ -1,5 +1,41 @@
 [
   {
+    "company": "Ernexa Therapeutics Inc.",
+    "cik": "748592",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aucun élément significatif identifié.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/748592/000149315226042963/ex99-1.htm",
+    "date": "2026-09-16 17:30"
+  },
+  {
+    "company": "FG Nexus Inc.",
+    "cik": "1591890",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Le conseil approuve une stratégie d'acquisition de logements abordables et un investissement de 10 M$ dans FG Communities.",
+    "activite": "FG Nexus est une société de banque d'affaires et d'exploitation immobilière spécialisée dans l'acquisition et la gestion de communautés de logements abordables.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1591890/000149315226042957/ex99-1.htm",
+    "date": "2026-09-16 17:28"
+  },
+  {
+    "company": "Aperture AC",
+    "cik": "2093524",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 65,
+    "resume": "Aperture AC signe un accord de combinaison avec Atlantic HPC pour une transaction de 150 M$.",
+    "activite": "Aperture AC est une société d’acquisition cotée (SPAC).",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026100601/ea0305349-8k425_aperture.htm",
+    "date": "2026-09-16 17:25"
+  },
+  {
     "company": "SMITH &amp; WESSON BRANDS, INC.",
     "cik": "1092796",
     "form": "8-K",
@@ -2381,41 +2417,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1371451/000162828026058180/highwater-20260819.htm",
     "date": "2026-08-20 11:37"
-  },
-  {
-    "company": "Protagenic Therapeutics, Inc.\\new",
-    "cik": "1022899",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Protagenic Therapeutics reçoit un avis favorable de la FDA pour son IND sur le traitement du trouble anxieux généralisé.",
-    "activite": "Entreprise biopharmaceutique en phase clinique développant des traitements peptidiques pour les troubles neuropsychiatriques liés au stress.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1022899/000149315226039410/ex99-1.htm",
-    "date": "2026-08-20 11:26"
-  },
-  {
-    "company": "Rocky Mountains Group Ltd",
-    "cik": "2034288",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le 20 août 2026, Rocky Mountains Group Ltd a cédé 83,2 % de son capital à Ya Deng, qui devient président‑directeur général.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2034288/000149315226039409/form8-k.htm",
-    "date": "2026-08-20 11:24"
-  },
-  {
-    "company": "Audax Private Credit Fund, LLC",
-    "cik": "2033362",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2033362/000119312526358566/ck0002033362-20260813.htm",
-    "date": "2026-08-20 10:58"
   }
 ]
