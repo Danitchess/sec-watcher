@@ -1,5 +1,41 @@
 [
   {
+    "company": "SMITH &amp; WESSON BRANDS, INC.",
+    "cik": "1092796",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit la tenue de l'assemblée annuelle des actionnaires et les votes sur les administrateurs, la rémunération et la nomination du cabinet comptable.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526393097/d150341d8k.htm",
+    "date": "2026-09-16 16:17"
+  },
+  {
+    "company": "NELNET INC",
+    "cik": "1258602",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Nomination de deux nouveaux administrateurs au conseil d'administration de Nelnet.",
+    "activite": "Nelnet propose des services de prêts aux consommateurs, de gestion de prêts, de paiements et de technologie, principalement dans le secteur de l'éducation.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1258602/000125860226000045/exhibit991pressrelease0916.htm",
+    "date": "2026-09-16 16:16"
+  },
+  {
+    "company": "K&amp;F GROWTH ACQUISITION CORP. II",
+    "cik": "2029976",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le SPAC a transféré son inscription du Nasdaq Global Market au Nasdaq Capital Market, résolvant ainsi le problème de conformité.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2029976/000121390026100525/ea0305697-8k_kfgrow2.htm",
+    "date": "2026-09-16 16:15"
+  },
+  {
     "company": "DELMARVA POWER &amp; LIGHT CO /DE/",
     "cik": "27879",
     "form": "8-K",
@@ -2381,41 +2417,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2033362/000119312526358566/ck0002033362-20260813.htm",
     "date": "2026-08-20 10:58"
-  },
-  {
-    "company": "AB Private Lending Fund",
-    "cik": "1982701",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1982701/000119312526358557/d163003d8k.htm",
-    "date": "2026-08-20 10:52"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.\",\"",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000152/fhlbd-20260817.htm",
-    "date": "2026-08-20 10:15"
-  },
-  {
-    "company": "HOVNANIAN ENTERPRISES INC",
-    "cik": "357294",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/357294/000175392626001568/ex991_1.htm",
-    "date": "2026-08-20 10:02"
   }
 ]
