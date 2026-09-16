@@ -1,5 +1,41 @@
 [
   {
+    "company": "MERCURY SYSTEMS INC",
+    "cik": "1049521",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement prolongeant le contrat d'emploi de William L. Ballhaus jusqu'en 2030.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000073/ballhausamendmentno2toem.htm",
+    "date": "2026-09-16 08:05"
+  },
+  {
+    "company": "PEDEVCO CORP",
+    "cik": "1141197",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PEDEVCO annonce l'acquisition d'acreages au Wyoming.",
+    "activite": "Acquisition de terrains (acreage) au Wyoming via une vente aux enchères du Bureau of Land Management.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426008401/ped_8k.htm",
+    "date": "2026-09-16 08:01"
+  },
+  {
+    "company": "MYRIAD GENETICS INC",
+    "cik": "899923",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Myriad Genetics nomme Vishal Sikri EVP Commercial et réaffirme ses prévisions financières 2026.",
+    "activite": "Myriad Genetics développe et propose des tests de diagnostic moléculaire et de médecine de précision.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/899923/000089992326000079/ex991pressreleasedatedsept.htm",
+    "date": "2026-09-16 08:00"
+  },
+  {
     "company": "AEye, Inc.",
     "cik": "1818644",
     "form": "8-K",
@@ -2378,41 +2414,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1512922/000149315226039397/ex99-1.htm",
     "date": "2026-08-20 09:20"
-  },
-  {
-    "company": "Game Your Game Inc.",
-    "cik": "2111846",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lettre aux actionnaires présentant les offres de produits et le modèle économique.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026091916/ea0302824-8k_game.htm",
-    "date": "2026-08-20 09:15"
-  },
-  {
-    "company": "Profusa, Inc.",
-    "cik": "1859807",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Profusa, Inc. a publié ses résultats financiers du trimestre se terminant le 30 juin 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026091905/ea0302812-8k_profusa.htm",
-    "date": "2026-08-20 08:32"
-  },
-  {
-    "company": "Standard Nuclear, Inc.",
-    "cik": "2086716",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Standard Nuclear signe un accord d'approvisionnement en combustible TRISO avec Radiant jusqu'en 2031.",
-    "activite": "producteur de combustible nucléaire TRISO à grande échelle",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026058139/radiant_fuelxsalexagreement.htm",
-    "date": "2026-08-20 08:31"
   }
 ]
