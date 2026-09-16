@@ -1,5 +1,32 @@
 [
   {
+    "company": "DELMARVA POWER &amp; LIGHT CO /DE/",
+    "cik": "27879",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Delmarva Power & Light a émis 150 M$ d'obligations pour refinancer sa dette et financer ses activités.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/27879/000002787926000003/exc-20260916.htm",
+    "date": "2026-09-16 12:51"
+  },
+  {
+    "company": "Curaleaf Holdings, Inc.",
+    "cik": "1756770",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Curaleaf propose d’acquérir Aurora avec une prime de 45 % en soulignant ses revenus de plus d’1,5 milliard $.",
+    "activite": "Curaleaf est une société leader mondiale du cannabis, opérant la culture, la fabrication et la distribution de produits cannabis.",
+    "chiffres": {
+      "revenu": "US$1.5B+",
+      "benefice": "US$350M"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1756770/000175677026000111/curaleafbrochure_final.htm",
+    "date": "2026-09-16 12:29"
+  },
+  {
     "company": "MERCURY SYSTEMS INC",
     "cik": "1049521",
     "form": "8-K",
@@ -2390,29 +2417,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/357294/000175392626001568/ex991_1.htm",
     "date": "2026-08-20 10:02"
-  },
-  {
-    "company": "CAPITAL ONE FINANCIAL CORP",
-    "cik": "927628",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Capital One annonce le rachat de toutes les actions de sa série M de titres privilégiés.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/927628/000119312526358268/d825041d8k.htm",
-    "date": "2026-08-20 09:22"
-  },
-  {
-    "company": "PetVivo Holdings, Inc.",
-    "cik": "1512922",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt sans informations significatives.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1512922/000149315226039397/ex99-1.htm",
-    "date": "2026-08-20 09:20"
   }
 ]
