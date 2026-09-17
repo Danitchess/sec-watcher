@@ -1,5 +1,41 @@
 [
   {
+    "company": "CLARIVATE PLC",
+    "cik": "1764046",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Clarivate Plc annonce le lancement d'une offre publique de rachat de dette.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1764046/000095010326014070/dp253474_8k.htm",
+    "date": "2026-09-17 08:15"
+  },
+  {
+    "company": "LITTELFUSE INC /DE",
+    "cik": "889331",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Littelfuse a signé un amendement prévoyant le paiement d’une redevance unique de 24,6 M€ pour soutenir sa stratégie semi‑conducteurs.",
+    "activite": "fabrication de semi-conducteurs",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/889331/000088933126000014/lfus-20260915.htm",
+    "date": "2026-09-17 08:13"
+  },
+  {
+    "company": "HyOrc Corp",
+    "cik": "1070789",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Référence à un document annexe.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226043048/ex10-1.htm",
+    "date": "2026-09-17 08:11"
+  },
+  {
     "company": "Ernexa Therapeutics Inc.",
     "cik": "748592",
     "form": "8-K",
@@ -2381,41 +2417,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026091979/ea0302873-8k_quanome.htm",
     "date": "2026-08-20 12:30"
-  },
-  {
-    "company": "Carvana Auto Receivables Trust 2026-P3",
-    "cik": "1999511",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt 8‑K annonçant l’émission d’obligations adossées aux créances de Carvana.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1999511/000177037326000046/crvna2026-p3form8xkreopini.htm",
-    "date": "2026-08-20 12:17"
-  },
-  {
-    "company": "Carvana Receivables Depositor LLC",
-    "cik": "1770373",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt 8‑K annonçant l’émission de titres adossés à des créances Carvana.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1770373/000177037326000046/crvna2026-p3form8xkreopini.htm",
-    "date": "2026-08-20 12:17"
-  },
-  {
-    "company": "HIGHWATER ETHANOL LLC",
-    "cik": "1371451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau administrateur au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1371451/000162828026058180/highwater-20260819.htm",
-    "date": "2026-08-20 11:37"
   }
 ]
