@@ -1,5 +1,41 @@
 [
   {
+    "company": "Hyundai Auto Receivables Trust 2026-C",
+    "cik": "2151096",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K annonçant les pièces jointes liées à l’émission des notes du trust",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926108509/tm2624221d9_8k.htm",
+    "date": "2026-09-17 13:02"
+  },
+  {
+    "company": "HYUNDAI ABS FUNDING LLC",
+    "cik": "1260125",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K annonçant la transmission des pièces justificatives liées à l’émission de titres du Hyundai Auto Receivables Trust 2026‑C.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1260125/000110465926108509/tm2624221d9_8k.htm",
+    "date": "2026-09-17 13:02"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Boston.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000180/fhlbbost-20260914.htm",
+    "date": "2026-09-17 12:54"
+  },
+  {
     "company": "CLARIVATE PLC",
     "cik": "1764046",
     "form": "8-K",
@@ -2381,41 +2417,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1859919/000185991926000078/bdc-20260819.htm",
     "date": "2026-08-20 13:30"
-  },
-  {
-    "company": "Federal Home Loan Bank of Indianapolis",
-    "cik": "1331754",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport annonce l'émission d'obligations de 15 000 000 $ par la Federal Home Loan Bank of Indianapolis.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331754/000133175426000169/fhlbi-20260818.htm",
-    "date": "2026-08-20 13:07"
-  },
-  {
-    "company": "Rise Companies Corp",
-    "cik": "1640967",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La société a qualifié 4 275 000 actions de classe B pour une offre continue.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1640967/000162828026058194/rc-20260819.htm",
-    "date": "2026-08-20 12:54"
-  },
-  {
-    "company": "Quanome Technologies, Inc.",
-    "cik": "1996192",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Annonce de la création d'un Global Quantum Council et d'un réseau d'experts scientifiques",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026091979/ea0302873-8k_quanome.htm",
-    "date": "2026-08-20 12:30"
   }
 ]
