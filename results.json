@@ -1,5 +1,29 @@
 [
   {
+    "company": "DataMeds AI, Inc.",
+    "cik": "2030763",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 65,
+    "resume": "La société a réglé un litige en payant 450 000 $ et prévoit d’éliminer 19 M$ de dettes.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/form8-k.htm",
+    "date": "2026-09-17 17:23"
+  },
+  {
+    "company": "Aon plc",
+    "cik": "315293",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aon plc a annoncé une émission de plusieurs séries de notes senior pour un total de 13,5 milliards de dollars.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526394533/d105587d8k.htm",
+    "date": "2026-09-17 17:21"
+  },
+  {
     "company": "Amesite Inc.",
     "cik": "1807166",
     "form": "8-K",
@@ -2395,29 +2419,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926010643/p8192668k.htm",
     "date": "2026-08-20 15:00"
-  },
-  {
-    "company": "Fortress Net Lease REIT",
-    "cik": "1966394",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Fortress Net Lease REIT publie sa valeur nette d’actif par action pour juillet 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1966394/000119312526359051/ck0001966394-20260817.htm",
-    "date": "2026-08-20 14:47"
-  },
-  {
-    "company": "POPULAR, INC.",
-    "cik": "763901",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de nouveaux dirigeants et approbation de leurs rémunérations.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526359008/d26601d8k.htm",
-    "date": "2026-08-20 14:26"
   }
 ]
