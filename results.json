@@ -1,5 +1,43 @@
 [
   {
+    "company": "Amesite Inc.",
+    "cik": "1807166",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la prochaine assemblée annuelle et des délais de soumission des propositions des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1807166/000121390026100973/ea0305897-8k_amesite.htm",
+    "date": "2026-09-17 16:25"
+  },
+  {
+    "company": "HEALTHY CHOICE WELLNESS CORP.",
+    "cik": "1948864",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de droits d'enregistrement lié à la fusion de Healthy Choice Wellness Corp.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226043135/ex10-1.htm",
+    "date": "2026-09-17 16:24"
+  },
+  {
+    "company": "INDEPENDENT BANK CORP",
+    "cik": "776901",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Annonce d'un dividende trimestriel de 0,64 $ par action.",
+    "activite": "Holding d'une banque commerciale offrant des services bancaires, d'investissement et d'assurance.",
+    "chiffres": {
+      "dividende": "$0.64"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/776901/000077690126000143/exhibit991-q32026commondiv.htm",
+    "date": "2026-09-17 16:23"
+  },
+  {
     "company": "Hyundai Auto Receivables Trust 2026-C",
     "cik": "2151096",
     "form": "8-K",
@@ -2381,41 +2419,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526359008/d26601d8k.htm",
     "date": "2026-08-20 14:26"
-  },
-  {
-    "company": "POPULAR, INC.",
-    "cik": "763901",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 85,\n  \"resume\": \"Annonce d'un dividende trimestriel de 0,90 $ par action\",\n  \"activite\": \"\",\n  \"chiffres\": {\n    \"revenu\": \"\",\n    \"benefice\": \"\",\n    \"bpa\": \"\",",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526358984/d184051d8k.htm",
-    "date": "2026-08-20 14:21"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000164/fhlbbost-20260817.htm",
-    "date": "2026-08-20 13:51"
-  },
-  {
-    "company": "Barings Private Credit Corp",
-    "cik": "1859919",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1859919/000185991926000078/bdc-20260819.htm",
-    "date": "2026-08-20 13:30"
   }
 ]
