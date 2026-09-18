@@ -1,5 +1,29 @@
 [
   {
+    "company": "DAKTRONICS INC /SD/",
+    "cik": "915779",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le conseil a approuvé une hausse de salaire et une attribution d'actions RSU pour le directeur financier intérimaire.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/915779/000162828026062772/dakt-20260916.htm",
+    "date": "2026-09-18 17:20"
+  },
+  {
+    "company": "CLEANSPARK, INC.",
+    "cik": "827876",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "CleanSpark a annoncé le prix de son émission de billets senior de 2,276 milliards $ à 98,5 % du principal.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526395727/clsk-20260918.htm",
+    "date": "2026-09-18 17:18"
+  },
+  {
     "company": "EXOZYMES INC.",
     "cik": "2010788",
     "form": "8-K",
@@ -2399,29 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626009173/nexalintec_8k.htm",
     "date": "2026-08-20 17:28"
-  },
-  {
-    "company": "ASP Isotopes Inc.",
-    "cik": "1921865",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de prêt sécurisé d'environ 14,2 M$ pour ASP Isotopes",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226005196/aspi_8k.htm",
-    "date": "2026-08-20 17:17"
-  },
-  {
-    "company": "CCO HOLDINGS CAPITAL CORP",
-    "cik": "1271834",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la finalisation des fusions avec Liberty Broadband et Cox",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1271834/000114036126033909/ef20080687_8k.htm",
-    "date": "2026-08-20 17:16"
   }
 ]
