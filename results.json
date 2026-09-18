@@ -1,5 +1,41 @@
 [
   {
+    "company": "BlossomHill Therapeutics, Inc.",
+    "cik": "1839970",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "BlossomHill Therapeutics publie ses résultats financiers du trimestre se terminant le 30 juin 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526395031/d266261d8k.htm",
+    "date": "2026-09-18 07:15"
+  },
+  {
+    "company": "Roivant Sciences Ltd.",
+    "cik": "1635088",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Assemblée générale annuelle avec approbation des résolutions",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1635088/000163508826000095/roiv-20260916.htm",
+    "date": "2026-09-18 07:14"
+  },
+  {
+    "company": "CAVA GROUP, INC.",
+    "cik": "1639438",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "CAVA Group approuve un programme de rachat d'actions de 100 M$.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1639438/000162828026062616/cava-20260917.htm",
+    "date": "2026-09-18 07:04"
+  },
+  {
     "company": "DataMeds AI, Inc.",
     "cik": "2030763",
     "form": "8-K",
@@ -2383,41 +2419,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000052/mcip-20260820.htm",
     "date": "2026-08-20 15:32"
-  },
-  {
-    "company": "UNITED BANCORP INC /OH/",
-    "cik": "731653",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Annonce du versement du dividende du troisième trimestre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/731653/000110465926099202/tm2623702d1_8k.htm",
-    "date": "2026-08-20 15:29"
-  },
-  {
-    "company": "Array Technologies, Inc.",
-    "cik": "1820721",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Array Technologies a présenté son Investor Technology Showcase lors d'un webcast le 20 août 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1820721/000162828026058225/arry-20260820.htm",
-    "date": "2026-08-20 15:03"
-  },
-  {
-    "company": "EBR Systems, Inc.",
-    "cik": "1347123",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Les actionnaires ont approuvé l’émission de nouveaux titres lors de la réunion spéciale du 18 août 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926010643/p8192668k.htm",
-    "date": "2026-08-20 15:00"
   }
 ]
