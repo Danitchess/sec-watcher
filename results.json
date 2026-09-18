@@ -1,5 +1,43 @@
 [
   {
+    "company": "EXOZYMES INC.",
+    "cik": "2010788",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la tenue de l'assemblée annuelle et de la distribution du proxy aux actionnaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2010788/000149315226043288/form8-k.htm",
+    "date": "2026-09-18 13:24"
+  },
+  {
+    "company": "PermRock Royalty Trust",
+    "cik": "1724009",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Le Trust a annoncé une distribution en espèces de 238 742,30 $ aux détenteurs d'unités.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$238,742.30 ($0.0196242 per Trust Unit)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526395344/2026-09_permrock_8-k.htm",
+    "date": "2026-09-18 13:23"
+  },
+  {
+    "company": "AMEREN CORP",
+    "cik": "1002910",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ameren a vendu des Junior Subordinated Notes de 900 M$ et a reçu 891 M$ de produit net.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926108859/tm2625603d1_8k.htm",
+    "date": "2026-09-18 13:07"
+  },
+  {
     "company": "CROSS TIMBERS ROYALTY TRUST",
     "cik": "881787",
     "form": "8-K",
@@ -2385,41 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1271834/000114036126033909/ef20080687_8k.htm",
     "date": "2026-08-20 17:16"
-  },
-  {
-    "company": "Monroe Capital Enhanced Corporate Lending Fund",
-    "cik": "2061670",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000078/mlend-20260820.htm",
-    "date": "2026-08-20 16:49"
-  },
-  {
-    "company": "RF Acquisition Corp II",
-    "cik": "2012807",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2012807/000182912626009168/rfacquisition2_8k.htm",
-    "date": "2026-08-20 16:49"
-  },
-  {
-    "company": "Quoin Pharmaceuticals, Ltd.",
-    "cik": "1671502",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit les votes et décisions de l'assemblée annuelle des actionnaires.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926099239/tm2623719d1_8k.htm",
-    "date": "2026-08-20 16:19"
   }
 ]
