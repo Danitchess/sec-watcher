@@ -1,5 +1,43 @@
 [
   {
+    "company": "CROSS TIMBERS ROYALTY TRUST",
+    "cik": "881787",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Déclaration d'une distribution en espèces de 0,064277 $ par unité.",
+    "activite": "Fiducie de royalties pétrolières et gazières",
+    "chiffres": {
+      "dividende": "$0.064277 per unit"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526395258/crt-ex99_1.htm",
+    "date": "2026-09-18 11:33"
+  },
+  {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de l'élection de deux administrateurs membres pour le New Jersey",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426008445/fhlbny_8k.htm",
+    "date": "2026-09-18 10:50"
+  },
+  {
+    "company": "WinVest Acquisition Corp.",
+    "cik": "1854463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement du Trust Agreement prolongeant le délai de combinaison d'affaires.",
+    "activite": "Recherche d'une combinaison d'affaires avec des entreprises cibles.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226043273/ex10-1.htm",
+    "date": "2026-09-18 10:47"
+  },
+  {
     "company": "BlossomHill Therapeutics, Inc.",
     "cik": "1839970",
     "form": "8-K",
@@ -2383,41 +2421,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926099239/tm2623719d1_8k.htm",
     "date": "2026-08-20 16:19"
-  },
-  {
-    "company": "ONEMAIN FINANCE CORP",
-    "cik": "25598",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "OneMain Finance a émis 600 M$ de notes senior à 7,125 % échéant 2034.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/25598/000114036126033882/ef20080671_8k.htm",
-    "date": "2026-08-20 16:18"
-  },
-  {
-    "company": "North Haven Net REIT",
-    "cik": "1999784",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000064/ck0001999784-20260814.htm",
-    "date": "2026-08-20 15:38"
-  },
-  {
-    "company": "Monroe Capital Income Plus Corp",
-    "cik": "1742313",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sent",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000052/mcip-20260820.htm",
-    "date": "2026-08-20 15:32"
   }
 ]
