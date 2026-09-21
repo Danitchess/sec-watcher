@@ -1,5 +1,41 @@
 [
   {
+    "company": "Clearwater Paper Corp",
+    "cik": "1441236",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Clearwater Paper a obtenu un crédit revolving de 200 M$ et un prêt à terme de 275 M$, a tiré 15 M$ et a payé 1,7 M$ d’intérêts.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1441236/000119312526396048/d112859d8k.htm",
+    "date": "2026-09-21 06:52"
+  },
+  {
+    "company": "Baldwin Insurance Group, Inc.",
+    "cik": "1781755",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un directeur comptable intérimaire pendant le congé maternité de la directrice financière.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1781755/000178175526000053/bwin-20260921.htm",
+    "date": "2026-09-21 06:52"
+  },
+  {
+    "company": "Kosmos Energy Ltd.",
+    "cik": "1509991",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kosmos Energy a annoncé le rachat partiel de 25 M$ de ses obligations senior de 7,75 % arrivant à échéance en 2027.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000053/kos-20260918.htm",
+    "date": "2026-09-21 06:32"
+  },
+  {
     "company": "VisionWave Holdings, Inc.",
     "cik": "2038439",
     "form": "8-K",
@@ -2389,41 +2425,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1530766/000149315226039547/ex99-1.htm",
     "date": "2026-08-21 06:02"
-  },
-  {
-    "company": "Jefferson Capital, Inc. / DE",
-    "cik": "2046042",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2046042/000110465926099334/tm2623654d1_8k.htm",
-    "date": "2026-08-21 06:01"
-  },
-  {
-    "company": "PROSPECT CAPITAL CORP",
-    "cik": "1287032",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1287032/000128703226000270/a2026-6x30xpsecearningsrel.htm",
-    "date": "2026-08-20 17:33"
-  },
-  {
-    "company": "TREDEGAR CORP",
-    "cik": "850429",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'Ana Dutra au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/850429/000162828026058292/tg-20260817.htm",
-    "date": "2026-08-20 17:30"
   }
 ]
