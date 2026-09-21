@@ -1,5 +1,29 @@
 [
   {
+    "company": "GENERATION INCOME PROPERTIES, INC.",
+    "cik": "1651721",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "Le 8‑K rapporte plusieurs cessions de propriétés net‑lease et le rachat d’une entité, avec des flux de trésorerie positifs et une perte ponctuelle.",
+    "activite": "Société d'investissement immobilier spécialisée dans les propriétés à bail net",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1651721/000119312526396828/gipr-20260616.htm",
+    "date": "2026-09-21 17:20"
+  },
+  {
+    "company": "STORE CAPITAL LLC",
+    "cik": "1538990",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Store Capital a émis 542 M$ de notes net‑lease pour financer le rachat de dettes et soutenir sa croissance.",
+    "activite": "Store Capital agit en tant que gestionnaire immobilier et servicer spécialisé des actifs garantissant les notes.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1538990/000119312526396826/d72160d8k.htm",
+    "date": "2026-09-21 17:19"
+  },
+  {
     "company": "Monroe Capital Enhanced Corporate Lending Fund",
     "cik": "2061670",
     "form": "8-K",
@@ -2403,29 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926099399/tm2623537d1_8k.htm",
     "date": "2026-08-21 08:26"
-  },
-  {
-    "company": "reAlpha Tech Corp.",
-    "cik": "1859199",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Annonce la clôture d'une fusion avec InstaMortgage",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026092336/ea0302373-8k_realpha.htm",
-    "date": "2026-08-21 08:25"
-  },
-  {
-    "company": "Uniti Group Inc.",
-    "cik": "2020795",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326012737/dp252143_8k.htm",
-    "date": "2026-08-21 07:31"
   }
 ]
