@@ -1,5 +1,41 @@
 [
   {
+    "company": "ENB Financial Corp",
+    "cik": "1437479",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du départ à la retraite du président‑directeur général et de la nomination de son successeur.",
+    "activite": "Société holding bancaire, propriétaire de The Ephrata National Bank",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000884/form8k-36361_enbf.htm",
+    "date": "2026-09-21 12:10"
+  },
+  {
+    "company": "Dankon Corp",
+    "cik": "2065287",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur au conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2065287/000206528726000013/form8k.htm",
+    "date": "2026-09-21 12:09"
+  },
+  {
+    "company": "DEEP FISSION, INC.",
+    "cik": "1918102",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une collaboration pour tester des méthodes de forage liées à son modèle de réacteur souterrain.",
+    "activite": "Développe des réacteurs souterrains et teste des méthodes de forage et de construction de puits.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926109201/tm2625786d1_8k.htm",
+    "date": "2026-09-21 11:26"
+  },
+  {
     "company": "Clearwater Paper Corp",
     "cik": "1441236",
     "form": "8-K",
@@ -2389,41 +2425,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000033/ex991-pressreleasex82126.htm",
     "date": "2026-08-21 07:09"
-  },
-  {
-    "company": "Ubiquiti Inc.",
-    "cik": "1511737",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 90,\n  \"resume\": \"Ubiquiti annonce des revenus record de 3,3 milliards $ et un",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173726000057/exhibit991-063026.htm",
-    "date": "2026-08-21 07:05"
-  },
-  {
-    "company": "ALBEMARLE CORP",
-    "cik": "915913",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de Max W. Hood comme directeur comptable avec détails de sa rémunération.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000107/alb-20260819.htm",
-    "date": "2026-08-21 06:30"
-  },
-  {
-    "company": "Streamex Corp.",
-    "cik": "1530766",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"positif\",\"",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1530766/000149315226039547/ex99-1.htm",
-    "date": "2026-08-21 06:02"
   }
 ]
