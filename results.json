@@ -1,5 +1,31 @@
 [
   {
+    "company": "Monroe Capital Enhanced Corporate Lending Fund",
+    "cik": "2061670",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Le fonds a déclaré un dividende de 0,187 $ par action et affiche un actif net de 109,0 M$.",
+    "activite": "Investit principalement dans des prêts sécurisés senior et des participations en actions au sein de sociétés de divers secteurs.",
+    "chiffres": {
+      "dividende": "$0.187 per share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000089/mlend-20260921.htm",
+    "date": "2026-09-21 16:42"
+  },
+  {
+    "company": "TRAFALGAR INTERNATIONAL, INC.",
+    "cik": "1695473",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Nomination d'un nouveau PDG pour soutenir la stratégie d'acquisition",
+    "activite": "Société d'acquisition et de développement d'entreprises dans les services financiers, la technologie et la propriété intellectuelle",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1695473/000149315226043580/form8-k.htm",
+    "date": "2026-09-21 16:41"
+  },
+  {
     "company": "ENB Financial Corp",
     "cik": "1437479",
     "form": "8-K",
@@ -2401,29 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326012737/dp252143_8k.htm",
     "date": "2026-08-21 07:31"
-  },
-  {
-    "company": "Intercontinental Exchange, Inc.",
-    "cik": "1571949",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Intercontinental Exchange a amend",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526359930/d369319d8k.htm",
-    "date": "2026-08-21 07:30"
-  },
-  {
-    "company": "Qnity Electronics, Inc.",
-    "cik": "2058873",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 92,
-    "resume": "Nomination d'un nouveau directeur financier, Ken Rizvi, pour soutenir la croissance de Qnity.",
-    "activite": "Fournisseur de technologies et de matériaux haute performance pour la chaîne de valeur des semi-conducteurs.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000033/ex991-pressreleasex82126.htm",
-    "date": "2026-08-21 07:09"
   }
 ]
