@@ -1,5 +1,29 @@
 [
   {
+    "company": "FDCTECH, INC.",
+    "cik": "1722731",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de service du directeur avec conditions de rémunération liées à l'inscription en bourse",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1722731/000149315226043666/ex10-1.htm",
+    "date": "2026-09-22 09:30"
+  },
+  {
+    "company": "CITIZENS &amp; NORTHERN CORP",
+    "cik": "810958",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt porte sur une modification des statuts concernant la fréquence des réunions du conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926109499/cznc-20260918x8k.htm",
+    "date": "2026-09-22 09:28"
+  },
+  {
     "company": "GENERATION INCOME PROPERTIES, INC.",
     "cik": "1651721",
     "form": "8-K",
@@ -2403,29 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226039588/ex99-1.htm",
     "date": "2026-08-21 09:27"
-  },
-  {
-    "company": "BOSTON OMAHA Corp",
-    "cik": "1494582",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Boston Omaha a présenté son diaporama annuel lors de l'assemblée des actionnaires.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1494582/000143774926028680/bomn20260809c_8k.htm",
-    "date": "2026-08-21 08:31"
-  },
-  {
-    "company": "Meridian3 Industrials Acquisition Corp",
-    "cik": "2136530",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la mise en place du commerce séparé des actions et des bons de la société.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926099399/tm2623537d1_8k.htm",
-    "date": "2026-08-21 08:26"
   }
 ]
