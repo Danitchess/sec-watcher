@@ -1,5 +1,41 @@
 [
   {
+    "company": "CURTISS WRIGHT CORP",
+    "cik": "26324",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Nomination d'un nouveau PDG avec un salaire de 1,1 M$ et un bonus cible de 125 % de son salaire.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026062997/cw-20260921.htm",
+    "date": "2026-09-22 13:41"
+  },
+  {
+    "company": "Metal Sky Star Acquisition Corp",
+    "cik": "1882464",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "La société ne pourra pas réaliser de combinaison et va liquider, les actionnaires recevront 16,41 $ par action.",
+    "activite": "Société d'acquisition (blank check) visant à réaliser une fusion, acquisition ou restructuration d'entreprises.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/ex99-1.htm",
+    "date": "2026-09-22 13:27"
+  },
+  {
+    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
+    "cik": "1919369",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la vente d'actions et de la valeur nette d'inventaire de la société.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526397597/ck0001919369-20260918.htm",
+    "date": "2026-09-22 13:21"
+  },
+  {
     "company": "FDCTECH, INC.",
     "cik": "1722731",
     "form": "8-K",
@@ -2391,41 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000171/yum-20260820.htm",
     "date": "2026-08-21 10:19"
-  },
-  {
-    "company": "UWHARRIE CAPITAL CORP",
-    "cik": "898171",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport trimestriel a été publié sans détail financier.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/898171/000119312526360116/uwhr-20260821.htm",
-    "date": "2026-08-21 09:39"
-  },
-  {
-    "company": "MODINE MANUFACTURING CO",
-    "cik": "67347",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Les actionnaires ont élu de nouveaux administrateurs et approuvé les votes consultatifs.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/67347/000110465926099432/mod-20260820x8k.htm",
-    "date": "2026-08-21 09:30"
-  },
-  {
-    "company": "CDT Equity Inc.",
-    "cik": "1896212",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226039588/ex99-1.htm",
-    "date": "2026-08-21 09:27"
   }
 ]
