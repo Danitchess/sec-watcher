@@ -1,5 +1,41 @@
 [
   {
+    "company": "HALOZYME THERAPEUTICS, INC.",
+    "cik": "1159036",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Halozyme a émis 1,5 milliard $ de notes convertibles pour financer divers usages.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1159036/000119312526398015/d148460d8k.htm",
+    "date": "2026-09-22 16:41"
+  },
+  {
+    "company": "Verizon Master Trust",
+    "cik": "1844964",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Opinion juridique sur l'émission de notes adossées à des actifs d'une valeur totale d'environ 1 Md$.",
+    "activite": "Émission de notes adossées à des actifs par Verizon Master Trust.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1844964/000092963826003587/exhibit5-1.htm",
+    "date": "2026-09-22 16:36"
+  },
+  {
+    "company": "Verizon ABS II LLC",
+    "cik": "1836995",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Morgan Lewis fournit un avis juridique sur l’émission de plusieurs séries de notes adossées à des actifs d’une valeur totale de près de 1 Mrd $.",
+    "activite": "Émission et vente de titres adossés à des actifs.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1836995/000092963826003587/exhibit5-1.htm",
+    "date": "2026-09-22 16:36"
+  },
+  {
     "company": "CURTISS WRIGHT CORP",
     "cik": "26324",
     "form": "8-K",
@@ -2391,41 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526360273/crt-ex99_1.htm",
     "date": "2026-08-21 10:58"
-  },
-  {
-    "company": "HUGOTON ROYALTY TRUST",
-    "cik": "862022",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/862022/000119312526360252/hgtxu-ex99_1.htm",
-    "date": "2026-08-21 10:56"
-  },
-  {
-    "company": "FS Bancorp, Inc.",
-    "cik": "1530249",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"positif\",\"score\":80,\"resume\":\"FS Bancorp a finalisé l'acquisition de Pacific West Bancorp, renforçant sa présence bancaire.\",\"activite\":\"FS Bancorp est une société mère de banques, dont ",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000205/8k82026.htm",
-    "date": "2026-08-21 10:34"
-  },
-  {
-    "company": "YUM BRANDS INC",
-    "cik": "1041061",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur avec une attribution d'actions de 25 000 $.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000171/yum-20260820.htm",
-    "date": "2026-08-21 10:19"
   }
 ]
