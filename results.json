@@ -1,5 +1,41 @@
 [
   {
+    "company": "NN INC",
+    "cik": "918541",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "NN, Inc. a publié un communiqué et une présentation pour une conférence d'investisseurs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/918541/000091854126000093/nnbr-20260922.htm",
+    "date": "2026-09-22 17:29"
+  },
+  {
+    "company": "FortuneX Acquisition Corp",
+    "cik": "2121703",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010318/fortunexacq_8k.htm",
+    "date": "2026-09-22 17:27"
+  },
+  {
+    "company": "Silvia, Inc.",
+    "cik": "2076163",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8-K sans informations détaillées",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226043753/ex3-1.htm",
+    "date": "2026-09-22 17:26"
+  },
+  {
     "company": "HALOZYME THERAPEUTICS, INC.",
     "cik": "1159036",
     "form": "8-K",
@@ -2387,45 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000058/nuveen-20260821.htm",
     "date": "2026-08-21 11:46"
-  },
-  {
-    "company": "Steele Creek Capital Corp",
-    "cik": "1817825",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le conseil d'administration a déclaré un dividende de 0,1287 $ par action.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.1287"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1817825/000121390026092451/ea0303020-8k_steele.htm",
-    "date": "2026-08-21 11:37"
-  },
-  {
-    "company": "MGE ENERGY INC",
-    "cik": "1161728",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "MGE Energy annonce une hausse de son dividende trimestriel à 0,5083 $ par action.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.5083 per share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1161728/000119312526360327/mgee-20260821.htm",
-    "date": "2026-08-21 11:33"
-  },
-  {
-    "company": "CROSS TIMBERS ROYALTY TRUST",
-    "cik": "881787",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526360273/crt-ex99_1.htm",
-    "date": "2026-08-21 10:58"
   }
 ]
