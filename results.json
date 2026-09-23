@@ -1,5 +1,41 @@
 [
   {
+    "company": "Holley Inc.",
+    "cik": "1822928",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Holley a prépayé volontairement 10 M$ de son prêt à terme.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1822928/000182292826000080/hlly-20260922.htm",
+    "date": "2026-09-23 08:43"
+  },
+  {
+    "company": "PAYCHEX INC",
+    "cik": "723531",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la publication des résultats financiers du trimestre",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/723531/000072353126000004/payx-20260923.htm",
+    "date": "2026-09-23 08:41"
+  },
+  {
+    "company": "Nauticus Robotics, Inc.",
+    "cik": "1849820",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un fractionnement inverse de ses actions.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000142/certificateofamendmentre.htm",
+    "date": "2026-09-23 08:36"
+  },
+  {
     "company": "NN INC",
     "cik": "918541",
     "form": "8-K",
@@ -2387,41 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/62362/000119312526360671/marps-ex99_1.htm",
     "date": "2026-08-21 13:32"
-  },
-  {
-    "company": "NexPoint Capital, Inc.",
-    "cik": "1588272",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le NAV par action a été fixé à 4,67 $.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1588272/000119312526360561/d438452d8k.htm",
-    "date": "2026-08-21 12:56"
-  },
-  {
-    "company": "SOLESENCE, INC.",
-    "cik": "883107",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "La société a découvert des erreurs comptables dans ses stocks et doit reconstituer ses états financiers.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/883107/000117184326005702/f8k_082126.htm",
-    "date": "2026-08-21 12:30"
-  },
-  {
-    "company": "Nuveen Global Cities REIT, Inc.",
-    "cik": "1711799",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1711799/000171179926000058/nuveen-20260821.htm",
-    "date": "2026-08-21 11:46"
   }
 ]
