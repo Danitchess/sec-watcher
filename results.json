@@ -1,5 +1,41 @@
 [
   {
+    "company": "Trinseo PLC",
+    "cik": "1519061",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 45,
+    "resume": "Le conseil d'administration a dû ajourner les assemblées faute de quorum",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1519061/000110465926109915/tse-20260923x8k.htm",
+    "date": "2026-09-23 13:30"
+  },
+  {
+    "company": "Hyundai Auto Receivables Trust 2026-C",
+    "cik": "2151096",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a conclu plusieurs accords pour l’émission de titres adossés à des créances automobiles.",
+    "activite": "Gestion d’un portefeuille de créances liées à la vente de véhicules neufs et d’occasion, camions légers et fourgonnettes.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926109902/tm2624221d13_8k.htm",
+    "date": "2026-09-23 13:06"
+  },
+  {
+    "company": "HYUNDAI ABS FUNDING LLC",
+    "cik": "1260125",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Hyundai ABS Funding, LLC a conclu plusieurs accords pour la cession de créances automobiles et l'émission de titres.",
+    "activite": "Transfert de contrats de vente à tempérament de véhicules automobiles (voitures neuves, d'occasion, camions légers, minivans).",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1260125/000110465926109902/tm2624221d13_8k.htm",
+    "date": "2026-09-23 13:06"
+  },
+  {
     "company": "Holley Inc.",
     "cik": "1822928",
     "form": "8-K",
@@ -2387,41 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/319655/000119312526360880/august_2026_8-k.htm",
     "date": "2026-08-21 14:47"
-  },
-  {
-    "company": "Antares Private Credit Fund",
-    "cik": "1976336",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le fonds a signé des accords d'investissement et d'administration amendés",
-    "activite": "Fournit des services de conseil en investissement et d'administration de fonds",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1976336/000110465926099624/tm2623732d1_8k.htm",
-    "date": "2026-08-21 13:59"
-  },
-  {
-    "company": "PERMIAN BASIN ROYALTY TRUST",
-    "cik": "319654",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le trust a annoncé sa distribution de trésorerie mensuelle aux porteurs d'unités.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/319654/000119312526360716/2026-08_permian_basin_8-.htm",
-    "date": "2026-08-21 13:48"
-  },
-  {
-    "company": "MARINE PETROLEUM TRUST",
-    "cik": "62362",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":55,\"resume\":\"Marine Petroleum Trust annonce une distribution de trésorerie de 0,095378 $ par unité pour le troisième trimestre.\",\"activite\":\"Marine Petroleum Trust perçoi",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/62362/000119312526360671/marps-ex99_1.htm",
-    "date": "2026-08-21 13:32"
   }
 ]
