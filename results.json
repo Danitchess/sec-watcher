@@ -1,5 +1,41 @@
 [
   {
+    "company": "SUN COMMUNITIES INC",
+    "cik": "912593",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Sun Communities a finalisé la vente de sa filiale britannique, générant environ 1,03 milliard $ de produits nets.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/912593/000091259326000256/sui-20260922.htm",
+    "date": "2026-09-23 16:46"
+  },
+  {
+    "company": "Crestline Lending Solutions, LLC",
+    "cik": "2035713",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Crestline a signé un avenant augmentant le montant de son financement à 550 M$.",
+    "activite": "Crestline agit en tant que servicer de prêts.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026063238/cls-20260918.htm",
+    "date": "2026-09-23 16:45"
+  },
+  {
+    "company": "PRA GROUP INC",
+    "cik": "1185348",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le président de PRA Group Europe annonce sa retraite à la fin de l'année 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1185348/000118534826000030/praa-20260921.htm",
+    "date": "2026-09-23 16:45"
+  },
+  {
     "company": "Trinseo PLC",
     "cik": "1519061",
     "form": "8-K",
@@ -2387,41 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1559998/000149315226039645/ex16-1.htm",
     "date": "2026-08-21 15:19"
-  },
-  {
-    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-    "cik": "1979414",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de Nasim Shomali au comité d'audit du conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626009220/neonctechnologies_8ka.htm",
-    "date": "2026-08-21 14:58"
-  },
-  {
-    "company": "Woodward, Inc.",
-    "cik": "108312",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Woodward a conclu un accord d'achat de notes de 450 M$ en placement privé.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/108312/000119312526360911/wwd-20260819.htm",
-    "date": "2026-08-21 14:51"
-  },
-  {
-    "company": "SAN JUAN BASIN ROYALTY TRUST",
-    "cik": "319655",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "Le Trust annonce qu'aucune distribution de trésorerie ne sera versée en août en raison de coûts de production élevés et de prix du gaz bas.",
-    "activite": "Le Trust détient des intérêts de production de gaz naturel dans le bassin de San Juan.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/319655/000119312526360880/august_2026_8-k.htm",
-    "date": "2026-08-21 14:47"
   }
 ]
