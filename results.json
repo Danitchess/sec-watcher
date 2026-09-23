@@ -1,5 +1,41 @@
 [
   {
+    "company": "Tri-State Generation &amp; Transmission Association, Inc.",
+    "cik": "1637880",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur au conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1637880/000163788026000044/tris-20260922.htm",
+    "date": "2026-09-23 17:30"
+  },
+  {
+    "company": "HYCROFT MINING HOLDING CORP",
+    "cik": "1718405",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Aucun élément significatif identifié.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1718405/000149315226043969/ex99-2.htm",
+    "date": "2026-09-23 17:29"
+  },
+  {
+    "company": "NutriBand Inc.",
+    "cik": "1676047",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Les warrants de Nutriband expireront le 30 septembre 2026, sans impact sur l'action.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1676047/000121390026102721/ea0306424-8k_nutriband.htm",
+    "date": "2026-09-23 17:27"
+  },
+  {
     "company": "SUN COMMUNITIES INC",
     "cik": "912593",
     "form": "8-K",
@@ -2387,41 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/723188/000110465926099690/tm2623725d1_8k.htm",
     "date": "2026-08-21 16:15"
-  },
-  {
-    "company": "BUCKLE INC",
-    "cik": "885245",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le Buckle, Inc. a publié ses résultats financiers du trimestre se terminant le 1er août 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000033/bke-20260821.htm",
-    "date": "2026-08-21 15:39"
-  },
-  {
-    "company": "CONSUMER PORTFOLIO SERVICES, INC.",
-    "cik": "889609",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/889609/000168316826006650/cps_8k.htm",
-    "date": "2026-08-21 15:25"
-  },
-  {
-    "company": "Gaucho Group Holdings, Inc.",
-    "cik": "1559998",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Déclaration de lecture des déclarations de Gaucho Group Holdings dans le formulaire 8‑K.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1559998/000149315226039645/ex16-1.htm",
-    "date": "2026-08-21 15:19"
   }
 ]
