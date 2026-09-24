@@ -1,5 +1,29 @@
 [
   {
+    "company": "Newton Golf Company, Inc.",
+    "cik": "1934245",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'échange de bons de souscription contre actions restreintes",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315226044066/ex10-1.htm",
+    "date": "2026-09-24 07:45"
+  },
+  {
+    "company": "Brightline Interactive, Inc./NV",
+    "cik": "1854445",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'achat d'actions et de bons de souscription à 0,70 $ l'unité.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1854445/000149315226044067/ex10-1.htm",
+    "date": "2026-09-24 07:45"
+  },
+  {
     "company": "Tri-State Generation &amp; Transmission Association, Inc.",
     "cik": "1637880",
     "form": "8-K",
@@ -2399,29 +2423,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2046946/000162828026058433/asme-20260821.htm",
     "date": "2026-08-21 16:16"
-  },
-  {
-    "company": "Enova International, Inc.",
-    "cik": "1529864",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Enova International a émis 300,886,000 $",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526361123/enva-20260821.htm",
-    "date": "2026-08-21 16:16"
-  },
-  {
-    "company": "COMMUNITY FINANCIAL SYSTEM, INC.",
-    "cik": "723188",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Publication d'une présentation aux investisseurs sur le site de la société",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/723188/000110465926099690/tm2623725d1_8k.htm",
-    "date": "2026-08-21 16:15"
   }
 ]
