@@ -1,5 +1,29 @@
 [
   {
+    "company": "Ellington Financial Inc.",
+    "cik": "1411342",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ellington Financial publie la valeur comptable estimée de son action ordinaire au 31 août 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026063452/efc-20260924.htm",
+    "date": "2026-09-24 16:53"
+  },
+  {
+    "company": "Iridium Communications Inc.",
+    "cik": "1418819",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Les actionnaires ont approuvé les propositions de fusion lors de la réunion spéciale.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1418819/000095010326014464/dp253851_8k.htm",
+    "date": "2026-09-24 16:52"
+  },
+  {
     "company": "FIRST UNITED CORP/MD/",
     "cik": "763907",
     "form": "8-K",
@@ -2400,30 +2424,6 @@
     "activite": "",
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1519472/000164033426001407/solarmax_8k.htm",
-    "date": "2026-08-21 17:15"
-  },
-  {
-    "company": "MANGOCEUTICALS, INC.",
-    "cik": "1938046",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":45,\"resume\":\"MangoCeuticals et Nuclea ont mutuellement résilié leur accord de",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1938046/000149315226039724/ex10_1.htm",
-    "date": "2026-08-21 17:15"
-  },
-  {
-    "company": "Stardust Power Inc.",
-    "cik": "1831979",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226039723/form8-k.htm",
     "date": "2026-08-21 17:15"
   }
 ]
