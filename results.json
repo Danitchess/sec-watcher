@@ -1,5 +1,41 @@
 [
   {
+    "company": "PGIM Private Credit Fund",
+    "cik": "1923622",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Le fonds a augmenté son financement à 200 M$ via un amendement de son accord de prêt.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526401226/ck0001923622-20260918.htm",
+    "date": "2026-09-24 17:30"
+  },
+  {
+    "company": "GameSquare Holdings, Inc.",
+    "cik": "1714562",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Attribution de 52 313 RSU à un employé, avec vesting immédiat.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226044197/ex10-1.htm",
+    "date": "2026-09-24 17:28"
+  },
+  {
+    "company": "TALOS ENERGY INC.",
+    "cik": "1724965",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur au conseil d'administration",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526401182/talo-20260922.htm",
+    "date": "2026-09-24 17:27"
+  },
+  {
     "company": "Ellington Financial Inc.",
     "cik": "1411342",
     "form": "8-K",
@@ -2389,41 +2425,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/890394/000121390026092719/ea0303091-8k_peraso.htm",
     "date": "2026-08-21 17:30"
-  },
-  {
-    "company": "Vivos Therapeutics, Inc.",
-    "cik": "1716166",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 90,\n  \"resume\": \"Vivos Therapeutics ouvre un nouveau centre de dépistage et traitement du sommeil à Henderson, Nevada, doublant sa capacité de production.\",\n  \"a",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226039736/ex99-1.htm",
-    "date": "2026-08-21 17:30"
-  },
-  {
-    "company": "Flash Sports &amp; Media Holdings, Inc.",
-    "cik": "1706524",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 30,
-    "resume": "La société fait face à une suspension de ses actions Nasdaq et prévoit de demander une audience pour réintégrer la cote.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026092714/ea0303082-8k_flash.htm",
-    "date": "2026-08-21 17:28"
-  },
-  {
-    "company": "SolarMax Technology, Inc.",
-    "cik": "1519472",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "SolarMax a reçu plusieurs avis de non-conformité du Nasdaq et a effectué un fractionnement inverse.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1519472/000164033426001407/solarmax_8k.htm",
-    "date": "2026-08-21 17:15"
   }
 ]
