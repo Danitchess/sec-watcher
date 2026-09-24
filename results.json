@@ -1,5 +1,43 @@
 [
   {
+    "company": "FIRST UNITED CORP/MD/",
+    "cik": "763907",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Le conseil d'administration a déclaré un dividende en espèces de $.28 par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$.28"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/763907/000110465926110309/tm2626082d1_8k.htm",
+    "date": "2026-09-24 13:12"
+  },
+  {
+    "company": "WEYERHAEUSER CO",
+    "cik": "106535",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Weyerhaeuser publie des présentations d'ajustement de ses prévisions du troisième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526400727/wy-20260924.htm",
+    "date": "2026-09-24 12:38"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Chicago.",
+    "activite": "La banque obtient la majorité de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000178/fhlbc-20260921.htm",
+    "date": "2026-09-24 12:24"
+  },
+  {
     "company": "Newton Golf Company, Inc.",
     "cik": "1934245",
     "form": "8-K",
@@ -2387,41 +2425,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226039723/form8-k.htm",
     "date": "2026-08-21 17:15"
-  },
-  {
-    "company": "James River Group Holdings, Inc.",
-    "cik": "1620459",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1620459/000162045926000048/exhibit991.htm",
-    "date": "2026-08-21 16:45"
-  },
-  {
-    "company": "JAB Acquisition Corp I",
-    "cik": "2128739",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "JAB Acquisition Corp I a conclu un accord de règlement de marque et prévoit de changer son symbole boursier et son nom.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2128739/000121390026092644/ea0303040-8k_jabacq1.htm",
-    "date": "2026-08-21 16:44"
-  },
-  {
-    "company": "Ares Sports, Media &amp; Entertainment Opportunities LP",
-    "cik": "2046946",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2046946/000162828026058433/asme-20260821.htm",
-    "date": "2026-08-21 16:16"
   }
 ]
