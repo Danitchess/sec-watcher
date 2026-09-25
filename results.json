@@ -1,5 +1,41 @@
 [
   {
+    "company": "United States 12 Month Natural Gas Fund, LP",
+    "cik": "1405513",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une acquisition à cash de la société mère, avec clôture prévue en 2027.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1405513/000207187626000224/i26395_unl-8k.htm",
+    "date": "2026-09-25 17:30"
+  },
+  {
+    "company": "United States Commodity Index Funds Trust",
+    "cik": "1479247",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un accord d'acquisition de TMC, prévoyant la privatisation de USCF.",
+    "activite": "Sponsor des fonds d'indices de matières premières aux États-Unis, dont le United States Commodity Index Fund et le United States Copper Index Fund.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1479247/000207187626000223/i26396_uscift-8k.htm",
+    "date": "2026-09-25 17:29"
+  },
+  {
+    "company": "TIDEWATER INC",
+    "cik": "98222",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Tidewater a signé un accord de garantie pour les prêts de construction BNDES.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/98222/000110465926111052/tm2626128d2_8k.htm",
+    "date": "2026-09-25 17:29"
+  },
+  {
     "company": "FIRST MERCHANTS CORP",
     "cik": "712534",
     "form": "8-K",
@@ -2391,43 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000055/kdp-20260828.htm",
     "date": "2026-09-01 07:33"
-  },
-  {
-    "company": "Inflection Point Acquisition Corp. V",
-    "cik": "2028355",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Le SPAC Inflection Point Acquisition Corp. V a modifié son accord de combinaison avec GOWell, supprimant les restrictions de lock‑up et préparant l'approbation de la fusion.",
-    "activite": "Société d'acquisition (SPAC) visant à fusionner avec GOWell Technology Limited et ses filiales.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2028355/000121390026095807/ea0303966-8k425_inflection5.htm",
-    "date": "2026-08-31 17:29"
-  },
-  {
-    "company": "DIGI INTERNATIONAL INC",
-    "cik": "854775",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Digi International a conclu un accord de crédit revolving de 350 M$.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/854775/000110465926103966/tm2624262d1_8k.htm",
-    "date": "2026-08-31 17:26"
-  },
-  {
-    "company": "Brightwood Capital Corp I",
-    "cik": "1895316",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Le conseil a déclaré une distribution de 0,29 $ par action",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.29 per share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1895316/000110465926103741/tm2624380d1_8k.htm",
-    "date": "2026-08-31 13:00"
   }
 ]
