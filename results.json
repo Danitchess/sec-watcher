@@ -1,5 +1,43 @@
 [
   {
+    "company": "FIRST MERCHANTS CORP",
+    "cik": "712534",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "First Merchants Corp a émis 100 M$ de notes subordonnées à taux fixe‑flottant.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/712534/000119312526402604/d154643d8k.htm",
+    "date": "2026-09-25 14:10"
+  },
+  {
+    "company": "Silver Point Private Credit Fund",
+    "cik": "2033382",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a émis 902 356 parts pour 24,3 M$ et déclaré un dividende de 0,1575 $/part.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.1575 per Share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2033382/000119312526402550/d176851d8k.htm",
+    "date": "2026-09-25 13:33"
+  },
+  {
+    "company": "IEH Corp",
+    "cik": "50292",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "IEH obtient 3,6 M$ de nouvelles commandes pour des défibrillateurs, marquant son expansion vers le marché médical.",
+    "activite": "IEH conçoit, développe et fabrique des connecteurs de cartes de circuits imprimés et des interconnexions pour les secteurs de la défense, de l'aérospatiale, du médical et de l'industriel.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/50292/000117494726000897/ex99-1.htm",
+    "date": "2026-09-25 13:21"
+  },
+  {
     "company": "SIEBERT FINANCIAL CORP",
     "cik": "65596",
     "form": "8-K",
@@ -2391,41 +2429,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1895316/000110465926103741/tm2624380d1_8k.htm",
     "date": "2026-08-31 13:00"
-  },
-  {
-    "company": "Samos Energy Acquisition Corp",
-    "cik": "2125567",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la séparation des actions et des bons de souscription des unités émises.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2125567/000121390026095583/ea0303787-8k_samos.htm",
-    "date": "2026-08-31 12:39"
-  },
-  {
-    "company": "J.P. Morgan Real Estate Income Trust, Inc.",
-    "cik": "1893262",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"positif\",\"score\":80,\"resume\":\"J.P. Morgan Real Estate Income Trust a déclaré des distributions de 0,0438 $ par action le 31 août 2026.\",\"activite\":\"\",\"chiffres\":{\"revenu\":\"\",\"benefice\":\"",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1893262/000162828026059501/ck0001893262-20260831.htm",
-    "date": "2026-08-31 12:00"
-  },
-  {
-    "company": "STRUCTURED OBLIGATIONS CORP LONG TERM CERTS SER 2003-5",
-    "cik": "1269371",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Distribution d'intérêts aux porteurs de certificats du Trust.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1269371/000153949726002355/n5835_x5-8k.htm",
-    "date": "2026-08-25 14:06"
   }
 ]
