@@ -1,5 +1,41 @@
 [
   {
+    "company": "Silicon Valley Acquisition Corp.",
+    "cik": "2085659",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Silicon Valley Acquisition Corp. a signé un troisième amendement à son accord de combinaison avec EigenQ.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026103766/ea0306724-8k425_silicon.htm",
+    "date": "2026-09-28 08:31"
+  },
+  {
+    "company": "MongoDB, Inc.",
+    "cik": "1441816",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du départ du CEO et nomination d'un président‑directeur général intérimaire",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026063657/mdb-20260924.htm",
+    "date": "2026-09-28 08:30"
+  },
+  {
+    "company": "GRAPHIC PACKAGING HOLDING CO",
+    "cik": "1408075",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une réunion avec les investisseurs et référence à une présentation de gouvernance",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526403456/gpk-20260928.htm",
+    "date": "2026-09-28 08:30"
+  },
+  {
     "company": "United States 12 Month Natural Gas Fund, LP",
     "cik": "1405513",
     "form": "8-K",
@@ -2391,41 +2427,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/23194/000119312526377822/crk-20260901.htm",
     "date": "2026-09-01 11:04"
-  },
-  {
-    "company": "Fundrise eREIT, LLC",
-    "cik": "2093809",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"positif\",\"score\":75,\"resume\":\"Le gestionnaire a déclaré une distribution quotidienne de 0,0000684930 $ par action pour septembre 2026.\",\"activite\":\"\",\"chiffres\":{\"revenu\":\"\",\"benefice\":\"",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2093809/000209380926000029/freit-20260901.htm",
-    "date": "2026-09-01 10:56"
-  },
-  {
-    "company": "Iron Horse Acquisition II Corp.",
-    "cik": "2051985",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Iron Horse Acquisition II Corp. annonce une combinaison avec Electra Vehicles et le choix de Mooving pour l'analyse de batteries en Inde.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026095968/ea0304133-8k425_iron2.htm",
-    "date": "2026-09-01 07:51"
-  },
-  {
-    "company": "Keurig Dr Pepper Inc.",
-    "cik": "1418135",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000055/kdp-20260828.htm",
-    "date": "2026-09-01 07:33"
   }
 ]
