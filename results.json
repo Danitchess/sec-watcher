@@ -1,5 +1,34 @@
 [
   {
+    "company": "M&amp;T BANK CORP",
+    "cik": "36270",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt présente des informations financières historiques détaillées.",
+    "activite": "",
+    "chiffres": {
+      "revenu": "$2,620",
+      "benefice": "$818"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000054/ex991historicalfinancialin.htm",
+    "date": "2026-09-28 15:46"
+  },
+  {
+    "company": "Crestline Lending Solutions, LLC",
+    "cik": "2035713",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Distribution régulière de 10,71 M$ aux actionnaires",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$10,710,000.00"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026063700/cls-20260925.htm",
+    "date": "2026-09-28 14:53"
+  },
+  {
     "company": "Silicon Valley Acquisition Corp.",
     "cik": "2085659",
     "form": "8-K",
@@ -2403,29 +2432,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1538495/000149315226040990/ex99-1.htm",
     "date": "2026-09-01 14:42"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l’émission d’obligations consolidées et leurs caractéristiques.",
-    "activite": "La banque obtient la plupart de ses fonds en vendant des titres de dette sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000159/fhlba-20260827.htm",
-    "date": "2026-09-01 11:17"
-  },
-  {
-    "company": "COMSTOCK RESOURCES INC",
-    "cik": "23194",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/23194/000119312526377822/crk-20260901.htm",
-    "date": "2026-09-01 11:04"
   }
 ]
