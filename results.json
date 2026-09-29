@@ -1,5 +1,41 @@
 [
   {
+    "company": "FORD MOTOR CREDIT CO LLC",
+    "cik": "38009",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ford Motor Credit Company LLC émet des obligations d’un montant total de 750 M€.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/38009/000003800926000088/exhibits5and231september29.htm",
+    "date": "2026-09-29 08:08"
+  },
+  {
+    "company": "Keros Therapeutics, Inc.",
+    "cik": "1664710",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Keros Therapeutics annonce un paiement de jalon de 20 M$ de Takeda pour son programme elritercept.",
+    "activite": "Keros Therapeutics développe des thérapies biopharmaceutiques ciblant les protéines TGF‑β.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/exhibit99192926pr.htm",
+    "date": "2026-09-29 08:01"
+  },
+  {
+    "company": "FIRST UNITED CORP/MD/",
+    "cik": "763907",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de trois nouveaux administrateurs et description de leur rémunération.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/763907/000110465926111606/tm2626531d1_8k.htm",
+    "date": "2026-09-29 08:00"
+  },
+  {
     "company": "BRILLIANT N.E.V. CORP.",
     "cik": "1681769",
     "form": "8-K",
@@ -2396,41 +2432,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1560385/000156038526000024/lmca-20260831x8k.htm",
     "date": "2026-09-02 08:04"
-  },
-  {
-    "company": "BROWN FORMAN CORP",
-    "cik": "14693",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Brown-Forman a publié ses résultats du premier trimestre fiscal 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469326000048/bfb-20260902.htm",
-    "date": "2026-09-02 08:03"
-  },
-  {
-    "company": "BARFRESH FOOD GROUP INC.",
-    "cik": "1487197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de départs de dirigeants et nomination d’un nouveau contrôleur avec son salaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1487197/000149315226041065/form8-k.htm",
-    "date": "2026-09-01 17:30"
-  },
-  {
-    "company": "HWH International Inc.",
-    "cik": "1897245",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1897245/000149315226041064/ex99-1.htm",
-    "date": "2026-09-01 17:28"
   }
 ]
