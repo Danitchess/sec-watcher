@@ -1,5 +1,41 @@
 [
   {
+    "company": "BRILLIANT N.E.V. CORP.",
+    "cik": "1681769",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Changement d'auditeur indépendant sans indication de problème financier.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1681769/000152013826000399/bnev-20260928_8k.htm",
+    "date": "2026-09-28 17:30"
+  },
+  {
+    "company": "Glucotrack, Inc.",
+    "cik": "1506983",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement d'un bon de souscription d'actions pour se conformer aux exigences du Nasdaq",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226044657/ex4-1.htm",
+    "date": "2026-09-28 17:29"
+  },
+  {
+    "company": "Polar Power, Inc.",
+    "cik": "1622345",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Échange de notes en actions privilégiées et bons de souscription",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1622345/000149315226044656/ex10-1.htm",
+    "date": "2026-09-28 17:28"
+  },
+  {
     "company": "M&amp;T BANK CORP",
     "cik": "36270",
     "form": "8-K",
@@ -2396,41 +2432,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1897245/000149315226041064/ex99-1.htm",
     "date": "2026-09-01 17:28"
-  },
-  {
-    "company": "Hartford Creative Group, Inc.",
-    "cik": "1482554",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de nomination du CEO avec salaire annuel de 60 000 $",
-    "activite": "Agence de publicité sur les réseaux sociaux et production de mini‑dramas",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1482554/000149315226040994/ex10-1.htm",
-    "date": "2026-09-01 14:55"
-  },
-  {
-    "company": "FLEXIBLE SOLUTIONS INTERNATIONAL INC",
-    "cik": "1069394",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"positif\",\"score\":75,\"resume\":\"Nomination d'une nouvelle directrice et remerciements à un ancien dirigeant.\",\"activite\":\"Développe et fabrique des polymères biodégradables et des technolo",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1069394/000149315226040991/ex99-1.htm",
-    "date": "2026-09-01 14:42"
-  },
-  {
-    "company": "Earth Science Tech, Inc.",
-    "cik": "1538495",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\": 85,\n  \"resume\": \"Les actionnaires ont approuvé plusieurs résolutions, dont la stratégie d'up‑listing et la retraite d'actions privilégiées.\",\n  \"activite\": \"Hold",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1538495/000149315226040990/ex99-1.htm",
-    "date": "2026-09-01 14:42"
   }
 ]
