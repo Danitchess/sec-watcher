@@ -1,5 +1,43 @@
 [
   {
+    "company": "ONE Nuclear Energy Inc.",
+    "cik": "1846416",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de droits d'enregistrement lié à la combinaison d'affaires et à la domestication de ONE Nuclear Energy.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226044924/ex10-1.htm",
+    "date": "2026-09-29 17:30"
+  },
+  {
+    "company": "FF EAI Robotics Ecosystem Inc.",
+    "cik": "1460702",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt sans informations significatives.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226044923/ex3-1.htm",
+    "date": "2026-09-29 17:30"
+  },
+  {
+    "company": "TPG Twin Brook Capital Income Fund",
+    "cik": "1913724",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a déclaré des distributions de 0,20 $ par part et indique un actif net de 2,8 milliards de dollars.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.2000"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1913724/000191372426000034/agci-20260929.htm",
+    "date": "2026-09-29 17:29"
+  },
+  {
     "company": "Federal Home Loan Bank of New York",
     "cik": "1329842",
     "form": "8-K",
@@ -2396,41 +2434,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2065397/000110465926104713/tm2624605d1_8k.htm",
     "date": "2026-09-02 15:33"
-  },
-  {
-    "company": "IEH Corp",
-    "cik": "50292",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"positif\",\"score\":90,\"resume\":\"IEH Corp. annonce 6,5 M$ de nouvelles commandes, portant son carnet de commandes à plus de 45 M$.\",\"activite\":\"Conception et fabrication de connecteurs PCB ",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/50292/000117494726000837/ex99-1.htm",
-    "date": "2026-09-02 15:28"
-  },
-  {
-    "company": "BANK 2026-BNK52",
-    "cik": "2138709",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de mise en commun et de service pour les certificats de titres hypothécaires commerciaux 2026‑BNK52.",
-    "activite": "Gestion et service de prêts hypothécaires commerciaux dans le cadre d'un trust de titres adossés à des hypothèques.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2138709/000153949726002442/exh4_1-bnk52psa.htm",
-    "date": "2026-09-02 15:22"
-  },
-  {
-    "company": "TWINLAB CONSOLIDATED HOLDINGS, INC.",
-    "cik": "1590695",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Twinlab vend ses actifs de marques nutritionnelles dans le cadre d'une procédure d'insolvabilité.",
-    "activite": "fabrication et commercialisation de compléments nutritionnels et de marques de suppléments",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1590695/000175392626001687/g085921_8k.htm",
-    "date": "2026-09-02 11:02"
   }
 ]
