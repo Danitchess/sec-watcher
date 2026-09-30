@@ -1,5 +1,43 @@
 [
   {
+    "company": "Hancock Park Corporate Income, Inc.",
+    "cik": "1661306",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un dividende de 0,01 $ par action",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.01"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000094/ck0001661306-20260928.htm",
+    "date": "2026-09-30 10:00"
+  },
+  {
+    "company": "LEE ENTERPRISES, Inc",
+    "cik": "58361",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Nomination de Gregory Hoffmann au conseil d'administration et signature d'un accord de gestion avec Hoffmann Media Group.",
+    "activite": "Lee Enterprises gère des publications de journaux et des propriétés numériques.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/58361/000005836126000071/lee-20260924.htm",
+    "date": "2026-09-30 09:55"
+  },
+  {
+    "company": "Digimarc Corp",
+    "cik": "2119322",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Digimarc a levé environ 18,2 M$ via une offre directe de 4,5 M d'actions.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926031541/desp20260924_8k.htm",
+    "date": "2026-09-30 09:38"
+  },
+  {
     "company": "ONE Nuclear Energy Inc.",
     "cik": "1846416",
     "form": "8-K",
@@ -2398,41 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/34285/000149315226041269/ex10-1.htm",
     "date": "2026-09-02 17:30"
-  },
-  {
-    "company": "SENSIENT TECHNOLOGIES CORP",
-    "cik": "310142",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Sensient a augmenté le plafond de son programme de titrisation de créances à 115 M$ et prolongé sa durée.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/310142/000114036126035504/ef20081499_8k.htm",
-    "date": "2026-09-02 17:29"
-  },
-  {
-    "company": "BioRestorative Therapies, Inc.",
-    "cik": "1505497",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'un fractionnement d'actions inverse 1 pour 20",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1505497/000121390026096810/ea0304389-8k_biore.htm",
-    "date": "2026-09-02 17:29"
-  },
-  {
-    "company": "Antares Strategic Credit Fund II LLC",
-    "cik": "2065397",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Le fonds prolonge la renonciation aux frais de gestion et d'incitation.\",\"activite\":\"\",\"chiffres\":{\"",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2065397/000110465926104713/tm2624605d1_8k.htm",
-    "date": "2026-09-02 15:33"
   }
 ]
