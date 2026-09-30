@@ -1,5 +1,43 @@
 [
   {
+    "company": "STANDARD BIOTOOLS INC.",
+    "cik": "1162194",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Standard BioTools a conclu la vente de son activité de cytométrie de masse à Element Biosystems pour 5,5 M$.",
+    "activite": "Elle exploite une activité de cytométrie de masse.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_8k.htm",
+    "date": "2026-09-30 17:27"
+  },
+  {
+    "company": "Liquidia Corp",
+    "cik": "1819576",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Liquidia Corp. a publié un communiqué sur un litige concernant son produit YUTREPIA.",
+    "activite": "développe et commercialise le médicament inhalé YUTREPIA (treprostinil)",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926112420/tm2626740d1_8k.htm",
+    "date": "2026-09-30 17:27"
+  },
+  {
+    "company": "New Mountain Net Lease Trust",
+    "cik": "2033695",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration de distributions de dividendes aux actionnaires.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.1546"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2033695/000119312526409269/ck0002033695-20260930.htm",
+    "date": "2026-09-30 17:26"
+  },
+  {
     "company": "CITY HOLDING CO",
     "cik": "726854",
     "form": "8-K",
@@ -2402,41 +2440,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000162/cci-20260828.htm",
     "date": "2026-09-03 15:04"
-  },
-  {
-    "company": "Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36",
-    "cik": "2145539",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de mise en commun et de services pour le trust hypothécaire BMO 2026-C15.",
-    "activite": "Gestion et service de prêts hypothécaires commerciaux pour le trust BMO 2026-C15.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/exh4_1-c15psa.htm",
-    "date": "2026-09-03 13:23"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.\",\"activite\":\"La banque obtient la plupart de ses f",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000161/fhlbd-20260831.htm",
-    "date": "2026-09-03 13:08"
-  },
-  {
-    "company": "OLD DOMINION FREIGHT LINE, INC.",
-    "cik": "878927",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe d'une mise à jour des indicateurs opérationnels du troisième trimestre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000025/odfl-20260903.htm",
-    "date": "2026-09-03 09:37"
   }
 ]
