@@ -1,5 +1,43 @@
 [
   {
+    "company": "CITY HOLDING CO",
+    "cik": "726854",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de deux nouveaux administrateurs au conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000171/chco-20260930.htm",
+    "date": "2026-09-30 15:13"
+  },
+  {
+    "company": "Invesco Commercial Real Estate Finance Trust, Inc.",
+    "cik": "1976927",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La société a déclaré des distributions de 0,18 $ par action pour septembre 2026.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.1800"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1976927/000197692726000073/incref-20260930.htm",
+    "date": "2026-09-30 15:13"
+  },
+  {
+    "company": "WILLIS LEASE FINANCE CORP",
+    "cik": "1018164",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Correction d'une erreur dans le certificat de désignation d'actions privilégiées",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000082/exhibit991-certificateofco.htm",
+    "date": "2026-09-30 15:05"
+  },
+  {
     "company": "Hancock Park Corporate Income, Inc.",
     "cik": "1661306",
     "form": "8-K",
@@ -2400,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000025/odfl-20260903.htm",
     "date": "2026-09-03 09:37"
-  },
-  {
-    "company": "Federal Home Loan Bank of Pittsburgh",
-    "cik": "1330399",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Pittsburgh.",
-    "activite": "Elle obtient la plupart de ses fonds par la vente d'obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000111/ck0001330399-20260831.htm",
-    "date": "2026-09-03 09:34"
-  },
-  {
-    "company": "Plutonian Acquisition Corp. II",
-    "cik": "2065661",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'un accord de fusion entre Plutonian Acquisition Corp. II et NT1",
-    "activite": "Il s'agit d'une société d'acquisition à vocation spéciale cotée en bourse.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2065661/000147793226005397/pltn_8k.htm",
-    "date": "2026-09-03 09:29"
-  },
-  {
-    "company": "RELIABILITY INC",
-    "cik": "34285",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aucun élément significatif dans le texte fourni.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/34285/000149315226041269/ex10-1.htm",
-    "date": "2026-09-02 17:30"
   }
 ]
