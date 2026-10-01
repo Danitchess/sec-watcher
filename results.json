@@ -1,5 +1,41 @@
 [
   {
+    "company": "Forward Industries, Inc.",
+    "cik": "38264",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe d'une mise à jour de la stratégie de trésorerie SOL sans autre commentaire notable",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/38264/000168316826007543/forward_8k.htm",
+    "date": "2026-10-01 17:30"
+  },
+  {
+    "company": "Jasper Therapeutics, Inc.",
+    "cik": "1788028",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jasper Therapeutics a finalisé l'acquisition de Kira Pharmaceuticals et a présenté les états financiers associés.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026105924/ea0306860-8ka1_jasper.htm",
+    "date": "2026-10-01 17:29"
+  },
+  {
+    "company": "Curaleaf Holdings, Inc.",
+    "cik": "1756770",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Curaleaf annonce la publication de ses résultats financiers du troisième trimestre 2026.",
+    "activite": "Curaleaf est un fournisseur international de produits de consommation dans le cannabis.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1756770/000175677026000118/a2026-09x29xcuraleafxtox.htm",
+    "date": "2026-10-01 17:28"
+  },
+  {
     "company": "Federal Home Loan Bank of New York",
     "cik": "1329842",
     "form": "8-K",
@@ -2402,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1720474/000188852426016565/csc17x10_8k-08312026.htm",
     "date": "2026-09-04 09:36"
-  },
-  {
-    "company": "Nordicus Partners Corp",
-    "cik": "1011060",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Référence à un document annexe",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1011060/000149315226041470/ex10-1.htm",
-    "date": "2026-09-04 09:15"
-  },
-  {
-    "company": "FIRST FINANCIAL CORP /IN/",
-    "cik": "714562",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la participation de dirigeants à une conférence sur la technologie bancaire.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000062/thff-20260904x8k.htm",
-    "date": "2026-09-04 09:08"
-  },
-  {
-    "company": "Andretti Acquisition Corp. II",
-    "cik": "2025341",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Extension du délai de combinaison et mise en place d'accords de non‑rachat pour conserver des fonds en trust.",
-    "activite": "société d'acquisition visant à réaliser une combinaison d'affaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2025341/000121390026097296/ea0304637-8k_andretti2.htm",
-    "date": "2026-09-03 17:26"
   }
 ]
