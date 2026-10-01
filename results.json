@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
+    "activite": "La Federal Home Loan Bank of New York obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426008746/fhlbny_8k.htm",
+    "date": "2026-10-01 12:34"
+  },
+  {
+    "company": "Ford Credit Auto Owner Trust 2026-C",
+    "cik": "2152109",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a conclu des accords pour l’émission de titres adossés à des créances automobiles.",
+    "activite": "Émission de titres adossés à des créances automobiles",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2152109/000110465926112721/tm2625316d11_8k.htm",
+    "date": "2026-10-01 12:21"
+  },
+  {
+    "company": "FORD CREDIT AUTO RECEIVABLES TWO LLC",
+    "cik": "1129987",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la mise en place d’accords liés à l’émission de titres adossés à des créances automobiles.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1129987/000110465926112721/tm2625316d11_8k.htm",
+    "date": "2026-10-01 12:21"
+  },
+  {
     "company": "STANDARD BIOTOOLS INC.",
     "cik": "1162194",
     "form": "8-K",
@@ -2402,43 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2025341/000121390026097296/ea0304637-8k_andretti2.htm",
     "date": "2026-09-03 17:26"
-  },
-  {
-    "company": "RADIANT LOGISTICS, INC",
-    "cik": "1171155",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Radiant Logistics nomme un nouveau COO et annonce sa réunion annuelle 2026.\",\"activite\":\"\",\"chiffres\":{\"revenu\":\"\",\"benefice\":\"\",\"",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1171155/000119312526382100/rlgt-20260831.htm",
-    "date": "2026-09-03 17:20"
-  },
-  {
-    "company": "Pacific Oak Strategic Opportunity REIT, Inc.",
-    "cik": "1452936",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "Le dépôt montre des pertes importantes et une détérioration du résultat.",
-    "activite": "Gestion d'immeubles locatifs et d'hôtels",
-    "chiffres": {
-      "revenu": "51,614 $"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1452936/000145293626000044/bviq22026ex991.htm",
-    "date": "2026-09-03 15:17"
-  },
-  {
-    "company": "Cottonwood Communities, Inc.",
-    "cik": "1692951",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"Cottonwood",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000162/cci-20260828.htm",
-    "date": "2026-09-03 15:04"
   }
 ]
