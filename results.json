@@ -1,5 +1,41 @@
 [
   {
+    "company": "Outdoor Holding Co",
+    "cik": "1015383",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Plan de conversion de Outdoor Holding Company du Delaware au Texas",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226045615/ex2-1.htm",
+    "date": "2026-10-02 17:29"
+  },
+  {
+    "company": "ChronoScale Holdings Corp",
+    "cik": "1549084",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt sans informations significatives",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1549084/000149315226045612/ex3-1.htm",
+    "date": "2026-10-02 17:27"
+  },
+  {
+    "company": "RICHTECH ROBOTICS INC.",
+    "cik": "1963685",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt rapporte les résultats du vote de l'assemblée annuelle des actionnaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1963685/000121390026106552/ea0307478-8k_richtech.htm",
+    "date": "2026-10-02 17:25"
+  },
+  {
     "company": "MacKenzie Realty Capital, Inc.",
     "cik": "1550913",
     "form": "8-K",
@@ -2404,41 +2440,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126035809/ef20081442_8k.htm",
     "date": "2026-09-04 17:25"
-  },
-  {
-    "company": "Greenland Mines Ltd",
-    "cik": "1907223",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Greenland Mines a finalisé l’acquisition d’un projet minier en Groenland avec une NPV pré‑taxe de 2,05 milliards $.",
-    "activite": "Exploration et développement du projet minier de terres rares Sarfartoq au Groenland.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026097770/ea0304732-8k_greenland.htm",
-    "date": "2026-09-04 17:25"
-  },
-  {
-    "company": "VIP Play, Inc.",
-    "cik": "1832161",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "aucune information fournie",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1832161/000149315226041599/ex99-1.htm",
-    "date": "2026-09-04 17:23"
-  },
-  {
-    "company": "READING INTERNATIONAL INC",
-    "cik": "716634",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Reading International vend un bien immobilier cinématographique pour 41 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/716634/000071663426000032/rdi-20260831x8k.htm",
-    "date": "2026-09-04 15:11"
   }
 ]
