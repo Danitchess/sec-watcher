@@ -1,5 +1,41 @@
 [
   {
+    "company": "Paramount Skydance Corp",
+    "cik": "2041610",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du transfert de la cotation de Nasdaq à NYSE, changement de ticker et de nom, et distribution de bons de souscription.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113076/tm2626659d3_8k.htm",
+    "date": "2026-10-02 09:29"
+  },
+  {
+    "company": "Hepion Pharmaceuticals, Inc.",
+    "cik": "1583771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Modification du nombre d'actions autorisées de la société.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226045447/ex3-1.htm",
+    "date": "2026-10-02 09:25"
+  },
+  {
+    "company": "MERCER INTERNATIONAL INC.",
+    "cik": "1333274",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 65,
+    "resume": "Mercer International discute d’une recapitalisation pour réduire sa dette et a différé un paiement d’intérêt de 25,8 M$.",
+    "activite": "Elle exploite des activités de pâte à papier, de bois d’œuvre et de bois massif.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1333274/000119312526411343/d108140d8k.htm",
+    "date": "2026-10-02 09:24"
+  },
+  {
     "company": "Forward Industries, Inc.",
     "cik": "38264",
     "form": "8-K",
@@ -2402,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/751365/000162828026060659/exhibit991q207312026pressr.htm",
     "date": "2026-09-04 13:08"
-  },
-  {
-    "company": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
-    "cik": "1310488",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Émission de 4,5 M d'actions restreintes contre des services d'une valeur de 2,48 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1310488/000109181826000140/bfnh-09042026_8k.htm",
-    "date": "2026-09-04 12:51"
-  },
-  {
-    "company": "Rithm Perpetual Life Residential Trust",
-    "cik": "2081628",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2081628/000162828026060653/rhome-20260831.htm",
-    "date": "2026-09-04 12:44"
-  },
-  {
-    "company": "CSAIL 2017-CX10 Commercial Mortgage Trust",
-    "cik": "1720474",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\n  \"sentiment\": \"positif\",\n  \"score\":",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1720474/000188852426016565/csc17x10_8k-08312026.htm",
-    "date": "2026-09-04 09:36"
   }
 ]
