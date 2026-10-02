@@ -1,5 +1,43 @@
 [
   {
+    "company": "MacKenzie Realty Capital, Inc.",
+    "cik": "1550913",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La société informe les actionnaires de la suspension temporaire du programme de réinvestissement des dividendes et approuve les dividendes du trimestre.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000034/mkzr-20261002.htm",
+    "date": "2026-10-02 15:01"
+  },
+  {
+    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
+    "cik": "1919369",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une distribution de dividendes de 0,15 $ par action pour septembre 2026.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.15000 (Class I), $0.13654 (Class S)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526411977/ck0001919369-20260930.htm",
+    "date": "2026-10-02 15:01"
+  },
+  {
+    "company": "HINES GLOBAL INCOME TRUST, INC.",
+    "cik": "1585101",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Annonce de la transition de direction chez Hines Global Income Trust",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026064477/hgit-20260929.htm",
+    "date": "2026-10-02 14:49"
+  },
+  {
     "company": "Paramount Skydance Corp",
     "cik": "2041610",
     "form": "8-K",
@@ -2402,41 +2440,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/716634/000071663426000032/rdi-20260831x8k.htm",
     "date": "2026-09-04 15:11"
-  },
-  {
-    "company": "STANLEY BLACK &amp; DECKER, INC.",
-    "cik": "93556",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Stanley Black & Decker annonce la vente d'Excel Industries et d'actifs de la marque HUSTLER à Bad Boy Mowers.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/93556/000119312526383511/d493257d8k.htm",
-    "date": "2026-09-04 15:02"
-  },
-  {
-    "company": "Franklin BSP Real Estate Debt, Inc.",
-    "cik": "2035428",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\"sentiment\":\"neutre\",\"score\":50,\"resume\":\"La société a vendu 502 486,83 actions pour 12 442",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2035428/000203542826000056/fbred-20260901.htm",
-    "date": "2026-09-04 15:01"
-  },
-  {
-    "company": "VIRCO MFG CORPORATION",
-    "cik": "751365",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/751365/000162828026060659/exhibit991q207312026pressr.htm",
-    "date": "2026-09-04 13:08"
   }
 ]
