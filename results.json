@@ -1,5 +1,41 @@
 [
   {
+    "company": "WASTE ENERGY CORP.",
+    "cik": "1515139",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration de dépôt sans informations supplémentaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1515139/000149315226045786/ex3-1.htm",
+    "date": "2026-10-05 17:28"
+  },
+  {
+    "company": "Teads Holding Co.",
+    "cik": "1454938",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de crédit et de garantie détaillant les conditions de financement.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1454938/000145493826000070/ex101-spcxteadsxcreditan.htm",
+    "date": "2026-10-05 17:28"
+  },
+  {
+    "company": "Corteva, Inc.",
+    "cik": "1755672",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Corteva a finalisé la séparation de son segment semences en créant Vylor Inc.",
+    "activite": "opère dans le secteur des semences",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1755672/000119312526414490/ck0001755672-20260929.htm",
+    "date": "2026-10-05 17:27"
+  },
+  {
     "company": "Narragansett Bancorp, Inc.",
     "cik": "2138186",
     "form": "8-K",
@@ -2402,43 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000178/fhlbt-20260903.htm",
     "date": "2026-09-08 10:36"
-  },
-  {
-    "company": "SOUTHERN CO GAS",
-    "cik": "1004155",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Southern Company Gas a conclu une entente qui augmenterait les revenus de base de Nicor Gas de 82 M$",
-    "activite": "Distribution de gaz naturel",
-    "chiffres": {
-      "revenu": "$82 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1004155/000100415526000016/so-20260908.htm",
-    "date": "2026-09-08 10:16"
-  },
-  {
-    "company": "HORNBECK OFFSHORE SERVICES, INC.",
-    "cik": "866829",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Hornbeck Offshore Services annonce l'amendement de son 8‑K pour fournir les informations financières pro forma liées à la combinaison d'affaires.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/866829/000119312526384311/d50831d8ka.htm",
-    "date": "2026-09-08 06:21"
-  },
-  {
-    "company": "Kosmos Energy Ltd.",
-    "cik": "1509991",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Kosmos Energy annonce le rachat partiel de ses obligations senior de 25 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000051/kos-20260908.htm",
-    "date": "2026-09-08 06:16"
   }
 ]
