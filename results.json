@@ -1,5 +1,29 @@
 [
   {
+    "company": "Narragansett Bancorp, Inc.",
+    "cik": "2138186",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Offre de souscription sursouscrite pour la réorganisation de la holding bancaire.",
+    "activite": "Narragansett Bancorp est une société de portefeuille bancaire qui organise la réorganisation de BayCoast Bank et de Narragansett Financial Corporation.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2138186/000094337426000439/none-20261005.htm",
+    "date": "2026-10-05 09:40"
+  },
+  {
+    "company": "STERLING INFRASTRUCTURE, INC.",
+    "cik": "874238",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Sterling nomme Katherine Hargis à plusieurs postes de direction.",
+    "activite": "Sterling Infrastructure fournit des services d'infrastructure électrique, de transport et de construction aux États-Unis.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/874238/000087423826000110/a20260805ex991pressrelease.htm",
+    "date": "2026-10-05 09:35"
+  },
+  {
     "company": "Outdoor Holding Co",
     "cik": "1015383",
     "form": "8-K",
@@ -2416,29 +2440,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000051/kos-20260908.htm",
     "date": "2026-09-08 06:16"
-  },
-  {
-    "company": "BOSTON SCIENTIFIC CORP",
-    "cik": "885725",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 15,
-    "resume": "Boston Scientific signale un incident de cybersécurité qui perturbe sa production et risque de réduire ses ventes et bénéfices.",
-    "activite": "fabrication et distribution de dispositifs médicaux",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000059/bsx-20260907.htm",
-    "date": "2026-09-08 06:15"
-  },
-  {
-    "company": "PDS Biotechnology Corp",
-    "cik": "1472091",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Amendement d'un billet de 6 M$ modifiant les conditions de remboursement.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126035809/ef20081442_8k.htm",
-    "date": "2026-09-04 17:25"
   }
 ]
