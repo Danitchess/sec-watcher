@@ -1,5 +1,41 @@
 [
   {
+    "company": "STARZ ENTERTAINMENT CORP /CN/",
+    "cik": "929351",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'emploi d'un cadre exécutif avec salaire, bonus et attributions d'actions",
+    "activite": "Gestion de la stratégie technologique et des plateformes de streaming d'entreprise",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/929351/000092935126000043/ex101jasonwyrickexecutiv.htm",
+    "date": "2026-10-06 17:04"
+  },
+  {
+    "company": "Federal Home Loan Bank of San Francisco",
+    "cik": "1316944",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Un administrateur du conseil a démissionné, sans autre événement notable.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000167/fhlbsf-20261002.htm",
+    "date": "2026-10-06 17:01"
+  },
+  {
+    "company": "Lamb Weston Holdings, Inc.",
+    "cik": "1679273",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de résiliation du contrat de travail et du mandat de M. Schroeder chez Lamb Weston.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000053/exhibit101agreement.htm",
+    "date": "2026-10-06 17:01"
+  },
+  {
     "company": "Federal Home Loan Bank of Atlanta",
     "cik": "1331465",
     "form": "8-K",
@@ -2402,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/728387/000119312526385362/catx-20260908.htm",
     "date": "2026-09-08 17:16"
-  },
-  {
-    "company": "SUNation Energy, Inc.",
-    "cik": "22701",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 45,
-    "resume": "SUNation a amendé son accord de fusion avec Suniva, augmentant le nombre d'actions autorisées et le besoin de trésorerie net négatif.",
-    "activite": "SUNation développe des systèmes d'installation solaire et, avec Suniva, fabrique des cellules solaires.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026098107/ea030487602-8k425_sunation.htm",
-    "date": "2026-09-08 17:14"
-  },
-  {
-    "company": "UNITED THERAPEUTICS Corp",
-    "cik": "1082554",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "United Therapeutics a conclu un accord de rachat accéléré d'actions d'une valeur d'environ 477,6 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926105953/tm2624887d1_8k.htm",
-    "date": "2026-09-08 17:12"
-  },
-  {
-    "company": "DarkPulse, Inc.",
-    "cik": "866439",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le texte est neutre et informatif.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/866439/000168316826006998/darkpulse_8k.htm",
-    "date": "2026-09-08 14:12"
   }
 ]
