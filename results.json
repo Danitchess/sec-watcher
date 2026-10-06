@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Atlanta.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000179/fhlba-20260930.htm",
+    "date": "2026-10-06 12:00"
+  },
+  {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000179/fhlbd-20261001.htm",
+    "date": "2026-10-06 11:53"
+  },
+  {
+    "company": "Fortress Net Lease REIT",
+    "cik": "1966394",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "Fortress Net Lease REIT a émis près de 8,9 M d'actions, levant 94,8 M$ et a déclaré des distributions de 0,0743 $ par action.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1966394/000119312526415210/ck0001966394-20261001.htm",
+    "date": "2026-10-06 11:43"
+  },
+  {
     "company": "WASTE ENERGY CORP.",
     "cik": "1515139",
     "form": "8-K",
@@ -2402,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/866439/000168316826006998/darkpulse_8k.htm",
     "date": "2026-09-08 14:12"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.",
-    "activite": "La Federal Home Loan Bank of Dallas émet des obligations consolidées pour financer ses activités.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000163/fhlbd-20260902.htm",
-    "date": "2026-09-08 13:57"
-  },
-  {
-    "company": "Healthcare Triangle, Inc.",
-    "cik": "1839285",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'un accord de séparation et de spin‑off de la filiale Teyame.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1839285/000121390026097953/ea0304854-8k_healthcare.htm",
-    "date": "2026-09-08 13:56"
-  },
-  {
-    "company": "Federal Home Loan Bank of Topeka",
-    "cik": "1325878",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Topeka.",
-    "activite": "Elle obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000178/fhlbt-20260903.htm",
-    "date": "2026-09-08 10:36"
   }
 ]
