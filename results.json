@@ -1,5 +1,41 @@
 [
   {
+    "company": "CANADIAN DERIVATIVES CLEARING CORP",
+    "cik": "319643",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement pour corriger l'annexe 99.1 listant les intérêts sous-jacents des options.",
+    "activite": "Elle propose des options cotées à la Bourse de Montréal et offertes aux États‑Unis.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/319643/000109991026000272/cdcc_8ka.htm",
+    "date": "2026-10-07 09:47"
+  },
+  {
+    "company": "Cadrenal Therapeutics, Inc.",
+    "cik": "1937993",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "Cadrenal Therapeutics lance un processus stratégique pour explorer la vente ou le partenariat de ses actifs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1937993/000121390026107442/ea0307947-8k_cadrenal.htm",
+    "date": "2026-10-07 09:23"
+  },
+  {
+    "company": "Angel Oak Mortgage REIT, Inc.",
+    "cik": "1766478",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Adoption de nouveaux statuts modifiés par le conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000065/aomr-20261006.htm",
+    "date": "2026-10-07 09:15"
+  },
+  {
     "company": "Boxlight Corp",
     "cik": "1624512",
     "form": "8-K",
@@ -2400,41 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2082149/000121390026098215/ea0304929-8k_daedalus.htm",
     "date": "2026-09-09 07:37"
-  },
-  {
-    "company": "Pyxis Oncology, Inc.",
-    "cik": "1782223",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Pyxis Oncology présente des résultats prometteurs d'une étude de phase 1 du MICVO chez les patients atteints de cancers de la tête et du cou.",
-    "activite": "Développement d'un conjugué anticorps‑médicament (ADC) nommé MICVO pour le traitement du cancer de la tête et du cou.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526385901/pyxs-20260909.htm",
-    "date": "2026-09-09 07:34"
-  },
-  {
-    "company": "Sound Point Meridian Capital, Inc.",
-    "cik": "1930147",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt 8‑K indique une fourchette d’actif net par action entre 9,52 $ et 9,62 $.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1930147/000182912626009903/soundpointmeridian_8k.htm",
-    "date": "2026-09-08 17:29"
-  },
-  {
-    "company": "Vivos Therapeutics, Inc.",
-    "cik": "1716166",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Émission d'actions contre la remise de notes d'une valeur totale de 2,86 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226041807/form8-ka.htm",
-    "date": "2026-09-08 17:29"
   }
 ]
