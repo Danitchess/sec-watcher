@@ -1,5 +1,41 @@
 [
   {
+    "company": "GridAI Technologies Corp.",
+    "cik": "1604191",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La société a accordé un prêt total de 3,5 M$ à Pronghorn Resources.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1604191/000110465926114342/tm2627109d1_8k.htm",
+    "date": "2026-10-07 16:01"
+  },
+  {
+    "company": "North Haven Net REIT",
+    "cik": "1999784",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "North Haven Net REIT a vendu 2 835 825 actions pour environ 59,6 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000074/ck0001999784-20261001.htm",
+    "date": "2026-10-07 16:00"
+  },
+  {
+    "company": "Fatpipe Inc/UT",
+    "cik": "1993400",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de prêt de 4,5 M$ à Fatpipe Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1993400/000149315226046120/ex10-1.htm",
+    "date": "2026-10-07 15:30"
+  },
+  {
     "company": "CANADIAN DERIVATIVES CLEARING CORP",
     "cik": "319643",
     "form": "8-K",
@@ -2400,41 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312526386091/d157844d8k.htm",
     "date": "2026-09-09 11:15"
-  },
-  {
-    "company": "NEW YORK TIMES CO",
-    "cik": "71691",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du départ de la vice-présidente exécutive et directrice des ressources humaines.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/71691/000119312526386067/d118790d8k.htm",
-    "date": "2026-09-09 11:02"
-  },
-  {
-    "company": "Barinthus Biotherapeutics plc.",
-    "cik": "1828185",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Barinthus Biotherapeutics a été entièrement acquis par Topco et ses actions ont été retirées du Nasdaq.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1828185/000110465926106183/tm2625093d1_8k.htm",
-    "date": "2026-09-09 10:24"
-  },
-  {
-    "company": "Daedalus Special Acquisition Corp.",
-    "cik": "2082149",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Annonce d'une lettre d'intention pour une fusion avec HubX, société d'IA.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2082149/000121390026098215/ea0304929-8k_daedalus.htm",
-    "date": "2026-09-09 07:37"
   }
 ]
