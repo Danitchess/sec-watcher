@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of Dallas",
+    "cik": "1331757",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.",
+    "activite": "Banque fédérale de prêts hypothécaires qui finance ses activités principalement par la vente d'obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000181/fhlbd-20261005.htm",
+    "date": "2026-10-08 09:46"
+  },
+  {
+    "company": "MSC INCOME FUND, INC.",
+    "cik": "1535778",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K sans informations financières ni opérationnelles.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000096/msif-20261008.htm",
+    "date": "2026-10-08 09:35"
+  },
+  {
+    "company": "Main Street Capital CORP",
+    "cik": "1396440",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K sans informations financières ni commentaires, uniquement formalités.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000104/main-20261008.htm",
+    "date": "2026-10-08 09:30"
+  },
+  {
     "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
     "cik": "1035422",
     "form": "8-K",
@@ -2400,41 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000141/amt-20260909.htm",
     "date": "2026-09-09 17:29"
-  },
-  {
-    "company": "Stewards, Inc.",
-    "cik": "1795851",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Stewards annonce son passage au Nasdaq, marquant une étape clé de son évolution.",
-    "activite": "Stewards est une plateforme financière diversifiée couvrant le crédit privé, les actifs réels et l'infrastructure financière technologique.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000266/ex99_1.htm",
-    "date": "2026-09-09 17:28"
-  },
-  {
-    "company": "ENBRIDGE INC",
-    "cik": "895728",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Enbridge annonce une offre d'actions en « bought‑deal ».",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/895728/000110465926106404/tm2624881d5_8k.htm",
-    "date": "2026-09-09 17:26"
-  },
-  {
-    "company": "AMERICAS CARMART INC",
-    "cik": "799850",
-    "form": "8-K",
-    "sentiment": "inconnu",
-    "score": 50,
-    "resume": "{\n  \"sentiment\": \"negatif\",\n  \"score\": 10,\n  \"resume\": \"Les résultats du premier trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/799850/000117184326005948/exh_991.htm",
-    "date": "2026-09-09 14:53"
   }
 ]
