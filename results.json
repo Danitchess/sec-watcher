@@ -1,5 +1,41 @@
 [
   {
+    "company": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+    "cik": "1035422",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt signale simplement le changement d'auditeur sans autre information financière.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1035422/000147793226006099/ctth_8k.htm",
+    "date": "2026-10-07 17:30"
+  },
+  {
+    "company": "Scienture Holdings, Inc.",
+    "cik": "1382574",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La société annonce un fractionnement inverse de ses actions ordinaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1382574/000149315226046176/ex3-1.htm",
+    "date": "2026-10-07 17:29"
+  },
+  {
+    "company": "CNL Strategic Capital, LLC",
+    "cik": "1684682",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "CNL Strategic Capital a vendu sa participation de 7,8 % dans Resolution Economics pour 29,2 M$ de liquidités nettes.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126022381/scap-8k_100726.htm",
+    "date": "2026-10-07 17:27"
+  },
+  {
     "company": "GridAI Technologies Corp.",
     "cik": "1604191",
     "form": "8-K",
@@ -2400,41 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/799850/000117184326005948/exh_991.htm",
     "date": "2026-09-09 14:53"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
-    "activite": "La banque obtient la plupart de ses fonds par la vente d'obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000142/fhlbdm-20260902.htm",
-    "date": "2026-09-09 13:52"
-  },
-  {
-    "company": "Cottonwood Communities, Inc.",
-    "cik": "1692951",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 75,
-    "resume": "Cottonwood Communities a levé 2,616,000 $ via une offre privée d'actions privilégiées convertibles.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000171/cci-20260903.htm",
-    "date": "2026-09-09 12:10"
-  },
-  {
-    "company": "CME GROUP INC.",
-    "cik": "1156375",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de nouvelles nominations de direction financière et juridique",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312526386091/d157844d8k.htm",
-    "date": "2026-09-09 11:15"
   }
 ]
