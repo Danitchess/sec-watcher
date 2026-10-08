@@ -1,5 +1,29 @@
 [
   {
+    "company": "FORD CREDIT FLOORPLAN MASTER OWNER TRUST A",
+    "cik": "1159408",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a conclu un accord d'émission de titres adossés à des actifs.",
+    "activite": "Émission de titres adossés à des actifs (asset‑backed securities).",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926114683/tm2626710d23_8k.htm",
+    "date": "2026-10-08 15:31"
+  },
+  {
+    "company": "FORD CREDIT FLOORPLAN LLC",
+    "cik": "1061198",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt annonce l'émission d'obligations adossées à des actifs et la signature d'un accord de souscription.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1061198/000110465926114683/tm2626710d23_8k.htm",
+    "date": "2026-10-08 15:31"
+  },
+  {
     "company": "Federal Home Loan Bank of Dallas",
     "cik": "1331757",
     "form": "8-K",
@@ -2412,29 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/ex10-1.htm",
     "date": "2026-09-10 08:32"
-  },
-  {
-    "company": "Ramaco Resources, Inc.",
-    "cik": "1687187",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le sénateur Joseph Manchin a démissionné du conseil d'administration de Ramaco Resources le 4 septembre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1687187/000121390026098589/ea0305007-8k_ramaco.htm",
-    "date": "2026-09-10 08:30"
-  },
-  {
-    "company": "AMERICAN TOWER CORP /MA/",
-    "cik": "1053507",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "American Tower a annoncé le prix de son offre publique de notes senior d'un total de 1,6 milliard de dollars.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000141/amt-20260909.htm",
-    "date": "2026-09-09 17:29"
   }
 ]
