@@ -1,5 +1,29 @@
 [
   {
+    "company": "CITIZENS, INC.",
+    "cik": "24090",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Citizens, Inc. signe un accord SaaS avec Bestow pour moderniser la distribution de ses produits d’assurance décès.",
+    "activite": "Émet des assurances vie « Final Expense » et gère leur distribution via des agents.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/24090/000002409026000045/cia-20261005.htm",
+    "date": "2026-10-09 14:02"
+  },
+  {
+    "company": "Lunai Bioworks Inc.",
+    "cik": "1527728",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "Lunai Bioworks demande la suspension de ses actions suite à des soupçons de manipulation et à un litige en cours.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527728/000173112226001333/e8001_8k.htm",
+    "date": "2026-10-09 14:00"
+  },
+  {
     "company": "IT TECH PACKAGING, INC.",
     "cik": "1358190",
     "form": "8-K",
@@ -2414,29 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1619096/000109181826000143/ex9901.htm",
     "date": "2026-09-10 14:56"
-  },
-  {
-    "company": "Three Lions Acquisition Corp.",
-    "cik": "2128462",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "L'entreprise a levé 100,5 M$ lors de son IPO et d'un placement privé.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2128462/000119312526387717/d173457d8k.htm",
-    "date": "2026-09-10 14:50"
-  },
-  {
-    "company": "HAWTHORN BANCSHARES, INC.",
-    "cik": "893847",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du décès d'un administrateur de Hawthorn Bancshares.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000093/hwbk-20260910.htm",
-    "date": "2026-09-10 14:49"
   }
 ]
