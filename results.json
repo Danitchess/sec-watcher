@@ -1,5 +1,29 @@
 [
   {
+    "company": "Trinity Capital Inc.",
+    "cik": "1786108",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Trinity Capital annonce la publication prochaine de ses états financiers du troisième trimestre 2026.",
+    "activite": "Gestion d'un portefeuille d'actifs",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1786108/000119312526418097/trin-20261008.htm",
+    "date": "2026-10-08 17:30"
+  },
+  {
+    "company": "Bain Capital Private Credit",
+    "cik": "1899017",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "Bain Capital Private Credit a émis 350 M$ de notes à 7,6 % pour financer ses activités.",
+    "activite": "Gestion d’un portefeuille de prêts à taux variable et investissements dans des sociétés.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1899017/000119312526418095/ck0001899017-20261008.htm",
+    "date": "2026-10-08 17:29"
+  },
+  {
     "company": "FORD CREDIT FLOORPLAN MASTER OWNER TRUST A",
     "cik": "1159408",
     "form": "8-K",
@@ -2412,29 +2436,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000168/fhlbc-20260908.htm",
     "date": "2026-09-10 11:45"
-  },
-  {
-    "company": "EQUITY LIFESTYLE PROPERTIES INC",
-    "cik": "895417",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Présentation aux investisseurs contenant des déclarations prospectives",
-    "activite": "Propriétaire intégré de propriétés de style de vie, principalement des résidences de villégiature et marinas aux États‑Unis",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/895417/000162828026061232/els-20260910.htm",
-    "date": "2026-09-10 08:32"
-  },
-  {
-    "company": "SKYX Platforms Corp.",
-    "cik": "1598981",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Emission d’une note de 8,5 M$ pour financer la fusion avec Deako.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/ex10-1.htm",
-    "date": "2026-09-10 08:32"
   }
 ]
