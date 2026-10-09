@@ -1,5 +1,29 @@
 [
   {
+    "company": "AUTOZONE INC",
+    "cik": "866787",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du départ de Claire R. McDonough du conseil d'administration d'AutoZone.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000117184326006565/f8k_100926.htm",
+    "date": "2026-10-09 17:30"
+  },
+  {
+    "company": "Gentherm Inc",
+    "cik": "903129",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 60,
+    "resume": "Gentherm finalise la fusion avec Modine et fournit les informations financières pro forma.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526419232/d186467d8ka.htm",
+    "date": "2026-10-09 17:29"
+  },
+  {
     "company": "CITIZENS, INC.",
     "cik": "24090",
     "form": "8-K",
@@ -2414,29 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026098880/ea0301513501ex5-1.htm",
     "date": "2026-09-10 17:28"
-  },
-  {
-    "company": "Z Squared Inc.",
-    "cik": "1759186",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Adoption de nouveaux statuts modifiant le quorum des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526003919/zsqr8k091026.htm",
-    "date": "2026-09-10 17:27"
-  },
-  {
-    "company": "Summit Networks Inc.",
-    "cik": "1619096",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lettre de démission de Ross Miller.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1619096/000109181826000143/ex9901.htm",
-    "date": "2026-09-10 14:56"
   }
 ]
