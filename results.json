@@ -1,5 +1,43 @@
 [
   {
+    "company": "IT TECH PACKAGING, INC.",
+    "cik": "1358190",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "L'entreprise a reçu une extension pour se conformer aux exigences de cotation après des retards de dépôt.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1358190/000121390026108255/ea0308205-8k_ittech.htm",
+    "date": "2026-10-09 09:30"
+  },
+  {
+    "company": "FULLER H B CO",
+    "cik": "39368",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "H.B. Fuller a fixé le prix d’une émission de 850 M$ de notes senior pour financer l’acquisition d’Advanced Medical Solutions.",
+    "activite": "H.B. Fuller fabrique des adhésifs, revêtements et mastics pour divers marchés.",
+    "chiffres": {
+      "revenu": "$3.5 billion"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/39368/000143774926032400/ex_1024176.htm",
+    "date": "2026-10-09 09:21"
+  },
+  {
+    "company": "MARZETTI CO",
+    "cik": "57515",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du départ de la présidente de la division Retail de la société",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/57515/000005751526000023/mzti-20261005.htm",
+    "date": "2026-10-09 09:12"
+  },
+  {
     "company": "Trinity Capital Inc.",
     "cik": "1786108",
     "form": "8-K",
@@ -2400,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000093/hwbk-20260910.htm",
     "date": "2026-09-10 14:49"
-  },
-  {
-    "company": "Federal Home Loan Bank of San Francisco",
-    "cik": "1316944",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l’émission d’une obligation consolidée de 10 M$ avec un coupon de 4,75 %.",
-    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000150/fhlbsf-20260908.htm",
-    "date": "2026-09-10 12:12"
-  },
-  {
-    "company": "Central Plains Bancshares, Inc.",
-    "cik": "1979332",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le conseil a approuvé un nouveau programme de rachat d'actions.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1979332/000119312526387526/cpbi-20260909.htm",
-    "date": "2026-09-10 11:46"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
-    "activite": "Le Federal Home Loan Bank of Chicago obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000168/fhlbc-20260908.htm",
-    "date": "2026-09-10 11:45"
   }
 ]
