@@ -1,5 +1,29 @@
 [
   {
+    "company": "Sadot Group Inc.",
+    "cik": "1701756",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 35,
+    "resume": "Sadot Group a mis fin à son joint‑venture avec VisionWave et recevra 500 000 actions VisionWave en compensation.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001341/e8005_8-k.htm",
+    "date": "2026-10-13 17:30"
+  },
+  {
+    "company": "VisionWave Holdings, Inc.",
+    "cik": "2038439",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "VisionWave a résilié son accord de coentreprise avec Sadot suite à des difficultés de reporting financier.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001340/e8004_8-k.htm",
+    "date": "2026-10-13 17:29"
+  },
+  {
     "company": "Merck &amp; Co., Inc.",
     "cik": "310158",
     "form": "8-K",
@@ -2414,29 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/910606/000119312526388861/reg-20260911.htm",
     "date": "2026-09-11 11:43"
-  },
-  {
-    "company": "Rent the Runway, Inc.",
-    "cik": "1468327",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Rent the Runway a conclu un accord de soutien pour une offre de droits de 15 M$ afin de renforcer sa situation financière.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326013810/dp253178_8k.htm",
-    "date": "2026-09-11 08:10"
-  },
-  {
-    "company": "Global Net Lease, Inc.",
-    "cik": "1526113",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de l'amendement du formulaire 8‑K concernant la fusion et les informations financières pro forma de Global Net Lease.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926106905/tm2624701d2_8ka.htm",
-    "date": "2026-09-11 08:09"
   }
 ]
