@@ -1,5 +1,41 @@
 [
   {
+    "company": "Merck &amp; Co., Inc.",
+    "cik": "310158",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 95,
+    "resume": "Nomination de Paul J. Diaz au conseil d'administration de Merck.",
+    "activite": "Merck est une société biopharmaceutique de recherche développant des médicaments et vaccins.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000237/exhibit9911.htm",
+    "date": "2026-10-13 12:36"
+  },
+  {
+    "company": "Bridgecrest Lending Auto Securitization Trust 2026-4",
+    "cik": "2151184",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a émis des notes adossées à des prêts automobiles et a déposé les avis juridiques requis.",
+    "activite": "Émission de titres adossés à des prêts automobiles",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115379/tm2626506d12_8k.htm",
+    "date": "2026-10-13 12:19"
+  },
+  {
+    "company": "Bridgecrest Auto Funding LLC",
+    "cik": "1974820",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration de l'émission de notes adossées à des prêts automobiles et des avis juridiques associés.",
+    "activite": "Émission de titres adossés à des prêts automobiles.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926115379/tm2626506d12_8k.htm",
+    "date": "2026-10-13 12:19"
+  },
+  {
     "company": "AUTOZONE INC",
     "cik": "866787",
     "form": "8-K",
@@ -2402,41 +2438,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926106905/tm2624701d2_8ka.htm",
     "date": "2026-09-11 08:09"
-  },
-  {
-    "company": "Jerash Holdings (US), Inc.",
-    "cik": "1696558",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit le vote des actionnaires lors de l'assemblée annuelle du 10 septembre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1696558/000121390026098980/ea0305218-8k_jerash.htm",
-    "date": "2026-09-11 08:05"
-  },
-  {
-    "company": "MEXCO ENERGY CORP",
-    "cik": "66418",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord d'option d'achat d'actions pour un employé",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/66418/000149315226042246/ex10-1.htm",
-    "date": "2026-09-10 17:28"
-  },
-  {
-    "company": "OS Therapies Inc",
-    "cik": "1795091",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Opinion juridique sur l'émission d'actions et de titres dérivés d'OS Therapies.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026098880/ea0301513501ex5-1.htm",
-    "date": "2026-09-10 17:28"
   }
 ]
