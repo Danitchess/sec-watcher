@@ -1,5 +1,34 @@
 [
   {
+    "company": "BANK OF AMERICA CORP /DE/",
+    "cik": "70858",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Bank of America affiche une hausse du revenu net et du bénéfice au troisième trimestre 2026.",
+    "activite": "",
+    "chiffres": {
+      "revenu": "$ 91,788",
+      "benefice": "$ 24,591",
+      "bpa": "3.23",
+      "dividende": "$ 0.88"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000481/bac-09302026ex993.htm",
+    "date": "2026-10-14 06:44"
+  },
+  {
+    "company": "Accenture plc",
+    "cik": "1467373",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de l'Investor Day d'Accenture le 14 octobre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000042/acn-20261014.htm",
+    "date": "2026-10-14 06:44"
+  },
+  {
     "company": "Sadot Group Inc.",
     "cik": "1701756",
     "form": "8-K",
@@ -2414,29 +2443,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000144/fhlbdm-20260908.htm",
     "date": "2026-09-11 12:30"
-  },
-  {
-    "company": "REGENCY CENTERS LP",
-    "cik": "1066247",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Regency Centers a mis à disposition une présentation actualisée pour les investisseurs.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1066247/000119312526388861/reg-20260911.htm",
-    "date": "2026-09-11 11:43"
-  },
-  {
-    "company": "REGENCY CENTERS CORP",
-    "cik": "910606",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Regency Centers a mis à disposition une présentation actualisée pour les investisseurs.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/910606/000119312526388861/reg-20260911.htm",
-    "date": "2026-09-11 11:43"
   }
 ]
