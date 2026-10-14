@@ -1,5 +1,41 @@
 [
   {
+    "company": "PARKS AMERICA, INC",
+    "cik": "1297937",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce du changement d'agent de transfert pour les actionnaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1297937/000149315226047006/ex99-1.htm",
+    "date": "2026-10-14 15:51"
+  },
+  {
+    "company": "Netcapital Inc.",
+    "cik": "1414767",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Netcapital a regagné la conformité du prix minimum de l'action sur le Nasdaq.",
+    "activite": "Netcapital Inc. est une fintech qui propose une plateforme technologique permettant aux entreprises privées de lever des capitaux en ligne et offre des opportunités d'investissement en capital privé aux investisseurs.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1414767/000149315226047004/ex99-1.htm",
+    "date": "2026-10-14 15:50"
+  },
+  {
+    "company": "High Roller Technologies, Inc.",
+    "cik": "1947210",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Exhibit 99.1 présenté sans détail supplémentaire.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626001935/ex991_1.htm",
+    "date": "2026-10-14 15:41"
+  },
+  {
     "company": "WINMARK CORP",
     "cik": "908315",
     "form": "8-K",
@@ -2407,43 +2443,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026099368/ea0305297-8k_flye.htm",
     "date": "2026-09-11 17:29"
-  },
-  {
-    "company": "SharonAI Holdings Inc.",
-    "cik": "2068385",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le texte détaille la modification du poste du dirigeant et le maintien de ses RSU retenues.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226042434/ex10-1.htm",
-    "date": "2026-09-11 17:28"
-  },
-  {
-    "company": "DeFi Development Corp.",
-    "cik": "1805526",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt ne contient aucune information financière ou opérationnelle notable",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000104/certifieddpdv-certificat.htm",
-    "date": "2026-09-11 17:27"
-  },
-  {
-    "company": "Caring Brands, Inc.",
-    "cik": "2020737",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Le dépôt montre une hausse du fonds propres suite à une levée de fonds PIPE.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$56,436"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226042368/ex99-1.htm",
-    "date": "2026-09-11 14:46"
   }
 ]
