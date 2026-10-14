@@ -1,5 +1,29 @@
 [
   {
+    "company": "Tron Inc.",
+    "cik": "1956744",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de vente d'actions entre Tron Inc. et Clear Street",
+    "activite": "Tron Inc. émet et vend des actions ordinaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1956744/000149315226047064/ex1-1.htm",
+    "date": "2026-10-14 17:28"
+  },
+  {
+    "company": "ENvue Medical, Inc.",
+    "cik": "1326706",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Envue Medical signe un accord de note garantie de 1 million de dollars.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1326706/000149315226047063/ex10-1.htm",
+    "date": "2026-10-14 17:28"
+  },
+  {
     "company": "PARKS AMERICA, INC",
     "cik": "1297937",
     "form": "8-K",
@@ -2419,29 +2443,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/834071/000095010326013869/dp253089_8k.htm",
     "date": "2026-09-14 06:42"
-  },
-  {
-    "company": "American Healthcare REIT, Inc.",
-    "cik": "1632970",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Déclaration de mise à disposition d’une présentation aux investisseurs.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1632970/000119312526389802/ahr-20260914.htm",
-    "date": "2026-09-14 06:35"
-  },
-  {
-    "company": "Fly-E Group, Inc.",
-    "cik": "1975940",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau PDG et d'un administrateur indépendant avec leurs rémunérations.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026099368/ea0305297-8k_flye.htm",
-    "date": "2026-09-11 17:29"
   }
 ]
