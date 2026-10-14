@@ -1,5 +1,43 @@
 [
   {
+    "company": "WINMARK CORP",
+    "cik": "908315",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Winmark annonce un dividende trimestriel de 1,02 $ et un dividende spécial de 4,00 $ ainsi que la mise en place de fonds publicitaires pour ses franchises.",
+    "activite": "gère un réseau de franchises des marques Once Upon A Child et Play It Again Sports",
+    "chiffres": {
+      "dividende": "$1.02 per share; $4.00 per share; $14.2 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/908315/000090831526000038/wina-20261013x8k.htm",
+    "date": "2026-10-14 11:39"
+  },
+  {
+    "company": "Alpha Star Acquisition Corp",
+    "cik": "1865111",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement prolongeant la période de liquidation du trust sans frais supplémentaires.",
+    "activite": "société d'acquisition visant à réaliser une combinaison d'affaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226046953/ex10-1.htm",
+    "date": "2026-10-14 11:31"
+  },
+  {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000163/fhlbdm-20261007.htm",
+    "date": "2026-10-14 11:29"
+  },
+  {
     "company": "BANK OF AMERICA CORP /DE/",
     "cik": "70858",
     "form": "8-K",
@@ -2407,41 +2445,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226042368/ex99-1.htm",
     "date": "2026-09-11 14:46"
-  },
-  {
-    "company": "Bubblr Inc.",
-    "cik": "1873722",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le CFO et plusieurs dirigeants ont démissionné, le receveur a signé le rapport.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1873722/000149315226042362/form8-k.htm",
-    "date": "2026-09-11 14:32"
-  },
-  {
-    "company": "Digital Brands Group, Inc.",
-    "cik": "1668010",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Digital Brands Group annonce un contrat de 165 M$ et explore une offre d’achat à 77,58 $ l’action.",
-    "activite": "Digital Brands Group exploite un portefeuille de marques de mode et de lifestyle, vendues via e‑commerce et distribution sélective.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226042355/ex99-1.htm",
-    "date": "2026-09-11 14:15"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit la création d’obligations consolidées sans indication de résultats financiers.",
-    "activite": "Banque fédérale de prêts hypothécaires qui obtient des fonds principalement par la vente d’obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000144/fhlbdm-20260908.htm",
-    "date": "2026-09-11 12:30"
   }
 ]
