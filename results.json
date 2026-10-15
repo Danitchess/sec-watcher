@@ -1,5 +1,41 @@
 [
   {
+    "company": "CATERPILLAR INC",
+    "cik": "18230",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la transition du président du groupe Resource Industries et nomination d'un nouveau dirigeant.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926116198/tm2627668d1_8k.htm",
+    "date": "2026-10-15 15:31"
+  },
+  {
+    "company": "Empery Digital Inc.",
+    "cik": "1829794",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt rapporte l'élection de nouveaux administrateurs lors de l'assemblée annuelle.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826007893/empery_8k.htm",
+    "date": "2026-10-15 15:17"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Boston.",
+    "activite": "La Federal Home Loan Bank of Boston collecte des fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000196/fhlbbost-20261009.htm",
+    "date": "2026-10-15 15:11"
+  },
+  {
     "company": "AMERICAN EXPRESS CO",
     "cik": "4962",
     "form": "8-K",
@@ -2409,41 +2445,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926030353/rekr20260911_8k.htm",
     "date": "2026-09-14 17:29"
-  },
-  {
-    "company": "House of Doge Inc.",
-    "cik": "1903595",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "House of Doge finalise sa fusion et détaille son rôle de partenaire commercial officiel de la Dogecoin Foundation",
-    "activite": "House of Doge agit comme bras corporatif officiel de la Dogecoin Foundation, développant des solutions de paiement, des produits financiers et la tokenisation d’actifs liés à Dogecoin",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1903595/000121390026099794/ea0305345-8ka1_house.htm",
-    "date": "2026-09-14 17:26"
-  },
-  {
-    "company": "Bowhead Specialty Holdings Inc.",
-    "cik": "2002473",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de Derek Walker au conseil d'administration de Bowhead Specialty Holdings.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2002473/000162828026061867/bow-20260912.htm",
-    "date": "2026-09-14 16:40"
-  },
-  {
-    "company": "Lument Finance Trust, Inc.",
-    "cik": "1547546",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Lument Finance Trust a réalisé un fractionnement d'actions inverse 1 pour 10.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926107523/tm2625090d1_8k.htm",
-    "date": "2026-09-14 16:40"
   }
 ]
