@@ -1,5 +1,41 @@
 [
   {
+    "company": "ManpowerGroup Inc.",
+    "cik": "871763",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration de résultats d'exploitation pour les périodes de trois et neuf mois se terminant le 30 septembre 2026",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/871763/000119312526422291/man-20261015.htm",
+    "date": "2026-10-15 07:41"
+  },
+  {
+    "company": "ALLSTATE CORP",
+    "cik": "899051",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Dépôt 8‑K d’Allstate annonçant la publication des pertes catastrophes estimées",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000150/all-20261015.htm",
+    "date": "2026-10-15 07:41"
+  },
+  {
+    "company": "ManpowerGroup Inc.",
+    "cik": "871763",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "ManpowerGroup annonce la nomination de Rebecca Frankiewicz comme nouvelle CEO et la transition de Jonas Prising au poste de président exécutif.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/871763/000119312526422283/d147845d8k.htm",
+    "date": "2026-10-15 07:33"
+  },
+  {
     "company": "Tron Inc.",
     "cik": "1956744",
     "form": "8-K",
@@ -2407,41 +2443,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026099576/ea0305408-8k_allarity.htm",
     "date": "2026-09-14 12:14"
-  },
-  {
-    "company": "NEWS CORP",
-    "cik": "1564708",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de programme de rachat d'actions d'une valeur maximale d'1 milliard USD",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000200/appendix3cclassa20260911.htm",
-    "date": "2026-09-14 12:09"
-  },
-  {
-    "company": "Brookfield Asset Management Ltd.",
-    "cik": "1937926",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Brookfield annonce son Investor Day 2026 et rappelle son rôle de leader mondial de l'investissement avec plus d'un trillion de dollars d'actifs.",
-    "activite": "Gestionnaire d'investissements mondiaux actif dans l'infrastructure, l'énergie, le private equity, l'immobilier et le crédit.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326006022/exh_991.htm",
-    "date": "2026-09-14 06:45"
-  },
-  {
-    "company": "TOYOTA MOTOR CREDIT CORP",
-    "cik": "834071",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Renouvellement du programme de titres de créance Euro de TMCC pour un an, avec un plafond de 60 milliards d’euros.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/834071/000095010326013869/dp253089_8k.htm",
-    "date": "2026-09-14 06:42"
   }
 ]
