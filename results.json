@@ -1,5 +1,43 @@
 [
   {
+    "company": "AMERICAN EXPRESS CO",
+    "cik": "4962",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Express fournit des statistiques de délinquance et de radiation de ses cartes consommateurs et petites entreprises aux États‑Unis.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000383/axp-20261015.htm",
+    "date": "2026-10-15 12:00"
+  },
+  {
+    "company": "Boumarang Inc.",
+    "cik": "2034161",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Le 8‑K annonce le remplacement de l’auditeur et signale des faiblesses de contrôle interne, avec un doute sur la continuité d’exploitation.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2034161/000109690626001549/boum-20261012_8k.htm",
+    "date": "2026-10-15 11:53"
+  },
+  {
+    "company": "GULF RESOURCES, INC.",
+    "cik": "885462",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Gulf Resources obtient l'approbation gouvernementale pour relancer deux usines de brome.",
+    "activite": "Fabricant de brome et de sel brut en Chine.",
+    "chiffres": {
+      "croissance": "plus de 20%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/885462/000149315226047183/ex99-1.htm",
+    "date": "2026-10-15 11:44"
+  },
+  {
     "company": "ManpowerGroup Inc.",
     "cik": "871763",
     "form": "8-K",
@@ -2407,41 +2445,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926107523/tm2625090d1_8k.htm",
     "date": "2026-09-14 16:40"
-  },
-  {
-    "company": "CitroTech Inc.",
-    "cik": "894556",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "CitroTech a signé un amendement à ses accords d'échange d'actions avec deux investisseurs.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/894556/000168316826007113/citro_8k.htm",
-    "date": "2026-09-14 16:39"
-  },
-  {
-    "company": "Crane Co",
-    "cik": "1944013",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Crane Co. annonce l'acquisition du business de pompes américain de Trillium Flow Technologies.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1944013/000162828026061780/cr-20260914.htm",
-    "date": "2026-09-14 12:14"
-  },
-  {
-    "company": "Allarity Therapeutics, Inc.",
-    "cik": "1860657",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Allarity Therapeutics annonce le dépôt d'un formulaire S‑1 pour l'introduction en bourse de Allarity Acquisition Corp.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026099576/ea0305408-8k_allarity.htm",
-    "date": "2026-09-14 12:14"
   }
 ]
