@@ -1,5 +1,35 @@
 [
   {
+    "company": "NORTHRIM BANCORP INC",
+    "cik": "1163370",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Northrim BanCorp a enregistré un bénéfice net de 14,4 M$ au troisième trimestre 2026, avec une hausse des dépôts et une marge d'intérêt nette supérieure à 5 %.",
+    "activite": "Banque régionale offrant des services de dépôts, prêts hypothécaires et financement spécialisé.",
+    "chiffres": {
+      "revenu": "$26,470",
+      "benefice": "$14.4 million",
+      "bpa": "$0.63",
+      "croissance": "21%",
+      "dividende": "$0.17"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000032/exhibit991q32026.htm",
+    "date": "2026-10-15 17:28"
+  },
+  {
+    "company": "River Financial Corp",
+    "cik": "1641601",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "River Financial Corp. a publié ses résultats du trimestre se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526423045/ck0001641601-20260414.htm",
+    "date": "2026-10-15 17:27"
+  },
+  {
     "company": "CATERPILLAR INC",
     "cik": "18230",
     "form": "8-K",
@@ -2421,29 +2451,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026061981/dream-20260914.htm",
     "date": "2026-09-15 09:26"
-  },
-  {
-    "company": "Stewards, Inc.",
-    "cik": "1795851",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le conseil d'administration a suspendu l'attribution prévue de 3 000 000 d'unités d'actions restreintes et a lancé un examen supplémentaire du plan d'incitation.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000275/swrd_8k091426.htm",
-    "date": "2026-09-14 17:29"
-  },
-  {
-    "company": "Rekor Systems, Inc.",
-    "cik": "1697851",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Réunion annuelle reportée faute de quorum",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926030353/rekr20260911_8k.htm",
-    "date": "2026-09-14 17:29"
   }
 ]
