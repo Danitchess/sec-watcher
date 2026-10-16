@@ -1,5 +1,29 @@
 [
   {
+    "company": "NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/",
+    "cik": "70502",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la mise à jour des programmes d’émission de titres",
+    "activite": "La société émet des titres de dette (Member Capital Securities, MTN, InterNotes, Retail Subordinated Notes) pour ses membres",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/70502/000110465926116660/tm2627273d8_8k.htm",
+    "date": "2026-10-16 17:30"
+  },
+  {
+    "company": "LQR House Inc.",
+    "cik": "1843165",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le PDG a démissionné, la société a versé 500 000 $ en indemnité et a nommé un nouveau dirigeant.",
+    "activite": "Gestion du site cwspirits.com",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026110367/ea0308914-8k_lqr.htm",
+    "date": "2026-10-16 17:30"
+  },
+  {
     "company": "FORD CREDIT FLOORPLAN MASTER OWNER TRUST A",
     "cik": "1159408",
     "form": "8-K",
@@ -2425,29 +2449,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2104391/000121390026100217/ea0305603-8k_catalyst.htm",
     "date": "2026-09-15 17:26"
-  },
-  {
-    "company": "VISTA GOLD CORP",
-    "cik": "783324",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt décrit un accord de service exécutif et l'attribution de 600 000 RSU à un nouveau directeur.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/783324/000110465926107956/tm2625475d1_8ka.htm",
-    "date": "2026-09-15 16:42"
-  },
-  {
-    "company": "Avidia Bancorp, Inc.",
-    "cik": "2058758",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Réunion annuelle avec élection des administrateurs et approbation de résolutions.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526392010/avbc-20260915.htm",
-    "date": "2026-09-15 16:40"
   }
 ]
