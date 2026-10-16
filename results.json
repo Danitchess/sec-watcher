@@ -1,5 +1,41 @@
 [
   {
+    "company": "FORD CREDIT FLOORPLAN MASTER OWNER TRUST A",
+    "cik": "1159408",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a émis des titres adossés à des actifs et a fourni les avis juridiques requis.",
+    "activite": "émission de titres adossés à des actifs (asset‑backed securities)",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926116551/tm2626710d25_8k.htm",
+    "date": "2026-10-16 14:21"
+  },
+  {
+    "company": "FORD CREDIT FLOORPLAN LLC",
+    "cik": "1061198",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de l’émission de titres adossés à des actifs et des avis juridiques associés.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1061198/000110465926116551/tm2626710d25_8k.htm",
+    "date": "2026-10-16 14:21"
+  },
+  {
+    "company": "Ford Credit Floorplan Corp",
+    "cik": "872471",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de l'émission de titres adossés à des actifs et des avis juridiques associés.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/872471/000110465926116551/tm2626710d25_8k.htm",
+    "date": "2026-10-16 14:21"
+  },
+  {
     "company": "Core University Living Real Estate Income Trust",
     "cik": "2119505",
     "form": "8-K",
@@ -2413,41 +2449,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526392010/avbc-20260915.htm",
     "date": "2026-09-15 16:40"
-  },
-  {
-    "company": "ONEOK INC /NEW/",
-    "cik": "1039684",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "ONEOK annonce un accord de distribution d'actions et le prix d'une offre de rachat de dette.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1039684/000119312526392003/d162704d8k.htm",
-    "date": "2026-09-15 16:37"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Atlanta.",
-    "activite": "Elle obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000165/fhlba-20260909.htm",
-    "date": "2026-09-15 13:46"
-  },
-  {
-    "company": "Jaguar Health, Inc.",
-    "cik": "1585608",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Jaguar Health a réalisé plusieurs échanges d'actions et notes, incluant l'émission de 557 377 actions contre un solde de note de 175 016,36 $.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526391682/d162139d8k.htm",
-    "date": "2026-09-15 13:44"
   }
 ]
