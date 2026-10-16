@@ -1,5 +1,29 @@
 [
   {
+    "company": "Core University Living Real Estate Income Trust",
+    "cik": "2119505",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Mise à jour du prix de transaction basé sur la valeur nette d'inventaire au 30 septembre 2026.",
+    "activite": "Investit dans des propriétés de logement étudiant.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2119505/000119312526423511/d162009d8k.htm",
+    "date": "2026-10-16 10:21"
+  },
+  {
+    "company": "KOSS CORP",
+    "cik": "56701",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Koss Corp a tenu son assemblée annuelle où les actionnaires ont élu les administrateurs et ratifié le cabinet comptable.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/56701/000005670126000041/koss-20261014x8k.htm",
+    "date": "2026-10-16 10:12"
+  },
+  {
     "company": "NORTHRIM BANCORP INC",
     "cik": "1163370",
     "form": "8-K",
@@ -2425,31 +2449,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526391682/d162139d8k.htm",
     "date": "2026-09-15 13:44"
-  },
-  {
-    "company": "HEALTHSTREAM INC",
-    "cik": "1095565",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord d'achat d'actions entre HealthStream, un actionnaire vendeur et un investisseur.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1095565/000143774926030399/ex_1016292.htm",
-    "date": "2026-09-15 09:27"
-  },
-  {
-    "company": "Dream Finders Homes, Inc.",
-    "cik": "1825088",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dream Finders Homes a levé 225 M$ en émettant des actions privilégiées B.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "12.00%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026061981/dream-20260914.htm",
-    "date": "2026-09-15 09:26"
   }
 ]
