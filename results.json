@@ -1,5 +1,43 @@
 [
   {
+    "company": "Zedge, Inc.",
+    "cik": "1667313",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jonathan Reich devient président et COO avec un nouveau contrat de rémunération.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1667313/000121390026110602/ea0308999-8k_zedge.htm",
+    "date": "2026-10-19 13:27"
+  },
+  {
+    "company": "FIVE STAR BANCORP",
+    "cik": "1275168",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Five Star Bancorp déclare un dividende en espèces de 0,25 $ par action.",
+    "activite": "Société holding bancaire exploitant la filiale Five Star Bank, qui possède dix agences en Californie.",
+    "chiffres": {
+      "dividende": "$0.25"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026066254/exhibit991-q32026dividenda.htm",
+    "date": "2026-10-19 13:07"
+  },
+  {
+    "company": "Elventix Technology Corp",
+    "cik": "2076765",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau administrateur au conseil d'administration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2076765/000207676526000017/elventix_8k.htm",
+    "date": "2026-10-19 11:39"
+  },
+  {
     "company": "CBIZ, Inc.",
     "cik": "944148",
     "form": "8-K",
@@ -2413,41 +2451,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000073/ballhausamendmentno2toem.htm",
     "date": "2026-09-16 08:05"
-  },
-  {
-    "company": "PEDEVCO CORP",
-    "cik": "1141197",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "PEDEVCO annonce l'acquisition d'acreages au Wyoming.",
-    "activite": "Acquisition de terrains (acreage) au Wyoming via une vente aux enchères du Bureau of Land Management.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426008401/ped_8k.htm",
-    "date": "2026-09-16 08:01"
-  },
-  {
-    "company": "MYRIAD GENETICS INC",
-    "cik": "899923",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Myriad Genetics nomme Vishal Sikri EVP Commercial et réaffirme ses prévisions financières 2026.",
-    "activite": "Myriad Genetics développe et propose des tests de diagnostic moléculaire et de médecine de précision.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/899923/000089992326000079/ex991pressreleasedatedsept.htm",
-    "date": "2026-09-16 08:00"
-  },
-  {
-    "company": "AEye, Inc.",
-    "cik": "1818644",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "AEye a conclu un accord de vente d'actions au comptant d'une valeur maximale de 50 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1818644/000094787126000868/ss6825285_8k.htm",
-    "date": "2026-09-15 17:29"
   }
 ]
