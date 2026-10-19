@@ -1,5 +1,29 @@
 [
   {
+    "company": "Chord Energy Corp",
+    "cik": "1486159",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la démission du PDG et de la nomination d'un nouveau dirigeant.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1486159/000148615926000037/chrd-20261016.htm",
+    "date": "2026-10-19 17:27"
+  },
+  {
+    "company": "Phunware, Inc.",
+    "cik": "1665300",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Phunware a publié une présentation aux investisseurs et annoncera une participation à un événement.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1665300/000119312526425396/phun-20261019.htm",
+    "date": "2026-10-19 17:27"
+  },
+  {
     "company": "Zedge, Inc.",
     "cik": "1667313",
     "form": "8-K",
@@ -2424,32 +2448,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/27879/000002787926000003/exc-20260916.htm",
     "date": "2026-09-16 12:51"
-  },
-  {
-    "company": "Curaleaf Holdings, Inc.",
-    "cik": "1756770",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Curaleaf propose d’acquérir Aurora avec une prime de 45 % en soulignant ses revenus de plus d’1,5 milliard $.",
-    "activite": "Curaleaf est une société leader mondiale du cannabis, opérant la culture, la fabrication et la distribution de produits cannabis.",
-    "chiffres": {
-      "revenu": "US$1.5B+",
-      "benefice": "US$350M"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1756770/000175677026000111/curaleafbrochure_final.htm",
-    "date": "2026-09-16 12:29"
-  },
-  {
-    "company": "MERCURY SYSTEMS INC",
-    "cik": "1049521",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Amendement prolongeant le contrat d'emploi de William L. Ballhaus jusqu'en 2030.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000073/ballhausamendmentno2toem.htm",
-    "date": "2026-09-16 08:05"
   }
 ]
