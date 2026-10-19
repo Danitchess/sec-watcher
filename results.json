@@ -1,5 +1,29 @@
 [
   {
+    "company": "CBIZ, Inc.",
+    "cik": "944148",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt 8‑K annonce la publication des résultats financiers du troisième et du neuvième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/944148/000119312526424639/d866979d8k.htm",
+    "date": "2026-10-19 07:00"
+  },
+  {
+    "company": "Rekor Systems, Inc.",
+    "cik": "1697851",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "Rekor poursuit un ancien directeur pour mauvaise gestion financière et risque de défaut de paiement.",
+    "activite": "Rekor fournit des solutions d'intelligence artificielle pour l'intelligence routière, la gestion du transport et la sécurité publique.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926032880/ex_1027367.htm",
+    "date": "2026-10-19 07:00"
+  },
+  {
     "company": "NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/",
     "cik": "70502",
     "form": "8-K",
@@ -2425,29 +2449,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1818644/000094787126000868/ss6825285_8k.htm",
     "date": "2026-09-15 17:29"
-  },
-  {
-    "company": "Firy Inc.",
-    "cik": "1801661",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Nomination de Marc Lasry au conseil d'administration de FIRY Inc.",
-    "activite": "FIRY Inc. est une société holding mondiale active dans le contenu, l'identité, le commerce et le marketing de performance.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000099/firy_lasryxboardxpressxr.htm",
-    "date": "2026-09-15 17:27"
-  },
-  {
-    "company": "Catalyst Acquisition Corp.",
-    "cik": "2104391",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la séparation des unités en actions ordinaires et droits.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2104391/000121390026100217/ea0305603-8k_catalyst.htm",
-    "date": "2026-09-15 17:26"
   }
 ]
