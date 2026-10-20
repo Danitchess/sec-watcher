@@ -1,5 +1,47 @@
 [
   {
+    "company": "3M CO",
+    "cik": "66740",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "3M a publié ses résultats du troisième trimestre 2026 et mis à jour ses prévisions annuelles.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000308/mmm-20261020.htm",
+    "date": "2026-10-20 06:35"
+  },
+  {
+    "company": "Quoin Pharmaceuticals Ltd.",
+    "cik": "1671502",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Quoin Pharmaceuticals annonce des résultats cliniques prometteurs pour son traitement QRX003 contre le syndrome de Netherton.",
+    "activite": "Développe des thérapies topiques pour le syndrome de Netherton.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926117080/tm2627720d1_8k.htm",
+    "date": "2026-10-20 06:35"
+  },
+  {
+    "company": "HASBRO, INC.",
+    "cik": "46080",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Hasbro annonce une forte croissance du chiffre d'affaires et relève ses perspectives 2026",
+    "activite": "Entreprise de jeux, propriété intellectuelle et jouets",
+    "chiffres": {
+      "revenu": "$600 million",
+      "benefice": "$517 million",
+      "bpa": "$2.77 per diluted share",
+      "croissance": "15%",
+      "dividende": "$0.70 per common share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/46080/000004608026000058/exhibit991q32026.htm",
+    "date": "2026-10-20 06:32"
+  },
+  {
     "company": "Chord Energy Corp",
     "cik": "1486159",
     "form": "8-K",
@@ -2412,41 +2454,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526393097/d150341d8k.htm",
     "date": "2026-09-16 16:17"
-  },
-  {
-    "company": "NELNET INC",
-    "cik": "1258602",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Nomination de deux nouveaux administrateurs au conseil d'administration de Nelnet.",
-    "activite": "Nelnet propose des services de prêts aux consommateurs, de gestion de prêts, de paiements et de technologie, principalement dans le secteur de l'éducation.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1258602/000125860226000045/exhibit991pressrelease0916.htm",
-    "date": "2026-09-16 16:16"
-  },
-  {
-    "company": "K&amp;F GROWTH ACQUISITION CORP. II",
-    "cik": "2029976",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le SPAC a transféré son inscription du Nasdaq Global Market au Nasdaq Capital Market, résolvant ainsi le problème de conformité.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2029976/000121390026100525/ea0305697-8k_kfgrow2.htm",
-    "date": "2026-09-16 16:15"
-  },
-  {
-    "company": "DELMARVA POWER &amp; LIGHT CO /DE/",
-    "cik": "27879",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Delmarva Power & Light a émis 150 M$ d'obligations pour refinancer sa dette et financer ses activités.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/27879/000002787926000003/exc-20260916.htm",
-    "date": "2026-09-16 12:51"
   }
 ]
