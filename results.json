@@ -1,5 +1,43 @@
 [
   {
+    "company": "Monroe Capital Income Plus Corp",
+    "cik": "1742313",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Émission de 839 725 actions à 9,70 $ et distribution d’un dividende de 0,068 $ par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.068"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000062/mcip-20261020.htm",
+    "date": "2026-10-20 15:43"
+  },
+  {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Nomination d'un nouveau directeur commercial",
+    "activite": "Banque coopérative régionale soutenant le logement abordable, le développement économique et l'amélioration des communautés dans 13 États et 3 territoires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000162828026066476/exhibit991-newsreleaseissu.htm",
+    "date": "2026-10-20 15:39"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées avec plusieurs montants, dont un de 500 000 000 $.",
+    "activite": "Le Federal Home Loan Bank of Boston obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000198/fhlbbost-20261014.htm",
+    "date": "2026-10-20 15:38"
+  },
+  {
     "company": "CAPITAL CITY BANK GROUP INC",
     "cik": "726601",
     "form": "8-K",
@@ -2423,41 +2461,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1764046/000095010326014070/dp253474_8k.htm",
     "date": "2026-09-17 08:15"
-  },
-  {
-    "company": "LITTELFUSE INC /DE",
-    "cik": "889331",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Littelfuse a signé un amendement prévoyant le paiement d’une redevance unique de 24,6 M€ pour soutenir sa stratégie semi‑conducteurs.",
-    "activite": "fabrication de semi-conducteurs",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/889331/000088933126000014/lfus-20260915.htm",
-    "date": "2026-09-17 08:13"
-  },
-  {
-    "company": "HyOrc Corp",
-    "cik": "1070789",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Référence à un document annexe.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1070789/000149315226043048/ex10-1.htm",
-    "date": "2026-09-17 08:11"
-  },
-  {
-    "company": "Ernexa Therapeutics Inc.",
-    "cik": "748592",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aucun élément significatif identifié.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/748592/000149315226042963/ex99-1.htm",
-    "date": "2026-09-16 17:30"
   }
 ]
