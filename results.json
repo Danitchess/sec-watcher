@@ -1,5 +1,29 @@
 [
   {
+    "company": "Aspire-Lakewood Holdings, Inc.",
+    "cik": "1847345",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 60,
+    "resume": "Accord de services de gestion avec paiement de frais de clôture de 500 000 $ et frais annuels basés sur l'EBITDA.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1847345/000149315226047801/ex10-1.htm",
+    "date": "2026-10-20 17:31"
+  },
+  {
+    "company": "Dream Finders Homes, Inc.",
+    "cik": "1825088",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Dream Finders Homes a finalisé l'acquisition de Beazer Homes et levé plus d'un milliard de dollars de financement.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026066548/dream-20261020.htm",
+    "date": "2026-10-20 17:29"
+  },
+  {
     "company": "Monroe Capital Income Plus Corp",
     "cik": "1742313",
     "form": "8-K",
@@ -2437,29 +2461,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1260125/000110465926108509/tm2624221d9_8k.htm",
     "date": "2026-09-17 13:02"
-  },
-  {
-    "company": "Federal Home Loan Bank of Boston",
-    "cik": "1331463",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Boston.",
-    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000180/fhlbbost-20260914.htm",
-    "date": "2026-09-17 12:54"
-  },
-  {
-    "company": "CLARIVATE PLC",
-    "cik": "1764046",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Clarivate Plc annonce le lancement d'une offre publique de rachat de dette.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1764046/000095010326014070/dp253474_8k.htm",
-    "date": "2026-09-17 08:15"
   }
 ]
