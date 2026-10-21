@@ -1,5 +1,41 @@
 [
   {
+    "company": "Voyager Therapeutics, Inc.",
+    "cik": "1640266",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Voyager Therapeutics nomme Robin Swartz président et future CEO, avec un salaire annuel de 625 000 $.",
+    "activite": "Développe des thérapies géniques, dont le candidat VY1706 pour la maladie d'Alzheimer.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1640266/000119312526427224/d157795d8k.htm",
+    "date": "2026-10-21 08:07"
+  },
+  {
+    "company": "UNIFIRST CORP",
+    "cik": "717954",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "UniFirst publie ses résultats financiers du quatrième trimestre et de l'exercice 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/717954/000162828026066610/unf-20261021.htm",
+    "date": "2026-10-21 08:06"
+  },
+  {
+    "company": "UDR, Inc.",
+    "cik": "74208",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "UDR annonce la création d’une coentreprise avec Apollo pour un portefeuille d’appartements d’une valeur d’environ 2 milliards de dollars.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/74208/000007420826000081/udr-20261021x8k.htm",
+    "date": "2026-10-21 08:05"
+  },
+  {
     "company": "Aspire-Lakewood Holdings, Inc.",
     "cik": "1847345",
     "form": "8-K",
@@ -2423,43 +2459,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226043135/ex10-1.htm",
     "date": "2026-09-17 16:24"
-  },
-  {
-    "company": "INDEPENDENT BANK CORP",
-    "cik": "776901",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Annonce d'un dividende trimestriel de 0,64 $ par action.",
-    "activite": "Holding d'une banque commerciale offrant des services bancaires, d'investissement et d'assurance.",
-    "chiffres": {
-      "dividende": "$0.64"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/776901/000077690126000143/exhibit991-q32026commondiv.htm",
-    "date": "2026-09-17 16:23"
-  },
-  {
-    "company": "Hyundai Auto Receivables Trust 2026-C",
-    "cik": "2151096",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt 8‑K annonçant les pièces jointes liées à l’émission des notes du trust",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926108509/tm2624221d9_8k.htm",
-    "date": "2026-09-17 13:02"
-  },
-  {
-    "company": "HYUNDAI ABS FUNDING LLC",
-    "cik": "1260125",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt 8‑K annonçant la transmission des pièces justificatives liées à l’émission de titres du Hyundai Auto Receivables Trust 2026‑C.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1260125/000110465926108509/tm2624221d9_8k.htm",
-    "date": "2026-09-17 13:02"
   }
 ]
