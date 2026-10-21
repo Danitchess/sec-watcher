@@ -1,5 +1,41 @@
 [
   {
+    "company": "T1 Energy Inc.",
+    "cik": "1992243",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "T1 Energy a acquis des actifs de propriété intellectuelle pour 133,0 M$.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026111378/ea0309217-8k_t1energy.htm",
+    "date": "2026-10-21 16:46"
+  },
+  {
+    "company": "CACI INTERNATIONAL INC /DE/",
+    "cik": "16058",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "CACI International a publié ses résultats financiers du premier trimestre fiscal 2027.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/16058/000162828026066740/caci-20261021.htm",
+    "date": "2026-10-21 16:45"
+  },
+  {
+    "company": "GETTY REALTY CORP /MD/",
+    "cik": "1052752",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Getty Realty Corp. a publié son communiqué de résultats du trimestre se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1052752/000119312526427933/gty-20261021.htm",
+    "date": "2026-10-21 16:45"
+  },
+  {
     "company": "GROUP 1 AUTOMOTIVE INC",
     "cik": "1031203",
     "form": "8-K",
@@ -2423,41 +2459,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1635088/000163508826000095/roiv-20260916.htm",
     "date": "2026-09-18 07:14"
-  },
-  {
-    "company": "CAVA GROUP, INC.",
-    "cik": "1639438",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "CAVA Group approuve un programme de rachat d'actions de 100 M$.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1639438/000162828026062616/cava-20260917.htm",
-    "date": "2026-09-18 07:04"
-  },
-  {
-    "company": "DataMeds AI, Inc.",
-    "cik": "2030763",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 65,
-    "resume": "La société a réglé un litige en payant 450 000 $ et prévoit d’éliminer 19 M$ de dettes.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/form8-k.htm",
-    "date": "2026-09-17 17:23"
-  },
-  {
-    "company": "Aon plc",
-    "cik": "315293",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Aon plc a annoncé une émission de plusieurs séries de notes senior pour un total de 13,5 milliards de dollars.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526394533/d105587d8k.htm",
-    "date": "2026-09-17 17:21"
   }
 ]
