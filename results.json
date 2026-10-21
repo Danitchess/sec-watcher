@@ -1,5 +1,29 @@
 [
   {
+    "company": "GROUP 1 AUTOMOTIVE INC",
+    "cik": "1031203",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt présente le tableau des matières d'un accord d'achat‑vente.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000139/exhibit21-101926.htm",
+    "date": "2026-10-21 12:41"
+  },
+  {
+    "company": "FORTRESS CREDIT REALTY INCOME TRUST",
+    "cik": "2026738",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a publié sa valeur nette d'inventaire par action au 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526427588/ck0002026738-20261016.htm",
+    "date": "2026-10-21 12:26"
+  },
+  {
     "company": "Voyager Therapeutics, Inc.",
     "cik": "1640266",
     "form": "8-K",
@@ -2435,29 +2459,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526394533/d105587d8k.htm",
     "date": "2026-09-17 17:21"
-  },
-  {
-    "company": "Amesite Inc.",
-    "cik": "1807166",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la prochaine assemblée annuelle et des délais de soumission des propositions des actionnaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1807166/000121390026100973/ea0305897-8k_amesite.htm",
-    "date": "2026-09-17 16:25"
-  },
-  {
-    "company": "HEALTHY CHOICE WELLNESS CORP.",
-    "cik": "1948864",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de droits d'enregistrement lié à la fusion de Healthy Choice Wellness Corp.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226043135/ex10-1.htm",
-    "date": "2026-09-17 16:24"
   }
 ]
