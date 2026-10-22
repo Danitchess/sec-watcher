@@ -1,5 +1,46 @@
 [
   {
+    "company": "MAYS J W INC",
+    "cik": "54187",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la publication des résultats financiers du trimestre et de l'exercice clos le 31 juillet 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/54187/000120677426000575/mays4705731-8k.htm",
+    "date": "2026-10-22 09:37"
+  },
+  {
+    "company": "FIRST BANCORP /PR/",
+    "cik": "1057706",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "First BanCorp annonce un bénéfice net de 96,1 M$ au T3 2026, avec hausse du dividende et un programme de rachat d’actions.",
+    "activite": "Holding bancaire de FirstBank Puerto Rico, offrant des services bancaires et financiers.",
+    "chiffres": {
+      "benefice": "$96.1 million",
+      "bpa": "$0.63",
+      "croissance": "3.3%",
+      "dividende": "25% increase"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1057706/000105770626000028/exhibit991.htm",
+    "date": "2026-10-22 09:30"
+  },
+  {
+    "company": "POOL CORP",
+    "cik": "945841",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Pool Corporation a publié ses résultats du troisième trimestre et confirmé ses prévisions de bénéfices pour 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/945841/000119312526428428/pool-20261022.htm",
+    "date": "2026-10-22 09:26"
+  },
+  {
     "company": "Liberty Energy Inc.",
     "cik": "1694028",
     "form": "8-K",
@@ -2421,43 +2462,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526395344/2026-09_permrock_8-k.htm",
     "date": "2026-09-18 13:23"
-  },
-  {
-    "company": "AMEREN CORP",
-    "cik": "1002910",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ameren a vendu des Junior Subordinated Notes de 900 M$ et a reçu 891 M$ de produit net.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926108859/tm2625603d1_8k.htm",
-    "date": "2026-09-18 13:07"
-  },
-  {
-    "company": "CROSS TIMBERS ROYALTY TRUST",
-    "cik": "881787",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Déclaration d'une distribution en espèces de 0,064277 $ par unité.",
-    "activite": "Fiducie de royalties pétrolières et gazières",
-    "chiffres": {
-      "dividende": "$0.064277 per unit"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526395258/crt-ex99_1.htm",
-    "date": "2026-09-18 11:33"
-  },
-  {
-    "company": "Federal Home Loan Bank of New York",
-    "cik": "1329842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de l'élection de deux administrateurs membres pour le New Jersey",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426008445/fhlbny_8k.htm",
-    "date": "2026-09-18 10:50"
   }
 ]
