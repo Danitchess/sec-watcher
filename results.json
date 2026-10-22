@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt annonce la diffusion d'un communiqué de presse présentant les résultats financiers du trimestre clos le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009113/fhlbny_8k.htm",
+    "date": "2026-10-22 14:19"
+  },
+  {
+    "company": "XTI Aerospace, Inc.",
+    "cik": "1529113",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "XTI Aerospace publie ses résultats financiers préliminaires du trimestre se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1529113/000121390026111632/ea0309418-8k_xtiaero.htm",
+    "date": "2026-10-22 14:05"
+  },
+  {
+    "company": "American Fusion, Inc.",
+    "cik": "96664",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "American Fusion, Inc. annonce le changement de son cabinet d’audit, passant de JV CPA à MBP Global LLP.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/96664/000107997326001389/amfn_8k.htm",
+    "date": "2026-10-22 13:46"
+  },
+  {
     "company": "MAYS J W INC",
     "cik": "54187",
     "form": "8-K",
@@ -2424,43 +2460,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/915779/000162828026062772/dakt-20260916.htm",
     "date": "2026-09-18 17:20"
-  },
-  {
-    "company": "CLEANSPARK, INC.",
-    "cik": "827876",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "CleanSpark a annoncé le prix de son émission de billets senior de 2,276 milliards $ à 98,5 % du principal.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526395727/clsk-20260918.htm",
-    "date": "2026-09-18 17:18"
-  },
-  {
-    "company": "EXOZYMES INC.",
-    "cik": "2010788",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de la tenue de l'assemblée annuelle et de la distribution du proxy aux actionnaires.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2010788/000149315226043288/form8-k.htm",
-    "date": "2026-09-18 13:24"
-  },
-  {
-    "company": "PermRock Royalty Trust",
-    "cik": "1724009",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Le Trust a annoncé une distribution en espèces de 238 742,30 $ aux détenteurs d'unités.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$238,742.30 ($0.0196242 per Trust Unit)"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526395344/2026-09_permrock_8-k.htm",
-    "date": "2026-09-18 13:23"
   }
 ]
