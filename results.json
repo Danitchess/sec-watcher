@@ -1,5 +1,41 @@
 [
   {
+    "company": "Valor Energy Inc",
+    "cik": "1711012",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Valor Energy acquiert un centre informatique à Youngstown pour le transformer en data center IA",
+    "activite": "Valor Energy développe un centre de données dédié à l'intelligence artificielle et au calcul haute performance",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1711012/000121390026111763/ea0309444-8k_valor.htm",
+    "date": "2026-10-22 17:29"
+  },
+  {
+    "company": "Glucotrack, Inc.",
+    "cik": "1506983",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'achat de titres entre Glucotrack et des investisseurs",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226048139/ex10-1.htm",
+    "date": "2026-10-22 17:29"
+  },
+  {
+    "company": "PAVmed Inc.",
+    "cik": "1624326",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "PAVmed a conclu une offre de 15 000 actions préférentielles, levant 15 M$.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1624326/000149315226048138/form8-k.htm",
+    "date": "2026-10-22 17:28"
+  },
+  {
     "company": "Federal Home Loan Bank of New York",
     "cik": "1329842",
     "form": "8-K",
@@ -2422,43 +2458,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1509991/000150999126000053/kos-20260918.htm",
     "date": "2026-09-21 06:32"
-  },
-  {
-    "company": "VisionWave Holdings, Inc.",
-    "cik": "2038439",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "VisionWave a signé un accord de vente d'actions au comptant d'une valeur maximale de 30 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001264/e7954_8k.htm",
-    "date": "2026-09-18 17:30"
-  },
-  {
-    "company": "RIVERNORTH OPPORTUNITIES FUND, INC.",
-    "cik": "1501072",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Le fonds a levé 75 M$ via l’émission de 3 M d’actions privilégiées pour refinancer sa dette et investir.",
-    "activite": "Gestion d'un fonds d'investissement et réalisation d'investissements de portefeuille.",
-    "chiffres": {
-      "dividende": "$1.619 per share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1501072/000139834426017220/fp0100919-1_8kixbrl.htm",
-    "date": "2026-09-18 17:29"
-  },
-  {
-    "company": "DAKTRONICS INC /SD/",
-    "cik": "915779",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le conseil a approuvé une hausse de salaire et une attribution d'actions RSU pour le directeur financier intérimaire.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/915779/000162828026062772/dakt-20260916.htm",
-    "date": "2026-09-18 17:20"
   }
 ]
