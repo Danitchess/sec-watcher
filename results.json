@@ -1,5 +1,33 @@
 [
   {
+    "company": "Golub Capital Private Income Fund S",
+    "cik": "2082557",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a déclaré une distribution nette de 0,1493 $ par action et détient 181 sociétés d'une valeur de 243 M$",
+    "activite": "Gestion d'un fonds d'investissement privé spécialisé dans le financement de sociétés",
+    "chiffres": {
+      "dividende": "$0.1493"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2082557/000208255726000067/gpifs-20261023.htm",
+    "date": "2026-10-23 15:24"
+  },
+  {
+    "company": "Golub Capital Private Credit Fund",
+    "cik": "1930087",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "Le fonds a déclaré des distributions de 0,1875 $ par part et détient un portefeuille de 450 sociétés d'une valeur d'environ 9,249 milliards $.",
+    "activite": "Fonds d'investissement spécialisé dans le crédit privé, investissant principalement dans des dettes senior sécurisées.",
+    "chiffres": {
+      "dividende": "$0.1875"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000114/gcred-20261023.htm",
+    "date": "2026-10-23 15:23"
+  },
+  {
     "company": "AB Private Credit Investors Corp",
     "cik": "1634452",
     "form": "8-K",
@@ -2434,29 +2462,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000089/mlend-20260921.htm",
     "date": "2026-09-21 16:42"
-  },
-  {
-    "company": "TRAFALGAR INTERNATIONAL, INC.",
-    "cik": "1695473",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 75,
-    "resume": "Nomination d'un nouveau PDG pour soutenir la stratégie d'acquisition",
-    "activite": "Société d'acquisition et de développement d'entreprises dans les services financiers, la technologie et la propriété intellectuelle",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1695473/000149315226043580/form8-k.htm",
-    "date": "2026-09-21 16:41"
-  },
-  {
-    "company": "ENB Financial Corp",
-    "cik": "1437479",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du départ à la retraite du président‑directeur général et de la nomination de son successeur.",
-    "activite": "Société holding bancaire, propriétaire de The Ephrata National Bank",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000884/form8k-36361_enbf.htm",
-    "date": "2026-09-21 12:10"
   }
 ]
