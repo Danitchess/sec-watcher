@@ -1,5 +1,41 @@
 [
   {
+    "company": "AB Private Credit Investors Corp",
+    "cik": "1634452",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a lancé un appel de capitaux pour une offre de 16 690 524,39 $ d'actions.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1634452/000119312526429794/d151645d8k.htm",
+    "date": "2026-10-23 11:15"
+  },
+  {
+    "company": "Federal Home Loan Bank of Des Moines",
+    "cik": "1325814",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport annonce les résultats du troisième trimestre 2026 et le dividende approuvé.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000162828026066996/fhlbdm-20261023.htm",
+    "date": "2026-10-23 11:03"
+  },
+  {
+    "company": "NorthEast Community Bancorp, Inc./MD/",
+    "cik": "1847398",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt annonce la publication des résultats financiers du troisième et du neuvième mois se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926118368/tm2628181d1_8k.htm",
+    "date": "2026-10-23 10:59"
+  },
+  {
     "company": "AUTOLIV INC",
     "cik": "1034670",
     "form": "8-K",
@@ -2422,41 +2458,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1437479/000117494726000884/form8k-36361_enbf.htm",
     "date": "2026-09-21 12:10"
-  },
-  {
-    "company": "Dankon Corp",
-    "cik": "2065287",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur au conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2065287/000206528726000013/form8k.htm",
-    "date": "2026-09-21 12:09"
-  },
-  {
-    "company": "DEEP FISSION, INC.",
-    "cik": "1918102",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'une collaboration pour tester des méthodes de forage liées à son modèle de réacteur souterrain.",
-    "activite": "Développe des réacteurs souterrains et teste des méthodes de forage et de construction de puits.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926109201/tm2625786d1_8k.htm",
-    "date": "2026-09-21 11:26"
-  },
-  {
-    "company": "Clearwater Paper Corp",
-    "cik": "1441236",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Clearwater Paper a obtenu un crédit revolving de 200 M$ et un prêt à terme de 275 M$, a tiré 15 M$ et a payé 1,7 M$ d’intérêts.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1441236/000119312526396048/d112859d8k.htm",
-    "date": "2026-09-21 06:52"
   }
 ]
