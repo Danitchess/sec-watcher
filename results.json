@@ -1,5 +1,41 @@
 [
   {
+    "company": "Greenwave Technology Solutions, Inc.",
+    "cik": "1589149",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la date de l'assemblée annuelle 2026 et des modalités de dépôt des propositions d'actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1589149/000149315226048288/form8-k.htm",
+    "date": "2026-10-23 17:30"
+  },
+  {
+    "company": "Innventure, Inc.",
+    "cik": "2001557",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 15,
+    "resume": "L'entreprise a reçu un avis de non-conformité au critère de prix minimum du Nasdaq, risquant la radiation.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000198/innv-20261023.htm",
+    "date": "2026-10-23 17:30"
+  },
+  {
+    "company": "Andersons, Inc.",
+    "cik": "821026",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La société a annoncé la suppression du poste de directrice des ressources humaines.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/821026/000082102626000134/ande-20261021.htm",
+    "date": "2026-10-23 17:28"
+  },
+  {
     "company": "Golub Capital Private Income Fund S",
     "cik": "2082557",
     "form": "8-K",
@@ -2424,43 +2460,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926109499/cznc-20260918x8k.htm",
     "date": "2026-09-22 09:28"
-  },
-  {
-    "company": "GENERATION INCOME PROPERTIES, INC.",
-    "cik": "1651721",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 55,
-    "resume": "Le 8‑K rapporte plusieurs cessions de propriétés net‑lease et le rachat d’une entité, avec des flux de trésorerie positifs et une perte ponctuelle.",
-    "activite": "Société d'investissement immobilier spécialisée dans les propriétés à bail net",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1651721/000119312526396828/gipr-20260616.htm",
-    "date": "2026-09-21 17:20"
-  },
-  {
-    "company": "STORE CAPITAL LLC",
-    "cik": "1538990",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 75,
-    "resume": "Store Capital a émis 542 M$ de notes net‑lease pour financer le rachat de dettes et soutenir sa croissance.",
-    "activite": "Store Capital agit en tant que gestionnaire immobilier et servicer spécialisé des actifs garantissant les notes.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1538990/000119312526396826/d72160d8k.htm",
-    "date": "2026-09-21 17:19"
-  },
-  {
-    "company": "Monroe Capital Enhanced Corporate Lending Fund",
-    "cik": "2061670",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Le fonds a déclaré un dividende de 0,187 $ par action et affiche un actif net de 109,0 M$.",
-    "activite": "Investit principalement dans des prêts sécurisés senior et des participations en actions au sein de sociétés de divers secteurs.",
-    "chiffres": {
-      "dividende": "$0.187 per share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2061670/000206167026000089/mlend-20260921.htm",
-    "date": "2026-09-21 16:42"
   }
 ]
