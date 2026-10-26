@@ -1,5 +1,41 @@
 [
   {
+    "company": "Super League Enterprise, Inc.",
+    "cik": "1621672",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La société a acheté quatre bitcoins comme actif de trésorerie.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926033462/slgg20261025_8k.htm",
+    "date": "2026-10-26 08:00"
+  },
+  {
+    "company": "GameSquare Holdings, Inc.",
+    "cik": "1714562",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'indemnisation des administrateurs et dirigeants",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226048423/ex10-2.htm",
+    "date": "2026-10-26 08:00"
+  },
+  {
+    "company": "Adagio Medical Holdings, Inc.",
+    "cik": "2006986",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Les actionnaires ont approuvé un fractionnement d'actions inversé.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2006986/000110465926118615/tm2628260d1_8k.htm",
+    "date": "2026-10-26 08:00"
+  },
+  {
     "company": "Greenwave Technology Solutions, Inc.",
     "cik": "1589149",
     "form": "8-K",
@@ -2424,41 +2460,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/ex99-1.htm",
     "date": "2026-09-22 13:27"
-  },
-  {
-    "company": "VISTA CREDIT STRATEGIC LENDING CORP.",
-    "cik": "1919369",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de la vente d'actions et de la valeur nette d'inventaire de la société.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1919369/000119312526397597/ck0001919369-20260918.htm",
-    "date": "2026-09-22 13:21"
-  },
-  {
-    "company": "FDCTECH, INC.",
-    "cik": "1722731",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de service du directeur avec conditions de rémunération liées à l'inscription en bourse",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1722731/000149315226043666/ex10-1.htm",
-    "date": "2026-09-22 09:30"
-  },
-  {
-    "company": "CITIZENS &amp; NORTHERN CORP",
-    "cik": "810958",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt porte sur une modification des statuts concernant la fréquence des réunions du conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926109499/cznc-20260918x8k.htm",
-    "date": "2026-09-22 09:28"
   }
 ]
