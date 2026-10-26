@@ -1,5 +1,45 @@
 [
   {
+    "company": "CNL Strategic Capital, LLC",
+    "cik": "1684682",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126023523/cnl-8k_102326.htm",
+    "date": "2026-10-26 14:40"
+  },
+  {
+    "company": "New Mountain Private Credit Fund",
+    "cik": "2037804",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a vendu 32 790 parts pour environ 0,7 M$ et déclaré un dividende de $0.19 par part.",
+    "activite": "Le fonds investit dans des actifs de crédit privé.",
+    "chiffres": {
+      "dividende": "$0.19 per Share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2037804/000158064226007100/newmountain_8k.htm",
+    "date": "2026-10-26 14:36"
+  },
+  {
+    "company": "LANDMARK BANCORP INC",
+    "cik": "1141688",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Landmark Bancorp déclare un dividende en espèces de 0,21 $ par action et un dividende en actions de 5 %.",
+    "activite": "Banque communautaire offrant des services financiers et bancaires.",
+    "chiffres": {
+      "dividende": "$0.21 per share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1141688/000149315226048481/ex99-1.htm",
+    "date": "2026-10-26 14:11"
+  },
+  {
     "company": "Super League Enterprise, Inc.",
     "cik": "1621672",
     "form": "8-K",
@@ -2424,41 +2464,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1844964/000092963826003587/exhibit5-1.htm",
     "date": "2026-09-22 16:36"
-  },
-  {
-    "company": "Verizon ABS II LLC",
-    "cik": "1836995",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Morgan Lewis fournit un avis juridique sur l’émission de plusieurs séries de notes adossées à des actifs d’une valeur totale de près de 1 Mrd $.",
-    "activite": "Émission et vente de titres adossés à des actifs.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1836995/000092963826003587/exhibit5-1.htm",
-    "date": "2026-09-22 16:36"
-  },
-  {
-    "company": "CURTISS WRIGHT CORP",
-    "cik": "26324",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Nomination d'un nouveau PDG avec un salaire de 1,1 M$ et un bonus cible de 125 % de son salaire.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/26324/000162828026062997/cw-20260921.htm",
-    "date": "2026-09-22 13:41"
-  },
-  {
-    "company": "Metal Sky Star Acquisition Corp",
-    "cik": "1882464",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "La société ne pourra pas réaliser de combinaison et va liquider, les actionnaires recevront 16,41 $ par action.",
-    "activite": "Société d'acquisition (blank check) visant à réaliser une fusion, acquisition ou restructuration d'entreprises.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/ex99-1.htm",
-    "date": "2026-09-22 13:27"
   }
 ]
