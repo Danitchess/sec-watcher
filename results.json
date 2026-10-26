@@ -1,5 +1,31 @@
 [
   {
+    "company": "PERPETUA RESOURCES CORP.",
+    "cik": "1526243",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Perpetua Resources a annoncé un accord de financement avec l'armée américaine pour explorer le tungstène à Stibnite.",
+    "activite": "Exploration et évaluation de la production de concentré de tungstène dans le district minier historique de Stibnite.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1526243/000110465926118875/tm2628317d1_8k.htm",
+    "date": "2026-10-26 17:30"
+  },
+  {
+    "company": "North Haven Private Income Fund LLC",
+    "cik": "1851322",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a déclaré une distribution de 0,1185 $ par part et détaille son portefeuille de 291 sociétés.",
+    "activite": "Gestion d'un fonds d'investissement privé spécialisé dans des prêts sécurisés et des participations en actions.",
+    "chiffres": {
+      "dividende": "$0.1185 per unit"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1851322/000119312526432193/ck0001851322-20261023.htm",
+    "date": "2026-10-26 17:27"
+  },
+  {
     "company": "CNL Strategic Capital, LLC",
     "cik": "1684682",
     "form": "8-K",
@@ -2440,29 +2466,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226043753/ex3-1.htm",
     "date": "2026-09-22 17:26"
-  },
-  {
-    "company": "HALOZYME THERAPEUTICS, INC.",
-    "cik": "1159036",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Halozyme a émis 1,5 milliard $ de notes convertibles pour financer divers usages.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1159036/000119312526398015/d148460d8k.htm",
-    "date": "2026-09-22 16:41"
-  },
-  {
-    "company": "Verizon Master Trust",
-    "cik": "1844964",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Opinion juridique sur l'émission de notes adossées à des actifs d'une valeur totale d'environ 1 Md$.",
-    "activite": "Émission de notes adossées à des actifs par Verizon Master Trust.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1844964/000092963826003587/exhibit5-1.htm",
-    "date": "2026-09-22 16:36"
   }
 ]
