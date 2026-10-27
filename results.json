@@ -1,5 +1,38 @@
 [
   {
+    "company": "RUSH ENTERPRISES INC \\TX\\",
+    "cik": "1012019",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Résultats du 3e trimestre 2026 en hausse avec revenus de $2.113 billion et dividende de $0.14 par action.",
+    "activite": "Opère le plus grand réseau de concessionnaires de véhicules commerciaux en Amérique du Nord.",
+    "chiffres": {
+      "revenu": "$2.113 billion",
+      "benefice": "$78.0 million",
+      "bpa": "$0.65",
+      "croissance": "5.8%",
+      "dividende": "$0.14"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926033667/ex_1032727.htm",
+    "date": "2026-10-27 17:28"
+  },
+  {
+    "company": "AEI INCOME &amp; GROWTH FUND 25 LLC",
+    "cik": "1185198",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vente d'un bien immobilier générant un gain net de 1,126,000 $",
+    "activite": "Gestion d'investissements immobiliers",
+    "chiffres": {
+      "benefice": "$2,768,009",
+      "bpa": "$111.59"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1185198/000118519826000013/aei25-20261022.htm",
+    "date": "2026-10-27 17:26"
+  },
+  {
     "company": "TRAVELZOO",
     "cik": "1133311",
     "form": "8-K",
@@ -2448,29 +2481,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1519061/000110465926109915/tse-20260923x8k.htm",
     "date": "2026-09-23 13:30"
-  },
-  {
-    "company": "Hyundai Auto Receivables Trust 2026-C",
-    "cik": "2151096",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le trust a conclu plusieurs accords pour l’émission de titres adossés à des créances automobiles.",
-    "activite": "Gestion d’un portefeuille de créances liées à la vente de véhicules neufs et d’occasion, camions légers et fourgonnettes.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926109902/tm2624221d13_8k.htm",
-    "date": "2026-09-23 13:06"
-  },
-  {
-    "company": "HYUNDAI ABS FUNDING LLC",
-    "cik": "1260125",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Hyundai ABS Funding, LLC a conclu plusieurs accords pour la cession de créances automobiles et l'émission de titres.",
-    "activite": "Transfert de contrats de vente à tempérament de véhicules automobiles (voitures neuves, d'occasion, camions légers, minivans).",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1260125/000110465926109902/tm2624221d13_8k.htm",
-    "date": "2026-09-23 13:06"
   }
 ]
