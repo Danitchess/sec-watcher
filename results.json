@@ -1,5 +1,44 @@
 [
   {
+    "company": "TRAVELZOO",
+    "cik": "1133311",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 45,
+    "resume": "Travelzoo affiche un revenu de 22,9 M$ en hausse de 3 % mais enregistre une perte nette de 2 M$.",
+    "activite": "Travelzoo est un club d'adhérents proposant des offres de voyage et des services liés aux voyages.",
+    "chiffres": {
+      "revenu": "$22.9 million (+3%)",
+      "bpa": "$(0.20)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1133311/000113331126000019/ex-99109x30x20268xk.htm",
+    "date": "2026-10-27 14:43"
+  },
+  {
+    "company": "QNB CORP.",
+    "cik": "750558",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce des résultats financiers consolidés du troisième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/750558/000119312526433741/qnbc-20261027.htm",
+    "date": "2026-10-27 14:22"
+  },
+  {
+    "company": "Cottonwood Communities, Inc.",
+    "cik": "1692951",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Cottonwood Communities a levé 2,44 M$ grâce à la vente d'actions privilégiées convertibles.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1692951/000169295126000200/cci-20261021.htm",
+    "date": "2026-10-27 13:56"
+  },
+  {
     "company": "Federal Home Loan Bank of Pittsburgh",
     "cik": "1330399",
     "form": "8-K",
@@ -2433,41 +2472,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1260125/000110465926109902/tm2624221d13_8k.htm",
     "date": "2026-09-23 13:06"
-  },
-  {
-    "company": "Holley Inc.",
-    "cik": "1822928",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Holley a prépayé volontairement 10 M$ de son prêt à terme.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1822928/000182292826000080/hlly-20260922.htm",
-    "date": "2026-09-23 08:43"
-  },
-  {
-    "company": "PAYCHEX INC",
-    "cik": "723531",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de la publication des résultats financiers du trimestre",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/723531/000072353126000004/payx-20260923.htm",
-    "date": "2026-09-23 08:41"
-  },
-  {
-    "company": "Nauticus Robotics, Inc.",
-    "cik": "1849820",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'un fractionnement inverse de ses actions.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1849820/000184982026000142/certificateofamendmentre.htm",
-    "date": "2026-09-23 08:36"
   }
 ]
