@@ -1,5 +1,43 @@
 [
   {
+    "company": "Strategy Inc",
+    "cik": "1050446",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "La société a adopté des certificats modifiés permettant des dividendes quotidiens sur ses actions privilégiées.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526435451/mstr-20261028.htm",
+    "date": "2026-10-28 10:28"
+  },
+  {
+    "company": "Fidelity Core Real Estate Fund",
+    "cik": "1953520",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds annonce la modification de ses documents et la poursuite d’une offre privée d’actions.",
+    "activite": "Fidelity Core Real Estate Fund est un fonds de placement immobilier qui réalise une offre privée continue d’actions.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1953520/000119312526435413/ck0001953520-20261028.htm",
+    "date": "2026-10-28 10:15"
+  },
+  {
+    "company": "Capitol Federal Financial, Inc.",
+    "cik": "1490906",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce des résultats du quatrième trimestre 2026 et d'un dividende de 0,085 $ par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.085 per share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090626000036/cffn-20261027.htm",
+    "date": "2026-10-28 09:45"
+  },
+  {
     "company": "RUSH ENTERPRISES INC \\TX\\",
     "cik": "1012019",
     "form": "8-K",
@@ -2445,41 +2483,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/912593/000091259326000256/sui-20260922.htm",
     "date": "2026-09-23 16:46"
-  },
-  {
-    "company": "Crestline Lending Solutions, LLC",
-    "cik": "2035713",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Crestline a signé un avenant augmentant le montant de son financement à 550 M$.",
-    "activite": "Crestline agit en tant que servicer de prêts.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026063238/cls-20260918.htm",
-    "date": "2026-09-23 16:45"
-  },
-  {
-    "company": "PRA GROUP INC",
-    "cik": "1185348",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le président de PRA Group Europe annonce sa retraite à la fin de l'année 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1185348/000118534826000030/praa-20260921.htm",
-    "date": "2026-09-23 16:45"
-  },
-  {
-    "company": "Trinseo PLC",
-    "cik": "1519061",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 45,
-    "resume": "Le conseil d'administration a dû ajourner les assemblées faute de quorum",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1519061/000110465926109915/tse-20260923x8k.htm",
-    "date": "2026-09-23 13:30"
   }
 ]
