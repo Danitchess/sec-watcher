@@ -1,5 +1,43 @@
 [
   {
+    "company": "IPC Alternative Real Estate Income Trust, Inc.",
+    "cik": "1959961",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Distribution de dividendes aux actionnaires",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.0870"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1959961/000119312526437636/ck0001959961-20261029.htm",
+    "date": "2026-10-29 15:05"
+  },
+  {
+    "company": "Federal Home Loan Bank of Boston",
+    "cik": "1331463",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Boston.",
+    "activite": "La Federal Home Loan Bank of Boston obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000211/fhlbbost-20261026.htm",
+    "date": "2026-10-29 15:01"
+  },
+  {
+    "company": "VistaOne, L.P.",
+    "cik": "2044820",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "VistaOne a vendu des unités limitées pour environ 29,1 M$",
+    "activite": "Vente d'unités de partenariat limité dans le cadre d'une offre privée continue",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2044820/000119312526437602/ck0002044820-20261029.htm",
+    "date": "2026-10-29 14:49"
+  },
+  {
     "company": "Celularity Inc",
     "cik": "1752828",
     "form": "8-K",
@@ -2457,43 +2495,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526401182/talo-20260922.htm",
     "date": "2026-09-24 17:27"
-  },
-  {
-    "company": "Ellington Financial Inc.",
-    "cik": "1411342",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Ellington Financial publie la valeur comptable estimée de son action ordinaire au 31 août 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026063452/efc-20260924.htm",
-    "date": "2026-09-24 16:53"
-  },
-  {
-    "company": "Iridium Communications Inc.",
-    "cik": "1418819",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Les actionnaires ont approuvé les propositions de fusion lors de la réunion spéciale.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1418819/000095010326014464/dp253851_8k.htm",
-    "date": "2026-09-24 16:52"
-  },
-  {
-    "company": "FIRST UNITED CORP/MD/",
-    "cik": "763907",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Le conseil d'administration a déclaré un dividende en espèces de $.28 par action.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$.28"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/763907/000110465926110309/tm2626082d1_8k.htm",
-    "date": "2026-09-24 13:12"
   }
 ]
