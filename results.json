@@ -1,5 +1,41 @@
 [
   {
+    "company": "Estrella Immunopharma, Inc.",
+    "cik": "1844417",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'une nouvelle CEO et réorganisation du conseil.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1844417/000121390026113912/ea0310209-8k_estrella.htm",
+    "date": "2026-10-29 17:28"
+  },
+  {
+    "company": "T3 Defense Inc.",
+    "cik": "1787518",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "T3 Defense Inc. a réalisé une vente privée de 200 unités, levant 10 M$ et recevant 6,605 M$ de produits nets.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526005079/dfns8k102826.htm",
+    "date": "2026-10-29 17:27"
+  },
+  {
+    "company": "Dermata Therapeutics, Inc.",
+    "cik": "1853816",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Première inscription à l’essai clinique d’un nouveau traitement anti‑acné.",
+    "activite": "Développe et commercialise un traitement hebdomadaire contre l’acné.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1853816/000149315226049312/form8-k.htm",
+    "date": "2026-10-29 17:26"
+  },
+  {
     "company": "IPC Alternative Real Estate Income Trust, Inc.",
     "cik": "1959961",
     "form": "8-K",
@@ -2459,41 +2495,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/788329/000117184326006238/exh_991.htm",
     "date": "2026-09-25 09:25"
-  },
-  {
-    "company": "PGIM Private Credit Fund",
-    "cik": "1923622",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Le fonds a augmenté son financement à 200 M$ via un amendement de son accord de prêt.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526401226/ck0001923622-20260918.htm",
-    "date": "2026-09-24 17:30"
-  },
-  {
-    "company": "GameSquare Holdings, Inc.",
-    "cik": "1714562",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "Attribution de 52 313 RSU à un employé, avec vesting immédiat.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226044197/ex10-1.htm",
-    "date": "2026-09-24 17:28"
-  },
-  {
-    "company": "TALOS ENERGY INC.",
-    "cik": "1724965",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur au conseil d'administration",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526401182/talo-20260922.htm",
-    "date": "2026-09-24 17:27"
   }
 ]
