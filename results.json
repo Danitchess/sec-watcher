@@ -1,5 +1,29 @@
 [
   {
+    "company": "Celularity Inc",
+    "cik": "1752828",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 88,
+    "resume": "Celularity signe un accord exclusif avec Vesalius pour fabriquer des peptides API aux États‑Unis",
+    "activite": "Celularity développe et fabrique des thérapies cellulaires allogéniques et autologues ainsi que des biomatériaux axés sur la longévité",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226049203/ex99-1.htm",
+    "date": "2026-10-29 09:24"
+  },
+  {
+    "company": "ADT Inc.",
+    "cik": "1703056",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "ADT Inc. annonce la signature d'un accord définitif pour être acquis par Thrive Holdings.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1703056/000119312526437123/d572133d8k.htm",
+    "date": "2026-10-29 09:23"
+  },
+  {
     "company": "TECHPRECISION CORP",
     "cik": "1328792",
     "form": "8-K",
@@ -2471,29 +2495,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/763907/000110465926110309/tm2626082d1_8k.htm",
     "date": "2026-09-24 13:12"
-  },
-  {
-    "company": "WEYERHAEUSER CO",
-    "cik": "106535",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Weyerhaeuser publie des présentations d'ajustement de ses prévisions du troisième trimestre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526400727/wy-20260924.htm",
-    "date": "2026-09-24 12:38"
-  },
-  {
-    "company": "Federal Home Loan Bank of Chicago",
-    "cik": "1331451",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Chicago.",
-    "activite": "La banque obtient la majorité de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000178/fhlbc-20260921.htm",
-    "date": "2026-09-24 12:24"
   }
 ]
