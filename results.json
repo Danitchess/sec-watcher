@@ -1,5 +1,48 @@
 [
   {
+    "company": "TECHPRECISION CORP",
+    "cik": "1328792",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "TechPrecision prolonge la date d’échéance de son crédit revolving de $4,500,000.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1328792/000110465926119706/tm2628379d1_8k.htm",
+    "date": "2026-10-28 17:30"
+  },
+  {
+    "company": "Cactus, Inc.",
+    "cik": "1699136",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Cactus a affiché une forte performance au troisième trimestre 2026 avec une hausse du chiffre d'affaires et des marges",
+    "activite": "Cactus conçoit, fabrique, vend et loue des technologies de contrôle de pression et de tuyaux enroulables pour le secteur pétrolier et gazier",
+    "chiffres": {
+      "revenu": "$430.9 million",
+      "benefice": "$74.1 million",
+      "bpa": "$0.87",
+      "dividende": "$0.15 per share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1699136/000162828026067952/whd-20260930xexhibit991.htm",
+    "date": "2026-10-28 17:30"
+  },
+  {
+    "company": "S&amp;T BANCORP INC",
+    "cik": "719220",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "S&T Bancorp annonce une hausse de son dividende à 0,38 $ par action.",
+    "activite": "S&T Bancorp est la société holding de S&T Bank.",
+    "chiffres": {
+      "dividende": "$0.38"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/719220/000071922026000117/stba-20261028.htm",
+    "date": "2026-10-28 17:29"
+  },
+  {
     "company": "FIRST FINANCIAL BANCORP /OH/",
     "cik": "708955",
     "form": "8-K",
@@ -2452,41 +2495,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000178/fhlbc-20260921.htm",
     "date": "2026-09-24 12:24"
-  },
-  {
-    "company": "Newton Golf Company, Inc.",
-    "cik": "1934245",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord d'échange de bons de souscription contre actions restreintes",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315226044066/ex10-1.htm",
-    "date": "2026-09-24 07:45"
-  },
-  {
-    "company": "Brightline Interactive, Inc./NV",
-    "cik": "1854445",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord d'achat d'actions et de bons de souscription à 0,70 $ l'unité.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1854445/000149315226044067/ex10-1.htm",
-    "date": "2026-09-24 07:45"
-  },
-  {
-    "company": "Tri-State Generation &amp; Transmission Association, Inc.",
-    "cik": "1637880",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau directeur au conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1637880/000163788026000044/tris-20260922.htm",
-    "date": "2026-09-23 17:30"
   }
 ]
