@@ -1,5 +1,41 @@
 [
   {
+    "company": "Creatd, Inc.",
+    "cik": "1357671",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 72,
+    "resume": "Le communiqué annonce l'expiration d'une lettre d'intention tout en réaffirmant les priorités stratégiques de croissance et de renforcement du bilan.",
+    "activite": "Création et soutien d'entreprises technologiques, médias numériques et actifs de propriété intellectuelle.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1357671/000162828026068611/creatdannouncesexpirationo.htm",
+    "date": "2026-10-30 16:55"
+  },
+  {
+    "company": "T1 Energy Inc.",
+    "cik": "1992243",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration de dépôt d'un prospectus de revente d'actions liées à des obligations convertibles",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026114466/ea0310173-8k_t1energy.htm",
+    "date": "2026-10-30 16:55"
+  },
+  {
+    "company": "Utz Brands, Inc.",
+    "cik": "1739566",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Utz Brands annonce son fusionnement et le départ de son CEO, tout en faisant face à des plaintes d'actionnaires.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526441801/d237502d8k.htm",
+    "date": "2026-10-30 16:51"
+  },
+  {
     "company": "J.P. Morgan Real Estate Income Trust, Inc.",
     "cik": "1893262",
     "form": "8-K",
@@ -2457,43 +2493,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/98222/000110465926111052/tm2626128d2_8k.htm",
     "date": "2026-09-25 17:29"
-  },
-  {
-    "company": "FIRST MERCHANTS CORP",
-    "cik": "712534",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "First Merchants Corp a émis 100 M$ de notes subordonnées à taux fixe‑flottant.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/712534/000119312526402604/d154643d8k.htm",
-    "date": "2026-09-25 14:10"
-  },
-  {
-    "company": "Silver Point Private Credit Fund",
-    "cik": "2033382",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le fonds a émis 902 356 parts pour 24,3 M$ et déclaré un dividende de 0,1575 $/part.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.1575 per Share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2033382/000119312526402550/d176851d8k.htm",
-    "date": "2026-09-25 13:33"
-  },
-  {
-    "company": "IEH Corp",
-    "cik": "50292",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 90,
-    "resume": "IEH obtient 3,6 M$ de nouvelles commandes pour des défibrillateurs, marquant son expansion vers le marché médical.",
-    "activite": "IEH conçoit, développe et fabrique des connecteurs de cartes de circuits imprimés et des interconnexions pour les secteurs de la défense, de l'aérospatiale, du médical et de l'industriel.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/50292/000117494726000897/ex99-1.htm",
-    "date": "2026-09-25 13:21"
   }
 ]
