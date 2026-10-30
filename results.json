@@ -1,5 +1,43 @@
 [
   {
+    "company": "J.P. Morgan Real Estate Income Trust, Inc.",
+    "cik": "1893262",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "La société a déclaré des distributions de 0,0438 $ par action pour plusieurs classes d'actions.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.0438"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1893262/000162828026068493/ck0001893262-20261030.htm",
+    "date": "2026-10-30 11:38"
+  },
+  {
+    "company": "Brookfield Private Equity Fund LP",
+    "cik": "2074065",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a vendu des parts pour environ 6,2 M$ et indique une valeur nette transactionnelle de 28,94 $ par unité.",
+    "activite": "Le fonds investit aux côtés d'autres véhicules Brookfield dans le cadre du programme BPE.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2074065/000110465926120529/tm2628601d1_8k.htm",
+    "date": "2026-10-30 11:28"
+  },
+  {
+    "company": "United States Commodity Index Funds Trust",
+    "cik": "1479247",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a publié les relevés mensuels de ses fonds USCI et CPER pour septembre 2026.",
+    "activite": "Émission et gestion de fonds indiciels de matières premières cotés sur le NYSE Arca",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1479247/000110465926120528/tm2627697d7_8k.htm",
+    "date": "2026-10-30 11:27"
+  },
+  {
     "company": "Estrella Immunopharma, Inc.",
     "cik": "1844417",
     "form": "8-K",
@@ -2457,43 +2495,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/50292/000117494726000897/ex99-1.htm",
     "date": "2026-09-25 13:21"
-  },
-  {
-    "company": "SIEBERT FINANCIAL CORP",
-    "cik": "65596",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau administrateur après la démission d'un autre.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/65596/000121390026103299/ea0306616-8k_siebert.htm",
-    "date": "2026-09-25 10:00"
-  },
-  {
-    "company": "VerifyMe, Inc.",
-    "cik": "1104038",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Amendement des statuts augmentant le capital autorisé à 750 M d'actions et mise en place d'un fractionnement d'actions 10‑pour‑1.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926011966/ex3_1.htm",
-    "date": "2026-09-25 09:25"
-  },
-  {
-    "company": "JOHNSON OUTDOORS INC",
-    "cik": "788329",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Johnson Outdoors annonce un dividende trimestriel de 0,33 $ par action de classe A.",
-    "activite": "Johnson Outdoors conçoit, fabrique et commercialise des équipements de plein air (canoës, kayaks, matériel de pêche, plongée, camping).",
-    "chiffres": {
-      "dividende": "$0.33 per Class A share, $0.30 per Class B share"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/788329/000117184326006238/exh_991.htm",
-    "date": "2026-09-25 09:25"
   }
 ]
