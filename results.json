@@ -1,5 +1,41 @@
 [
   {
+    "company": "Legacy Housing Corp",
+    "cik": "1436208",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Compte rendu de l'assemblée annuelle des actionnaires",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1436208/000110465926120752/legh-20261028x8k.htm",
+    "date": "2026-10-30 17:29"
+  },
+  {
+    "company": "QVC Group, Inc.",
+    "cik": "1254699",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 35,
+    "resume": "QVC Group a confirmé son plan de réorganisation et a émergé du Chapter 11.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1254699/000125469926000028/qvc-20261030.htm",
+    "date": "2026-10-30 17:29"
+  },
+  {
+    "company": "DIGITAL REALTY TRUST, L.P.",
+    "cik": "1494877",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Enregistrement de la revente d'actions liées à l'acquisition d'une participation de 16 % dans la joint‑venture Teraco.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1494877/000119312526441892/d170330d8k.htm",
+    "date": "2026-10-30 17:28"
+  },
+  {
     "company": "Creatd, Inc.",
     "cik": "1357671",
     "form": "8-K",
@@ -2457,41 +2493,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526403456/gpk-20260928.htm",
     "date": "2026-09-28 08:30"
-  },
-  {
-    "company": "United States 12 Month Natural Gas Fund, LP",
-    "cik": "1405513",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'une acquisition à cash de la société mère, avec clôture prévue en 2027.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1405513/000207187626000224/i26395_unl-8k.htm",
-    "date": "2026-09-25 17:30"
-  },
-  {
-    "company": "United States Commodity Index Funds Trust",
-    "cik": "1479247",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'un accord d'acquisition de TMC, prévoyant la privatisation de USCF.",
-    "activite": "Sponsor des fonds d'indices de matières premières aux États-Unis, dont le United States Commodity Index Fund et le United States Copper Index Fund.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1479247/000207187626000223/i26396_uscift-8k.htm",
-    "date": "2026-09-25 17:29"
-  },
-  {
-    "company": "TIDEWATER INC",
-    "cik": "98222",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Tidewater a signé un accord de garantie pour les prêts de construction BNDES.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/98222/000110465926111052/tm2626128d2_8k.htm",
-    "date": "2026-09-25 17:29"
   }
 ]
