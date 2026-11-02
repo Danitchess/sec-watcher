@@ -1,5 +1,45 @@
 [
   {
+    "company": "GREYSTONE LOGISTICS, INC.",
+    "cik": "1088413",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le directeur Larry J. LeBarre prend sa retraite du conseil d'administration de Greystone Logistics, Inc.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1088413/000143774926034323/glgi20261102_8k.htm",
+    "date": "2026-11-02 12:06"
+  },
+  {
+    "company": "Fundrise eREIT, LLC",
+    "cik": "2093809",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Le gestionnaire a déclaré une distribution quotidienne de 0,0000684930 $ par action pour novembre 2026.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.0000684930 per share (0.25% annualized)"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2093809/000209380926000036/freit-20261101.htm",
+    "date": "2026-11-02 11:59"
+  },
+  {
+    "company": "RREEF Property Trust, Inc.",
+    "cik": "1542447",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "Déclaration de distributions de dividendes pour les actions en octobre 2026.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.07495"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1542447/000154244726000117/rpt-20261102.htm",
+    "date": "2026-11-02 11:55"
+  },
+  {
     "company": "Legacy Housing Corp",
     "cik": "1436208",
     "form": "8-K",
@@ -2457,41 +2497,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026063700/cls-20260925.htm",
     "date": "2026-09-28 14:53"
-  },
-  {
-    "company": "Silicon Valley Acquisition Corp.",
-    "cik": "2085659",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Silicon Valley Acquisition Corp. a signé un troisième amendement à son accord de combinaison avec EigenQ.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026103766/ea0306724-8k425_silicon.htm",
-    "date": "2026-09-28 08:31"
-  },
-  {
-    "company": "MongoDB, Inc.",
-    "cik": "1441816",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du départ du CEO et nomination d'un président‑directeur général intérimaire",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026063657/mdb-20260924.htm",
-    "date": "2026-09-28 08:30"
-  },
-  {
-    "company": "GRAPHIC PACKAGING HOLDING CO",
-    "cik": "1408075",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'une réunion avec les investisseurs et référence à une présentation de gouvernance",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1408075/000119312526403456/gpk-20260928.htm",
-    "date": "2026-09-28 08:30"
   }
 ]
