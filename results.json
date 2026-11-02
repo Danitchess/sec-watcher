@@ -1,5 +1,29 @@
 [
   {
+    "company": "Mid-America Apartments, L.P.",
+    "cik": "1581776",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Mid-America Apartments, L.P. a conclu un accord de souscription pour émettre 350 M$ de billets senior.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1581776/000119312526443920/maa-20261102.htm",
+    "date": "2026-11-02 17:29"
+  },
+  {
+    "company": "MID AMERICA APARTMENT COMMUNITIES INC.",
+    "cik": "912595",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une émission de notes senior de 350 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526443920/maa-20261102.htm",
+    "date": "2026-11-02 17:29"
+  },
+  {
     "company": "GREYSTONE LOGISTICS, INC.",
     "cik": "1088413",
     "form": "8-K",
@@ -2468,34 +2492,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1622345/000149315226044656/ex10-1.htm",
     "date": "2026-09-28 17:28"
-  },
-  {
-    "company": "M&amp;T BANK CORP",
-    "cik": "36270",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt présente des informations financières historiques détaillées.",
-    "activite": "",
-    "chiffres": {
-      "revenu": "$2,620",
-      "benefice": "$818"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000054/ex991historicalfinancialin.htm",
-    "date": "2026-09-28 15:46"
-  },
-  {
-    "company": "Crestline Lending Solutions, LLC",
-    "cik": "2035713",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Distribution régulière de 10,71 M$ aux actionnaires",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$10,710,000.00"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2035713/000162828026063700/cls-20260925.htm",
-    "date": "2026-09-28 14:53"
   }
 ]
