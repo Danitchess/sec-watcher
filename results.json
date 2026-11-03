@@ -1,5 +1,43 @@
 [
   {
+    "company": "Jaguar Health, Inc.",
+    "cik": "1585608",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Jaguar Health a versé un dividende spécial en actions préférentielles converties en actions ordinaires.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.0001 per share"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526445055/d152896d8k.htm",
+    "date": "2026-11-03 14:15"
+  },
+  {
+    "company": "Federal Home Loan Bank of New York",
+    "cik": "1329842",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of New York.",
+    "activite": "La Federal Home Loan Bank of New York obtient la majorité de ses fonds par la vente d'obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426009475/fhlbny_8k.htm",
+    "date": "2026-11-03 14:13"
+  },
+  {
+    "company": "Federal Home Loan Bank of Cincinnati",
+    "cik": "1326771",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Cincinnati.",
+    "activite": "La Federal Home Loan Bank of Cincinnati émet des obligations consolidées pour financer ses activités.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1326771/000132677126000177/fhlbcin-20261028.htm",
+    "date": "2026-11-03 14:11"
+  },
+  {
     "company": "Karyopharm Therapeutics Inc.",
     "cik": "1503802",
     "form": "8-K",
@@ -2456,41 +2494,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/38009/000003800926000088/exhibits5and231september29.htm",
     "date": "2026-09-29 08:08"
-  },
-  {
-    "company": "Keros Therapeutics, Inc.",
-    "cik": "1664710",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Keros Therapeutics annonce un paiement de jalon de 20 M$ de Takeda pour son programme elritercept.",
-    "activite": "Keros Therapeutics développe des thérapies biopharmaceutiques ciblant les protéines TGF‑β.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/exhibit99192926pr.htm",
-    "date": "2026-09-29 08:01"
-  },
-  {
-    "company": "FIRST UNITED CORP/MD/",
-    "cik": "763907",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de trois nouveaux administrateurs et description de leur rémunération.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/763907/000110465926111606/tm2626531d1_8k.htm",
-    "date": "2026-09-29 08:00"
-  },
-  {
-    "company": "BRILLIANT N.E.V. CORP.",
-    "cik": "1681769",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Changement d'auditeur indépendant sans indication de problème financier.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1681769/000152013826000399/bnev-20260928_8k.htm",
-    "date": "2026-09-28 17:30"
   }
 ]
