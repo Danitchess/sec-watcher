@@ -1,5 +1,29 @@
 [
   {
+    "company": "Karyopharm Therapeutics Inc.",
+    "cik": "1503802",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 0,
+    "resume": "Karyopharm Therapeutics a déposé le 2 novembre 2026 une demande de mise en faillite Chapitre 11 et décrit son plan de restructuration.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1503802/000119312526444164/d141618d8k.htm",
+    "date": "2026-11-02 21:58"
+  },
+  {
+    "company": "MERCER INTERNATIONAL INC.",
+    "cik": "1333274",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Mercer International annonce un plan de restructuration de sa dette et de son capital via une procédure de Chapter 11.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1333274/000119312526444106/d159472d8k.htm",
+    "date": "2026-11-02 20:43"
+  },
+  {
     "company": "Mid-America Apartments, L.P.",
     "cik": "1581776",
     "form": "8-K",
@@ -2468,29 +2492,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1681769/000152013826000399/bnev-20260928_8k.htm",
     "date": "2026-09-28 17:30"
-  },
-  {
-    "company": "Glucotrack, Inc.",
-    "cik": "1506983",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Amendement d'un bon de souscription d'actions pour se conformer aux exigences du Nasdaq",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226044657/ex4-1.htm",
-    "date": "2026-09-28 17:29"
-  },
-  {
-    "company": "Polar Power, Inc.",
-    "cik": "1622345",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Échange de notes en actions privilégiées et bons de souscription",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1622345/000149315226044656/ex10-1.htm",
-    "date": "2026-09-28 17:28"
   }
 ]
