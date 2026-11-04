@@ -1,5 +1,45 @@
 [
   {
+    "company": "Emergent BioSolutions Inc.",
+    "cik": "1367644",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Emergent BioSolutions a reçu une modification de contrat de 22,3 M$ pour fournir le vaccin BioThrax au Département de la Défense.",
+    "activite": "Emergent BioSolutions développe et fournit des vaccins et contre‑mesures contre les menaces biologiques, notamment le vaccin BioThrax.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1367644/000136764426000116/a1142026biothraxmodpr.htm",
+    "date": "2026-11-04 16:06"
+  },
+  {
+    "company": "CLOVER HEALTH INVESTMENTS, CORP. /DE",
+    "cik": "1801170",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Clover Health affiche une forte hausse du chiffre d'affaires et du bénéfice au troisième trimestre 2026.",
+    "activite": "Fournit des assurances Medicare Advantage et gère un réseau PPO.",
+    "chiffres": {
+      "revenu": "$759.3 million",
+      "benefice": "$6.4 million",
+      "croissance": "53%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1801170/000180117026000291/a3q26exx991xearningsrelease.htm",
+    "date": "2026-11-04 16:06"
+  },
+  {
+    "company": "SmartStop Self Storage REIT, Inc.",
+    "cik": "1585389",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe simplement de la publication d'un communiqué de presse sur les résultats financiers",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1585389/000158538926000018/ck0001585389-20261104.htm",
+    "date": "2026-11-04 16:06"
+  },
+  {
     "company": "Select Notes Trust LT 2004-1",
     "cik": "1293234",
     "form": "8-K",
@@ -2462,41 +2502,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000094/ck0001661306-20260928.htm",
     "date": "2026-09-30 10:00"
-  },
-  {
-    "company": "LEE ENTERPRISES, Inc",
-    "cik": "58361",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 75,
-    "resume": "Nomination de Gregory Hoffmann au conseil d'administration et signature d'un accord de gestion avec Hoffmann Media Group.",
-    "activite": "Lee Enterprises gère des publications de journaux et des propriétés numériques.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/58361/000005836126000071/lee-20260924.htm",
-    "date": "2026-09-30 09:55"
-  },
-  {
-    "company": "Digimarc Corp",
-    "cik": "2119322",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Digimarc a levé environ 18,2 M$ via une offre directe de 4,5 M d'actions.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926031541/desp20260924_8k.htm",
-    "date": "2026-09-30 09:38"
-  },
-  {
-    "company": "ONE Nuclear Energy Inc.",
-    "cik": "1846416",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de droits d'enregistrement lié à la combinaison d'affaires et à la domestication de ONE Nuclear Energy.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226044924/ex10-1.htm",
-    "date": "2026-09-29 17:30"
   }
 ]
