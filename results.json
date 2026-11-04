@@ -1,5 +1,47 @@
 [
   {
+    "company": "Select Notes Trust LT 2004-1",
+    "cik": "1293234",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Distribution d'intérêts de 204 375 $ aux porteurs de certificats du Trust",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1293234/000153949726002846/n5801_x8-8k.htm",
+    "date": "2026-11-04 09:38"
+  },
+  {
+    "company": "Essential Utilities, Inc.",
+    "cik": "78128",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Essential Utilities affiche une hausse de ses revenus et bénéfices au troisième trimestre 2026, tout en investissant massivement et en déclarant un dividende.",
+    "activite": "Fournit des services d'eau, d'assainissement et de gaz naturel aux collectivités.",
+    "chiffres": {
+      "revenu": "$508.3 million (+6.6%)",
+      "benefice": "$103.8 million",
+      "bpa": "$0.36",
+      "croissance": "6.6%",
+      "dividende": "$0.3606"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000537/e26437_ex99-1.htm",
+    "date": "2026-11-04 09:37"
+  },
+  {
+    "company": "ONCOLYTICS BIOTECH INC",
+    "cik": "1129928",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de données translationales sur pelareorep dans le cancer anal HPV‑positif",
+    "activite": "développe le traitement oncolytique pelareorep pour le cancer anal à cellules squameuses",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000078/oncy-20261104.htm",
+    "date": "2026-11-04 09:36"
+  },
+  {
     "company": "ASHLAND INC.",
     "cik": "1674862",
     "form": "8-K",
@@ -2456,43 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226044924/ex10-1.htm",
     "date": "2026-09-29 17:30"
-  },
-  {
-    "company": "FF EAI Robotics Ecosystem Inc.",
-    "cik": "1460702",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt sans informations significatives.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226044923/ex3-1.htm",
-    "date": "2026-09-29 17:30"
-  },
-  {
-    "company": "TPG Twin Brook Capital Income Fund",
-    "cik": "1913724",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le fonds a déclaré des distributions de 0,20 $ par part et indique un actif net de 2,8 milliards de dollars.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.2000"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1913724/000191372426000034/agci-20260929.htm",
-    "date": "2026-09-29 17:29"
-  },
-  {
-    "company": "Federal Home Loan Bank of New York",
-    "cik": "1329842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of New York.",
-    "activite": "Banque fédérale de prêts hypothécaires qui obtient la plupart de ses fonds par la vente d'obligations consolidées.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426008634/fhlbny_8k.htm",
-    "date": "2026-09-29 14:09"
   }
 ]
