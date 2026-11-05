@@ -1,5 +1,41 @@
 [
   {
+    "company": "Leader&#39;s Advantage Acquisition Corp.",
+    "cik": "2109823",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la séparation des actions et des bons de souscription des unités émises lors de l'IPO.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2109823/000121390026116465/ea0311150-8k_leaders.htm",
+    "date": "2026-11-05 17:30"
+  },
+  {
+    "company": "REVELATION BIOSCIENCES, INC.",
+    "cik": "1810560",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la publication des résultats financiers et de l'émission d'options sur actions.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1810560/000119312526450210/revb-20261105.htm",
+    "date": "2026-11-05 17:29"
+  },
+  {
+    "company": "Parabolic Technologies, Inc.",
+    "cik": "1826011",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Parabolic Technologies signe un accord d'émission d'unités avec Aegis Capital.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226050285/ex1-1.htm",
+    "date": "2026-11-05 17:28"
+  },
+  {
     "company": "Federal Home Loan Bank of Atlanta",
     "cik": "1331465",
     "form": "8-K",
@@ -2460,41 +2496,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426008746/fhlbny_8k.htm",
     "date": "2026-10-01 12:34"
-  },
-  {
-    "company": "Ford Credit Auto Owner Trust 2026-C",
-    "cik": "2152109",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le trust a conclu des accords pour l’émission de titres adossés à des créances automobiles.",
-    "activite": "Émission de titres adossés à des créances automobiles",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2152109/000110465926112721/tm2625316d11_8k.htm",
-    "date": "2026-10-01 12:21"
-  },
-  {
-    "company": "FORD CREDIT AUTO RECEIVABLES TWO LLC",
-    "cik": "1129987",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de la mise en place d’accords liés à l’émission de titres adossés à des créances automobiles.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1129987/000110465926112721/tm2625316d11_8k.htm",
-    "date": "2026-10-01 12:21"
-  },
-  {
-    "company": "STANDARD BIOTOOLS INC.",
-    "cik": "1162194",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Standard BioTools a conclu la vente de son activité de cytométrie de masse à Element Biosystems pour 5,5 M$.",
-    "activite": "Elle exploite une activité de cytométrie de masse.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_8k.htm",
-    "date": "2026-09-30 17:27"
   }
 ]
