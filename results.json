@@ -1,5 +1,41 @@
 [
   {
+    "company": "Federal Home Loan Bank of Atlanta",
+    "cik": "1331465",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Atlanta.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000203/fhlba-20261102.htm",
+    "date": "2026-11-05 11:50"
+  },
+  {
+    "company": "Orange County Bancorp, Inc. /DE/",
+    "cik": "1754226",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une présentation aux analystes sur la stratégie et la performance de la société.",
+    "activite": "Société mère d'Orange Bank & Trust Company et d'Orange Investment Advisors, offrant des services bancaires et de gestion d'investissements.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1754226/000110465926123183/tm2629127d1_8k.htm",
+    "date": "2026-11-05 11:37"
+  },
+  {
+    "company": "Federal Home Loan Bank of Chicago",
+    "cik": "1331451",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Chicago.",
+    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000212/fhlbc-20261102.htm",
+    "date": "2026-11-05 11:35"
+  },
+  {
     "company": "Kinetik Holdings Inc.",
     "cik": "1692787",
     "form": "8-K",
@@ -2460,43 +2496,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_8k.htm",
     "date": "2026-09-30 17:27"
-  },
-  {
-    "company": "Liquidia Corp",
-    "cik": "1819576",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Liquidia Corp. a publié un communiqué sur un litige concernant son produit YUTREPIA.",
-    "activite": "développe et commercialise le médicament inhalé YUTREPIA (treprostinil)",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926112420/tm2626740d1_8k.htm",
-    "date": "2026-09-30 17:27"
-  },
-  {
-    "company": "New Mountain Net Lease Trust",
-    "cik": "2033695",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Déclaration de distributions de dividendes aux actionnaires.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.1546"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/2033695/000119312526409269/ck0002033695-20260930.htm",
-    "date": "2026-09-30 17:26"
-  },
-  {
-    "company": "CITY HOLDING CO",
-    "cik": "726854",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination de deux nouveaux administrateurs au conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000171/chco-20260930.htm",
-    "date": "2026-09-30 15:13"
   }
 ]
