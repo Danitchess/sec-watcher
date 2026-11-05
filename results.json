@@ -1,5 +1,41 @@
 [
   {
+    "company": "Kinetik Holdings Inc.",
+    "cik": "1692787",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Kinetik Holdings Inc. a publié ses résultats financiers du trimestre se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1692787/000169278726000142/apa-20261104.htm",
+    "date": "2026-11-04 17:30"
+  },
+  {
+    "company": "Medicus Pharma Ltd.",
+    "cik": "1997296",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Medicus annonce une combinaison avec un SPAC valorisant SkinJect à 135 M$",
+    "activite": "Medicus Pharma est une biotech/life sciences spécialisée dans le développement d’actifs thérapeutiques innovants",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1997296/000106299326005748/exhibit99-1.htm",
+    "date": "2026-11-04 17:30"
+  },
+  {
+    "company": "cbdMD, Inc.",
+    "cik": "1644903",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt décrit un emprunt de 1,75 M$ à un taux de 9 % sur deux ans.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1644903/000143774926034991/ex_1036976.htm",
+    "date": "2026-11-04 17:28"
+  },
+  {
     "company": "Emergent BioSolutions Inc.",
     "cik": "1367644",
     "form": "8-K",
@@ -2462,45 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000171/chco-20260930.htm",
     "date": "2026-09-30 15:13"
-  },
-  {
-    "company": "Invesco Commercial Real Estate Finance Trust, Inc.",
-    "cik": "1976927",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "La société a déclaré des distributions de 0,18 $ par action pour septembre 2026.",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.1800"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1976927/000197692726000073/incref-20260930.htm",
-    "date": "2026-09-30 15:13"
-  },
-  {
-    "company": "WILLIS LEASE FINANCE CORP",
-    "cik": "1018164",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Correction d'une erreur dans le certificat de désignation d'actions privilégiées",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000082/exhibit991-certificateofco.htm",
-    "date": "2026-09-30 15:05"
-  },
-  {
-    "company": "Hancock Park Corporate Income, Inc.",
-    "cik": "1661306",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce d'un dividende de 0,01 $ par action",
-    "activite": "",
-    "chiffres": {
-      "dividende": "$0.01"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000094/ck0001661306-20260928.htm",
-    "date": "2026-09-30 10:00"
   }
 ]
