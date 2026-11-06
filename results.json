@@ -1,5 +1,29 @@
 [
   {
+    "company": "HUMANA INC",
+    "cik": "49071",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\"sentiment\":\"positif\",\"score\":85,\"resume\":\"Humana présente des résultats solides au troisième trimestre 2026 avec une perte ajustée par action de 0,70 $ et une forte croissance de son",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000064/a3q2026humanaincpostedrema.htm",
+    "date": "2026-11-06 06:09"
+  },
+  {
+    "company": "K&amp;F GROWTH ACQUISITION CORP. II",
+    "cik": "2029976",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le SPAC a prolongé la date limite de sa combinaison d'affaires et a procédé à des rachats d'actions.",
+    "activite": "une société d'acquisition visant à réaliser une combinaison d'affaires",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2029976/000121390026116547/ea0311137-8k_kfgrow2.htm",
+    "date": "2026-11-06 06:06"
+  },
+  {
     "company": "Leader&#39;s Advantage Acquisition Corp.",
     "cik": "2109823",
     "form": "8-K",
@@ -2472,29 +2496,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026105924/ea0306860-8ka1_jasper.htm",
     "date": "2026-10-01 17:29"
-  },
-  {
-    "company": "Curaleaf Holdings, Inc.",
-    "cik": "1756770",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 80,
-    "resume": "Curaleaf annonce la publication de ses résultats financiers du troisième trimestre 2026.",
-    "activite": "Curaleaf est un fournisseur international de produits de consommation dans le cannabis.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1756770/000175677026000118/a2026-09x29xcuraleafxtox.htm",
-    "date": "2026-10-01 17:28"
-  },
-  {
-    "company": "Federal Home Loan Bank of New York",
-    "cik": "1329842",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
-    "activite": "La Federal Home Loan Bank of New York obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495426008746/fhlbny_8k.htm",
-    "date": "2026-10-01 12:34"
   }
 ]
