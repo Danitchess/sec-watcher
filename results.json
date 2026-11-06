@@ -1,5 +1,45 @@
 [
   {
+    "company": "BOK FINANCIAL CORP",
+    "cik": "875357",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "BOK Financial présente une banque régionale diversifiée avec 54,1 Mds$ d'actifs et une croissance prévue de 8 %.",
+    "activite": "BOK Financial offre des services bancaires, de gestion de patrimoine, de courtage et de services de paiement.",
+    "chiffres": {
+      "croissance": "8.0%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/875357/000087535726000061/a20260930bokfinvestordec.htm",
+    "date": "2026-11-06 13:01"
+  },
+  {
+    "company": "DATA I/O CORP",
+    "cik": "351998",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Nomination d'un nouveau dirigeant pour renforcer les services globaux de l'entreprise",
+    "activite": "Fournit des services de programmation",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426009591/daio_8k.htm",
+    "date": "2026-11-06 12:58"
+  },
+  {
+    "company": "Goldman Sachs Real Estate Finance Trust Inc",
+    "cik": "2027537",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le trust a vendu des actions non enregistrées, versé des distributions et accordé un prêt immobilier.",
+    "activite": "Financement d'actifs immobiliers par des prêts hypothécaires.",
+    "chiffres": {
+      "dividende": "$0.1480"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2027537/000119312526451357/d180500d8k.htm",
+    "date": "2026-11-06 12:57"
+  },
+  {
     "company": "HUMANA INC",
     "cik": "49071",
     "form": "8-K",
@@ -2460,41 +2500,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226045447/ex3-1.htm",
     "date": "2026-10-02 09:25"
-  },
-  {
-    "company": "MERCER INTERNATIONAL INC.",
-    "cik": "1333274",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 65,
-    "resume": "Mercer International discute d’une recapitalisation pour réduire sa dette et a différé un paiement d’intérêt de 25,8 M$.",
-    "activite": "Elle exploite des activités de pâte à papier, de bois d’œuvre et de bois massif.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1333274/000119312526411343/d108140d8k.htm",
-    "date": "2026-10-02 09:24"
-  },
-  {
-    "company": "Forward Industries, Inc.",
-    "cik": "38264",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe d'une mise à jour de la stratégie de trésorerie SOL sans autre commentaire notable",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/38264/000168316826007543/forward_8k.htm",
-    "date": "2026-10-01 17:30"
-  },
-  {
-    "company": "Jasper Therapeutics, Inc.",
-    "cik": "1788028",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Jasper Therapeutics a finalisé l'acquisition de Kira Pharmaceuticals et a présenté les états financiers associés.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026105924/ea0306860-8ka1_jasper.htm",
-    "date": "2026-10-01 17:29"
   }
 ]
