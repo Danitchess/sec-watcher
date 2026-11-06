@@ -1,5 +1,29 @@
 [
   {
+    "company": "Pono Capital Four, Inc.",
+    "cik": "2108164",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement du prix d'achat à 200 M$ et augmentation du nombre d'actions réservées.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2108164/000149315226050548/ex2-1.htm",
+    "date": "2026-11-06 17:30"
+  },
+  {
+    "company": "TEN Holdings, Inc.",
+    "cik": "2030954",
+    "form": "8-K",
+    "sentiment": "inconnu",
+    "score": 50,
+    "resume": "{\n  \"sentiment\":\"neutre\",\n  \"score\":60,\n  \"resume\":\"TEN Holdings annonce une hausse de revenu de 17,9 % mais enregistre une perte nette de 3,73 M$ au troisième trimestre 2026.\",\n  \"activite\":\"TEN Hold",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/ex99-1.htm",
+    "date": "2026-11-06 17:29"
+  },
+  {
     "company": "BOK FINANCIAL CORP",
     "cik": "875357",
     "form": "8-K",
@@ -2476,29 +2500,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1585101/000162828026064477/hgit-20260929.htm",
     "date": "2026-10-02 14:49"
-  },
-  {
-    "company": "Paramount Skydance Corp",
-    "cik": "2041610",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du transfert de la cotation de Nasdaq à NYSE, changement de ticker et de nom, et distribution de bons de souscription.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113076/tm2626659d3_8k.htm",
-    "date": "2026-10-02 09:29"
-  },
-  {
-    "company": "Hepion Pharmaceuticals, Inc.",
-    "cik": "1583771",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Modification du nombre d'actions autorisées de la société.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226045447/ex3-1.htm",
-    "date": "2026-10-02 09:25"
   }
 ]
