@@ -1,5 +1,41 @@
 [
   {
+    "company": "Solidion Technology Inc.",
+    "cik": "1881551",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt 8‑K annonce les résultats financiers du troisième trimestre 2026 sans détail chiffré.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026117631/ea0311573-8k_solidion.htm",
+    "date": "2026-11-09 17:30"
+  },
+  {
+    "company": "Upland Software, Inc.",
+    "cik": "1505155",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord de renonciation aux dividendes réguliers sur les actions privilégiées de la société.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000083/dividendwaiveragreementdat.htm",
+    "date": "2026-11-09 17:29"
+  },
+  {
+    "company": "Vertical Data Inc.",
+    "cik": "2033264",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Vertical Data clôture un placement privé de 4,24 M$ pour soutenir sa croissance et son projet d'uplisting.",
+    "activite": "Entreprise d'infrastructure IA offrant du provisionnement GPU, du financement de GPU et la gestion de data centers.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226050816/ex99-1.htm",
+    "date": "2026-11-09 17:29"
+  },
+  {
     "company": "John Hancock Comvest Private Income Fund",
     "cik": "1987221",
     "form": "8-K",
@@ -2462,41 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/874238/000087423826000110/a20260805ex991pressrelease.htm",
     "date": "2026-10-05 09:35"
-  },
-  {
-    "company": "Outdoor Holding Co",
-    "cik": "1015383",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Plan de conversion de Outdoor Holding Company du Delaware au Texas",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226045615/ex2-1.htm",
-    "date": "2026-10-02 17:29"
-  },
-  {
-    "company": "ChronoScale Holdings Corp",
-    "cik": "1549084",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt sans informations significatives",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1549084/000149315226045612/ex3-1.htm",
-    "date": "2026-10-02 17:27"
-  },
-  {
-    "company": "RICHTECH ROBOTICS INC.",
-    "cik": "1963685",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt rapporte les résultats du vote de l'assemblée annuelle des actionnaires.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1963685/000121390026106552/ea0307478-8k_richtech.htm",
-    "date": "2026-10-02 17:25"
   }
 ]
