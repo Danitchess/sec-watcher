@@ -1,5 +1,41 @@
 [
   {
+    "company": "Gossamer Bio, Inc.",
+    "cik": "1728117",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe simplement de la publication d'un communiqué financier sans détail de résultats",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1728117/000172811726000116/goss-20261110.htm",
+    "date": "2026-11-10 16:50"
+  },
+  {
+    "company": "Rent the Runway, Inc.",
+    "cik": "1468327",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "La société a reçu un avis de non‑conformité au critère de valeur de marché, risquant une radiation du Nasdaq.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326017271/dp256337_8k.htm",
+    "date": "2026-11-10 16:50"
+  },
+  {
+    "company": "Azenta, Inc.",
+    "cik": "933974",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt 8‑K d'Azenta, Inc. se limite à annoncer la diffusion d'un communiqué de résultats financiers sans fournir de détails chiffrés",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026072809/azta-20261110.htm",
+    "date": "2026-11-10 16:46"
+  },
+  {
     "company": "Federal Home Loan Bank of Indianapolis",
     "cik": "1331754",
     "form": "8-K",
@@ -2462,41 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000179/fhlbd-20261001.htm",
     "date": "2026-10-06 11:53"
-  },
-  {
-    "company": "Fortress Net Lease REIT",
-    "cik": "1966394",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 55,
-    "resume": "Fortress Net Lease REIT a émis près de 8,9 M d'actions, levant 94,8 M$ et a déclaré des distributions de 0,0743 $ par action.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1966394/000119312526415210/ck0001966394-20261001.htm",
-    "date": "2026-10-06 11:43"
-  },
-  {
-    "company": "WASTE ENERGY CORP.",
-    "cik": "1515139",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Déclaration de dépôt sans informations supplémentaires",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1515139/000149315226045786/ex3-1.htm",
-    "date": "2026-10-05 17:28"
-  },
-  {
-    "company": "Teads Holding Co.",
-    "cik": "1454938",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de crédit et de garantie détaillant les conditions de financement.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1454938/000145493826000070/ex101-spcxteadsxcreditan.htm",
-    "date": "2026-10-05 17:28"
   }
 ]
