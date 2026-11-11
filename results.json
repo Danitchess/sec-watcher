@@ -1,5 +1,29 @@
 [
   {
+    "company": "Spero Therapeutics, Inc.",
+    "cik": "1701108",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur et départ d'un autre au sein du conseil.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1701108/000119312526455789/d196561d8k.htm",
+    "date": "2026-11-10 17:30"
+  },
+  {
+    "company": "Aptera Motors Corp",
+    "cik": "1786471",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Accord d'achat de titres entre Aptera Motors et des investisseurs.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226051042/ex10-1.htm",
+    "date": "2026-11-10 17:30"
+  },
+  {
     "company": "Gossamer Bio, Inc.",
     "cik": "1728117",
     "form": "8-K",
@@ -2474,29 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000053/exhibit101agreement.htm",
     "date": "2026-10-06 17:01"
-  },
-  {
-    "company": "Federal Home Loan Bank of Atlanta",
-    "cik": "1331465",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Atlanta.",
-    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000179/fhlba-20260930.htm",
-    "date": "2026-10-06 12:00"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.",
-    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000179/fhlbd-20261001.htm",
-    "date": "2026-10-06 11:53"
   }
 ]
