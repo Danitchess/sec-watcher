@@ -1,5 +1,41 @@
 [
   {
+    "company": "Century Therapeutics, Inc.",
+    "cik": "1850119",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport annonce la publication des résultats financiers du trimestre se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1850119/000110465926125830/tm2629581d1_8k.htm",
+    "date": "2026-11-12 07:16"
+  },
+  {
+    "company": "Generate Biomedicines, Inc.",
+    "cik": "2100782",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt informe de la publication des résultats financiers du trimestre.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526456921/ck0002100782-20261112.htm",
+    "date": "2026-11-12 07:16"
+  },
+  {
+    "company": "DPC Holdings PLC",
+    "cik": "2107018",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt annonce la publication des résultats du deuxième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2107018/000110465926125825/tm2629268d1_8k.htm",
+    "date": "2026-11-12 07:15"
+  },
+  {
     "company": "Spero Therapeutics, Inc.",
     "cik": "1701108",
     "form": "8-K",
@@ -2462,41 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2001557/000114036126038822/ef20083287_8k.htm",
     "date": "2026-10-06 17:29"
-  },
-  {
-    "company": "STARZ ENTERTAINMENT CORP /CN/",
-    "cik": "929351",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord d'emploi d'un cadre exécutif avec salaire, bonus et attributions d'actions",
-    "activite": "Gestion de la stratégie technologique et des plateformes de streaming d'entreprise",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/929351/000092935126000043/ex101jasonwyrickexecutiv.htm",
-    "date": "2026-10-06 17:04"
-  },
-  {
-    "company": "Federal Home Loan Bank of San Francisco",
-    "cik": "1316944",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Un administrateur du conseil a démissionné, sans autre événement notable.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1316944/000131694426000167/fhlbsf-20261002.htm",
-    "date": "2026-10-06 17:01"
-  },
-  {
-    "company": "Lamb Weston Holdings, Inc.",
-    "cik": "1679273",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de résiliation du contrat de travail et du mandat de M. Schroeder chez Lamb Weston.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000053/exhibit101agreement.htm",
-    "date": "2026-10-06 17:01"
   }
 ]
