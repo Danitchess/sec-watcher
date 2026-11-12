@@ -1,5 +1,41 @@
 [
   {
+    "company": "Next Technology Holding Inc.",
+    "cik": "1784970",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination d'un nouveau directeur technique avec un salaire de 480 000 $ et une prime potentielle de 10 M$.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1784970/000121390026118848/ea0312093-8k_next.htm",
+    "date": "2026-11-12 15:08"
+  },
+  {
+    "company": "ARTESIAN RESOURCES CORP",
+    "cik": "863110",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Artesian Resources Corp. a publié un communiqué de presse sur ses résultats du trimestre et des neuf mois se terminant le 30 septembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/863110/000086311026000114/artna-20261110.htm",
+    "date": "2026-11-12 14:21"
+  },
+  {
+    "company": "New Mountain Guardian IV Income Fund, L.L.C.",
+    "cik": "1976719",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Déclaration d'investissements du fonds pour le 30 septembre 2026",
+    "activite": "Gestion d'un fonds d'investissement",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1976719/000197671926000027/nmg4if-20261112.htm",
+    "date": "2026-11-12 14:15"
+  },
+  {
     "company": "Century Therapeutics, Inc.",
     "cik": "1850119",
     "form": "8-K",
@@ -2462,41 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1937993/000121390026107442/ea0307947-8k_cadrenal.htm",
     "date": "2026-10-07 09:23"
-  },
-  {
-    "company": "Angel Oak Mortgage REIT, Inc.",
-    "cik": "1766478",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Adoption de nouveaux statuts modifiés par le conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000065/aomr-20261006.htm",
-    "date": "2026-10-07 09:15"
-  },
-  {
-    "company": "Boxlight Corp",
-    "cik": "1624512",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Boxlight a conclu des accords de placement d'actions privilégiées Series D et E pour lever 8,35 M$.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026107308/ea0307650-8k_boxlight.htm",
-    "date": "2026-10-06 17:30"
-  },
-  {
-    "company": "Innventure, Inc.",
-    "cik": "2001557",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Innventure signe un accord de mise en marché d'actions pour lever jusqu'à 60 M$",
-    "activite": "L'entreprise se concentre sur sa filiale Accelsius Holdings LLC",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2001557/000114036126038822/ef20083287_8k.htm",
-    "date": "2026-10-06 17:29"
   }
 ]
