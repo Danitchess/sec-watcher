@@ -1,5 +1,46 @@
 [
   {
+    "company": "MICROVISION, INC.",
+    "cik": "65770",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 70,
+    "resume": "MicroVision a résilié deux baux à Redmond, réduisant ses obligations d’environ 12,8 M$ et diminuant sa dette de 80 %.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/65770/000149315226051502/form8-k.htm",
+    "date": "2026-11-12 17:30"
+  },
+  {
+    "company": "SHF Holdings, Inc.",
+    "cik": "1854963",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "La société risque d'être radiée du Nasdaq en raison d'un cours de l'action inférieur au seuil requis.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226051499/form8-k.htm",
+    "date": "2026-11-12 17:28"
+  },
+  {
+    "company": "MEXCO ENERGY CORP",
+    "cik": "66418",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "Mexco Energy affiche une hausse de 67 % du bénéfice net et de 21 % du chiffre d’affaires au premier semestre 2027.",
+    "activite": "Mexco Energy est une société indépendante d'exploration et de développement de pétrole et de gaz, principalement dans le bassin Permien.",
+    "chiffres": {
+      "revenu": "$4,102,157",
+      "benefice": "$945,152",
+      "bpa": "$0.45",
+      "croissance": "67%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/66418/000149315226051498/ex99-1.htm",
+    "date": "2026-11-12 17:28"
+  },
+  {
     "company": "Next Technology Holding Inc.",
     "cik": "1784970",
     "form": "8-K",
@@ -2462,41 +2503,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000074/ck0001999784-20261001.htm",
     "date": "2026-10-07 16:00"
-  },
-  {
-    "company": "Fatpipe Inc/UT",
-    "cik": "1993400",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de prêt de 4,5 M$ à Fatpipe Inc.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1993400/000149315226046120/ex10-1.htm",
-    "date": "2026-10-07 15:30"
-  },
-  {
-    "company": "CANADIAN DERIVATIVES CLEARING CORP",
-    "cik": "319643",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Amendement pour corriger l'annexe 99.1 listant les intérêts sous-jacents des options.",
-    "activite": "Elle propose des options cotées à la Bourse de Montréal et offertes aux États‑Unis.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/319643/000109991026000272/cdcc_8ka.htm",
-    "date": "2026-10-07 09:47"
-  },
-  {
-    "company": "Cadrenal Therapeutics, Inc.",
-    "cik": "1937993",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 55,
-    "resume": "Cadrenal Therapeutics lance un processus stratégique pour explorer la vente ou le partenariat de ses actifs.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1937993/000121390026107442/ea0307947-8k_cadrenal.htm",
-    "date": "2026-10-07 09:23"
   }
 ]
