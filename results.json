@@ -1,5 +1,29 @@
 [
   {
+    "company": "VOLKSWAGEN AUTO LEASE TRUST 2026-C",
+    "cik": "2161311",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Volkswagen Auto Lease Trust 2026-C a conclu un accord de souscription pour émettre des notes de 745,15 M$.",
+    "activite": "Émission de titres adossés à des contrats de location automobile.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2161311/000110465926126756/tm2628564d12_8k.htm",
+    "date": "2026-11-13 11:36"
+  },
+  {
+    "company": "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC",
+    "cik": "1182534",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Volkswagen Auto Lease/Loan Underwritten Funding, LLC a conclu un accord de souscription pour émettre des notes d’un montant total de 745,150,000 $",
+    "activite": "Souscription de titres adossés aux locations automobiles",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1182534/000110465926126756/tm2628564d12_8k.htm",
+    "date": "2026-11-13 11:36"
+  },
+  {
     "company": "MICROVISION, INC.",
     "cik": "65770",
     "form": "8-K",
@@ -2479,29 +2503,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1684682/000199937126022381/scap-8k_100726.htm",
     "date": "2026-10-07 17:27"
-  },
-  {
-    "company": "GridAI Technologies Corp.",
-    "cik": "1604191",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "La société a accordé un prêt total de 3,5 M$ à Pronghorn Resources.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1604191/000110465926114342/tm2627109d1_8k.htm",
-    "date": "2026-10-07 16:01"
-  },
-  {
-    "company": "North Haven Net REIT",
-    "cik": "1999784",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "North Haven Net REIT a vendu 2 835 825 actions pour environ 59,6 M$",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000074/ck0001999784-20261001.htm",
-    "date": "2026-10-07 16:00"
   }
 ]
