@@ -1,5 +1,32 @@
 [
   {
+    "company": "ITG, Inc./DE/",
+    "cik": "2110117",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 90,
+    "resume": "ITG a enregistré une forte hausse du chiffre d'affaires et de l'EBITDA au troisième trimestre 2026.",
+    "activite": "ITG fournit des services d’ingénierie, de maintenance et de déploiement d’infrastructures numériques (fibre, réseaux, data centers).",
+    "chiffres": {
+      "revenu": "$461.5 million (+49.3%)",
+      "benefice": "$0.5 million"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2110117/000162828026074049/a3q26commentary.htm",
+    "date": "2026-11-16 11:30"
+  },
+  {
+    "company": "AVIAT NETWORKS, INC.",
+    "cik": "1377789",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport 8‑K présente les résultats de vote de l’assemblée annuelle.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1377789/000162828026074047/avnw-20261111.htm",
+    "date": "2026-11-16 11:23"
+  },
+  {
     "company": "MACROGENICS INC",
     "cik": "1125345",
     "form": "8-K",
@@ -2479,29 +2506,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926114683/tm2626710d23_8k.htm",
     "date": "2026-10-08 15:31"
-  },
-  {
-    "company": "FORD CREDIT FLOORPLAN LLC",
-    "cik": "1061198",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt annonce l'émission d'obligations adossées à des actifs et la signature d'un accord de souscription.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1061198/000110465926114683/tm2626710d23_8k.htm",
-    "date": "2026-10-08 15:31"
-  },
-  {
-    "company": "Federal Home Loan Bank of Dallas",
-    "cik": "1331757",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission de nouvelles obligations consolidées par la Federal Home Loan Bank of Dallas.",
-    "activite": "Banque fédérale de prêts hypothécaires qui finance ses activités principalement par la vente d'obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000181/fhlbd-20261005.htm",
-    "date": "2026-10-08 09:46"
   }
 ]
