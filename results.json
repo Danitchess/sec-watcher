@@ -1,5 +1,44 @@
 [
   {
+    "company": "Envela Corp",
+    "cik": "701719",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Envela Corp. a publié ses résultats du troisième trimestre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/701719/000110465926128592/ela-20261116x8k.htm",
+    "date": "2026-11-16 17:31"
+  },
+  {
+    "company": "Flyte Aviation, Inc.",
+    "cik": "1716621",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Flyte Aviation annonce un revenu record et une forte croissance du trafic aérien.",
+    "activite": "Flyte Aviation est une société de transport aérien privé, exploitant une flotte de jets Vision et proposant une plateforme de réservation numérique.",
+    "chiffres": {
+      "revenu": "$1,838,000",
+      "croissance": "145%"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926037257/ex_1046917.htm",
+    "date": "2026-11-16 17:29"
+  },
+  {
+    "company": "HF Sinclair Corp",
+    "cik": "1915657",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Nomination de Steve Ledbetter comme CEO et hausse de sa rémunération",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026074280/dino-20261028.htm",
+    "date": "2026-11-16 17:23"
+  },
+  {
     "company": "ITG, Inc./DE/",
     "cik": "2110117",
     "form": "8-K",
@@ -2470,41 +2509,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/57515/000005751526000023/mzti-20261005.htm",
     "date": "2026-10-09 09:12"
-  },
-  {
-    "company": "Trinity Capital Inc.",
-    "cik": "1786108",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Trinity Capital annonce la publication prochaine de ses états financiers du troisième trimestre 2026.",
-    "activite": "Gestion d'un portefeuille d'actifs",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1786108/000119312526418097/trin-20261008.htm",
-    "date": "2026-10-08 17:30"
-  },
-  {
-    "company": "Bain Capital Private Credit",
-    "cik": "1899017",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 55,
-    "resume": "Bain Capital Private Credit a émis 350 M$ de notes à 7,6 % pour financer ses activités.",
-    "activite": "Gestion d’un portefeuille de prêts à taux variable et investissements dans des sociétés.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1899017/000119312526418095/ck0001899017-20261008.htm",
-    "date": "2026-10-08 17:29"
-  },
-  {
-    "company": "FORD CREDIT FLOORPLAN MASTER OWNER TRUST A",
-    "cik": "1159408",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le trust a conclu un accord d'émission de titres adossés à des actifs.",
-    "activite": "Émission de titres adossés à des actifs (asset‑backed securities).",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926114683/tm2626710d23_8k.htm",
-    "date": "2026-10-08 15:31"
   }
 ]
