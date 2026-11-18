@@ -1,5 +1,41 @@
 [
   {
+    "company": "Hall Chadwick Acquisition Corp",
+    "cik": "2079013",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Hall Chadwick Acquisition Corp. a conclu un financement PIPE de 15 M$ et porte les engagements à 17,1 M$ en vue de sa combinaison avec REEcycle.",
+    "activite": "Société d'acquisition (SPAC) visant à réaliser une fusion avec REEcycle Holdings.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2079013/000182912626012633/hallchadwick_8k.htm",
+    "date": "2026-11-18 17:28"
+  },
+  {
+    "company": "BCB BANCORP INC",
+    "cik": "1228454",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Les actionnaires ont approuvé le projet de réincorporation de la société.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1228454/000119312526467293/d140811d8k.htm",
+    "date": "2026-11-18 17:26"
+  },
+  {
+    "company": "TUCSON ELECTRIC POWER CO",
+    "cik": "100122",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "La commission a approuvé de nouveaux tarifs augmentant les factures résidentielles de 9,4 % pour financer 1,7 milliard $ d’investissements dans le réseau.",
+    "activite": "Fournit de l'électricité fiable à plus de 457 000 clients du sud de l'Arizona.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/100122/000010012226000028/a2026ex991teprateorderpres.htm",
+    "date": "2026-11-18 17:25"
+  },
+  {
     "company": "Golub Capital Private Income Fund I",
     "cik": "2082559",
     "form": "8-K",
@@ -2475,41 +2511,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001341/e8005_8-k.htm",
     "date": "2026-10-13 17:30"
-  },
-  {
-    "company": "VisionWave Holdings, Inc.",
-    "cik": "2038439",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "VisionWave a résilié son accord de coentreprise avec Sadot suite à des difficultés de reporting financier.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001340/e8004_8-k.htm",
-    "date": "2026-10-13 17:29"
-  },
-  {
-    "company": "Merck &amp; Co., Inc.",
-    "cik": "310158",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 95,
-    "resume": "Nomination de Paul J. Diaz au conseil d'administration de Merck.",
-    "activite": "Merck est une société biopharmaceutique de recherche développant des médicaments et vaccins.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000237/exhibit9911.htm",
-    "date": "2026-10-13 12:36"
-  },
-  {
-    "company": "Bridgecrest Lending Auto Securitization Trust 2026-4",
-    "cik": "2151184",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le trust a émis des notes adossées à des prêts automobiles et a déposé les avis juridiques requis.",
-    "activite": "Émission de titres adossés à des prêts automobiles",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115379/tm2626506d12_8k.htm",
-    "date": "2026-10-13 12:19"
   }
 ]
