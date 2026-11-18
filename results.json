@@ -1,5 +1,29 @@
 [
   {
+    "company": "GridAI Technologies Corp.",
+    "cik": "1604191",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "GridAI conclut un accord d'échange d'actions pour acquérir Pronghorn Resources.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1604191/000110465926129167/tm2629735d1_8k.htm",
+    "date": "2026-11-17 17:29"
+  },
+  {
+    "company": "Inhibrx Biosciences, Inc.",
+    "cik": "2007919",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Inhibrx annonce des résultats cliniques prometteurs pour ozekibart dans le sarcome d'Ewing.",
+    "activite": "Entreprise biopharmaceutique en phase clinique développant des thérapies biologiques innovantes.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000063/exhibit991-pressreleasenov.htm",
+    "date": "2026-11-17 17:29"
+  },
+  {
     "company": "Sports Entertainment Gaming Global Corp",
     "cik": "1673481",
     "form": "8-K",
@@ -2483,29 +2507,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526419232/d186467d8ka.htm",
     "date": "2026-10-09 17:29"
-  },
-  {
-    "company": "CITIZENS, INC.",
-    "cik": "24090",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Citizens, Inc. signe un accord SaaS avec Bestow pour moderniser la distribution de ses produits d’assurance décès.",
-    "activite": "Émet des assurances vie « Final Expense » et gère leur distribution via des agents.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/24090/000002409026000045/cia-20261005.htm",
-    "date": "2026-10-09 14:02"
-  },
-  {
-    "company": "Lunai Bioworks Inc.",
-    "cik": "1527728",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "Lunai Bioworks demande la suspension de ses actions suite à des soupçons de manipulation et à un litige en cours.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1527728/000173112226001333/e8001_8k.htm",
-    "date": "2026-10-09 14:00"
   }
 ]
