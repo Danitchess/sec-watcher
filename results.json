@@ -1,5 +1,45 @@
 [
   {
+    "company": "Golub Capital Private Income Fund I",
+    "cik": "2082559",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a déclaré des distributions régulières de 0,1667 $ par part pour novembre 2026, décembre 2026 et janvier 2027.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.1667"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/2082559/000208255926000099/gpifi-20261112.htm",
+    "date": "2026-11-18 12:41"
+  },
+  {
+    "company": "Golub Capital Private Credit Fund",
+    "cik": "1930087",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Le fonds annonce des distributions régulières de 0,1875 $ par part.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.1875"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1930087/000193008726000126/gcred-20261112.htm",
+    "date": "2026-11-18 12:40"
+  },
+  {
+    "company": "FIRST COMMUNITY BANKSHARES INC /VA/",
+    "cik": "859070",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 80,
+    "resume": "Adoption d'un nouveau plan de rachat d'actions de 3,0 millions d'actions.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/859070/000143774926037497/fcbc20261118_8k.htm",
+    "date": "2026-11-18 12:00"
+  },
+  {
     "company": "GridAI Technologies Corp.",
     "cik": "1604191",
     "form": "8-K",
@@ -2471,41 +2511,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115379/tm2626506d12_8k.htm",
     "date": "2026-10-13 12:19"
-  },
-  {
-    "company": "Bridgecrest Auto Funding LLC",
-    "cik": "1974820",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Déclaration de l'émission de notes adossées à des prêts automobiles et des avis juridiques associés.",
-    "activite": "Émission de titres adossés à des prêts automobiles.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926115379/tm2626506d12_8k.htm",
-    "date": "2026-10-13 12:19"
-  },
-  {
-    "company": "AUTOZONE INC",
-    "cik": "866787",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du départ de Claire R. McDonough du conseil d'administration d'AutoZone.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/866787/000117184326006565/f8k_100926.htm",
-    "date": "2026-10-09 17:30"
-  },
-  {
-    "company": "Gentherm Inc",
-    "cik": "903129",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 60,
-    "resume": "Gentherm finalise la fusion avec Modine et fournit les informations financières pro forma.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526419232/d186467d8ka.htm",
-    "date": "2026-10-09 17:29"
   }
 ]
