@@ -1,5 +1,41 @@
 [
   {
+    "company": "EQUITY BANCSHARES INC",
+    "cik": "1227500",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 75,
+    "resume": "Equity Bancshares a obtenu les approbations réglementaires et l'accord des actionnaires de Lincoln pour finaliser leur fusion prévue le 1er décembre 2026.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526468835/eqbk-20261119.htm",
+    "date": "2026-11-19 17:27"
+  },
+  {
+    "company": "INTUIT INC.",
+    "cik": "896878",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Intuit vend son activité Mailchimp à Bending Spoons pour 3,68 milliards de dollars.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/d182669d8k.htm",
+    "date": "2026-11-19 17:26"
+  },
+  {
+    "company": "Granite Ridge Resources, Inc.",
+    "cik": "1928446",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce de la distribution prochaine d'actions par des affiliés.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1928446/000192844626000070/grnt-20261119.htm",
+    "date": "2026-11-19 17:25"
+  },
+  {
     "company": "Sizzle Acquisition Corp. II",
     "cik": "2030663",
     "form": "8-K",
@@ -2470,43 +2506,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626001935/ex991_1.htm",
     "date": "2026-10-14 15:41"
-  },
-  {
-    "company": "WINMARK CORP",
-    "cik": "908315",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 75,
-    "resume": "Winmark annonce un dividende trimestriel de 1,02 $ et un dividende spécial de 4,00 $ ainsi que la mise en place de fonds publicitaires pour ses franchises.",
-    "activite": "gère un réseau de franchises des marques Once Upon A Child et Play It Again Sports",
-    "chiffres": {
-      "dividende": "$1.02 per share; $4.00 per share; $14.2 million"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/908315/000090831526000038/wina-20261013x8k.htm",
-    "date": "2026-10-14 11:39"
-  },
-  {
-    "company": "Alpha Star Acquisition Corp",
-    "cik": "1865111",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Amendement prolongeant la période de liquidation du trust sans frais supplémentaires.",
-    "activite": "société d'acquisition visant à réaliser une combinaison d'affaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226046953/ex10-1.htm",
-    "date": "2026-10-14 11:31"
-  },
-  {
-    "company": "Federal Home Loan Bank of Des Moines",
-    "cik": "1325814",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le rapport décrit l'émission d'obligations consolidées par la banque.",
-    "activite": "La banque obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000163/fhlbdm-20261007.htm",
-    "date": "2026-10-14 11:29"
   }
 ]
