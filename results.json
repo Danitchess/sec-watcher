@@ -1,5 +1,43 @@
 [
   {
+    "company": "Sizzle Acquisition Corp. II",
+    "cik": "2030663",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un accord de combinaison d'affaires avec Trasteel",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026122053/ea0312868-8k425_sizzle2.htm",
+    "date": "2026-11-19 09:27"
+  },
+  {
+    "company": "Federal Home Loan Bank of Pittsburgh",
+    "cik": "1330399",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le rapport décrit l'émission d'obligations consolidées par la Federal Home Loan Bank of Pittsburgh.",
+    "activite": "La Federal Home Loan Bank of Pittsburgh obtient la plupart de ses fonds en vendant des obligations consolidées sur les marchés de capitaux.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1330399/000133039926000163/ck0001330399-20261116.htm",
+    "date": "2026-11-19 09:26"
+  },
+  {
+    "company": "PermRock Royalty Trust",
+    "cik": "1724009",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le Trust a annoncé une distribution en espèces de 103 164,56 $ aux détenteurs d'unités.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$103,164.56"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/2026-11_permrock_8-k.htm",
+    "date": "2026-11-19 09:25"
+  },
+  {
     "company": "Hall Chadwick Acquisition Corp",
     "cik": "2079013",
     "form": "8-K",
@@ -2470,46 +2508,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581426000163/fhlbdm-20261007.htm",
     "date": "2026-10-14 11:29"
-  },
-  {
-    "company": "BANK OF AMERICA CORP /DE/",
-    "cik": "70858",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Bank of America affiche une hausse du revenu net et du bénéfice au troisième trimestre 2026.",
-    "activite": "",
-    "chiffres": {
-      "revenu": "$ 91,788",
-      "benefice": "$ 24,591",
-      "bpa": "3.23",
-      "dividende": "$ 0.88"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000481/bac-09302026ex993.htm",
-    "date": "2026-10-14 06:44"
-  },
-  {
-    "company": "Accenture plc",
-    "cik": "1467373",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de l'Investor Day d'Accenture le 14 octobre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000042/acn-20261014.htm",
-    "date": "2026-10-14 06:44"
-  },
-  {
-    "company": "Sadot Group Inc.",
-    "cik": "1701756",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 35,
-    "resume": "Sadot Group a mis fin à son joint‑venture avec VisionWave et recevra 500 000 actions VisionWave en compensation.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001341/e8005_8-k.htm",
-    "date": "2026-10-13 17:30"
   }
 ]
