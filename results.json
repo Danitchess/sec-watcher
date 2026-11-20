@@ -1,5 +1,29 @@
 [
   {
+    "company": "Passage BIO, Inc.",
+    "cik": "1787297",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Passage Bio annonce la fusion avec Remix Therapeutics et fournit des informations financières pro forma.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1787297/000114036126044947/ef20085976_8k.htm",
+    "date": "2026-11-19 17:31"
+  },
+  {
+    "company": "Arrive AI Inc.",
+    "cik": "1818274",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Arrive AI échange des obligations prépayées contre des actions privilégiées",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1818274/000149315226053323/ex10-1.htm",
+    "date": "2026-11-19 17:30"
+  },
+  {
     "company": "EQUITY BANCSHARES INC",
     "cik": "1227500",
     "form": "8-K",
@@ -2482,29 +2506,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1297937/000149315226047006/ex99-1.htm",
     "date": "2026-10-14 15:51"
-  },
-  {
-    "company": "Netcapital Inc.",
-    "cik": "1414767",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Netcapital a regagné la conformité du prix minimum de l'action sur le Nasdaq.",
-    "activite": "Netcapital Inc. est une fintech qui propose une plateforme technologique permettant aux entreprises privées de lever des capitaux en ligne et offre des opportunités d'investissement en capital privé aux investisseurs.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1414767/000149315226047004/ex99-1.htm",
-    "date": "2026-10-14 15:50"
-  },
-  {
-    "company": "High Roller Technologies, Inc.",
-    "cik": "1947210",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Exhibit 99.1 présenté sans détail supplémentaire.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626001935/ex991_1.htm",
-    "date": "2026-10-14 15:41"
   }
 ]
