@@ -1,5 +1,43 @@
 [
   {
+    "company": "DataMeds AI, Inc.",
+    "cik": "2030763",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un achat de 5 000 actions à 1,09 $ chacune par le co‑CEO.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226053451/form8-k.htm",
+    "date": "2026-11-20 14:41"
+  },
+  {
+    "company": "Monroe Capital Income Plus Corp",
+    "cik": "1742313",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Émission de 861 333 actions à 9,68 $ et distribution d’un dividende de 0,068 $ par action.",
+    "activite": "",
+    "chiffres": {
+      "dividende": "$0.068"
+    },
+    "url": "https://www.sec.gov/Archives/edgar/data/1742313/000174231326000069/mcip-20261120.htm",
+    "date": "2026-11-20 14:32"
+  },
+  {
+    "company": "Stonepeak-Plus Infrastructure Fund LP",
+    "cik": "2045458",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le fonds a vendu des parts pour environ 45,3 M$ et totalise 2,086 M$ de ventes depuis son lancement.",
+    "activite": "Le fonds investit généralement aux côtés d'un autre véhicule avec des objectifs d'infrastructure similaires.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2045458/000204545826000060/sp-20261118.htm",
+    "date": "2026-11-20 14:30"
+  },
+  {
     "company": "Vanda Pharmaceuticals Inc.",
     "cik": "1347178",
     "form": "8-K",
@@ -2470,41 +2508,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/871763/000119312526422291/man-20261015.htm",
     "date": "2026-10-15 07:41"
-  },
-  {
-    "company": "ALLSTATE CORP",
-    "cik": "899051",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Dépôt 8‑K d’Allstate annonçant la publication des pertes catastrophes estimées",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000150/all-20261015.htm",
-    "date": "2026-10-15 07:41"
-  },
-  {
-    "company": "ManpowerGroup Inc.",
-    "cik": "871763",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 75,
-    "resume": "ManpowerGroup annonce la nomination de Rebecca Frankiewicz comme nouvelle CEO et la transition de Jonas Prising au poste de président exécutif.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/871763/000119312526422283/d147845d8k.htm",
-    "date": "2026-10-15 07:33"
-  },
-  {
-    "company": "Tron Inc.",
-    "cik": "1956744",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Accord de vente d'actions entre Tron Inc. et Clear Street",
-    "activite": "Tron Inc. émet et vend des actions ordinaires",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1956744/000149315226047064/ex1-1.htm",
-    "date": "2026-10-14 17:28"
   }
 ]
