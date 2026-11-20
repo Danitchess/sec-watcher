@@ -1,5 +1,29 @@
 [
   {
+    "company": "Vanda Pharmaceuticals Inc.",
+    "cik": "1347178",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Vanda a conclu un accord de règlement et de licence avec MSN, mettant fin à un litige de brevet sur le tasimelteon.",
+    "activite": "Vanda développe et détient des brevets sur le médicament tasimelteon (HETLIOZ LQ).",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026075166/vnda-20261116.htm",
+    "date": "2026-11-20 07:05"
+  },
+  {
+    "company": "Erasca, Inc.",
+    "cik": "1761918",
+    "form": "8-K",
+    "sentiment": "positif",
+    "score": 85,
+    "resume": "Le dépôt annonce des résultats cliniques encourageants pour ses candidats ERAS-0015 et ERAS-4001.",
+    "activite": "Développement de thérapies moléculaires ciblant les mutations KRAS pour le traitement de cancers solides.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1761918/000119312526469283/eras-20261120.htm",
+    "date": "2026-11-20 07:05"
+  },
+  {
     "company": "Passage BIO, Inc.",
     "cik": "1787297",
     "form": "8-K",
@@ -2482,29 +2506,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1956744/000149315226047064/ex1-1.htm",
     "date": "2026-10-14 17:28"
-  },
-  {
-    "company": "ENvue Medical, Inc.",
-    "cik": "1326706",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Envue Medical signe un accord de note garantie de 1 million de dollars.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1326706/000149315226047063/ex10-1.htm",
-    "date": "2026-10-14 17:28"
-  },
-  {
-    "company": "PARKS AMERICA, INC",
-    "cik": "1297937",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce du changement d'agent de transfert pour les actionnaires.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1297937/000149315226047006/ex99-1.htm",
-    "date": "2026-10-14 15:51"
   }
 ]
