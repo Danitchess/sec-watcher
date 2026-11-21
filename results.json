@@ -1,5 +1,41 @@
 [
   {
+    "company": "MOBIX LABS, INC",
+    "cik": "1855467",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'un fractionnement inverse de l'action",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226053579/ex3-1.htm",
+    "date": "2026-11-20 17:30"
+  },
+  {
+    "company": "SUNation Energy, Inc.",
+    "cik": "22701",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt 8‑K présente les résultats du trimestre et les perspectives de fusion, avec de nombreux avertissements de risques.",
+    "activite": "SUNation fournit des systèmes d'installation solaire et développe des projets d'énergie solaire.",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/ea0313155-8k425_sunation.htm",
+    "date": "2026-11-20 17:26"
+  },
+  {
+    "company": "PIONEER POWER SOLUTIONS, INC.",
+    "cik": "1449792",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Prolongation du contrat d'emploi du dirigeant.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1449792/000149315226053559/ex10-1.htm",
+    "date": "2026-11-20 17:20"
+  },
+  {
     "company": "DataMeds AI, Inc.",
     "cik": "2030763",
     "form": "8-K",
@@ -2470,43 +2506,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000383/axp-20261015.htm",
     "date": "2026-10-15 12:00"
-  },
-  {
-    "company": "Boumarang Inc.",
-    "cik": "2034161",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 20,
-    "resume": "Le 8‑K annonce le remplacement de l’auditeur et signale des faiblesses de contrôle interne, avec un doute sur la continuité d’exploitation.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2034161/000109690626001549/boum-20261012_8k.htm",
-    "date": "2026-10-15 11:53"
-  },
-  {
-    "company": "GULF RESOURCES, INC.",
-    "cik": "885462",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Gulf Resources obtient l'approbation gouvernementale pour relancer deux usines de brome.",
-    "activite": "Fabricant de brome et de sel brut en Chine.",
-    "chiffres": {
-      "croissance": "plus de 20%"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/885462/000149315226047183/ex99-1.htm",
-    "date": "2026-10-15 11:44"
-  },
-  {
-    "company": "ManpowerGroup Inc.",
-    "cik": "871763",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Déclaration de résultats d'exploitation pour les périodes de trois et neuf mois se terminant le 30 septembre 2026",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/871763/000119312526422291/man-20261015.htm",
-    "date": "2026-10-15 07:41"
   }
 ]
