@@ -1,5 +1,41 @@
 [
   {
+    "company": "Ellington Financial Inc.",
+    "cik": "1411342",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Ellington Financial publie une estimation de la valeur comptable par action.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1411342/000162828026075742/efc-20261124.htm",
+    "date": "2026-11-24 16:24"
+  },
+  {
+    "company": "PRO DEX INC",
+    "cik": "788920",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le conseil d'administration a approuvé l'octroi d'actions restreintes aux dirigeants.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/788920/000107997326001556/pdex_8k.htm",
+    "date": "2026-11-24 16:23"
+  },
+  {
+    "company": "OFG BANCORP",
+    "cik": "1030469",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Nomination de Mari Evelyn Rodríguez au poste de COO",
+    "activite": "Fournit des services financiers, bancaires et d'assurance",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1030469/000103046926000050/ofg-20261123.htm",
+    "date": "2026-11-24 16:23"
+  },
+  {
     "company": "PNC FINANCIAL SERVICES GROUP, INC.",
     "cik": "713676",
     "form": "8-K",
@@ -2464,47 +2500,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/56701/000005670126000041/koss-20261014x8k.htm",
     "date": "2026-10-16 10:12"
-  },
-  {
-    "company": "NORTHRIM BANCORP INC",
-    "cik": "1163370",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 70,
-    "resume": "Northrim BanCorp a enregistré un bénéfice net de 14,4 M$ au troisième trimestre 2026, avec une hausse des dépôts et une marge d'intérêt nette supérieure à 5 %.",
-    "activite": "Banque régionale offrant des services de dépôts, prêts hypothécaires et financement spécialisé.",
-    "chiffres": {
-      "revenu": "$26,470",
-      "benefice": "$14.4 million",
-      "bpa": "$0.63",
-      "croissance": "21%",
-      "dividende": "$0.17"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000032/exhibit991q32026.htm",
-    "date": "2026-10-15 17:28"
-  },
-  {
-    "company": "River Financial Corp",
-    "cik": "1641601",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "River Financial Corp. a publié ses résultats du trimestre se terminant le 30 septembre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526423045/ck0001641601-20260414.htm",
-    "date": "2026-10-15 17:27"
-  },
-  {
-    "company": "CATERPILLAR INC",
-    "cik": "18230",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Annonce de la transition du président du groupe Resource Industries et nomination d'un nouveau dirigeant.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926116198/tm2627668d1_8k.htm",
-    "date": "2026-10-15 15:31"
   }
 ]
