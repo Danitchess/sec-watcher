@@ -1,5 +1,29 @@
 [
   {
+    "company": "Personalis, Inc.",
+    "cik": "1527753",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Annonce d'une fusion avec Tempus et d'une offre en espèces d'environ 600 M$",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526478697/d166557d8k.htm",
+    "date": "2026-11-25 17:26"
+  },
+  {
+    "company": "Scilex Holding Co",
+    "cik": "1820190",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "Scilex Holding Company a reçu un avis de non‑conformité du Nasdaq et risque la radiation.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1820190/000119312526478695/sclx-20261124.htm",
+    "date": "2026-11-25 17:25"
+  },
+  {
     "company": "Azenta, Inc.",
     "cik": "933974",
     "form": "8-K",
@@ -2476,29 +2500,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926032880/ex_1027367.htm",
     "date": "2026-10-19 07:00"
-  },
-  {
-    "company": "NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/",
-    "cik": "70502",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de la mise à jour des programmes d’émission de titres",
-    "activite": "La société émet des titres de dette (Member Capital Securities, MTN, InterNotes, Retail Subordinated Notes) pour ses membres",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/70502/000110465926116660/tm2627273d8_8k.htm",
-    "date": "2026-10-16 17:30"
-  },
-  {
-    "company": "LQR House Inc.",
-    "cik": "1843165",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le PDG a démissionné, la société a versé 500 000 $ en indemnité et a nommé un nouveau dirigeant.",
-    "activite": "Gestion du site cwspirits.com",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026110367/ea0308914-8k_lqr.htm",
-    "date": "2026-10-16 17:30"
   }
 ]
