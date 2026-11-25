@@ -1,5 +1,41 @@
 [
   {
+    "company": "Azenta, Inc.",
+    "cik": "933974",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Amendement corrigé de la date du rapport 8‑K d'Azenta.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026075895/azta-20261119.htm",
+    "date": "2026-11-25 09:43"
+  },
+  {
+    "company": "Healthcare Triangle, Inc.",
+    "cik": "1839285",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 10,
+    "resume": "La société a reçu une décision de retrait de la cote Nasdaq en raison du non-respect du prix minimum de l'action.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1839285/000121390026123975/ea0313550-8k_healthcare.htm",
+    "date": "2026-11-25 09:30"
+  },
+  {
+    "company": "Meridian Holdings Inc./NV",
+    "cik": "1437925",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Meridian Holdings a mis fin à son accord de distribution d'actions au comptant",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226007297/meridian_8k.htm",
+    "date": "2026-11-25 09:01"
+  },
+  {
     "company": "American Resources Corp",
     "cik": "1590715",
     "form": "8-K",
@@ -2464,41 +2500,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026110367/ea0308914-8k_lqr.htm",
     "date": "2026-10-16 17:30"
-  },
-  {
-    "company": "FORD CREDIT FLOORPLAN MASTER OWNER TRUST A",
-    "cik": "1159408",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le trust a émis des titres adossés à des actifs et a fourni les avis juridiques requis.",
-    "activite": "émission de titres adossés à des actifs (asset‑backed securities)",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926116551/tm2626710d25_8k.htm",
-    "date": "2026-10-16 14:21"
-  },
-  {
-    "company": "FORD CREDIT FLOORPLAN LLC",
-    "cik": "1061198",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de l’émission de titres adossés à des actifs et des avis juridiques associés.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1061198/000110465926116551/tm2626710d25_8k.htm",
-    "date": "2026-10-16 14:21"
-  },
-  {
-    "company": "Ford Credit Floorplan Corp",
-    "cik": "872471",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt informe de l'émission de titres adossés à des actifs et des avis juridiques associés.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/872471/000110465926116551/tm2626710d25_8k.htm",
-    "date": "2026-10-16 14:21"
   }
 ]
