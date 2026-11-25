@@ -1,5 +1,29 @@
 [
   {
+    "company": "American Resources Corp",
+    "cik": "1590715",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "L'entreprise annonce la révision de ses états financiers suite à des erreurs comptables.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1590715/000147793226007287/arec_8k.htm",
+    "date": "2026-11-24 17:30"
+  },
+  {
+    "company": "SharonAI Holdings Inc.",
+    "cik": "2068385",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Signature d'un premier avenant à l'indenture des obligations convertibles de SharonAI",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226054065/ex4-1.htm",
+    "date": "2026-11-24 17:29"
+  },
+  {
     "company": "Ellington Financial Inc.",
     "cik": "1411342",
     "form": "8-K",
@@ -2476,29 +2500,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/872471/000110465926116551/tm2626710d25_8k.htm",
     "date": "2026-10-16 14:21"
-  },
-  {
-    "company": "Core University Living Real Estate Income Trust",
-    "cik": "2119505",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Mise à jour du prix de transaction basé sur la valeur nette d'inventaire au 30 septembre 2026.",
-    "activite": "Investit dans des propriétés de logement étudiant.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2119505/000119312526423511/d162009d8k.htm",
-    "date": "2026-10-16 10:21"
-  },
-  {
-    "company": "KOSS CORP",
-    "cik": "56701",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Koss Corp a tenu son assemblée annuelle où les actionnaires ont élu les administrateurs et ratifié le cabinet comptable.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/56701/000005670126000041/koss-20261014x8k.htm",
-    "date": "2026-10-16 10:12"
   }
 ]
