@@ -1,5 +1,41 @@
 [
   {
+    "company": "Eightco Holdings Inc.",
+    "cik": "1892492",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 20,
+    "resume": "Eightco Holdings a reçu une notification de non‑conformité au prix minimum de 1 $, menaçant sa cotation au Nasdaq.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1892492/000149315226054465/form8-k.htm",
+    "date": "2026-11-27 13:15"
+  },
+  {
+    "company": "Cardiff Oncology, Inc.",
+    "cik": "1213037",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 15,
+    "resume": "La société a reçu un avis de non‑conformité du prix minimum de 1,00 $ et risque de radiation du Nasdaq.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1213037/000149315226054461/form8-k.htm",
+    "date": "2026-11-27 13:10"
+  },
+  {
+    "company": "Carnival Corp Ltd.",
+    "cik": "815097",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le comité a modifié le plan d'actions de performance du PDG, réduisant le plafond de paiement.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000117/ccl-20261124.htm",
+    "date": "2026-11-27 13:09"
+  },
+  {
     "company": "Personalis, Inc.",
     "cik": "1527753",
     "form": "8-K",
@@ -2464,41 +2500,5 @@
     },
     "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026066254/exhibit991-q32026dividenda.htm",
     "date": "2026-10-19 13:07"
-  },
-  {
-    "company": "Elventix Technology Corp",
-    "cik": "2076765",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Nomination d'un nouveau administrateur au conseil d'administration.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/2076765/000207676526000017/elventix_8k.htm",
-    "date": "2026-10-19 11:39"
-  },
-  {
-    "company": "CBIZ, Inc.",
-    "cik": "944148",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Le dépôt 8‑K annonce la publication des résultats financiers du troisième et du neuvième trimestre 2026.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/944148/000119312526424639/d866979d8k.htm",
-    "date": "2026-10-19 07:00"
-  },
-  {
-    "company": "Rekor Systems, Inc.",
-    "cik": "1697851",
-    "form": "8-K",
-    "sentiment": "negatif",
-    "score": 10,
-    "resume": "Rekor poursuit un ancien directeur pour mauvaise gestion financière et risque de défaut de paiement.",
-    "activite": "Rekor fournit des solutions d'intelligence artificielle pour l'intelligence routière, la gestion du transport et la sécurité publique.",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1697851/000143774926032880/ex_1027367.htm",
-    "date": "2026-10-19 07:00"
   }
 ]
