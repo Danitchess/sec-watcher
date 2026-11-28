@@ -1,5 +1,41 @@
 [
   {
+    "company": "HeartSciences Inc.",
+    "cik": "1468492",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 55,
+    "resume": "HeartSciences a conclu un accord de fusion et un échange de dette.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1468492/000121390026124612/ea0313805-8k_heartsciences.htm",
+    "date": "2026-11-27 17:27"
+  },
+  {
+    "company": "OLENOX INDUSTRIES INC.",
+    "cik": "1023994",
+    "form": "8-K",
+    "sentiment": "neutre",
+    "score": 50,
+    "resume": "Le dépôt rapporte l'émission d'actions non enregistrées à des dirigeants et consultants.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1023994/000121390026124611/ea0313808-8k_olenox.htm",
+    "date": "2026-11-27 17:26"
+  },
+  {
+    "company": "Flyte Aviation, Inc.",
+    "cik": "1716621",
+    "form": "8-K",
+    "sentiment": "negatif",
+    "score": 15,
+    "resume": "Flyte Aviation s'engage à rembourser 1,074,000 $ en six versements suite à un accord de règlement.",
+    "activite": "",
+    "chiffres": {},
+    "url": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926038392/ex_1051522.htm",
+    "date": "2026-11-27 17:15"
+  },
+  {
     "company": "Eightco Holdings Inc.",
     "cik": "1892492",
     "form": "8-K",
@@ -2462,43 +2498,5 @@
     "chiffres": {},
     "url": "https://www.sec.gov/Archives/edgar/data/1486159/000148615926000037/chrd-20261016.htm",
     "date": "2026-10-19 17:27"
-  },
-  {
-    "company": "Phunware, Inc.",
-    "cik": "1665300",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Phunware a publié une présentation aux investisseurs et annoncera une participation à un événement.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1665300/000119312526425396/phun-20261019.htm",
-    "date": "2026-10-19 17:27"
-  },
-  {
-    "company": "Zedge, Inc.",
-    "cik": "1667313",
-    "form": "8-K",
-    "sentiment": "neutre",
-    "score": 50,
-    "resume": "Jonathan Reich devient président et COO avec un nouveau contrat de rémunération.",
-    "activite": "",
-    "chiffres": {},
-    "url": "https://www.sec.gov/Archives/edgar/data/1667313/000121390026110602/ea0308999-8k_zedge.htm",
-    "date": "2026-10-19 13:27"
-  },
-  {
-    "company": "FIVE STAR BANCORP",
-    "cik": "1275168",
-    "form": "8-K",
-    "sentiment": "positif",
-    "score": 85,
-    "resume": "Five Star Bancorp déclare un dividende en espèces de 0,25 $ par action.",
-    "activite": "Société holding bancaire exploitant la filiale Five Star Bank, qui possède dix agences en Californie.",
-    "chiffres": {
-      "dividende": "$0.25"
-    },
-    "url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026066254/exhibit991-q32026dividenda.htm",
-    "date": "2026-10-19 13:07"
   }
 ]
